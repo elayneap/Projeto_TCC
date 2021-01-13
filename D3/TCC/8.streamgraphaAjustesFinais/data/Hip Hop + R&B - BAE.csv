@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,B.A.E.,Go Crazy,Slime & B,08/05/20,DAY,0.755,0.578,0.145,0.3160,0.0000,0.25,0.581,1
+spotify,B.A.E.,Excitement,Excitement,15/05/20,DAY,0.474,0.681,0.038,0.0263,0.0000,0.0972,0.0384,2
+spotify,B.A.E.,What You Know Bout Love,Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.709,0.548,0.353,0.6500,0.0000,0.133,0.543,3
+spotify,B.A.E.,Rollin,Rollin,10/07/20,DAY,0.574,0.427,0.229,0.6510,0.0000,0.11,0.23,4
+spotify,B.A.E.,My Affection (with PARTYNEXTDOOR),Life On Earth   EP,10/07/20,DAY,0.632,0.495,0.143,0.3330,0.0000,0.0941,0.233,5
+spotify,B.A.E.,GREECE (feat. Drake),GREECE (feat. Drake),16/07/20,DAY,0.695,0.343,0.0432,0.0743,0.0000,0.107,0.229,6
+spotify,B.A.E.,Easy (feat. Summer Walker),Limbo,07/08/20,DAY,0.748,0.664,0.183,0.1270,0.0000,0.062,0.722,7
+spotify,B.A.E.,Why,Why,07/08/20,DAY,0.67,0.451,0.0403,0.8480,0.0003,0.0377,0.469,8
+spotify,B.A.E.,My Body,Queen of Da Souf,21/08/20,DAY,0.75,0.711,0.254,0.1060,0.0000,0.34,0.495,9
+spotify,B.A.E.,Replace Me (feat. Big Sean & Don Toliver),King's Disease,21/08/20,DAY,0.674,0.782,0.101,0.1720,0.0000,0.86,0.694,10
+spotify,B.A.E.,Love Cycle (with Summer Walker),Love Cycle (with Summer Walker),28/08/20,DAY,0.789,0.424,0.277,0.0526,0.0000,0.0795,0.436,11
+spotify,B.A.E.,Take You Back (feat. Kehlani),Take You Back (feat. Kehlani),28/08/20,DAY,0.917,0.444,0.265,0.0828,0.0000,0.116,0.185,12
+spotify,B.A.E.,Do To Me feat. Jeremih,Living Off Xperience,28/08/20,DAY,0.58,0.86,0.256,0.3590,0.0000,0.154,0.8,13
+spotify,B.A.E.,Young In Love,CTV3: Cool Tape Vol. 3,28/08/20,DAY,0.732,0.633,0.271,0.5270,0.0001,0.174,0.629,14
+spotify,B.A.E.,Fall Slowly,Fall Slowly,02/09/20,DAY,0.576,0.534,0.294,0.0750,0.0000,0.199,0.041,15
+spotify,B.A.E.,Inhale,Inhale,03/09/20,DAY,0.461,0.702,0.404,0.3270,0.0011,0.244,0.507,16
+spotify,B.A.E.,Overrated,No Love Lost,04/09/20,DAY,0.842,0.545,0.172,0.6250,0.0016,0.103,0.466,17
+spotify,B.A.E.,Body Language (feat. Ty Dolla $ign- and Jhené Aiko),Detroit 2,04/09/20,DAY,0.711,0.838,0.122,0.0061,0.0000,0.0898,0.53,18
+spotify,B.A.E.,Passion & Pain!,PHOENIX MODE,04/09/20,DAY,0.693,0.613,0.0594,0.1700,0.0000,0.108,0.603,19
+spotify,B.A.E.,Time In,Detroit 2,04/09/20,DAY,0.641,0.524,0.423,0.1760,0.0000,0.197,0.525,20
+spotify,B.A.E.,Be Alone,No Love Lost,04/09/20,DAY,0.606,0.617,0.427,0.8300,0.0007,0.166,0.685,21
+spotify,B.A.E.,Sittin In My Car (feat. Fabolous & A Boogie Wit da Hoodie),Sittin In My Car (feat. Fabolous & A Boogie Wit da Hoodie),04/09/20,DAY,0.766,0.684,0.217,0.0912,0.0000,0.0636,0.452,22
+spotify,B.A.E.,Searching,No Love Lost,04/09/20,DAY,0.711,0.631,0.382,0.0800,0.0000,0.11,0.884,23
+spotify,B.A.E.,Ride Or Die (feat. Case & Symba),Wavy Justice 3 [Hosted by Dj Carisma],04/09/20,DAY,0.577,0.791,0.291,0.5750,0.0000,0.169,0.712,24
+spotify,B.A.E.,Want You,Want You,11/09/20,DAY,0.679,0.689,0.0504,0.3540,0.0000,0.436,0.676,25
+spotify,B.A.E.,Mood Swings (feat. Lil Tjay & Summer Walker) - Remix,Mood Swings (Remix),18/09/20,DAY,0.495,0.63,0.375,0.3270,0.0000,0.0951,0.362,26
+spotify,B.A.E.,Wet (feat. Mulatto) - Remix,Wet (feat. Mulatto) [Remix],18/09/20,DAY,0.71,0.631,0.095,0.0653,0.0000,0.202,0.312,27
+spotify,B.A.E.,Like That (feat. Jeremih & Ty Dolla $ign),Young Jefe 3,18/09/20,DAY,0.859,0.664,0.0294,0.2740,0.0000,0.0944,0.794,28
+spotify,B.A.E.,Brain Dead (feat. Ari),Code Red,18/09/20,DAY,0.725,0.62,0.405,0.1330,0.0000,0.114,0.324,29
+spotify,B.A.E.,Lovers Anonymous,Rap n Roll (Deluxe Album),25/09/20,DAY,0.555,0.583,0.41,0.5030,0.0000,0.269,0.401,30
+spotify,B.A.E.,We Outta Here,Rap N Roll,25/09/20,DAY,0.738,0.635,0.144,0.4510,0.0000,0.198,0.509,31
+spotify,B.A.E.,Thinkin Intermission,Rap N Roll,25/09/20,DAY,0.425,0.533,0.307,0.1970,0.0000,0.368,0.68,32
+spotify,B.A.E.,Mr. Right Now (feat. Drake),SAVAGE MODE II,02/10/20,DAY,0.647,0.667,0.304,0.2310,0.0000,0.133,0.704,33
+spotify,B.A.E.,Outta Time (feat. Drake),A N N I V E R S A R Y,02/10/20,DAY,0.714,0.582,0.0808,0.0129,0.0000,0.0774,0.338,34
+spotify,B.A.E.,Surgery,My Life 4Hunnid,02/10/20,DAY,0.88,0.436,0.108,0.1840,0.0000,0.278,0.501,35
+spotify,B.A.E.,Choose Love (Jermaine),Idols,02/10/20,DAY,0.617,0.724,0.33,0.0813,0.0000,0.107,0.537,36
+spotify,B.A.E.,Timeless Interlude,A N N I V E R S A R Y,02/10/20,DAY,0.467,0.429,0.0964,0.8150,0.0001,0.177,0.24,37
+spotify,B.A.E.,Westside,New Beginnings,09/10/20,DAY,0.644,0.436,0.297,0.4150,0.0000,0.156,0.342,38
+spotify,B.A.E.,Stars In The Sky (feat. Jhené Aiko),Stars In The Sky (feat. Jhené Aiko),09/10/20,DAY,0.636,0.418,0.0316,0.5030,0.0000,0.113,0.347,39
+spotify,B.A.E.,By Yourself (feat. Jhené Aiko & Mustard),By Yourself (feat. Jhené Aiko & Mustard),16/10/20,DAY,0.757,0.536,0.0466,0.0836,0.0000,0.645,0.205,40
+spotify,B.A.E.,Moon Juice (feat. Jeremih),The L.I.B.R.A.,16/10/20,DAY,0.762,0.737,0.297,0.1150,0.0000,0.17,0.641,41
+spotify,B.A.E.,Meeting (feat. Foogiano & Mulatto),So Icy Gang  Vol. 1,16/10/20,DAY,0.925,0.619,0.288,0.1400,0.0000,0.0585,0.635,42
+spotify,B.A.E.,Text Me (feat. Ro James),Text Me (feat. Ro James),21/10/20,DAY,0.529,0.62,0.26,0.1230,0.0000,0.0616,0.856,43
+spotify,B.A.E.,Tyrone 2021 (feat. Big Sean),Featuring Ty Dolla $ign,23/10/20,DAY,0.706,0.649,0.176,0.0463,0.0000,0.118,0.365,44
+spotify,B.A.E.,Nothing Like Your Exes,Featuring Ty Dolla $ign,23/10/20,DAY,0.845,0.594,0.172,0.0035,0.0000,0.131,0.618,45
+spotify,B.A.E.,SOMEBODY (feat. Vory) - from the Crimson Soundtrack,CRIMSON SOUNDTRACK,29/10/20,DAY,0.804,0.464,0.0444,0.0224,0.0000,0.0933,0.325,46
+spotify,B.A.E.,Mood (feat. Chris Brown),Pegasus,30/10/20,DAY,0.42,0.419,0.0485,0.4290,0.0000,0.486,0.11,47
+spotify,B.A.E.,What It Is (feat. Chris Brown),What It Is (feat. Chris Brown),30/10/20,DAY,0.741,0.396,0.0497,0.0504,0.0000,0.128,0.83,48
+spotify,B.A.E.,Moonlight,Pegasus,30/10/20,DAY,0.632,0.644,0.0454,0.0600,0.0000,0.17,0.112,49
+spotify,B.A.E.,Nasty (feat. Chris Brown),Trapped On Cleveland 3 (Deluxe),30/10/20,DAY,0.873,0.509,0.172,0.0414,0.0000,0.0843,0.459,50

@@ -1,0 +1,64 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,African Heat,Jerusalema (feat. Nomcebo Zikode),Jerusalema,24/01/20,DAY,0.88,0.483,0.0504,0.0185,0.0000,0.0607,0.827,1
+spotify,African Heat,Jeje,Jeje,26/02/20,DAY,0.824,0.636,0.296,0.2250,0.0000,0.0768,0.702,2
+spotify,African Heat,La go,La go,08/05/20,DAY,0.751,0.701,0.0711,0.4580,0.0052,0.251,0.64,3
+spotify,African Heat,Baby I'm Jealous,One Day You Will Understand,10/06/20,DAY,0.667,0.442,0.291,0.1480,0.0000,0.102,0.526,4
+spotify,African Heat,Nia Lo,I Am The King Of Amapiano: Sweet & Dust,26/06/20,DAY,0.783,0.454,0.0783,0.1100,0.1070,0.0682,0.59,5
+spotify,African Heat,Woman,Woman,02/07/20,DAY,0.84,0.687,0.1,0.1150,0.0000,0.115,0.678,6
+spotify,African Heat,Putuu Freestyle (Pray),Putuu Freestyle (Pray),19/07/20,DAY,0.947,0.781,0.0978,0.4860,0.0000,0.0811,0.798,7
+spotify,African Heat,Everytime,Everytime,24/07/20,DAY,0.778,0.717,0.128,0.2240,0.0000,0.119,0.458,8
+spotify,African Heat,Cool Me Down (feat. Wizkid),Cool Me Down (feat. Wizkid),28/07/20,DAY,0.783,0.809,0.0668,0.0813,0.0036,0.109,0.904,9
+spotify,African Heat,Konnect,Isolation Room,31/07/20,DAY,0.825,0.543,0.0385,0.5810,0.0039,0.104,0.898,10
+spotify,African Heat,What Type Of Dance,What Type Of Dance,04/08/20,DAY,0.91,0.741,0.0797,0.1140,0.0000,0.133,0.648,11
+spotify,African Heat,Koroba,Koroba,06/08/20,DAY,0.85,0.645,0.0611,0.3580,0.0000,0.09,0.93,12
+spotify,African Heat,True Love,True Love,07/08/20,DAY,0.749,0.602,0.0798,0.0313,0.0005,0.0337,0.965,13
+spotify,African Heat,Abracadabra,Abracadabra,07/08/20,DAY,0.735,0.696,0.0574,0.0562,0.0292,0.0594,0.955,14
+spotify,African Heat,ODO,ODO,07/08/20,DAY,0.726,0.773,0.0973,0.6680,0.0001,0.347,0.506,15
+spotify,African Heat,Forever,4 Play,09/08/20,DAY,0.605,0.559,0.281,0.1160,0.0002,0.298,0.826,16
+spotify,African Heat,PAMI (feat. Wizkid- Adekunle Gold & Omah Lay),PAMI (feat. Wizkid  Adekunle Gold & Omah Lay),13/08/20,DAY,0.755,0.645,0.0944,0.6250,0.0000,0.197,0.695,17
+spotify,African Heat,Real Life (feat. Stormzy),Twice As Tall,13/08/20,DAY,0.594,0.568,0.0701,0.1470,0.0000,0.339,0.407,18
+spotify,African Heat,Champion,APOLLO,19/08/20,DAY,0.816,0.751,0.0493,0.0606,0.0000,0.103,0.25,19
+spotify,African Heat,Pretty Girl,Afro Pop  Vol. 1,21/08/20,DAY,0.8,0.751,0.0781,0.0097,0.0008,0.0381,0.646,20
+spotify,African Heat,Xola Moya Wam',Xola Moya Wam',21/08/20,DAY,0.807,0.703,0.0514,0.0360,0.0215,0.0491,0.617,21
+spotify,African Heat,Slow Burner,Slow Burner,25/08/20,DAY,0.809,0.526,0.0915,0.3930,0.4890,0.104,0.484,22
+spotify,African Heat,Abule,Three,27/08/20,DAY,0.687,0.79,0.194,0.1190,0.0000,0.104,0.603,23
+spotify,African Heat,Say Cheese - Remix,Say Cheese (Remix),28/08/20,DAY,0.817,0.82,0.1,0.4060,0.0000,0.291,0.561,24
+spotify,African Heat,Chop Life,Chop Life,30/08/20,DAY,0.652,0.868,0.29,0.4200,0.0000,0.231,0.946,25
+spotify,African Heat,DKT,DKT,04/09/20,DAY,0.705,0.388,0.25,0.6650,0.0035,0.146,0.26,26
+spotify,African Heat,Only One (feat. King Promise),Story Of The African Mob,04/09/20,DAY,0.84,0.501,0.0566,0.6710,0.0474,0.103,0.558,27
+spotify,African Heat,Bella Ciao,Money Heist,04/09/20,DAY,0.805,0.644,0.0614,0.0336,0.2620,0.0484,0.372,28
+spotify,African Heat,FEM,FEM,10/09/20,DAY,0.775,0.687,0.0725,0.4930,0.0001,0.0958,0.541,29
+spotify,African Heat,Cheche,Cheche,13/09/20,DAY,0.851,0.756,0.157,0.3640,0.0000,0.614,0.865,30
+spotify,African Heat,FAIS ÇA BIEN,QALF,17/09/20,DAY,0.558,0.583,0.204,0.0210,0.0000,0.369,0.308,31
+spotify,African Heat,No Stress,No Stress,17/09/20,DAY,0.51,0.663,0.472,0.0040,0.0000,0.0989,0.551,32
+spotify,African Heat,Damages,Damages,18/09/20,DAY,0.712,0.497,0.431,0.5280,0.0000,0.125,0.516,33
+spotify,African Heat,Go Low,Go Low,23/09/20,DAY,0.871,0.44,0.0568,0.3470,0.1080,0.083,0.796,34
+spotify,African Heat,Hosana (feat. Sun-El Musician & Nobunhle),The Healers: The Last Chapter,24/09/20,DAY,0.602,0.56,0.0919,0.2820,0.0479,0.141,0.518,35
+spotify,African Heat,Kini Issue,Kini Issue,25/09/20,DAY,0.802,0.672,0.0932,0.1080,0.0259,0.0724,0.767,36
+spotify,African Heat,Need More,Need More,25/09/20,DAY,0.903,0.546,0.0712,0.4720,0.5310,0.0982,0.686,37
+spotify,African Heat,Free Mind,For Broken Ears,25/09/20,DAY,0.562,0.463,0.0787,0.4420,0.0001,0.157,0.416,38
+spotify,African Heat,Odo Nti,Odo Nti,25/09/20,DAY,0.725,0.724,0.0464,0.6530,0.0000,0.102,0.835,39
+spotify,African Heat,Idi Oremi (Opotoyi- Pt. 2),Idi Oremi (Opotoyi  Pt. 2),01/10/20,DAY,0.894,0.799,0.258,0.2540,0.0001,0.0688,0.736,40
+spotify,African Heat,PuTTin,PuTTin,02/10/20,DAY,0.592,0.642,0.0544,0.3140,0.3420,0.0932,0.653,41
+spotify,African Heat,THERE FOR YOU,RESTLESS II,02/10/20,DAY,0.866,0.724,0.136,0.5400,0.0000,0.105,0.78,42
+spotify,African Heat,Look Like Me,Colours and Sounds,02/10/20,DAY,0.829,0.718,0.0518,0.0024,0.0120,0.0746,0.538,43
+spotify,African Heat,Myself,Myself,02/10/20,DAY,0.48,0.734,0.287,0.1610,0.0000,0.108,0.777,44
+spotify,African Heat,UNGAZINCISHI,UNGAZINCISHI,02/10/20,DAY,0.81,0.567,0.134,0.2470,0.0000,0.131,0.666,45
+spotify,African Heat,Infinity (feat. Omah Lay),Carpe Diem,07/10/20,DAY,0.93,0.535,0.111,0.3030,0.0201,0.146,0.518,46
+spotify,African Heat,Show Body,Son Of Africa,09/10/20,DAY,0.805,0.776,0.0555,0.1550,0.0001,0.143,0.74,47
+spotify,African Heat,Doudou,Doudou,09/10/20,DAY,0.773,0.609,0.244,0.1360,0.0000,0.0729,0.697,48
+spotify,African Heat,Mmayewa,Mmayewa,09/10/20,DAY,0.834,0.558,0.166,0.1760,0.0000,0.0879,0.759,49
+spotify,African Heat,Fixate (feat. Bey T),Fixate (feat. Bey T),09/10/20,DAY,0.726,0.606,0.0352,0.0628,0.0000,0.142,0.147,50
+spotify,African Heat,French Kiss,French Kiss,09/10/20,DAY,0.825,0.748,0.0443,0.3410,0.0001,0.11,0.934,51
+spotify,African Heat,Rodeo,Jungle Of Melodies,09/10/20,DAY,0.886,0.608,0.138,0.2430,0.0000,0.124,0.704,52
+spotify,African Heat,Time After Time,Time After Time,09/10/20,DAY,0.553,0.767,0.352,0.2850,0.0002,0.105,0.457,53
+spotify,African Heat,Barawo - Remix,Barawo (Remix),12/10/20,DAY,0.852,0.792,0.0942,0.2860,0.0000,0.106,0.492,54
+spotify,African Heat,Oga,Oga,12/10/20,DAY,0.87,0.819,0.204,0.5330,0.0000,0.0686,0.923,55
+spotify,African Heat,Can't Let You Go,Can't Let You Go,15/10/20,DAY,0.799,0.646,0.0687,0.0230,0.0005,0.126,0.546,56
+spotify,African Heat,Amigo,Gore,16/10/20,DAY,0.885,0.548,0.0652,0.4920,0.0015,0.112,0.729,57
+spotify,African Heat,With Love To An Ex (feat. Moonchild Sanelly),Song Machine  Season One: Strange Timez (Deluxe),23/10/20,DAY,0.514,0.493,0.136,0.2010,0.0198,0.15,0.519,58
+spotify,African Heat,Ginger (feat. Burna Boy),Made In Lagos,29/10/20,DAY,0.545,0.749,0.153,0.1030,0.0000,0.232,0.681,59
+spotify,African Heat,20 10 20,20 10 20,29/10/20,DAY,0.823,0.466,0.258,0.1490,0.0034,0.113,0.59,60
+spotify,African Heat,Ukuphicaphithana,Piano Wave Project,30/10/20,DAY,0.886,0.384,0.0891,0.0435,0.0060,0.0746,0.178,61
+spotify,African Heat,Yawa (feat. Sarkodie),Yawa (feat. Sarkodie),30/10/20,DAY,0.701,0.852,0.0463,0.0022,0.0428,0.108,0.89,62
+spotify,African Heat,Garden,Garden,30/10/20,DAY,0.525,0.75,0.0348,0.2460,0.8920,0.105,0.67,63

@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Rock Hard,Every Time You Leave,TRAUMA,29/03/19,DAY,0.473,0.749,0.0287,0.0005,0.0000,0.0883,0.167,1
+spotify,Rock Hard,Another Life,Disguise,07/06/19,DAY,0.39,0.939,0.0787,0.0001,0.0000,0.0968,0.495,2
+spotify,Rock Hard,Survivor,The Space Between the Shadows,19/07/19,DAY,0.374,0.868,0.0441,0.0002,0.0000,0.0695,0.371,3
+spotify,Rock Hard,Leviathan,Rewind  Replay  Rebound (Deluxe),02/08/19,DAY,0.545,0.86,0.0383,0.0035,0.0003,0.0884,0.5,4
+spotify,Rock Hard,Gasoline,Motherbrain,23/08/19,DAY,0.47,0.967,0.0792,0.0002,0.0000,0.142,0.331,5
+spotify,Rock Hard,Renegade,Renegade,29/08/19,DAY,0.435,0.82,0.0453,0.0002,0.0000,0.0884,0.146,6
+spotify,Rock Hard,TRIALS,DIVISIONS,13/09/19,DAY,0.478,0.667,0.0537,0.0004,0.0000,0.121,0.248,7
+spotify,Rock Hard,Sober,N.A.T.I.O.N.,25/10/19,DAY,0.456,0.813,0.047,0.0111,0.0000,0.174,0.619,8
+spotify,Rock Hard,Canals,MCID,01/11/19,DAY,0.37,0.924,0.0846,0.0077,0.0000,0.183,0.282,9
+spotify,Rock Hard,Popular Monster,Popular Monster,20/11/19,DAY,0.461,0.897,0.092,0.0082,0.0000,0.0965,0.358,10
+spotify,Rock Hard,Wolf Totem (feat. Jacoby Shaddix of Papa Roach),Wolf Totem (feat. Jacoby Shaddix of Papa Roach),13/12/19,DAY,0.375,0.895,0.0605,0.0221,0.0002,0.661,0.67,11
+spotify,Rock Hard,Infinite,Infinite,08/01/20,DAY,0.441,0.868,0.0714,0.0001,0.0000,0.145,0.366,12
+spotify,Rock Hard,World Keeps Spinning,Say Nothing,31/01/20,DAY,0.552,0.835,0.0384,0.0392,0.0000,0.0989,0.335,13
+spotify,Rock Hard,NO WAY OUT,MONOMANIA,21/02/20,DAY,0.386,0.92,0.306,0.0030,0.0000,0.341,0.518,14
+spotify,Rock Hard,A Little Bit Off,F8,28/02/20,DAY,0.664,0.828,0.0404,0.0084,0.0000,0.294,0.82,15
+spotify,Rock Hard,Flowers On A Grave,Flowers On A Grave,04/03/20,DAY,0.183,0.847,0.0664,0.0007,0.0000,0.164,0.416,16
+spotify,Rock Hard,The War We Made,The War We Made,13/03/20,DAY,0.459,0.859,0.0492,0.0008,0.0000,0.0729,0.408,17
+spotify,Rock Hard,Listen To Your Heart,Listen To Your Heart,20/03/20,DAY,0.189,0.878,0.153,0.0000,0.0013,0.13,0.379,18
+spotify,Rock Hard,As Above- So Below,Mother,27/03/20,DAY,0.497,0.99,0.13,0.0008,0.0000,0.129,0.101,19
+spotify,Rock Hard,Talk to a Friend,Talk to a Friend,27/03/20,DAY,0.395,0.934,0.0757,0.0797,0.0000,0.245,0.628,20
+spotify,Rock Hard,The In-Between,Mother,27/03/20,DAY,0.469,0.951,0.111,0.0119,0.0000,0.0976,0.283,21
+spotify,Rock Hard,I Can't Be the Only One - Alternate Edit,I Can't Be the Only One (Alternate Edit),03/04/20,DAY,0.396,0.975,0.0583,0.0000,0.0005,0.129,0.591,22
+spotify,Rock Hard,Mindreader,Mindreader,15/04/20,DAY,0.471,0.947,0.112,0.0007,0.0000,0.305,0.524,23
+spotify,Rock Hard,Entertain You,Entertain You,08/05/20,DAY,0.559,0.878,0.0403,0.0005,0.0000,0.218,0.597,24
+spotify,Rock Hard,They Don't Want What We Want (And They Don't Care),Like A House On Fire,15/05/20,DAY,0.558,0.902,0.0451,0.0003,0.0024,0.101,0.57,25
+spotify,Rock Hard,The Shift,The Shift,15/05/20,DAY,0.498,0.949,0.0575,0.0003,0.0232,0.0783,0.517,26
+spotify,Rock Hard,HEADSPACE FT. POORSTACY,HEADSPACE FT. POORSTACY,15/05/20,DAY,0.508,0.946,0.0929,0.0140,0.0000,0.213,0.569,27
+spotify,Rock Hard,Death by Rock and Roll,Death by Rock and Roll,15/05/20,DAY,0.493,0.943,0.0608,0.0007,0.0090,0.134,0.493,28
+spotify,Rock Hard,DOA [Feat. Joyner Lucas],DOA [Feat. Joyner Lucas],28/05/20,DAY,0.372,0.479,0.0411,0.0017,0.0002,0.147,0.08,29
+spotify,Rock Hard,Anxiety,The Bastards,29/05/20,DAY,0.504,0.943,0.0622,0.0000,0.0000,0.594,0.0983,30
+spotify,Rock Hard,Forget Me Not - Radio Edit,Forget Me Not (Radio Edit),12/06/20,DAY,0.389,0.922,0.112,0.0000,0.0005,0.125,0.309,31
+spotify,Rock Hard,Take Me Away,Take Me Away,19/06/20,DAY,0.475,0.844,0.0622,0.0001,0.1110,0.221,0.554,32
+spotify,Rock Hard,Parasite Eve,Parasite Eve,25/06/20,DAY,0.589,0.797,0.15,0.0289,0.0000,0.383,0.232,33
+spotify,Rock Hard,The Call,The Dance,26/06/20,DAY,0.435,0.948,0.066,0.0004,0.0000,0.411,0.523,34
+spotify,Rock Hard,B12,Amends,26/06/20,DAY,0.475,0.922,0.0452,0.0074,0.0218,0.07,0.535,35
+spotify,Rock Hard,The Day I Tried To Live,The Day I Tried To Live,26/06/20,DAY,0.474,0.87,0.0732,0.0001,0.1270,0.176,0.506,36
+spotify,Rock Hard,Animals,Animals,26/06/20,DAY,0.473,0.974,0.114,0.0016,0.0082,0.0659,0.228,37
+spotify,Rock Hard,Somebody That I Used to Know,Somebody That I Used to Know,22/07/20,DAY,0.6,0.639,0.0388,0.0006,0.0000,0.249,0.513,38
+spotify,Rock Hard,Take It Away,Take It Away,24/07/20,DAY,0.36,0.84,0.0379,0.0002,0.0001,0.116,0.286,39
+spotify,Rock Hard,Black Eyes Blue,Black Eyes Blue / CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie),29/07/20,DAY,0.551,0.98,0.0451,0.0009,0.0000,0.142,0.561,40
+spotify,Rock Hard,Scars That I'm Hiding (feat. Anders Fridén of In Flames),Scars That I'm Hiding (feat. Anders Fridén of In Flames),31/07/20,DAY,0.492,0.93,0.0396,0.0000,0.0000,0.307,0.431,41
+spotify,Rock Hard,Colossus,Hunter Gatherer,07/08/20,DAY,0.607,0.72,0.0363,0.0015,0.0132,0.0874,0.315,42
+spotify,Rock Hard,Nightmare,Settle Your Sins,07/08/20,DAY,0.507,0.945,0.0596,0.0001,0.0000,0.109,0.566,43
+spotify,Rock Hard,World On Fire,World On Fire,13/08/20,DAY,0.216,0.924,0.0888,0.0001,0.0000,0.308,0.413,44
+spotify,Rock Hard,Song About James,Song About James,14/08/20,DAY,0.532,0.984,0.0967,0.0000,0.0000,0.153,0.269,45
+spotify,Rock Hard,All In,Shine On,14/08/20,DAY,0.431,0.96,0.134,0.0069,0.0003,0.34,0.41,46
+spotify,Rock Hard,hate me,hate me,14/08/20,DAY,0.332,0.977,0.102,0.0001,0.2500,0.0679,0.322,47
+spotify,Rock Hard,Ohms,Ohms,21/08/20,DAY,0.112,0.978,0.117,0.0001,0.0241,0.117,0.371,48
+spotify,Rock Hard,Bird On A Chain,Bird On A Chain,21/08/20,DAY,0.281,0.941,0.115,0.0000,0.0000,0.346,0.553,49
+spotify,Rock Hard,Into The Dark (feat. Kellin Quinn),Brand New Vision,21/08/20,DAY,0.544,0.921,0.0512,0.0005,0.0000,0.391,0.603,50
+spotify,Rock Hard,Talk To Me (feat. Lzzy Hale),Talk To Me (feat. Lzzy Hale),21/08/20,DAY,0.409,0.877,0.0602,0.0033,0.0000,0.222,0.403,51
+spotify,Rock Hard,Maybe It’s Time (feat. Corey Taylor- Joe Elliott- Brantley Gilbert- Ivan Moody- Slash- AWOLNATION- Tommy Vext),Maybe It’s Time (feat. Corey Taylor  Joe Elliott  Brantley Gilbert  Ivan Moody  Slash  AWOLNATION  Tommy Vext),21/08/20,DAY,0.396,0.781,0.0377,0.0016,0.0000,0.185,0.201,52
+spotify,Rock Hard,Wake Up,Arcadia,28/08/20,DAY,0.648,0.931,0.0562,0.0140,0.0000,0.123,0.588,53
+spotify,Rock Hard,Blood From A Stone,Blood From A Stone / The Day I Tried To Live,28/08/20,DAY,0.527,0.941,0.0795,0.0001,0.0001,0.168,0.393,54
+spotify,Rock Hard,Dangerous,Si Vis Pacem  Para Bellum,28/08/20,DAY,0.599,0.901,0.071,0.0008,0.0154,0.0597,0.536,55
+spotify,Rock Hard,The End / Undead,The End / Undead,28/08/20,DAY,0.568,0.968,0.136,0.0025,0.0000,0.371,0.664,56
+spotify,Rock Hard,King Of Misery,King Of Misery,28/08/20,DAY,0.508,0.958,0.0451,0.0004,0.0035,0.0721,0.766,57
+spotify,Rock Hard,Someone Else,Someone Else,28/08/20,DAY,0.44,0.872,0.0792,0.0102,0.0000,0.13,0.389,58
+spotify,Rock Hard,Kevin,Slomosa,28/08/20,DAY,0.472,0.63,0.0369,0.0013,0.0012,0.161,0.511,59
+spotify,Rock Hard,Obey (with YUNGBLUD),Obey (with YUNGBLUD),02/09/20,DAY,0.462,0.99,0.211,0.0001,0.0000,0.374,0.204,60
+spotify,Rock Hard,Promise,Promise,04/09/20,DAY,0.445,0.675,0.0315,0.0012,0.0080,0.233,0.318,61
+spotify,Rock Hard,Smile Like a Hostage,Smile Like a Hostage,04/09/20,DAY,0.475,0.889,0.0608,0.0015,0.0004,0.0884,0.236,62
+spotify,Rock Hard,Paranoid,Paranoid,04/09/20,DAY,0.376,0.934,0.0708,0.0001,0.0025,0.0717,0.421,63
+spotify,Rock Hard,Amplifier,Amplifier,09/09/20,DAY,0.606,0.974,0.117,0.0107,0.0000,0.0775,0.623,64
+spotify,Rock Hard,DON'T CHASE THE DEAD,DON'T CHASE THE DEAD,10/09/20,DAY,0.508,0.94,0.0407,0.0001,0.6280,0.172,0.414,65
+spotify,Rock Hard,Let It Ride,Let It Ride,11/09/20,DAY,0.53,0.896,0.04,0.0002,0.0222,0.271,0.543,66
+spotify,Rock Hard,Breakdown,Breakdown,11/09/20,DAY,0.447,0.988,0.446,0.0164,0.0008,0.0727,0.113,67
+spotify,Rock Hard,Say Less,Say Less,11/09/20,DAY,0.476,0.903,0.051,0.0000,0.0697,0.166,0.37,68
+spotify,Rock Hard,Heroin(e),Heroin(e),18/09/20,DAY,0.524,0.896,0.0488,0.0094,0.0000,0.104,0.376,69
+spotify,Rock Hard,We Believe (feat. David Draiman),We Believe (feat. David Draiman),25/09/20,DAY,0.513,0.874,0.208,0.0017,0.0000,0.0647,0.2,70
+spotify,Rock Hard,Kingdom,Kingdom,25/09/20,DAY,0.487,0.938,0.0743,0.0001,0.0000,0.301,0.597,71
+spotify,Rock Hard,Bound,Bound,25/09/20,DAY,0.409,0.842,0.0304,0.0000,0.0393,0.182,0.576,72
+spotify,Rock Hard,Translucent,Translucent,25/09/20,DAY,0.421,0.962,0.135,0.0193,0.0000,0.504,0.602,73
+spotify,Rock Hard,Adrenaline,Adrenaline,02/10/20,DAY,0.51,0.726,0.0359,0.0017,0.0000,0.0647,0.228,74
+spotify,Rock Hard,This is Our Life,This is Our Life,02/10/20,DAY,0.367,0.877,0.109,0.0011,0.0000,0.351,0.395,75
+spotify,Rock Hard,Never Back Down,Never Back Down,02/10/20,DAY,0.357,0.926,0.155,0.0001,0.0000,0.378,0.306,76
+spotify,Rock Hard,THIS IS NØT HØLLYWØØD (feat. Johnny 3 Tears),THIS IS NØT HØLLYWØØD (feat. Johnny 3 Tears),02/10/20,DAY,0.228,0.69,0.152,0.0062,0.0000,0.15,0.16,77
+spotify,Rock Hard,Sick Boy,Sick Boy,02/10/20,DAY,0.52,0.674,0.106,0.0089,0.0000,0.278,0.376,78
+spotify,Rock Hard,Shot In The Dark,Shot In The Dark,07/10/20,DAY,0.599,0.787,0.0338,0.0000,0.0001,0.064,0.822,79
+spotify,Rock Hard,Time Machine,Time Machine,07/10/20,DAY,0.595,0.604,0.0412,0.0190,0.0162,0.156,0.254,80
+spotify,Rock Hard,Back From The Dead,Back from the Dead,09/10/20,DAY,0.544,0.991,0.0682,0.0002,0.0000,0.182,0.322,81
+spotify,Rock Hard,Full Circle,Full Circle,09/10/20,DAY,0.446,0.97,0.107,0.0000,0.1040,0.317,0.238,82
+spotify,Rock Hard,NOT MAD ENOUGH,Volume 1,09/10/20,DAY,0.821,0.366,0.0339,0.8040,0.0000,0.0973,0.498,83
+spotify,Rock Hard,Save Us,Save Us,15/10/20,DAY,0.409,0.816,0.0743,0.0038,0.0000,0.0932,0.385,84
+spotify,Rock Hard,Invincible (feat. Lindsey Stirling),Invincible (feat. Lindsey Stirling),16/10/20,DAY,0.506,0.9,0.0414,0.0007,0.0001,0.467,0.348,85
+spotify,Rock Hard,Heart Of A Champion (feat. Papa Roach & Ice Nine Kills),Heart Of A Champion (feat. Papa Roach & Ice Nine Kills),16/10/20,DAY,0.475,0.931,0.0848,0.0019,0.0000,0.351,0.763,86
+spotify,Rock Hard,Born On The Outs,Born On The Outs,16/10/20,DAY,0.615,0.821,0.0647,0.0092,0.0193,0.219,0.391,87
+spotify,Rock Hard,BITE BACK,BITE BACK,18/10/20,DAY,0.545,0.998,0.234,0.0192,0.0000,0.877,0.142,88
+spotify,Rock Hard,Animals,Animals,20/10/20,DAY,0.532,0.759,0.0319,0.0001,0.0200,0.073,0.293,89
+spotify,Rock Hard,Lazaretto,ANTI ICON,21/10/20,DAY,0.542,0.923,0.306,0.0033,0.5050,0.397,0.321,90
+spotify,Rock Hard,Hydrochloride,ANTI ICON,21/10/20,DAY,0.582,0.692,0.0564,0.0001,0.8730,0.334,0.282,91
+spotify,Rock Hard,Teardrops,Teardrops,22/10/20,DAY,0.497,0.916,0.108,0.0003,0.0000,0.36,0.401,92
+spotify,Rock Hard,BITE BACK,WRONG GENERATION,23/10/20,DAY,0.545,0.998,0.234,0.0192,0.0000,0.877,0.142,93
+spotify,Rock Hard,Monsters,Monsters,28/10/20,DAY,0.47,0.862,0.112,0.0050,0.0000,0.059,0.473,94
+spotify,Rock Hard,Interstate 80,Comandante,30/10/20,DAY,0.358,0.912,0.0976,0.0005,0.0001,0.348,0.351,95
+spotify,Rock Hard,The Triumph of King Freak (A Crypt of Preservation and Superstition),The Triumph of King Freak (A Crypt of Preservation and Superstition),30/10/20,DAY,0.546,0.919,0.0568,0.0001,0.1780,0.0833,0.383,96
+spotify,Rock Hard,YØU & I,YØU & I,30/10/20,DAY,0.366,0.976,0.113,0.0000,0.0005,0.27,0.217,97
+spotify,Rock Hard,Fake Affront,Existential Reckoning,30/10/20,DAY,0.769,0.598,0.0432,0.1710,0.1950,0.0748,0.442,98
+spotify,Rock Hard,Never Alone,Never Alone,30/10/20,DAY,0.55,0.979,0.0747,0.0000,0.0198,0.119,0.413,99
+spotify,Rock Hard,Breaks,Breaks,30/10/20,DAY,0.407,0.932,0.113,0.0036,0.3460,0.229,0.173,100

@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Behind The Lyrics: Hip Hop,IDK,IDK,13/04/18,DAY,0.771,0.452,0.292,0.0748,0.0000,0.257,0.332,1
+spotify,Behind The Lyrics: Hip Hop,Virtual (Blue Balenciagas),Virtual (Blue Balenciagas),20/04/18,DAY,0.774,0.716,0.0438,0.3070,0.0000,0.0973,0.579,2
+spotify,Behind The Lyrics: Hip Hop,Better BE,XXX,02/05/18,DAY,0.745,0.637,0.221,0.0227,0.0000,0.29,0.634,3
+spotify,Behind The Lyrics: Hip Hop,Kiccin Shit,Kiccin Shit,15/06/18,DAY,0.623,0.667,0.316,0.2300,0.0000,0.232,0.694,4
+spotify,Behind The Lyrics: Hip Hop,Ridin (feat. Landon Cube & YBN Nahmir),Yung Bans Vol. 5,27/06/18,DAY,0.832,0.439,0.0996,0.6060,0.0000,0.11,0.53,5
+spotify,Behind The Lyrics: Hip Hop,CLOUT COBAIN | CLOUT CO13A1N,CLOUT COBAIN | CLOUT CO13A1N,12/07/18,DAY,0.794,0.448,0.0539,0.5910,0.0000,0.109,0.588,6
+spotify,Behind The Lyrics: Hip Hop,CUTTHROAT SMILE,CUTTHROAT SMILE (feat. $uicideBoy$),13/07/18,DAY,0.753,0.826,0.233,0.0641,0.0000,0.356,0.445,7
+spotify,Behind The Lyrics: Hip Hop,Elimination,23,15/07/18,DAY,0.755,0.517,0.0751,0.7540,0.0000,0.127,0.699,8
+spotify,Behind The Lyrics: Hip Hop,Work Out,Work Out,18/07/18,DAY,0.678,0.659,0.312,0.4920,0.0000,0.106,0.675,9
+spotify,Behind The Lyrics: Hip Hop,Murder On My Mind,I AM YOU,03/08/18,DAY,0.759,0.73,0.0516,0.1450,0.0000,0.11,0.74,10
+spotify,Behind The Lyrics: Hip Hop,Come Back to Earth,Swimming,03/08/18,DAY,0.272,0.238,0.0349,0.8900,0.0093,0.275,0.119,11
+spotify,Behind The Lyrics: Hip Hop,Fuck That,Life of Betrayal,03/08/18,DAY,0.634,0.659,0.109,0.1020,0.0000,0.191,0.366,12
+spotify,Behind The Lyrics: Hip Hop,SICKO MODE,ASTROWORLD,03/08/18,DAY,0.834,0.73,0.222,0.0051,0.0000,0.124,0.446,13
+spotify,Behind The Lyrics: Hip Hop,BULLETPROOF (feat. Jay 305),STAY DANGEROUS,03/08/18,DAY,0.776,0.515,0.411,0.1370,0.0000,0.321,0.448,14
+spotify,Behind The Lyrics: Hip Hop,Taking A Walk,LIFE'S A TRIP,10/08/18,DAY,0.767,0.538,0.052,0.6800,0.0000,0.192,0.343,15
+spotify,Behind The Lyrics: Hip Hop,DR. WHOEVER,ONEPOINTFIVE,15/08/18,DAY,0.639,0.332,0.378,0.6400,0.0000,0.0518,0.866,16
+spotify,Behind The Lyrics: Hip Hop,New Patek,New Patek,18/09/18,DAY,0.85,0.785,0.345,0.0367,0.0000,0.155,0.718,17
+spotify,Behind The Lyrics: Hip Hop,Sin (feat. Jaden Smith),On the Run,24/09/18,DAY,0.889,0.385,0.165,0.0054,0.0000,0.274,0.235,18
+spotify,Behind The Lyrics: Hip Hop,Tints (feat. Kendrick Lamar),Tints (feat. Kendrick Lamar),04/10/18,DAY,0.805,0.833,0.12,0.0859,0.0000,0.0578,0.703,19
+spotify,Behind The Lyrics: Hip Hop,Never Recover (Lil Baby & Gunna- Drake),Drip Harder,05/10/18,DAY,0.753,0.686,0.284,0.0677,0.0000,0.193,0.886,20
+spotify,Behind The Lyrics: Hip Hop,Drip Too Hard (Lil Baby & Gunna),Drip Harder,05/10/18,DAY,0.897,0.662,0.292,0.0852,0.0000,0.534,0.389,21
+spotify,Behind The Lyrics: Hip Hop,MIA (feat. Drake),MIA (feat. Drake),11/10/18,DAY,0.817,0.539,0.0621,0.0141,0.0005,0.099,0.158,22
+spotify,Behind The Lyrics: Hip Hop,Fine China,Future & Juice WRLD Present... WRLD ON DRUGS,19/10/18,DAY,0.656,0.542,0.323,0.0484,0.0000,0.126,0.551,23
+spotify,Behind The Lyrics: Hip Hop,MiAMi (feat. Gunna),LoVE me NOw (ReLoAdeD),26/10/18,DAY,0.674,0.862,0.231,0.0189,0.0000,0.113,0.357,24
+spotify,Behind The Lyrics: Hip Hop,Last Memory,Last Memory,26/10/18,DAY,0.853,0.696,0.246,0.1790,0.0000,0.286,0.184,25
+spotify,Behind The Lyrics: Hip Hop,Zero Degrees,OX,30/10/18,DAY,0.609,0.658,0.337,0.0443,0.0000,0.464,0.438,26
+spotify,Behind The Lyrics: Hip Hop,Father,2 Face Bang,31/10/18,DAY,0.631,0.577,0.195,0.5350,0.0000,0.223,0.654,27
+spotify,Behind The Lyrics: Hip Hop,Ego,Hood Favorite,02/11/18,DAY,0.834,0.567,0.1,0.1880,0.0000,0.0998,0.204,28
+spotify,Behind The Lyrics: Hip Hop,Wake Up (feat. Chance the Rapper),Wake Up (feat. Chance the Rapper),05/11/18,DAY,0.701,0.763,0.273,0.1090,0.0000,0.21,0.841,29
+spotify,Behind The Lyrics: Hip Hop,10 Freaky Girls (with 21 Savage),NOT ALL HEROES WEAR CAPES (Deluxe),06/11/18,DAY,0.81,0.353,0.31,0.5880,0.0000,0.102,0.0727,30
+spotify,Behind The Lyrics: Hip Hop,Bitches On Bitches (feat. Lil Pump),Still My Moment,09/11/18,DAY,0.91,0.661,0.122,0.3250,0.0001,0.149,0.763,31
+spotify,Behind The Lyrics: Hip Hop,Twerk (feat. Cardi B),Girl Code,16/11/18,DAY,0.788,0.842,0.142,0.1210,0.0011,0.166,0.481,32
+spotify,Behind The Lyrics: Hip Hop,151 Rum,DiCaprio 2,26/11/18,DAY,0.756,0.867,0.162,0.1550,0.0029,0.33,0.666,33
+spotify,Behind The Lyrics: Hip Hop,Faucet Failure,STOKELEY,30/11/18,DAY,0.935,0.552,0.335,0.1110,0.0000,0.0952,0.615,34
+spotify,Behind The Lyrics: Hip Hop,Global,Street Gossip,30/11/18,DAY,0.672,0.565,0.441,0.1060,0.0000,0.113,0.313,35
+spotify,Behind The Lyrics: Hip Hop,Nowhere2go,Some Rap Songs,30/11/18,DAY,0.518,0.706,0.227,0.0109,0.0001,0.496,0.418,36
+spotify,Behind The Lyrics: Hip Hop,Look Back at It,Look Back at It,07/12/18,DAY,0.791,0.587,0.0413,0.4070,0.0000,0.148,0.536,37
+spotify,Behind The Lyrics: Hip Hop,Lean Wit Me,Goodbye & Good Riddance,10/12/18,DAY,0.665,0.651,0.156,0.0414,0.0000,0.0896,0.237,38
+spotify,Behind The Lyrics: Hip Hop,DeMar DeRozan,DeMar DeRozan,14/12/18,DAY,0.689,0.777,0.289,0.2890,0.0000,0.104,0.492,39
+spotify,Behind The Lyrics: Hip Hop,Startender (feat. Offset and Tyga),Startender (feat. Offset and Tyga),14/12/18,DAY,0.736,0.622,0.133,0.0235,0.0000,0.151,0.506,40
+spotify,Behind The Lyrics: Hip Hop,Thotiana,Famous Cryp,18/12/18,DAY,0.906,0.382,0.269,0.1800,0.0000,0.113,0.391,41
+spotify,Behind The Lyrics: Hip Hop,Respect My Cryppin’,Famous Cryp,18/12/18,DAY,0.816,0.419,0.49,0.1570,0.0000,0.0886,0.189,42
+spotify,Behind The Lyrics: Hip Hop,a lot,i am > i was,21/12/18,DAY,0.837,0.636,0.086,0.0395,0.0012,0.342,0.274,43
+spotify,Behind The Lyrics: Hip Hop,Mile High (feat. Travis Scott & Metro Boomin),Assume Form,18/01/19,DAY,0.754,0.37,0.12,0.4030,0.0001,0.107,0.228,44
+spotify,Behind The Lyrics: Hip Hop,Crushed Up,Future Hndrxx Presents: The WIZRD,18/01/19,DAY,0.781,0.597,0.23,0.0415,0.0000,0.152,0.544,45
+spotify,Behind The Lyrics: Hip Hop,MIDDLE CHILD,MIDDLE CHILD,23/01/19,DAY,0.837,0.364,0.276,0.1490,0.0000,0.271,0.463,46
+spotify,Behind The Lyrics: Hip Hop,Splashin,The World Is Yours 2,22/03/19,DAY,0.942,0.382,0.564,0.0019,0.0000,0.092,0.379,47
+spotify,Behind The Lyrics: Hip Hop,Envy Me,Wildboy,31/05/19,DAY,0.74,0.488,0.27,0.2340,0.0000,0.241,0.584,48
+spotify,Behind The Lyrics: Hip Hop,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,06/09/19,DAY,0.755,0.522,0.0575,0.5330,0.0000,0.0685,0.925,49
+spotify,Behind The Lyrics: Hip Hop,GOSHA,  TRAGEDY +,06/03/20,DAY,0.847,0.448,0.416,0.8100,0.0000,0.325,0.488,50

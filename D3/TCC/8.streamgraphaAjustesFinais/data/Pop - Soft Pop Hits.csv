@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Soft Pop Hits,Your Body Is a Wonderland,Room For Squares,16/08/01,DAY,0.647,0.729,0.0236,0.0206,0.0489,0.134,0.687,1
+spotify,Soft Pop Hits,She Will Be Loved - Radio Mix,Songs About Jane: 10th Anniversary Edition,01/07/02,YEAR,0.651,0.663,0.0281,0.2280,0.0000,0.0994,0.465,2
+spotify,Soft Pop Hits,The Scientist,A Rush of Blood to the Head,08/08/02,DAY,0.557,0.442,0.0243,0.7310,0.0000,0.11,0.213,3
+spotify,Soft Pop Hits,I Don't Want to Be,Chariot,21/07/03,DAY,0.423,0.862,0.0695,0.0079,0.0000,0.133,0.462,4
+spotify,Soft Pop Hits,Unwritten,Unwritten,30/08/04,DAY,0.706,0.801,0.0399,0.0058,0.0000,0.0822,0.63,5
+spotify,Soft Pop Hits,Better Together,In Between Dreams,01/01/05,DAY,0.871,0.346,0.0522,0.2980,0.0000,0.108,0.659,6
+spotify,Soft Pop Hits,Fix You,X&Y,07/06/05,DAY,0.209,0.417,0.0338,0.1640,0.0020,0.113,0.124,7
+spotify,Soft Pop Hits,How to Save a Life,How To Save A Life,13/09/05,DAY,0.64,0.743,0.0379,0.2690,0.0000,0.101,0.361,8
+spotify,Soft Pop Hits,Put Your Records On,Corinne Bailey Rae,01/01/06,DAY,0.739,0.511,0.0362,0.1670,0.0000,0.133,0.542,9
+spotify,Soft Pop Hits,Chasing Cars,Eyes Open,01/01/06,DAY,0.563,0.592,0.0276,0.2090,0.0001,0.132,0.136,10
+spotify,Soft Pop Hits,Crazy,St. Elsewhere,24/04/06,DAY,0.855,0.587,0.0336,0.0505,0.0071,0.105,0.64,11
+spotify,Soft Pop Hits,Waiting On the World to Change,Continuum,11/09/06,DAY,0.577,0.756,0.115,0.1590,0.0002,0.249,0.663,12
+spotify,Soft Pop Hits,Come On Get Higher,Some Mad Hope,01/01/07,DAY,0.672,0.623,0.0297,0.2410,0.0000,0.0848,0.617,13
+spotify,Soft Pop Hits,Love Song,Little Voice,03/07/07,DAY,0.583,0.786,0.0301,0.0208,0.0000,0.188,0.573,14
+spotify,Soft Pop Hits,Bleeding Love,Spirit,01/07/07,YEAR,0.638,0.656,0.0357,0.1880,0.0000,0.146,0.225,15
+spotify,Soft Pop Hits,No One,As I Am (Expanded Edition),09/11/07,DAY,0.644,0.548,0.0286,0.0209,0.0000,0.134,0.166,16
+spotify,Soft Pop Hits,Apologize,Dreaming Out Loud,20/11/07,DAY,0.593,0.74,0.0339,0.3630,0.0000,0.102,0.502,17
+spotify,Soft Pop Hits,I'm Yours,We Sing. We Dance. We Steal Things.,12/05/08,DAY,0.686,0.457,0.0468,0.5950,0.0000,0.105,0.718,18
+spotify,Soft Pop Hits,Lucky,We Sing. We Dance. We Steal Things.,12/05/08,DAY,0.623,0.417,0.0354,0.2960,0.0000,0.135,0.721,19
+spotify,Soft Pop Hits,Take A Bow,Good Girl Gone Bad: Reloaded,02/06/08,DAY,0.697,0.467,0.0715,0.2480,0.0000,0.0941,0.572,20
+spotify,Soft Pop Hits,Free Fallin' - Live at the Nokia Theatre- Los Angeles- CA - December 2007,Where the Light Is: John Mayer Live In Los Angeles,01/07/08,YEAR,0.315,0.296,0.0317,0.7710,0.0000,0.702,0.436,21
+spotify,Soft Pop Hits,Breakeven,The Script,08/09/08,DAY,0.63,0.698,0.0244,0.1730,0.0000,0.0789,0.529,22
+spotify,Soft Pop Hits,Home,Up from Below,14/07/09,DAY,0.542,0.589,0.0318,0.2920,0.0005,0.177,0.137,23
+spotify,Soft Pop Hits,Just the Way You Are,Doo Wops & Hooligans,05/10/10,DAY,0.637,0.843,0.0432,0.0151,0.0000,0.0876,0.434,24
+spotify,Soft Pop Hits,Marry You,Doo Wops & Hooligans,05/10/10,DAY,0.62,0.832,0.036,0.3320,0.0000,0.104,0.481,25
+spotify,Soft Pop Hits,Hey- Soul Sister,Save Me  San Francisco (Golden Gate Edition),01/12/10,DAY,0.673,0.886,0.0431,0.1850,0.0000,0.0826,0.795,26
+spotify,Soft Pop Hits,Rolling in the Deep,21,19/01/11,DAY,0.729,0.756,0.0294,0.1310,0.0000,0.0527,0.522,27
+spotify,Soft Pop Hits,Someone Like You,21,19/01/11,DAY,0.559,0.33,0.0285,0.8920,0.0000,0.0975,0.285,28
+spotify,Soft Pop Hits,A Thousand Years,A Thousand Years,18/10/11,DAY,0.421,0.407,0.0267,0.3090,0.0010,0.11,0.161,29
+spotify,Soft Pop Hits,Home,The World From The Side Of The Moon,01/01/12,DAY,0.606,0.826,0.0307,0.0256,0.0000,0.117,0.322,30
+spotify,Soft Pop Hits,Ho Hey,The Lumineers (Deluxe Edition),01/07/12,YEAR,0.682,0.471,0.0301,0.7650,0.0000,0.0908,0.421,31
+spotify,Soft Pop Hits,Just Give Me a Reason (feat. Nate Ruess),The Truth About Love,18/09/12,DAY,0.778,0.547,0.0489,0.3460,0.0003,0.132,0.441,32
+spotify,Soft Pop Hits,Let Her Go,All The Little Lights,05/11/12,DAY,0.509,0.538,0.0572,0.3850,0.0000,0.104,0.244,33
+spotify,Soft Pop Hits,Stay - Album Version (Edited),Unapologetic (Deluxe),10/12/12,DAY,0.621,0.31,0.0283,0.9450,0.0001,0.117,0.125,34
+spotify,Soft Pop Hits,All of Me,Love In The Future (Expanded Edition),30/08/13,DAY,0.422,0.264,0.0322,0.9220,0.0000,0.132,0.331,35
+spotify,Soft Pop Hits,Royals,Pure Heroine,27/09/13,DAY,0.674,0.428,0.122,0.1210,0.0000,0.132,0.337,36
+spotify,Soft Pop Hits,Magic,Magic,03/03/14,DAY,0.738,0.483,0.0403,0.0262,0.6160,0.106,0.355,37
+spotify,Soft Pop Hits,I'm Not The Only One,In The Lonely Hour,26/05/14,DAY,0.677,0.485,0.0361,0.5290,0.0000,0.0766,0.493,38
+spotify,Soft Pop Hits,Stay With Me,In The Lonely Hour,26/05/14,DAY,0.418,0.42,0.0414,0.5880,0.0001,0.11,0.184,39
+spotify,Soft Pop Hits,Thinking out Loud,x (Deluxe Edition),21/06/14,DAY,0.781,0.445,0.0295,0.4740,0.0000,0.184,0.591,40
+spotify,Soft Pop Hits,Photograph,x (Deluxe Edition),21/06/14,DAY,0.614,0.379,0.0476,0.6070,0.0005,0.0986,0.201,41
+spotify,Soft Pop Hits,Rude,Don't Kill the Magic,25/06/14,DAY,0.774,0.756,0.0389,0.0423,0.0000,0.305,0.931,42
+spotify,Soft Pop Hits,Budapest,Wanted on Voyage (Expanded Edition),30/06/14,DAY,0.717,0.455,0.0276,0.0846,0.0000,0.11,0.389,43
+spotify,Soft Pop Hits,Take Me To Church,Hozier,20/07/14,DAY,0.566,0.664,0.0464,0.6340,0.0000,0.116,0.437,44
+spotify,Soft Pop Hits,Sugar,V,02/09/14,DAY,0.748,0.788,0.0334,0.0591,0.0000,0.0863,0.884,45
+spotify,Soft Pop Hits,FourFiveSeconds,FourFiveSeconds,24/01/15,DAY,0.582,0.272,0.0501,0.8750,0.0000,0.13,0.354,46
+spotify,Soft Pop Hits,Love Me Like You Do - From "Fifty Shades Of Grey",Fifty Shades Of Grey (Original Motion Picture Soundtrack),10/02/15,DAY,0.258,0.659,0.0596,0.2530,0.0000,0.111,0.272,47
+spotify,Soft Pop Hits,Let It Go,Chaos And The Calm,20/03/15,DAY,0.536,0.311,0.0288,0.8200,0.0000,0.107,0.246,48
+spotify,Soft Pop Hits,Love Yourself,Purpose (Deluxe),13/11/15,DAY,0.609,0.378,0.438,0.8350,0.0000,0.28,0.515,49
+spotify,Soft Pop Hits,We Don't Talk Anymore (feat. Selena Gomez),Nine Track Mind,29/01/16,DAY,0.728,0.563,0.134,0.6210,0.0000,0.179,0.352,50
+spotify,Soft Pop Hits,One Call Away,Nine Track Mind,29/01/16,DAY,0.667,0.613,0.0344,0.4030,0.0000,0.115,0.47,51
+spotify,Soft Pop Hits,Somebody Else,I like it when you sleep  for you are so beautiful yet so unaware of it,26/02/16,DAY,0.618,0.793,0.0601,0.2040,0.0154,0.126,0.459,52
+spotify,Soft Pop Hits,Scars To Your Beautiful,Know It All (Deluxe),11/03/16,DAY,0.319,0.739,0.272,0.0285,0.0000,0.111,0.449,53
+spotify,Soft Pop Hits,7 Years,Lukas Graham,01/04/16,DAY,0.765,0.473,0.0514,0.2870,0.0000,0.391,0.34,54
+spotify,Soft Pop Hits,Send My Love (To Your New Lover),Send My Love (To Your New Lover),16/05/16,DAY,0.69,0.524,0.103,0.0415,0.0000,0.17,0.562,55
+spotify,Soft Pop Hits,Hello,25,24/06/16,DAY,0.481,0.451,0.0347,0.3360,0.0000,0.0872,0.289,56
+spotify,Soft Pop Hits,Say You Won't Let Go,Back from the Edge,28/10/16,DAY,0.358,0.557,0.059,0.6950,0.0000,0.0902,0.494,57
+spotify,Soft Pop Hits,Perfect,÷ (Deluxe),03/03/17,DAY,0.599,0.448,0.0232,0.1630,0.0000,0.106,0.168,58
+spotify,Soft Pop Hits,Shape of You,÷ (Deluxe),03/03/17,DAY,0.825,0.652,0.0802,0.5810,0.0000,0.0931,0.931,59
+spotify,Soft Pop Hits,Something Just Like This,Memories...Do Not Open,07/04/17,DAY,0.617,0.635,0.0317,0.0498,0.0000,0.164,0.446,60
+spotify,Soft Pop Hits,Sign of the Times,Sign of the Times,07/04/17,DAY,0.518,0.575,0.0302,0.0259,0.0000,0.109,0.209,61
+spotify,Soft Pop Hits,Mercy,Illuminate (Deluxe),20/04/17,DAY,0.555,0.662,0.0827,0.1250,0.0000,0.111,0.356,62
+spotify,Soft Pop Hits,Feel It Still,Woodstock,16/06/17,DAY,0.801,0.795,0.0504,0.0417,0.0001,0.0717,0.754,63
+spotify,Soft Pop Hits,Issues,Nervous System,28/07/17,DAY,0.67,0.415,0.0786,0.3900,0.0000,0.0617,0.445,64
+spotify,Soft Pop Hits,Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,11/08/17,DAY,0.643,0.783,0.0856,0.0470,0.0000,0.083,0.579,65
+spotify,Soft Pop Hits,Too Good At Goodbyes,The Thrill Of It All (Special Edition),03/11/17,DAY,0.681,0.372,0.0432,0.6400,0.0000,0.169,0.476,66
+spotify,Soft Pop Hits,Delicate,reputation,10/11/17,DAY,0.75,0.404,0.0682,0.2160,0.0004,0.0911,0.0499,67
+spotify,Soft Pop Hits,The Middle,The Middle,23/01/18,DAY,0.753,0.657,0.0449,0.1710,0.0000,0.112,0.437,68
+spotify,Soft Pop Hits,Dancing On My Own,Only Human (Deluxe),09/03/18,DAY,0.682,0.173,0.0314,0.8390,0.0000,0.0983,0.236,69
+spotify,Soft Pop Hits,Rainbow,Golden Hour,30/03/18,DAY,0.581,0.197,0.0329,0.8800,0.0000,0.107,0.349,70
+spotify,Soft Pop Hits,Beyond,Good Thing,04/05/18,DAY,0.58,0.687,0.106,0.2290,0.0000,0.109,0.187,71
+spotify,Soft Pop Hits,I Like Me Better,I met you when I was 18. (the playlist),31/05/18,DAY,0.752,0.505,0.253,0.5350,0.0000,0.104,0.419,72
+spotify,Soft Pop Hits,Girls Like You,Red Pill Blues (Deluxe),15/06/18,DAY,0.611,0.462,0.0646,0.5580,0.0000,0.131,0.377,73
+spotify,Soft Pop Hits,Tequila,Dan + Shay,22/06/18,DAY,0.489,0.581,0.0281,0.0312,0.0000,0.132,0.494,74
+spotify,Soft Pop Hits,broken,finding it hard to smile,03/08/18,DAY,0.666,0.728,0.0419,0.0018,0.0000,0.0429,0.51,75
+spotify,Soft Pop Hits,Love Someone,Love Someone,07/09/18,DAY,0.55,0.415,0.052,0.1610,0.0000,0.108,0.274,76
+spotify,Soft Pop Hits,You Say,Look Up Child,07/09/18,DAY,0.494,0.632,0.0342,0.6820,0.0000,0.0869,0.0797,77
+spotify,Soft Pop Hits,Be Alright,Be Alright (Acoustic),07/09/18,DAY,0.542,0.577,0.0348,0.6740,0.0000,0.131,0.479,78
+spotify,Soft Pop Hits,Shallow - Radio Edit,A Star Is Born Soundtrack (Without Dialogue),05/10/18,DAY,0.575,0.33,0.031,0.4160,0.0000,0.0872,0.277,79
+spotify,Soft Pop Hits,Always Remember Us This Way,A Star Is Born Soundtrack (Without Dialogue),05/10/18,DAY,0.553,0.502,0.0409,0.2990,0.0000,0.764,0.296,80
+spotify,Soft Pop Hits,Someone You Loved,Breach,08/11/18,DAY,0.501,0.405,0.0319,0.7510,0.0000,0.105,0.446,81
+spotify,Soft Pop Hits,Rewrite The Stars (with James Arthur & Anne-Marie),The Greatest Showman: Reimagined,16/11/18,DAY,0.67,0.743,0.0393,0.2370,0.0000,0.465,0.571,82
+spotify,Soft Pop Hits,Out Of Love,The Pains Of Growing,30/11/18,DAY,0.481,0.267,0.0339,0.8000,0.0000,0.249,0.137,83
+spotify,Soft Pop Hits,I Miss You (feat. Julia Michaels),What Is Love? (Deluxe Edition),30/11/18,DAY,0.693,0.624,0.0448,0.2990,0.0000,0.0955,0.369,84
+spotify,Soft Pop Hits,Light On,Heard It In A Past Life,18/01/19,DAY,0.657,0.569,0.0542,0.2010,0.0000,0.126,0.399,85
+spotify,Soft Pop Hits,Preach,Preach,15/02/19,DAY,0.508,0.729,0.0443,0.0681,0.0000,0.1,0.412,86
+spotify,Soft Pop Hits,Head Above Water,Head Above Water,15/02/19,DAY,0.578,0.694,0.0706,0.0112,0.0000,0.102,0.268,87
+spotify,Soft Pop Hits,I Guess I Just Feel Like,I Guess I Just Feel Like,22/02/19,DAY,0.556,0.528,0.0266,0.6150,0.0964,0.122,0.163,88
+spotify,Soft Pop Hits,Almost (Sweet Music),Wasteland  Baby!,01/03/19,DAY,0.523,0.687,0.105,0.0215,0.0000,0.203,0.711,89
+spotify,Soft Pop Hits,Free Spirit,Free Spirit,05/04/19,DAY,0.627,0.446,0.0332,0.3080,0.0008,0.111,0.11,90
+spotify,Soft Pop Hits,I'm Like A Bird - Recorded at Spotify Studios NYC,Spotify Singles,24/04/19,DAY,0.524,0.639,0.103,0.2380,0.0000,0.0598,0.582,91
+spotify,Soft Pop Hits,Walk Me Home,Hurts 2B Human,25/04/19,DAY,0.652,0.453,0.0445,0.0519,0.0000,0.179,0.432,92
+spotify,Soft Pop Hits,Hold Me While You Wait,Hold Me While You Wait,03/05/19,DAY,0.688,0.53,0.0333,0.4430,0.0000,0.0995,0.162,93
+spotify,Soft Pop Hits,Falling Like The Stars,Falling Like The Stars,10/05/19,DAY,0.296,0.351,0.0351,0.8230,0.0000,0.11,0.19,94
+spotify,Soft Pop Hits,Bad,Oh My Messy Mind,10/05/19,DAY,0.549,0.413,0.0362,0.7560,0.0000,0.0939,0.29,95
+spotify,Soft Pop Hits,Outnumbered,Outnumbered,13/06/19,DAY,0.614,0.684,0.157,0.2470,0.0000,0.0976,0.258,96
+spotify,Soft Pop Hits,Memories,Memories,20/09/19,DAY,0.764,0.32,0.0546,0.8370,0.0000,0.0822,0.575,97
+spotify,Soft Pop Hits,10-000 Hours (with Justin Bieber),10 000 Hours (with Justin Bieber),04/10/19,DAY,0.654,0.63,0.0259,0.1530,0.0000,0.111,0.43,98
+spotify,Soft Pop Hits,If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),17/10/19,DAY,0.464,0.473,0.129,0.8660,0.0000,0.109,0.604,99
+spotify,Soft Pop Hits,This City,This City,11/12/19,DAY,0.602,0.377,0.0446,0.7310,0.0000,0.0808,0.518,100

@@ -1,0 +1,81 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,The Scene,Paralyzed,Paralyzed,12/07/20,DAY,0.406,0.965,0.0905,0.0013,0.0000,0.139,0.611,1
+spotify,The Scene,Backseat,Backseat,13/07/20,DAY,0.458,0.81,0.0936,0.2520,0.0000,0.186,0.456,2
+spotify,The Scene,ultimatum,ultimatum,16/07/20,DAY,0.483,0.943,0.0595,0.0001,0.0103,0.246,0.341,3
+spotify,The Scene,Who Are We Now,But No Thanks,17/07/20,DAY,0.386,0.971,0.094,0.0000,0.0055,0.555,0.32,4
+spotify,The Scene,SNOWFLAKE,WiLDFiRE,17/07/20,DAY,0.713,0.652,0.0517,0.0015,0.0000,0.192,0.684,5
+spotify,The Scene,Sick Joke,All Distortions Are Intentional,24/07/20,DAY,0.558,0.733,0.0375,0.0008,0.0000,0.343,0.604,6
+spotify,The Scene,Box for My Organs,Box for My Organs,24/07/20,DAY,0.199,0.948,0.0511,0.0004,0.7440,0.128,0.253,7
+spotify,The Scene,Nights Alone,Into the Raging Sea,24/07/20,DAY,0.533,0.94,0.0965,0.0432,0.0002,0.336,0.498,8
+spotify,The Scene,Your Reminder,Your Reminder,31/07/20,DAY,0.594,0.456,0.0285,0.0328,0.0000,0.17,0.707,9
+spotify,The Scene,let go of your love,let go of your love,31/07/20,DAY,0.426,0.389,0.0269,0.8310,0.0002,0.0963,0.17,10
+spotify,The Scene,Superstition,Superstition,01/08/20,DAY,0.35,0.932,0.0483,0.0003,0.0024,0.45,0.574,11
+spotify,The Scene,Leave It All Behind,Community Locker,06/08/20,DAY,0.532,0.771,0.0414,0.0003,0.0101,0.114,0.373,12
+spotify,The Scene,Like That,Pink Elephant,07/08/20,DAY,0.572,0.953,0.0494,0.0007,0.0000,0.0579,0.388,13
+spotify,The Scene,Trust Issues,Trust Issues,07/08/20,DAY,0.535,0.804,0.0405,0.0001,0.0001,0.0889,0.289,14
+spotify,The Scene,Sink,About People  for People,07/08/20,DAY,0.462,0.938,0.0483,0.0011,0.0000,0.26,0.39,15
+spotify,The Scene,Trouble Prone,Whatever Happens,07/08/20,DAY,0.471,0.925,0.0733,0.0000,0.0000,0.135,0.466,16
+spotify,The Scene,Messed Up Summer,Messed Up Summer,07/08/20,DAY,0.491,0.815,0.057,0.0157,0.0000,0.341,0.333,17
+spotify,The Scene,Happy Enough,Everyone in Search of an Exit,18/08/20,DAY,0.224,0.829,0.0506,0.0543,0.0000,0.32,0.429,18
+spotify,The Scene,Sundown- Somehow,Sundown  Somehow,19/08/20,DAY,0.455,0.969,0.188,0.0020,0.0001,0.107,0.188,19
+spotify,The Scene,Be The Same,Brand New Vision,21/08/20,DAY,0.447,0.855,0.0702,0.0003,0.0000,0.18,0.458,20
+spotify,The Scene,Renegades,Renegades,24/08/20,DAY,0.367,0.988,0.0775,0.0009,0.0563,0.175,0.353,21
+spotify,The Scene,The Water,The Water,25/08/20,DAY,0.47,0.902,0.129,0.0042,0.0000,0.153,0.607,22
+spotify,The Scene,killing me,killing me,27/08/20,DAY,0.731,0.774,0.0327,0.0369,0.0000,0.147,0.578,23
+spotify,The Scene,Dying to Feel Alive,Dying to Feel Alive,27/08/20,DAY,0.519,0.888,0.0326,0.0009,0.0000,0.16,0.598,24
+spotify,The Scene,Walk On,Walk On,28/08/20,DAY,0.519,0.772,0.0405,0.0628,0.0000,0.161,0.355,25
+spotify,The Scene,Someone Else,Someone Else,28/08/20,DAY,0.44,0.872,0.0792,0.0102,0.0000,0.13,0.389,26
+spotify,The Scene,Demon Girl (with MOD SUN),Demon Girl (with MOD SUN),28/08/20,DAY,0.417,0.72,0.0447,0.0036,0.0000,0.189,0.252,27
+spotify,The Scene,Wake Up,Arcadia,28/08/20,DAY,0.648,0.931,0.0562,0.0140,0.0000,0.123,0.588,28
+spotify,The Scene,Kill TV (feat. Nile Rodgers),Kill TV (feat. Nile Rodgers),28/08/20,DAY,0.617,0.946,0.0636,0.0005,0.0094,0.304,0.214,29
+spotify,The Scene,Is This The Real World?,The Emergency EP,28/08/20,DAY,0.187,0.971,0.193,0.0037,0.0000,0.0941,0.344,30
+spotify,The Scene,See You In Heaven,Down the Rabbit Hole,02/09/20,DAY,0.653,0.545,0.0792,0.0002,0.0000,0.0393,0.563,31
+spotify,The Scene,Obey (with YUNGBLUD),Obey (with YUNGBLUD),02/09/20,DAY,0.462,0.99,0.211,0.0001,0.0000,0.374,0.204,32
+spotify,The Scene,Three Years- Still Counting,Three Years  Still Counting,04/09/20,DAY,0.365,0.978,0.114,0.0000,0.0121,0.387,0.235,33
+spotify,The Scene,Love Me or Hate Me,Love Me or Hate Me,04/09/20,DAY,0.479,0.937,0.0521,0.0021,0.0010,0.25,0.56,34
+spotify,The Scene,Settle In,No Fomo,04/09/20,DAY,0.544,0.97,0.0619,0.0053,0.8110,0.101,0.618,35
+spotify,The Scene,What's Left of Me,What's Left of Me,04/09/20,DAY,0.537,0.879,0.0872,0.0008,0.0000,0.172,0.816,36
+spotify,The Scene,Come Down,Come Down,04/09/20,DAY,0.538,0.571,0.0286,0.2960,0.0020,0.152,0.238,37
+spotify,The Scene,Stuck in the Wake,Stuck in the Wake,04/09/20,DAY,0.582,0.761,0.0339,0.0089,0.0010,0.125,0.646,38
+spotify,The Scene,Jessie's Girl 2 - Director's Cut,Jessie's Girl 2,04/09/20,DAY,0.492,0.942,0.0815,0.0052,0.0000,0.0875,0.662,39
+spotify,The Scene,Getting Over It,Getting Over It,04/09/20,DAY,0.406,0.986,0.14,0.0003,0.0000,0.261,0.423,40
+spotify,The Scene,Now and Forever (ft. Trevor Wentworth),LEVELS,04/09/20,DAY,0.394,0.966,0.0849,0.0003,0.0000,0.296,0.508,41
+spotify,The Scene,Bad Intentions,Bad Intentions,10/09/20,DAY,0.398,0.841,0.0748,0.0005,0.0000,0.104,0.325,42
+spotify,The Scene,Restitution,Restitution,11/09/20,DAY,0.481,0.911,0.0713,0.0096,0.0001,0.165,0.416,43
+spotify,The Scene,Sexual Drugs,Sexual Drugs,18/09/20,DAY,0.387,0.993,0.196,0.0001,0.0000,0.0679,0.0859,44
+spotify,The Scene,Santiago Peak,No Good Left To Give,18/09/20,DAY,0.589,0.955,0.0327,0.0022,0.1230,0.347,0.577,45
+spotify,The Scene,pretend,pretend,18/09/20,DAY,0.518,0.838,0.0999,0.0247,0.0000,0.349,0.688,46
+spotify,The Scene,These Nights,These Nights,18/09/20,DAY,0.567,0.934,0.101,0.0003,0.0000,0.0853,0.363,47
+spotify,The Scene,Tunnel Vision,No Good Left To Give,18/09/20,DAY,0.448,0.975,0.0594,0.0002,0.1090,0.34,0.383,48
+spotify,The Scene,Lowkey As Hell,Lowkey As Hell,25/09/20,DAY,0.638,0.82,0.0664,0.0399,0.0000,0.163,0.431,49
+spotify,The Scene,Heaven's Sake,Heaven's Sake,25/09/20,DAY,0.641,0.565,0.0294,0.0399,0.0000,0.101,0.169,50
+spotify,The Scene,body bag (feat. YUNGBLUD & Bert McCracken of The Used),Tickets To My Downfall (SOLD OUT Deluxe),29/09/20,DAY,0.575,0.959,0.108,0.0002,0.0000,0.0515,0.642,51
+spotify,The Scene,If Happiness Is What You Reach For,If Happiness Is What You Reach For,02/10/20,DAY,0.444,0.867,0.0385,0.0025,0.0000,0.197,0.17,52
+spotify,The Scene,Background Noise,Background Noise,02/10/20,DAY,0.56,0.78,0.0329,0.0008,0.0000,0.353,0.347,53
+spotify,The Scene,Release & Let Go,Wild  Free,02/10/20,DAY,0.409,0.861,0.0569,0.0007,0.0000,0.0776,0.378,54
+spotify,The Scene,128,128,08/10/20,DAY,0.578,0.771,0.0317,0.0000,0.3050,0.148,0.637,55
+spotify,The Scene,Broken Things,Broken Things,09/10/20,DAY,0.451,0.912,0.0387,0.0349,0.0001,0.137,0.224,56
+spotify,The Scene,Falling In,Falling In,09/10/20,DAY,0.498,0.876,0.0435,0.0018,0.0000,0.342,0.516,57
+spotify,The Scene,Chemical Drugs,Chemical Drugs,09/10/20,DAY,0.423,0.991,0.123,0.0000,0.0000,0.352,0.0937,58
+spotify,The Scene,90's Baby,90's Baby,14/10/20,DAY,0.633,0.675,0.0593,0.0029,0.0000,0.452,0.505,59
+spotify,The Scene,First Train,Out Of Here,16/10/20,DAY,0.538,0.934,0.064,0.0002,0.0000,0.18,0.292,60
+spotify,The Scene,Mrs. David,Big Vibe,16/10/20,DAY,0.537,0.943,0.0707,0.0001,0.0001,0.204,0.477,61
+spotify,The Scene,Leaves on Parade,Leaves on Parade,16/10/20,DAY,0.527,0.947,0.0715,0.0004,0.0000,0.352,0.392,62
+spotify,The Scene,D.E.A.D!,D.E.A.D!,16/10/20,DAY,0.55,0.935,0.0554,0.0053,0.0000,0.417,0.611,63
+spotify,The Scene,Tonight (feat. iann dior),Tonight (feat. iann dior),21/10/20,DAY,0.501,0.633,0.0466,0.0036,0.0000,0.351,0.463,64
+spotify,The Scene,On and On,On and On,22/10/20,DAY,0.387,0.859,0.0375,0.0000,0.0001,0.0871,0.318,65
+spotify,The Scene,Cat's Cradle,Cat's Cradle,22/10/20,DAY,0.426,0.967,0.0459,0.0019,0.0000,0.229,0.648,66
+spotify,The Scene,The First Thing,Cluttered Heart,23/10/20,DAY,0.655,0.777,0.0427,0.0189,0.0268,0.0404,0.555,67
+spotify,The Scene,The Modern State,The Modern State,23/10/20,DAY,0.465,0.734,0.039,0.0339,0.1640,0.224,0.229,68
+spotify,The Scene,Throat,Salem,23/10/20,DAY,0.384,0.863,0.0609,0.0157,0.3970,0.379,0.833,69
+spotify,The Scene,Crash Course,Heirloom,23/10/20,DAY,0.515,0.881,0.0358,0.0032,0.0000,0.109,0.2,70
+spotify,The Scene,this song wasn't good enough for the album,this song wasn't good enough for the album,23/10/20,DAY,0.555,0.918,0.0413,0.0019,0.0000,0.541,0.631,71
+spotify,The Scene,Weight of the World,Dancing with a Ghost (10 Year Deluxe Jawn),23/10/20,DAY,0.297,0.891,0.247,0.0027,0.0103,0.334,0.343,72
+spotify,The Scene,Runaway,Runaway,23/10/20,DAY,0.439,0.957,0.0706,0.0000,0.0000,0.311,0.639,73
+spotify,The Scene,Jessica,girlfriends,23/10/20,DAY,0.506,0.858,0.0891,0.0050,0.0000,0.178,0.31,74
+spotify,The Scene,Brakeless,Brakeless,23/10/20,DAY,0.527,0.96,0.0694,0.0001,0.0016,0.118,0.459,75
+spotify,The Scene,Coming Clean,Coming Clean,30/10/20,DAY,0.333,0.988,0.324,0.0003,0.2270,0.175,0.191,76
+spotify,The Scene,Worth It,Worth It,30/10/20,DAY,0.494,0.961,0.0739,0.0019,0.0001,0.121,0.238,77
+spotify,The Scene,Karma,Karma,30/10/20,DAY,0.461,0.825,0.115,0.0246,0.0000,0.224,0.412,78
+spotify,The Scene,October Forever,October Forever,30/10/20,DAY,0.394,0.89,0.0759,0.0006,0.0000,0.162,0.144,79
+spotify,The Scene,Some Kind of Miracle,Some Kind of Miracle,30/10/20,DAY,0.315,0.973,0.257,0.0007,0.0000,0.482,0.448,80

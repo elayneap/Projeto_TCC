@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Today's Top Hits,Sofia,Immunity,02/08/19,DAY,0.744,0.619,0.039,0.5980,0.0037,0.231,0.641,1
+spotify,Today's Top Hits,Golden,Fine Line,13/12/19,DAY,0.448,0.838,0.0557,0.2100,0.0001,0.131,0.254,2
+spotify,Today's Top Hits,Watermelon Sugar,Fine Line,13/12/19,DAY,0.548,0.816,0.0465,0.1220,0.0000,0.335,0.557,3
+spotify,Today's Top Hits,Breaking Me,Breaking Me,19/12/19,DAY,0.789,0.72,0.218,0.2230,0.0000,0.129,0.664,4
+spotify,Today's Top Hits,Heather,Kid Krow,20/03/20,DAY,0.357,0.425,0.0333,0.5840,0.0000,0.322,0.27,5
+spotify,Today's Top Hits,you broke me first,you broke me first,17/04/20,DAY,0.642,0.374,0.0545,0.7860,0.0000,0.0906,0.0799,6
+spotify,Today's Top Hits,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,17/04/20,DAY,0.746,0.69,0.164,0.2470,0.0000,0.101,0.497,7
+spotify,Today's Top Hits,Put Your Records On,Put Your Records On,24/04/20,DAY,0.399,0.491,0.0538,0.0563,0.0009,0.11,0.151,8
+spotify,Today's Top Hits,Go Crazy,Slime & B,08/05/20,DAY,0.755,0.578,0.145,0.3160,0.0000,0.25,0.581,9
+spotify,Today's Top Hits,Savage Love (Laxed - Siren Beat),Savage Love (Laxed   Siren Beat),11/06/20,DAY,0.767,0.481,0.0803,0.2340,0.0000,0.269,0.761,10
+spotify,Today's Top Hits,What You Know Bout Love,Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.709,0.548,0.353,0.6500,0.0000,0.133,0.543,11
+spotify,Today's Top Hits,Head & Heart (feat. MNEK),Head & Heart (feat. MNEK),03/07/20,DAY,0.734,0.874,0.0662,0.1680,0.0000,0.0489,0.905,12
+spotify,Today's Top Hits,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.823,0.586,0.2,0.1140,0.0000,0.193,0.347,13
+spotify,Today's Top Hits,Daisy,Daisy,09/07/20,DAY,0.834,0.663,0.133,0.2350,0.0000,0.372,0.774,14
+spotify,Today's Top Hits,Be Like That - feat. Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),10/07/20,DAY,0.727,0.626,0.0726,0.0469,0.0000,0.126,0.322,15
+spotify,Today's Top Hits,Come & Go (with Marshmello),Legends Never Die,10/07/20,DAY,0.625,0.814,0.0657,0.0172,0.0000,0.158,0.535,16
+spotify,Today's Top Hits,At My Worst,The Prelude,17/07/20,DAY,0.813,0.415,0.0349,0.7770,0.0000,0.131,0.667,17
+spotify,Today's Top Hits,POPSTAR (feat. Drake),POPSTAR (feat. Drake),17/07/20,DAY,0.8,0.56,0.261,0.0570,0.0000,0.134,0.45,18
+spotify,Today's Top Hits,Take You Dancing,Take You Dancing,22/07/20,DAY,0.789,0.711,0.041,0.0332,0.0000,0.0876,0.753,19
+spotify,Today's Top Hits,Mood (feat. iann dior),Mood (feat. iann dior),24/07/20,DAY,0.7,0.722,0.0369,0.2210,0.0000,0.272,0.756,20
+spotify,Today's Top Hits,Mad at Disney,Mad at Disney,24/07/20,DAY,0.738,0.621,0.0486,0.4240,0.0000,0.692,0.715,21
+spotify,Today's Top Hits,UN DIA (ONE DAY) (Feat. Tainy),UN DIA (ONE DAY) (Feat. Tainy),24/07/20,DAY,0.571,0.693,0.0545,0.0054,0.0000,0.173,0.393,22
+spotify,Today's Top Hits,Deep End,Deep End,31/07/20,DAY,0.711,0.592,0.23,0.7580,0.0000,0.156,0.535,23
+spotify,Today's Top Hits,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),07/08/20,DAY,0.935,0.454,0.375,0.0194,0.0000,0.0824,0.357,24
+spotify,Today's Top Hits,Lemonade,Lemonade (feat. Gunna  Don Toliver & NAV),14/08/20,DAY,0.799,0.66,0.079,0.2560,0.0000,0.111,0.471,25
+spotify,Today's Top Hits,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),14/08/20,DAY,0.761,0.518,0.134,0.2440,0.0000,0.107,0.522,26
+spotify,Today's Top Hits,Midnight Sky,Midnight Sky,14/08/20,DAY,0.705,0.814,0.0346,0.0012,0.0031,0.203,0.259,27
+spotify,Today's Top Hits,Tick Tock (feat. 24kGoldn),Tick Tock (feat. 24kGoldn),21/08/20,DAY,0.779,0.705,0.0344,0.3690,0.0000,0.124,0.946,28
+spotify,Today's Top Hits,Dynamite,Dynamite (DayTime Version),28/08/20,DAY,0.746,0.765,0.0993,0.0112,0.0000,0.0936,0.737,29
+spotify,Today's Top Hits,Se Te Nota (with Guaynaa),Se Te Nota (with Guaynaa),02/09/20,DAY,0.905,0.686,0.0664,0.0907,0.0000,0.266,0.963,30
+spotify,Today's Top Hits,OK Not To Be OK,OK Not To Be OK,10/09/20,DAY,0.743,0.837,0.0649,0.0172,0.0000,0.0743,0.263,31
+spotify,Today's Top Hits,Blueberry Eyes (feat. SUGA of BTS),Blueberry Eyes (feat. SUGA of BTS),15/09/20,DAY,0.746,0.611,0.101,0.4540,0.0009,0.133,0.411,32
+spotify,Today's Top Hits,Diamonds,Diamonds,17/09/20,DAY,0.653,0.667,0.0423,0.1540,0.0000,0.107,0.556,33
+spotify,Today's Top Hits,Holy (feat. Chance The Rapper),Holy,18/09/20,DAY,0.673,0.704,0.36,0.1960,0.0000,0.0898,0.372,34
+spotify,Today's Top Hits,Kings & Queens,Heaven & Hell,18/09/20,DAY,0.637,0.69,0.0405,0.0079,0.0000,0.124,0.457,35
+spotify,Today's Top Hits,Your Man,Nectar,24/09/20,DAY,0.785,0.818,0.099,0.6240,0.1490,0.149,0.0503,36
+spotify,Today's Top Hits,my ex's best friend (with blackbear),Tickets To My Downfall,25/09/20,DAY,0.731,0.675,0.0434,0.0047,0.0000,0.141,0.298,37
+spotify,Today's Top Hits,Levitating (feat. DaBaby),Levitating (feat. DaBaby),01/10/20,DAY,0.702,0.825,0.0601,0.0088,0.0000,0.0674,0.915,38
+spotify,Today's Top Hits,Wonder,Wonder,02/10/20,DAY,0.333,0.637,0.0581,0.1310,0.0000,0.149,0.132,39
+spotify,Today's Top Hits,Ice Cream (with Selena Gomez),THE ALBUM,02/10/20,DAY,0.785,0.719,0.354,0.0374,0.0001,0.0519,0.887,40
+spotify,Today's Top Hits,Baby- I'm Jealous (feat. Doja Cat),Baby  I'm Jealous (feat. Doja Cat),09/10/20,DAY,0.737,0.867,0.0458,0.0398,0.0000,0.32,0.506,41
+spotify,Today's Top Hits,Fake,Fake,13/10/20,DAY,0.703,0.657,0.0783,0.1390,0.0000,0.093,0.455,42
+spotify,Today's Top Hits,Lonely (with benny blanco),Lonely (with benny blanco),16/10/20,DAY,0.631,0.239,0.0398,0.8640,0.0000,0.116,0.0927,43
+spotify,Today's Top Hits,Spicy (feat. Post Malone),Spicy (feat. Post Malone),21/10/20,DAY,0.784,0.496,0.0435,0.1400,0.0000,0.113,0.132,44
+spotify,Today's Top Hits,Tyler Herro,Tyler Herro,22/10/20,DAY,0.794,0.756,0.136,0.1100,0.0000,0.247,0.775,45
+spotify,Today's Top Hits,positions,positions,23/10/20,DAY,0.736,0.802,0.0864,0.4680,0.0000,0.094,0.675,46
+spotify,Today's Top Hits,SO DONE,SO DONE,23/10/20,DAY,0.719,0.598,0.077,0.2320,0.0000,0.115,0.303,47
+spotify,Today's Top Hits,Forever After All,What You See Ain't Always What You Get (Deluxe Edition),23/10/20,DAY,0.487,0.65,0.0253,0.1910,0.0000,0.0933,0.456,48
+spotify,Today's Top Hits,34+35,Positions,30/10/20,DAY,0.83,0.585,0.094,0.2370,0.0000,0.248,0.485,49
+spotify,Today's Top Hits,motive (with Doja Cat),Positions,30/10/20,DAY,0.789,0.742,0.0652,0.0681,0.0000,0.166,0.661,50

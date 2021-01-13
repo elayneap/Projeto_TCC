@@ -1,0 +1,56 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+ygormutti,Rock,Spanish Castle Magic,Axis: Bold As Love,01/12/67,DAY,0.405,0.831,0.0671,0.0504,0.0918,0.805,0.805,1
+ygormutti,Rock,All Along the Watchtower,Electric Ladyland,25/10/68,DAY,0.438,0.805,0.0624,0.0026,0.0001,0.0842,0.564,2
+ygormutti,Rock,Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),22/10/69,DAY,0.412,0.902,0.405,0.0484,0.1310,0.405,0.422,3
+ygormutti,Rock,Immigrant Song - Remaster,Led Zeppelin III (Deluxe Edition),05/10/70,DAY,0.564,0.932,0.0554,0.0130,0.1690,0.349,0.619,4
+ygormutti,Rock,When the Levee Breaks - Remaster,Led Zeppelin IV (Deluxe Edition),08/11/71,DAY,0.271,0.766,0.0329,0.0022,0.5200,0.0707,0.803,5
+ygormutti,Rock,Rock and Roll - 1990 Remaster,Led Zeppelin IV,08/11/71,DAY,0.327,0.895,0.0367,0.0006,0.0159,0.104,0.898,6
+ygormutti,Rock,Roundabout - 2003 Remaster,Fragile (Deluxe Edition),26/11/71,DAY,0.41,0.761,0.0687,0.0682,0.0077,0.0758,0.391,7
+ygormutti,Rock,Money,The Dark Side of the Moon,01/03/73,DAY,0.469,0.537,0.152,0.0241,0.0020,0.269,0.783,8
+ygormutti,Rock,Bloody Well Right,Crime Of The Century (Remastered),01/09/74,DAY,0.575,0.446,0.105,0.4260,0.0175,0.0656,0.532,9
+ygormutti,Rock,Take The Long Way Home - 2010 Remastered,Breakfast In America (Deluxe Edition),29/03/79,DAY,0.414,0.7,0.0301,0.2200,0.0007,0.114,0.37,10
+ygormutti,Rock,Rock and Roll Ain't Noise Pollution,Back In Black,25/07/80,DAY,0.576,0.659,0.0383,0.0410,0.0000,0.0587,0.717,11
+ygormutti,Rock,Let Me Put My Love Into You,Back In Black,25/07/80,DAY,0.4,0.902,0.0523,0.1150,0.0001,0.139,0.632,12
+ygormutti,Rock,For Those About to Rock (We Salute You),For Those About to Rock (We Salute You),23/11/81,DAY,0.37,0.919,0.102,0.0004,0.4190,0.49,0.471,13
+ygormutti,Rock,Sweet Child O' Mine,Appetite For Destruction,21/07/87,DAY,0.454,0.91,0.0448,0.0866,0.0996,0.116,0.629,14
+ygormutti,Rock,Welcome To The Jungle,Appetite For Destruction,21/07/87,DAY,0.447,0.954,0.0751,0.0235,0.4030,0.298,0.331,15
+ygormutti,Rock,Suck My Kiss,Blood Sugar Sex Magik (Deluxe Edition),24/09/91,DAY,0.623,0.936,0.0528,0.0006,0.0001,0.269,0.705,16
+ygormutti,Rock,Outshined,Badmotorfinger (25th Anniversary Remaster),08/10/91,DAY,0.485,0.841,0.0307,0.0002,0.0069,0.125,0.551,17
+ygormutti,Rock,Black Hole Sun,Superunknown (Deluxe Edition),09/03/94,DAY,0.35,0.828,0.041,0.0002,0.0002,0.0774,0.147,18
+ygormutti,Rock,Walkabout,One Hot Minute (Deluxe Edition),12/09/95,DAY,0.744,0.667,0.063,0.0679,0.3600,0.306,0.766,19
+ygormutti,Rock,Falling into Grace,One Hot Minute (Deluxe Edition),12/09/95,DAY,0.564,0.89,0.0637,0.0287,0.0001,0.114,0.628,20
+ygormutti,Rock,Transcending,One Hot Minute (Deluxe Edition),12/09/95,DAY,0.422,0.804,0.0669,0.0177,0.0005,0.1,0.312,21
+ygormutti,Rock,Pretty Noose,Down On The Upside,21/05/96,DAY,0.389,0.925,0.0643,0.0000,0.2440,0.222,0.317,22
+ygormutti,Rock,ATWA,Toxicity,04/09/01,DAY,0.376,0.787,0.0395,0.0036,0.0000,0.552,0.372,23
+ygormutti,Rock,Undertow,What If...,01/01/02/07/05,YEAR,0.425,0.965,0.11,0.0063,0.0003,0.236,0.481,24
+ygormutti,Rock,Unforgiven (Bonus Track),What If...,01/01/02/07/05,YEAR,0.482,0.933,0.0782,0.0027,0.0425,0.282,0.599,25
+ygormutti,Rock,I Won't Get In My Way,What If...,01/01/02/07/05,YEAR,0.541,0.938,0.0624,0.0126,0.0000,0.17,0.629,26
+ygormutti,Rock,Still Ain't Enough For Me,What If...,01/01/02/07/05,YEAR,0.526,0.98,0.158,0.0083,0.0321,0.154,0.557,27
+ygormutti,Rock,Gasoline,Audioslave,17/11/02,DAY,0.379,0.716,0.0326,0.0003,0.0012,0.0786,0.239,28
+ygormutti,Rock,Set It Off,Audioslave,17/11/02,DAY,0.306,0.725,0.0476,0.0016,0.0000,0.371,0.664,29
+ygormutti,Rock,Show Me How to Live,Audioslave,17/11/02,DAY,0.433,0.854,0.0483,0.0003,0.0002,0.162,0.368,30
+ygormutti,Rock,Ego Brain,Steal This Album!,26/11/02,DAY,0.29,0.775,0.0359,0.0001,0.0028,0.186,0.212,31
+ygormutti,Rock,Mr. Jack,Steal This Album!,26/11/02,DAY,0.306,0.709,0.0375,0.0001,0.0045,0.101,0.0436,32
+ygormutti,Rock,Ball and Biscuit,Elephant,01/04/03,DAY,0.506,0.665,0.184,0.0576,0.1270,0.112,0.601,33
+ygormutti,Rock,Black Math,Elephant,01/04/03,DAY,0.183,0.987,0.403,0.0970,0.0039,0.133,0.393,34
+ygormutti,Rock,#1 Zero,Out of Exile,01/01/05,DAY,0.27,0.782,0.0441,0.1310,0.0000,0.321,0.413,35
+ygormutti,Rock,Dandelion,Out of Exile,01/01/05,DAY,0.188,0.89,0.0556,0.1770,0.0000,0.0849,0.514,36
+ygormutti,Rock,The Worm,Out of Exile,01/01/05,DAY,0.337,0.86,0.0419,0.0726,0.0000,0.111,0.267,37
+ygormutti,Rock,Be Yourself,Out of Exile,01/01/05,DAY,0.423,0.845,0.0559,0.1430,0.0000,0.213,0.317,38
+ygormutti,Rock,Question!,Mezmerize,17/05/05,DAY,0.207,0.972,0.186,0.0008,0.0158,0.318,0.364,39
+ygormutti,Rock,The Denial Twist,Get Behind Me Satan,07/06/05,DAY,0.557,0.764,0.143,0.3330,0.0000,0.117,0.737,40
+ygormutti,Rock,What You Meant,You Could Have It So Much Better,03/10/05,DAY,0.496,0.93,0.0466,0.0014,0.0529,0.308,0.595,41
+ygormutti,Rock,Hump de Bump,Stadium Arcadium,09/05/06,DAY,0.685,0.971,0.0362,0.1420,0.0000,0.0689,0.899,42
+ygormutti,Rock,Charlie,Stadium Arcadium,09/05/06,DAY,0.6,0.912,0.0724,0.0198,0.0001,0.0883,0.506,43
+ygormutti,Rock,Dani California,Stadium Arcadium,09/05/06,DAY,0.556,0.913,0.0437,0.0193,0.0000,0.346,0.73,44
+ygormutti,Rock,Never Miss a Beat,Off with Their Heads,20/10/08,DAY,0.506,0.907,0.0391,0.0000,0.3360,0.573,0.547,45
+ygormutti,Rock,Bite Hard,Tonight: Franz Ferdinand,23/01/09,DAY,0.367,0.737,0.083,0.0054,0.0000,0.115,0.392,46
+ygormutti,Rock,No You Girls,Tonight: Franz Ferdinand,23/01/09,DAY,0.679,0.909,0.0297,0.0092,0.0000,0.139,0.899,47
+ygormutti,Rock,Love Illumination,Right Thoughts  Right Words  Right Action (Deluxe Edition),26/08/13,DAY,0.53,0.864,0.0557,0.0978,0.0000,0.153,0.85,48
+ygormutti,Rock,Snap Out Of It,AM,09/09/13,DAY,0.728,0.638,0.0336,0.2490,0.0000,0.116,0.872,49
+ygormutti,Rock,Do I Wanna Know?,AM,09/09/13,DAY,0.548,0.532,0.0323,0.1860,0.0003,0.217,0.405,50
+ygormutti,Rock,Arabella,AM,09/09/13,DAY,0.579,0.558,0.0895,0.0202,0.0000,0.212,0.506,51
+ygormutti,Rock,Metro,Vicinity Of Obscenity/Lonely Day,01/01/21/06/05,YEAR,0.484,0.94,0.215,0.0200,0.0003,0.0516,0.642,52
+ygormutti,Rock,Snowblind,Vicinity Of Obscenity/Lonely Day,01/01/21/06/05,YEAR,0.396,0.875,0.0788,0.0054,0.4810,0.333,0.534,53
+ygormutti,Rock,Plug in Baby,Origin of Symmetry,01/01/23/06/05,YEAR,0.408,0.965,0.05,0.0000,0.0004,0.11,0.349,54
+ygormutti,Rock,40',Franz Ferdinand,01/01/26/06/05,YEAR,0.573,0.564,0.0366,0.0013,0.0863,0.127,0.563,55

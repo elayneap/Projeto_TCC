@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,¡Viva Latino!,Lean (feat. Towy- Osquel- Beltito & Sammy & Falsetto),Lean (feat. Towy  Osquel  Beltito & Sammy & Falsetto),31/03/17,DAY,0.863,0.669,0.282,0.1110,0.0000,0.0569,0.947,1
+spotify,¡Viva Latino!,Mi Cuarto,DI LETRA,03/04/20,DAY,0.854,0.525,0.214,0.8190,0.0000,0.146,0.63,2
+spotify,¡Viva Latino!,Los Besos,Los Besos,16/04/20,DAY,0.503,0.762,0.298,0.0756,0.0000,0.0919,0.598,3
+spotify,¡Viva Latino!,+Linda,+Linda,20/04/20,DAY,0.66,0.503,0.34,0.1310,0.0000,0.13,0.396,4
+spotify,¡Viva Latino!,Quiéreme Mientras Se Pueda,Quiéreme Mientras Se Pueda,01/05/20,DAY,0.793,0.782,0.0582,0.4470,0.0000,0.124,0.81,5
+spotify,¡Viva Latino!,Reggaetonera,Emmanuel,29/05/20,DAY,0.694,0.796,0.0565,0.4800,0.0004,0.108,0.515,6
+spotify,¡Viva Latino!,La Curiosidad,Platonicos,12/06/20,DAY,0.845,0.677,0.136,0.2690,0.0009,0.108,0.68,7
+spotify,¡Viva Latino!,Djadja (feat. Maluma) - Remix,Djadja (feat. Maluma) [Remix],12/06/20,DAY,0.791,0.682,0.158,0.1750,0.0000,0.0926,0.672,8
+spotify,¡Viva Latino!,Tattoo - Remix with Camilo,Tattoo (Remix with Camilo),09/07/20,DAY,0.848,0.637,0.156,0.0413,0.0000,0.0521,0.698,9
+spotify,¡Viva Latino!,Ay- DiOs Mío!,Ay  DiOs Mío!,10/07/20,DAY,0.718,0.712,0.174,0.5120,0.0012,0.104,0.531,10
+spotify,¡Viva Latino!,Relaciones,Relaciones,16/07/20,DAY,0.683,0.787,0.0841,0.4250,0.0000,0.136,0.792,11
+spotify,¡Viva Latino!,Anaranjado,Anaranjado,16/07/20,DAY,0.763,0.58,0.144,0.0466,0.0000,0.154,0.608,12
+spotify,¡Viva Latino!,No Bailes Sola,No Bailes Sola,17/07/20,DAY,0.598,0.734,0.116,0.2080,0.0000,0.272,0.621,13
+spotify,¡Viva Latino!,No Me Ama,No Me Ama,17/07/20,DAY,0.799,0.675,0.0772,0.4180,0.0000,0.0958,0.678,14
+spotify,¡Viva Latino!,Quizás,Orgánico,17/07/20,DAY,0.723,0.741,0.0663,0.2710,0.0000,0.612,0.639,15
+spotify,¡Viva Latino!,UN DIA (ONE DAY) (Feat. Tainy),UN DIA (ONE DAY) (Feat. Tainy),24/07/20,DAY,0.571,0.693,0.0545,0.0054,0.0000,0.173,0.393,16
+spotify,¡Viva Latino!,La Tóxica,La Tóxica,24/07/20,DAY,0.659,0.701,0.164,0.0882,0.0000,0.0866,0.623,17
+spotify,¡Viva Latino!,Cuenta Conmigo (feat. Mozart La Para),Cuenta Conmigo (feat. Mozart La Para),24/07/20,DAY,0.898,0.677,0.127,0.1320,0.0000,0.132,0.958,18
+spotify,¡Viva Latino!,Te Confieso,Te Confieso,24/07/20,DAY,0.778,0.601,0.0455,0.1200,0.0001,0.092,0.779,19
+spotify,¡Viva Latino!,Hawái,Hawái,29/07/20,DAY,0.787,0.728,0.389,0.1890,0.0000,0.0629,0.545,20
+spotify,¡Viva Latino!,Nada,Nada,14/08/20,DAY,0.684,0.808,0.061,0.0518,0.0000,0.0858,0.712,21
+spotify,¡Viva Latino!,Jeans,Jeans,14/08/20,DAY,0.807,0.656,0.105,0.0165,0.0000,0.0693,0.89,22
+spotify,¡Viva Latino!,Ayer Me Llamó Mi Ex (feat. Lenny Santos),Ayer Me Llamó Mi Ex (feat. Lenny Santos),20/08/20,DAY,0.752,0.716,0.0325,0.2540,0.0000,0.243,0.553,23
+spotify,¡Viva Latino!,Parce (feat. Justin Quiles),PAPI JUANCHO,21/08/20,DAY,0.691,0.739,0.229,0.4220,0.0000,0.11,0.884,24
+spotify,¡Viva Latino!,Pero Te Conocí,20    21,21/08/20,DAY,0.638,0.434,0.0318,0.7650,0.0000,0.266,0.632,25
+spotify,¡Viva Latino!,Beso,Beso,28/08/20,DAY,0.819,0.736,0.0912,0.2020,0.0000,0.224,0.622,26
+spotify,¡Viva Latino!,Se Te Nota (with Guaynaa),Se Te Nota (with Guaynaa),02/09/20,DAY,0.905,0.686,0.0664,0.0907,0.0000,0.266,0.963,27
+spotify,¡Viva Latino!,High (Remix),High (Remix),03/09/20,DAY,0.668,0.351,0.114,0.1520,0.0000,0.113,0.522,28
+spotify,¡Viva Latino!,Otro Día Lluvioso (with Lenny Tavarez & Becky G feat. Dalex),Otro Día Lluvioso (with Lenny Tavarez & Becky G feat. Dalex),03/09/20,DAY,0.799,0.614,0.15,0.1310,0.0000,0.0845,0.719,29
+spotify,¡Viva Latino!,Una Locura,ENOC,04/09/20,DAY,0.714,0.761,0.0427,0.1390,0.0003,0.241,0.906,30
+spotify,¡Viva Latino!,Relación - Remix,Relación (Remix),04/09/20,DAY,0.793,0.771,0.0959,0.0337,0.0000,0.284,0.835,31
+spotify,¡Viva Latino!,Despeinada,ENOC,04/09/20,DAY,0.734,0.775,0.0614,0.1860,0.0005,0.123,0.72,32
+spotify,¡Viva Latino!,Don Don,Don Don,11/09/20,DAY,0.838,0.819,0.211,0.2850,0.0001,0.224,0.656,33
+spotify,¡Viva Latino!,Victoria,Victoria,18/09/20,DAY,0.672,0.683,0.105,0.5420,0.0000,0.203,0.568,34
+spotify,¡Viva Latino!,Enchule,Enchule,18/09/20,DAY,0.763,0.666,0.194,0.1530,0.0000,0.301,0.587,35
+spotify,¡Viva Latino!,Me Gusta (with Cardi B & Myke Towers),Me Gusta (with Cardi B & Myke Towers),18/09/20,DAY,0.91,0.604,0.082,0.4480,0.0000,0.0863,0.807,36
+spotify,¡Viva Latino!,Perfecta,Perfecta,18/09/20,DAY,0.862,0.779,0.0464,0.0410,0.0000,0.344,0.719,37
+spotify,¡Viva Latino!,Vida de Rico,Vida de Rico,21/09/20,DAY,0.824,0.457,0.0543,0.1670,0.0000,0.041,0.95,38
+spotify,¡Viva Latino!,Mi Niña,Mi Niña,23/09/20,DAY,0.823,0.821,0.166,0.3100,0.0000,0.143,0.791,39
+spotify,¡Viva Latino!,Pa Ti - Spanglish Version,Pa Ti + Lonely,24/09/20,DAY,0.856,0.767,0.0415,0.2440,0.0004,0.0648,0.787,40
+spotify,¡Viva Latino!,Amantes y Amigos,Amantes y Amigos,02/10/20,DAY,0.695,0.712,0.153,0.3690,0.0000,0.101,0.468,41
+spotify,¡Viva Latino!,Corazón Sin Vida,Corazón Sin Vida,02/10/20,DAY,0.48,0.572,0.0412,0.1690,0.0000,0.0711,0.452,42
+spotify,¡Viva Latino!,La Nota,La Nota,08/10/20,DAY,0.736,0.632,0.0648,0.1800,0.0000,0.349,0.503,43
+spotify,¡Viva Latino!,Qué Mal Te Fue (Remix),Que Mal Te Fue (Remix),09/10/20,DAY,0.769,0.712,0.105,0.0812,0.0000,0.0988,0.841,44
+spotify,¡Viva Latino!,La Grosera,La Grosera,12/10/20,DAY,0.818,0.572,0.184,0.0477,0.0000,0.0731,0.561,45
+spotify,¡Viva Latino!,Chica Ideal,Chica Ideal,16/10/20,DAY,0.574,0.891,0.157,0.0847,0.0000,0.16,0.707,46
+spotify,¡Viva Latino!,Reloj,Reloj,22/10/20,DAY,0.823,0.537,0.209,0.1760,0.0000,0.123,0.615,47
+spotify,¡Viva Latino!,BICHOTA,BICHOTA,23/10/20,DAY,0.863,0.666,0.152,0.2120,0.0005,0.103,0.838,48
+spotify,¡Viva Latino!,QueLoQue,Music is the Weapon,23/10/20,DAY,0.648,0.812,0.137,0.0372,0.0000,0.0881,0.392,49
+spotify,¡Viva Latino!,No Drama,No Drama,29/10/20,DAY,0.708,0.815,0.0692,0.1660,0.0000,0.523,0.855,50

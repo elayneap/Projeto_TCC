@@ -1,0 +1,54 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+12142462379,pra_ouvir,Paranoid,Paranoid (2009 Remastered Version),18/09/70,DAY,0.429,0.631,0.0769,0.0001,0.0041,0.175,0.376,1
+12142462379,pra_ouvir,Crazy Train,Blizzard of Ozz (Expanded Edition),20/09/80,DAY,0.453,0.906,0.115,0.3610,0.0006,0.26,0.473,2
+12142462379,pra_ouvir,Sympathy For The Devil,The Rolling Stones Singles Collection: The London Years,15/08/89,DAY,0.728,0.681,0.221,0.6100,0.0000,0.0559,0.578,3
+12142462379,pra_ouvir,Are You Gonna Go My Way,Are You Gonna Go My Way,09/03/93,DAY,0.619,0.67,0.0353,0.0016,0.0109,0.331,0.777,4
+12142462379,pra_ouvir,Fly Away,5,12/05/98,DAY,0.587,0.872,0.0484,0.0180,0.0000,0.622,0.735,5
+12142462379,pra_ouvir,Eu amo mais você,Mais do Que Imaginei,15/11/99,DAY,0.321,0.904,0.0695,0.0064,0.0005,0.381,0.481,6
+12142462379,pra_ouvir,Sympathy For The Devil,Greatest Hits,23/03/04,DAY,0.31,0.945,0.168,0.0174,0.0075,0.211,0.25,7
+12142462379,pra_ouvir,Virtual Insanity - Remastered,High Times: Singles 1992 2006 (Remastered),06/11/06,DAY,0.662,0.949,0.108,0.1270,0.0000,0.135,0.515,8
+12142462379,pra_ouvir,Kind Hearted Woman Blues - SA.2580-1,The Centennial Collection,22/04/11,DAY,0.619,0.115,0.0436,0.9150,0.0000,0.0912,0.338,9
+12142462379,pra_ouvir,I Believe I'll Dust My Broom - SA.2581-1,The Centennial Collection,22/04/11,DAY,0.707,0.276,0.062,0.9380,0.0006,0.0862,0.868,10
+12142462379,pra_ouvir,Sweet Home Chicago - SA.2582-1,The Centennial Collection,22/04/11,DAY,0.691,0.0987,0.138,0.9500,0.0000,0.0847,0.438,11
+12142462379,pra_ouvir,Ramblin' On My Mind - SA.2583-1,The Centennial Collection,22/04/11,DAY,0.69,0.204,0.0714,0.9580,0.0000,0.144,0.737,12
+12142462379,pra_ouvir,When You Got A Good Friend - SA.2584-1,The Centennial Collection,22/04/11,DAY,0.793,0.118,0.0872,0.9380,0.0001,0.0898,0.402,13
+12142462379,pra_ouvir,Come On In My Kitchen - SA.2585-2,The Centennial Collection,22/04/11,DAY,0.661,0.175,0.0433,0.9180,0.0000,0.353,0.646,14
+12142462379,pra_ouvir,Terraplane Blues - SA.2586-1,The Centennial Collection,22/04/11,DAY,0.714,0.212,0.11,0.9580,0.0000,0.211,0.457,15
+12142462379,pra_ouvir,Phonograph Blues - SA.2587-1,The Centennial Collection,22/04/11,DAY,0.711,0.133,0.0699,0.9500,0.0000,0.326,0.41,16
+12142462379,pra_ouvir,32-20 Blues - SA.2616-2,The Centennial Collection,22/04/11,DAY,0.658,0.182,0.0855,0.9460,0.0000,0.366,0.742,17
+12142462379,pra_ouvir,They're Red Hot - SA.2627-1,The Centennial Collection,22/04/11,DAY,0.73,0.244,0.369,0.9130,0.0000,0.0879,0.734,18
+12142462379,pra_ouvir,Dead Shrimp Blues - SA.2628-2,The Centennial Collection,22/04/11,DAY,0.696,0.161,0.0949,0.9150,0.0000,0.337,0.565,19
+12142462379,pra_ouvir,Cross Road Blues - SA.2629-1,The Centennial Collection,22/04/11,DAY,0.676,0.253,0.067,0.9020,0.0000,0.367,0.628,20
+12142462379,pra_ouvir,Walkin' Blues - SA.2630-1,The Centennial Collection,22/04/11,DAY,0.688,0.16,0.0594,0.9230,0.0000,0.336,0.781,21
+12142462379,pra_ouvir,Last Fair Deal Gone Down - SA.2631-1,The Centennial Collection,22/04/11,DAY,0.669,0.159,0.0508,0.9350,0.0000,0.112,0.706,22
+12142462379,pra_ouvir,Preachin' Blues (Up Jumped The Devil) - SA.2632-1,The Centennial Collection,22/04/11,DAY,0.693,0.316,0.0719,0.8940,0.0028,0.313,0.781,23
+12142462379,pra_ouvir,If I Had Possession Over Judgement Day - SA.2633-1,The Centennial Collection,22/04/11,DAY,0.695,0.199,0.0765,0.9430,0.0015,0.0734,0.904,24
+12142462379,pra_ouvir,Kind Hearted Woman Blues - SA.2580-2,The Centennial Collection,22/04/11,DAY,0.633,0.138,0.0637,0.9130,0.0000,0.27,0.438,25
+12142462379,pra_ouvir,Ramblin' On My Mind - SA.2583-1,The Centennial Collection,22/04/11,DAY,0.691,0.134,0.179,0.9300,0.0002,0.0984,0.456,26
+12142462379,pra_ouvir,When You Got A Good Friend - SA.2584-2,The Centennial Collection,22/04/11,DAY,0.557,0.0958,0.243,0.9470,0.0000,0.0888,0.59,27
+12142462379,pra_ouvir,Come On In My Kitchen - SA.2585-1,The Centennial Collection,22/04/11,DAY,0.596,0.0263,0.111,0.9330,0.0000,0.171,0.238,28
+12142462379,pra_ouvir,Phonograph Blues - SA.2587-2,The Centennial Collection,22/04/11,DAY,0.682,0.215,0.127,0.8810,0.0000,0.0658,0.848,29
+12142462379,pra_ouvir,Cross Road Blues - SA.2629-2,The Centennial Collection,22/04/11,DAY,0.694,0.201,0.057,0.9160,0.0000,0.255,0.659,30
+12142462379,pra_ouvir,Stones In My Passway - DAL.377-2,The Centennial Collection,22/04/11,DAY,0.671,0.0913,0.0611,0.9610,0.0011,0.108,0.51,31
+12142462379,pra_ouvir,Steady Rollin' Man - DAL.378-1,The Centennial Collection,22/04/11,DAY,0.693,0.14,0.0537,0.9390,0.0048,0.0717,0.673,32
+12142462379,pra_ouvir,From Four Until Late - DAL.379-1,The Centennial Collection,22/04/11,DAY,0.725,0.118,0.0691,0.9490,0.0000,0.0569,0.552,33
+12142462379,pra_ouvir,Hell Hound On My Trail - DAL.394-2,The Centennial Collection,22/04/11,DAY,0.584,0.0953,0.0408,0.9730,0.0000,0.0993,0.411,34
+12142462379,pra_ouvir,Little Queen Of Spades - DAL.395-1,The Centennial Collection,22/04/11,DAY,0.792,0.149,0.266,0.9470,0.0000,0.12,0.609,35
+12142462379,pra_ouvir,Malted Milk - DAL.396-1,The Centennial Collection,22/04/11,DAY,0.732,0.071,0.13,0.9650,0.0001,0.0823,0.601,36
+12142462379,pra_ouvir,Drunken Hearted Man - DAL.397-1,The Centennial Collection,22/04/11,DAY,0.726,0.0639,0.0576,0.9610,0.0000,0.0659,0.584,37
+12142462379,pra_ouvir,Me And The Devil Blues - DAL.398-1,The Centennial Collection,22/04/11,DAY,0.784,0.0562,0.0766,0.9500,0.0004,0.142,0.38,38
+12142462379,pra_ouvir,Stop Breakin' Down Blues - DAL.399-1,The Centennial Collection,22/04/11,DAY,0.751,0.103,0.128,0.9560,0.0013,0.0782,0.829,39
+12142462379,pra_ouvir,Traveling Riverside Blues - DAL.400-1,The Centennial Collection,22/04/11,DAY,0.706,0.108,0.116,0.8960,0.0005,0.284,0.636,40
+12142462379,pra_ouvir,Honeymoon Blues - DAL.401-1,The Centennial Collection,22/04/11,DAY,0.667,0.0714,0.066,0.9650,0.0000,0.349,0.44,41
+12142462379,pra_ouvir,Love In Vain Blues - DAL.402-2,The Centennial Collection,22/04/11,DAY,0.774,0.0817,0.05,0.9440,0.0002,0.0682,0.495,42
+12142462379,pra_ouvir,Milkcow's Calf Blues - DAL.403-2,The Centennial Collection,22/04/11,DAY,0.679,0.0432,0.0603,0.9600,0.0000,0.206,0.526,43
+12142462379,pra_ouvir,Little Queen Of Spades - DAL.395-2,The Centennial Collection,22/04/11,DAY,0.778,0.0832,0.198,0.9350,0.0000,0.273,0.547,44
+12142462379,pra_ouvir,Drunken Hearted Man - DAL.397-2,The Centennial Collection,22/04/11,DAY,0.748,0.0396,0.0591,0.9760,0.0001,0.133,0.437,45
+12142462379,pra_ouvir,Me And The Devil Blues - DAL.398-2,The Centennial Collection,22/04/11,DAY,0.722,0.0795,0.0872,0.9540,0.0002,0.319,0.313,46
+12142462379,pra_ouvir,Stop Breakin' Down Blues - DAL.399-2,The Centennial Collection,22/04/11,DAY,0.758,0.0698,0.15,0.9350,0.0004,0.0715,0.727,47
+12142462379,pra_ouvir,Traveling Riverside Blues - DAL.400-2,The Centennial Collection,22/04/11,DAY,0.72,0.0626,0.0968,0.9400,0.0005,0.317,0.472,48
+12142462379,pra_ouvir,Love In Vain Blues - DAL.402-1,The Centennial Collection,22/04/11,DAY,0.672,0.0517,0.0538,0.8930,0.0000,0.116,0.44,49
+12142462379,pra_ouvir,Milkcow's Calf Blues - DAL.403-3,The Centennial Collection,22/04/11,DAY,0.678,0.0426,0.0729,0.9470,0.0002,0.0723,0.612,50
+12142462379,pra_ouvir,Aos Pés da Cruz,Histórias e Bicicletas,30/04/13,DAY,0.412,0.798,0.0407,0.0046,0.0000,0.0963,0.316,51
+12142462379,pra_ouvir,O Dia Que Será Pra Sempre,O Dia Que Será Pra Sempre,18/10/18,DAY,0.694,0.227,0.0291,0.7630,0.0000,0.112,0.31,52
+12142462379,pra_ouvir,Are You Gonna Go My Way - Live,Unplugged (Live),24/08/20,DAY,0.482,0.561,0.0369,0.3650,0.0168,0.976,0.643,53

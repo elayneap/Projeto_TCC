@@ -1,0 +1,87 @@
+user_id,playlist,track,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence
+Teste,Pink Floyd,1,Wish You Were Here,Teste,Teste,Teste,0.481,0.262,0.0414,0.735,0.0114,0.832,0.375
+Teste,Pink Floyd,2,Another Brick in the Wall - Pt. 2,Teste,Teste,Teste,0.694,0.394,0.0428,0.0781,0.0150,0.247,0.719
+Teste,Pink Floyd,3,Comfortably Numb,Teste,Teste,Teste,0.472,0.366,0.0286,0.15,0.308,0.0837,0.171
+Teste,Pink Floyd,4,Time,Teste,Teste,Teste,0.358,0.48,0.0849,0.521,0.00428,0.178,0.356
+Teste,Pink Floyd,5,Breathe (In the Air),Teste,Teste,Teste,0.431,0.375,0.0347,0.391,0.721,0.143,0.258
+Teste,Pink Floyd,6,Hey You,Teste,Teste,Teste,0.588,0.301,0.0294,0.221,0.00236,0.128,0.19
+Teste,Pink Floyd,7,The Great Gig in the Sky,Teste,Teste,Teste,0.275,0.216,0.0345,0.768,0.897,0.0832,0.181
+Teste,Pink Floyd,8,Us and Them,Teste,Teste,Teste,0.356,0.302,0.0346,0.863,0.546,0.634,0.126
+Teste,Pink Floyd,9,Brain Damage,Teste,Teste,Teste,0.322,0.265,0.0302,0.0726,0.34,0.366,0.207
+Teste,Pink Floyd,10,What Do You Want from Me - Live,Teste,Teste,Teste,0.478,0.661,0.0411,0.0185,0.0150,0.766,0.405
+Teste,Pink Floyd,11,Coming Back to Life - Live,Teste,Teste,Teste,0.295,0.49,0.0325,0.434,0.0150,0.952,0.139
+Teste,Pink Floyd,12,High Hopes - Live,Teste,Teste,Teste,0.454,0.374,0.0257,0.518,0.0104,0.944,0.157
+Teste,Pink Floyd,13,Breathe (In the Air) - Live,Teste,Teste,Teste,0.34,0.34,0.0398,0.141,0.0150,0.789,0.299
+Teste,Pink Floyd,14,Wearing the Inside Out,Teste,Teste,Teste,0.602,0.426,0.0404,0.307,0.0468,0.104,0.363
+Teste,Pink Floyd,15,Lost for Words,Teste,Teste,Teste,0.599,0.399,0.0248,0.128,0.00342,0.712,0.222
+Teste,Pink Floyd,16,The Dogs of War - Live,Teste,Teste,Teste,0.274,0.555,0.106,0.157,0.00599,0.953,0.106
+Teste,Pink Floyd,17,Paranoid Eyes,Teste,Teste,Teste,0.378,0.0776,0.0347,0.766,0.0109,0.082,0.112
+Teste,Pink Floyd,18,The Thin Ice,Teste,Teste,Teste,0.359,0.128,0.0372,0.354,0.00181,0.656,0.178
+Teste,Pink Floyd,19,Goodbye Blue Sky,Teste,Teste,Teste,0.638,0.0811,0.0335,0.879,0.00315,0.314,0.0502
+Teste,Pink Floyd,20,Is There Anybody Out There?,Teste,Teste,Teste,0.307,0.0742,0.0359,0.723,0.308,0.11,0.0394
+Teste,Pink Floyd,21,Nobody Home,Teste,Teste,Teste,0.251,0.148,0.0431,0.71,0.432,0.106,0.0569
+Teste,Pink Floyd,22,Have a Cigar,Teste,Teste,Teste,0.454,0.65,0.0437,0.407,0.0498,0.589,0.72
+Teste,Pink Floyd,23,Mother,Teste,Teste,Teste,0.578,0.15,0.0334,0.243,0.00707,0.0825,0.121
+Teste,Pink Floyd,24,Brain Damage,Teste,Teste,Teste,0.322,0.265,0.0302,0.0726,0.34,0.366,0.207
+Teste,Pink Floyd,25,A Great Day for Freedom,Teste,Teste,Teste,0.384,0.348,0.0293,0.626,0.00124,0.236,0.264
+Teste,Pink Floyd,26,Coming Back to Life,Teste,Teste,Teste,0.286,0.499,0.044,0.464,0.0150,0.102,0.145
+12158075911,Reggae Classics,1,The Sun Stop Shining,Very Best,29/08/2007,DAY,0.637,0.612,0.0661,0.0314,0.0003,0.155,0.711
+12158075911,Reggae Classics,2,Love And Affection,Reggae Gold 2007,12/06/2007,DAY,0.664,0.686,0.174,0.0068,0.0000,0.135,0.529
+12158075911,Reggae Classics,3,Here Comes Trouble,Dread & Terrible,01/04/2014,DAY,0.758,0.786,0.108,0.1560,0.0000,0.0658,0.786
+12158075911,Reggae Classics,4,Who Knows,Ancient Future,2014,YEAR,0.683,0.724,0.0988,0.0909,0.0000,0.339,0.742
+12158075911,Reggae Classics,5,Jamming,Exodus (Deluxe Edition),03/01/1977,DAY,0.934,0.467,0.307,0.1020,0.0000,0.109,0.73
+12158075911,Reggae Classics,6,Pressure Drop,Monkey Man,01/01/1969,DAY,0.605,0.641,0.0446,0.0503,0.0000,0.121,0.972
+12158075911,Reggae Classics,7,Hail H.I.M - 2002 Remastered Version,Hail H.I.M,08/07/2002,DAY,0.775,0.652,0.0583,0.1490,0.1800,0.0458,0.671
+12158075911,Reggae Classics,8,The International Herb,Too Long In Slavery,01/01/1990,DAY,0.825,0.433,0.337,0.0585,0.0000,0.0618,0.687
+12158075911,Reggae Classics,9,Double Barrel,Ska & Reggae Classics,25/05/2018,DAY,0.846,0.543,0.188,0.1130,0.0000,0.0849,0.772
+12158075911,Reggae Classics,10,Wonderful World- Beautiful People - Single Version,The Universal Masters Collection,01/01/2001,DAY,0.767,0.568,0.0261,0.0038,0.0000,0.0448,0.901
+12158075911,Reggae Classics,11,54-46 Was My Number,Ska & Reggae Classics,25/05/2018,DAY,0.703,0.355,0.16,0.2040,0.0000,0.0642,0.638
+12158075911,Reggae Classics,12,Boom Shacka Lacka,The Treasure Isle Story,28/07/2017,DAY,0.738,0.787,0.0494,0.5400,0.0305,0.114,0.934
+12158075911,Reggae Classics,13,Let Me Down Easy,Super Reggae & Soul Hits,2006,YEAR,0.743,0.443,0.0878,0.0490,0.0000,0.131,0.467
+12158075911,Reggae Classics,14,Three Little Birds,Exodus (Deluxe Edition),03/01/1977,DAY,0.814,0.482,0.0588,0.0111,0.0000,0.0476,0.615
+12158075911,Reggae Classics,15,Country Road,Funky Kingston,01/01/1973,DAY,0.624,0.329,0.143,0.4300,0.0005,0.0798,0.915
+12158075911,Reggae Classics,16,Black Bud,The Best of The Pioneers,26/05/2017,DAY,0.82,0.487,0.0519,0.0647,0.0011,0.104,0.713
+12158075911,Reggae Classics,17,Sweet Sensation,Ska & Reggae Classics,25/05/2018,DAY,0.958,0.569,0.0713,0.1040,0.1690,0.0778,0.966
+12158075911,Reggae Classics,18,Beat Down Babylon,Beat Down Babylon,1972,YEAR,0.849,0.596,0.105,0.3770,0.0060,0.0903,0.96
+12158075911,Reggae Classics,19,Satisfaction,Mr Satisfaction (1966 1976),1966,YEAR,0.772,0.406,0.24,0.8100,0.0097,0.075,0.497
+12158075911,Reggae Classics,20,Monkey Spanner,Ska & Reggae Classics,25/05/2018,DAY,0.731,0.621,0.0519,0.0379,0.0008,0.119,0.936
+12158075911,Reggae Classics,21,Blood and Fire,Observer Station,06/03/1990,DAY,0.851,0.267,0.0847,0.6760,0.0083,0.0442,0.824
+12158075911,Reggae Classics,22,Mighty Redeemer (Pt. 1),The Treasure Isle Story,28/07/2017,DAY,0.87,0.449,0.0501,0.3040,0.0000,0.11,0.934
+12158075911,Reggae Classics,23,Stir It Up,The Best Of Bob Marley & The Wailers 20th Century Masters The Millennium Collection,01/01/2004,DAY,0.587,0.446,0.0648,0.5470,0.0000,0.09,0.753
+12158075911,Reggae Classics,24,Kingston Town,Ska & Reggae Classics,25/05/2018,DAY,0.937,0.512,0.0986,0.5690,0.0134,0.24,0.965
+12158075911,Reggae Classics,25,Love For Everyone,The Story Of Trojan Records,01/01/2011,DAY,0.946,0.557,0.0544,0.2120,0.0001,0.0246,0.968
+12158075911,Reggae Classics,26,Love of the Common People,Ska & Reggae Classics,25/05/2018,DAY,0.673,0.665,0.101,0.1940,0.0000,0.355,0.908
+12158075911,Reggae Classics,27,Africa Is Paradise,The Best of Lloyd Charmers,19/02/2016,DAY,0.632,0.313,0.0564,0.7980,0.0000,0.205,0.619
+12158075911,Reggae Classics,28,What Does It Take (To Win Your Love),The Treasure Isle Story,28/07/2017,DAY,0.802,0.562,0.0425,0.0896,0.0009,0.381,0.862
+12158075911,Reggae Classics,29,Rivers of Babylon,Ska & Reggae Classics,25/05/2018,DAY,0.703,0.661,0.0503,0.3660,0.0000,0.23,0.915
+12158075911,Reggae Classics,30,The Further You Look (The Less You See),4000 Volts of Holt: The Classic Albums Collection,19/02/2016,DAY,0.54,0.7,0.103,0.0353,0.0000,0.153,0.809
+12158075911,Reggae Classics,31,Words of My Mouth,"The Best of Lee ""Scratch"" Perry",18/03/2016,DAY,0.864,0.604,0.0436,0.0440,0.0000,0.142,0.953
+12158075911,Reggae Classics,32,Small Axe,"Bob Marley vs. Lee ""Scratch"" Perry: The Best of the Upsetter Years 1970 1971",1999,YEAR,0.713,0.658,0.0552,0.7860,0.0000,0.164,0.842
+12158075911,Reggae Classics,33,Herbsman Shuffle,Reggae Beat,06/05/2011,DAY,0.558,0.308,0.128,0.3740,0.5810,0.205,0.6
+12158075911,Reggae Classics,34,Iggy Iggy,The Story Of Trojan Records,01/01/2011,DAY,0.913,0.84,0.181,0.4800,0.0002,0.0653,0.939
+12158075911,Reggae Classics,35,Music Alone Shall Live,The Story Of Trojan Records,01/01/2011,DAY,0.862,0.568,0.12,0.7520,0.0000,0.0702,0.881
+12158075911,Reggae Classics,36,Better Must Come,40 Greatest Hits,20/01/2009,DAY,0.717,0.578,0.102,0.0035,0.0001,0.301,0.919
+12158075911,Reggae Classics,37,Livin' In Love (One Life to Live One Life to Give),The Treasure Isle Story,28/07/2017,DAY,0.767,0.407,0.238,0.1710,0.0000,0.143,0.54
+12158075911,Reggae Classics,38,Let the Power Fall On I,The Coming of Jah: Max Romeo Anthology 1967 76,01/01/2002,DAY,0.897,0.504,0.379,0.1130,0.0021,0.122,0.963
+12158075911,Reggae Classics,39,Sister Big Stuff,The Treasure Isle Story,28/07/2017,DAY,0.77,0.418,0.133,0.5740,0.0000,0.0861,0.93
+12158075911,Reggae Classics,40,The Three Bells (aka Jimmy Brown),Treasure Isle Presents: Original Reggae,01/01/2013,DAY,0.665,0.493,0.0446,0.0386,0.0041,0.143,0.484
+12158075911,Reggae Classics,41,I Love You Madly,The Best of Lloyd Charmers,19/02/2016,DAY,0.629,0.524,0.0912,0.7990,0.0000,0.103,0.835
+12158075911,Reggae Classics,42,Pity The Children,The Story Of Trojan Records,01/01/2011,DAY,0.838,0.51,0.123,0.3320,0.0000,0.0678,0.819
+12158075911,Reggae Classics,43,Lively Up Yourself,Africa Unite: The Singles Collection,07/11/2005,DAY,0.88,0.664,0.0693,0.6210,0.3230,0.0901,0.966
+12158075911,Reggae Classics,44,This Is Reggae Music,This Is Trojan Reggae,23/02/2018,DAY,0.843,0.808,0.176,0.3910,0.1770,0.15,0.847
+12158075911,Reggae Classics,45,Book Of Rules,Night Food (Expanded Edition),15/06/1976,DAY,0.789,0.602,0.0441,0.2090,0.1960,0.102,0.953
+12158075911,Reggae Classics,46,Life,Pied Piper   The Best of Bob & Marcia,01/01/2002,DAY,0.796,0.526,0.369,0.5970,0.0000,0.076,0.905
+12158075911,Reggae Classics,47,Miss Labba Labba,The Story Of Trojan Records,01/01/2011,DAY,0.827,0.636,0.113,0.5650,0.0000,0.293,0.945
+12158075911,Reggae Classics,48,Coming Again,Beat Down Babylon,1972,YEAR,0.665,0.512,0.0864,0.5560,0.0712,0.278,0.612
+12158075911,Reggae Classics,49,Jordan River,The Max Romeo Catalog Chapter 1   Verse 1 16,27/10/2009,DAY,0.709,0.498,0.296,0.4240,0.0000,0.103,0.664
+12158075911,Reggae Classics,50,Sincerely Yours,Love Me Forever,1968,YEAR,0.763,0.521,0.0431,0.2230,0.0000,0.254,0.972
+12158075911,Reggae Classics,51,One Woman,The Best of Lloyd Charmers,19/02/2016,DAY,0.755,0.391,0.23,0.2820,0.0822,0.139,0.455
+12158075911,Reggae Classics,52,Botheration - Reggae Version,The Treasure Isle Story,28/07/2017,DAY,0.79,0.529,0.391,0.5310,0.0177,0.145,0.966
+12158075911,Reggae Classics,53,Private Number,Young  Gifted & Black,01/01/1970,DAY,0.814,0.445,0.035,0.5130,0.0014,0.099,0.962
+12158075911,Reggae Classics,54,Put a Little Love In Your Heart,Young  Gifted & Black,01/01/1970,DAY,0.675,0.541,0.0456,0.4750,0.0014,0.165,0.887
+12158075911,Reggae Classics,55,Stalag 17,Double Barrel   The Best of Dave & Ansel Collins,01/01/1995,DAY,0.867,0.4,0.255,0.4080,0.7420,0.072,0.49
+12158075911,Reggae Classics,56,"Too Late - 7"" Mix",The Best of Gregory Isaacs,24/02/2017,DAY,0.921,0.445,0.313,0.0196,0.0001,0.0703,0.962
+12158075911,Reggae Classics,57,You Are My Angel,The Best of Horace Andy,06/05/2016,DAY,0.776,0.738,0.17,0.5090,0.0144,0.103,0.941
+12158075911,Reggae Classics,58,Another Day Is Dawning (aka There Is A Hope Somewhere),The Story Of Trojan Records,01/01/2011,DAY,0.73,0.567,0.144,0.5200,0.0016,0.063,0.804
+12158075911,Reggae Classics,59,Pirate,The Treasure Isle Story,28/07/2017,DAY,0.846,0.516,0.379,0.1410,0.0021,0.0724,0.799
+12158075911,Reggae Classics,60,Simmer Down Quashie,The Best of The Pioneers,26/05/2017,DAY,0.872,0.516,0.0587,0.2680,0.0043,0.218,0.961

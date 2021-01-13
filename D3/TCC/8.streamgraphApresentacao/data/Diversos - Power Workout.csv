@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Power Workout,APESHIT,EVERYTHING IS LOVE,18/06/18,DAY,0.706,0.785,0.271,0.0131,0.0000,0.164,0.377,1
+spotify,Power Workout,APESHIT,APESHIT,05/03/20,DAY,0.777,0.66,0.123,0.0152,0.0000,0.171,0.468,2
+spotify,Power Workout,Chicago Freestyle (feat. Giveon),Dark Lane Demo Tapes,01/05/20,DAY,0.735,0.449,0.347,0.6290,0.0000,0.113,0.0397,3
+spotify,Power Workout,DOLLAZ ON MY HEAD (feat. Young Thug),WUNNA,22/05/20,DAY,0.825,0.458,0.0577,0.1140,0.0000,0.102,0.161,4
+spotify,Power Workout,Make It Rain,Make It Rain,12/06/20,DAY,0.54,0.77,0.389,0.1940,0.0000,0.372,0.565,5
+spotify,Power Workout,Grandad,Roots,19/06/20,DAY,0.853,0.705,0.115,0.0173,0.2170,0.0625,0.961,6
+spotify,Power Workout,Don't Sleep,Don't Sleep,26/06/20,DAY,0.54,0.921,0.41,0.3040,0.0000,0.127,0.662,7
+spotify,Power Workout,Ego Death (feat. Kanye West- FKA twigs & Skrillex),Ego Death (feat. Kanye West  FKA twigs & Skrillex),01/07/20,DAY,0.813,0.615,0.132,0.0610,0.0000,0.654,0.321,8
+spotify,Power Workout,Kryptonite,Kryptonite,02/07/20,DAY,0.807,0.632,0.078,0.3260,0.1040,0.0906,0.56,9
+spotify,Power Workout,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.823,0.586,0.2,0.1140,0.0000,0.193,0.347,10
+spotify,Power Workout,The Woo (feat. 50 Cent & Roddy Ricch),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.49,0.618,0.104,0.0221,0.0000,0.259,0.286,11
+spotify,Power Workout,SWAG,SWAG,10/07/20,DAY,0.861,0.58,0.338,0.0188,0.0000,0.0767,0.805,12
+spotify,Power Workout,Buss It,Buss It,10/07/20,DAY,0.958,0.848,0.18,0.0006,0.0000,0.0937,0.726,13
+spotify,Power Workout,GREECE (feat. Drake),GREECE (feat. Drake),16/07/20,DAY,0.695,0.343,0.0432,0.0743,0.0000,0.107,0.229,14
+spotify,Power Workout,On Deck,On Deck,16/07/20,DAY,0.482,0.749,0.317,0.4070,0.0000,0.0911,0.611,15
+spotify,Power Workout,One Time,Rise Above Hate,17/07/20,DAY,0.709,0.727,0.345,0.3740,0.0000,0.106,0.758,16
+spotify,Power Workout,Addicts (feat. M Huncho),Rise Above Hate,17/07/20,DAY,0.95,0.426,0.119,0.0627,0.0000,0.0989,0.683,17
+spotify,Power Workout,Cafeteria (feat. Gunna),Cafeteria (feat. Gunna),24/07/20,DAY,0.696,0.672,0.0875,0.1310,0.0000,0.368,0.581,18
+spotify,Power Workout,Pilot,Pilot,24/07/20,DAY,0.712,0.83,0.338,0.1850,0.0000,0.136,0.559,19
+spotify,Power Workout,Narrow Road (feat. Lil Baby),Narrow Road (feat. Lil Baby),30/07/20,DAY,0.614,0.553,0.169,0.0306,0.0000,0.203,0.161,20
+spotify,Power Workout,Move Ya Hips (feat. Nicki Minaj & MadeinTYO),Move Ya Hips (feat. Nicki Minaj & MadeinTYO),30/07/20,DAY,0.809,0.68,0.222,0.0535,0.0000,0.11,0.0653,21
+spotify,Power Workout,Madness,Madness,12/08/20,DAY,0.823,0.585,0.332,0.0137,0.0000,0.0649,0.621,22
+spotify,Power Workout,24 (feat. Lil Baby),24 (feat. Lil Baby),14/08/20,DAY,0.868,0.638,0.0736,0.1460,0.0565,0.0931,0.459,23
+spotify,Power Workout,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),14/08/20,DAY,0.761,0.518,0.134,0.2440,0.0000,0.107,0.522,24
+spotify,Power Workout,Ain't It Different (feat. AJ Tracey & Stormzy),Ain't It Different (feat. AJ Tracey & Stormzy),20/08/20,DAY,0.767,0.569,0.216,0.0099,0.0000,0.109,0.524,25
+spotify,Power Workout,Bando Diaries,Bando Diaries,27/08/20,DAY,0.89,0.617,0.38,0.0519,0.0000,0.0815,0.706,26
+spotify,Power Workout,Lemonade (feat. Gunna- Don Toliver & NAV),B4 The Storm,28/08/20,DAY,0.8,0.658,0.079,0.2500,0.0000,0.111,0.462,27
+spotify,Power Workout,Airplane Mode (feat. NSG),Crabs In A Bucket,28/08/20,DAY,0.593,0.701,0.32,0.0343,0.0000,0.0841,0.727,28
+spotify,Power Workout,Clout,Crabs In A Bucket,28/08/20,DAY,0.722,0.677,0.308,0.0315,0.0000,0.096,0.484,29
+spotify,Power Workout,Red Card (feat. Skepta- Jammer- JME & Shorty),Red Card (feat. Skepta  Jammer  JME & Shorty),01/09/20,DAY,0.473,0.824,0.332,0.0590,0.0000,0.422,0.554,30
+spotify,Power Workout,Badman,Badman,18/09/20,DAY,0.715,0.712,0.19,0.3250,0.0000,0.313,0.617,31
+spotify,Power Workout,Said Sum,Code Red,18/09/20,DAY,0.929,0.667,0.353,0.0185,0.0000,0.1,0.274,32
+spotify,Power Workout,LITTLE NOKIA,LITTLE NOKIA,23/09/20,DAY,0.706,0.578,0.0564,0.2470,0.0000,0.793,0.625,33
+spotify,Power Workout,808 (feat. dutchavelli- DigDat & B Young),808 (feat. dutchavelli  DigDat & B Young),24/09/20,DAY,0.863,0.592,0.463,0.0686,0.0000,0.0876,0.633,34
+spotify,Power Workout,No Speaking,No Speaking,24/09/20,DAY,0.799,0.489,0.432,0.2080,0.0000,0.171,0.579,35
+spotify,Power Workout,FRANCHISE (feat. Young Thug & M.I.A.),FRANCHISE (feat. Young Thug & M.I.A.),25/09/20,DAY,0.835,0.699,0.277,0.0067,0.0000,0.195,0.547,36
+spotify,Power Workout,UFO,UFO,02/10/20,DAY,0.866,0.591,0.159,0.1020,0.0000,0.204,0.59,37
+spotify,Power Workout,NFL (feat. Gudda Gudda & HoodyBaby),NFL,05/10/20,DAY,0.784,0.596,0.311,0.0270,0.0000,0.465,0.361,38
+spotify,Power Workout,Sleepy Hollow,Sleepy Hollow,07/10/20,DAY,0.735,0.662,0.05,0.0104,0.0000,0.153,0.124,39
+spotify,Power Workout,Tell Me A Ting - Remix,Tell Me A Ting (Remix),08/10/20,DAY,0.556,0.907,0.32,0.0111,0.0000,0.401,0.506,40
+spotify,Power Workout,Killer Mc,Killer Mc,08/10/20,DAY,0.582,0.815,0.404,0.2190,0.0000,0.182,0.655,41
+spotify,Power Workout,Gorgeous,Gorgeous,09/10/20,DAY,0.86,0.7,0.0485,0.0462,0.0000,0.212,0.281,42
+spotify,Power Workout,Bumpy Ride (feat. M Huncho),EDNA,09/10/20,DAY,0.899,0.552,0.514,0.1050,0.0000,0.102,0.785,43
+spotify,Power Workout,Princess Cuts (feat. Young T & Bugsey),EDNA,09/10/20,DAY,0.576,0.597,0.318,0.1960,0.0000,0.049,0.885,44
+spotify,Power Workout,Cool With Me (feat. M1llionz),Cool With Me (feat. M1llionz),09/10/20,DAY,0.615,0.764,0.401,0.1580,0.0000,0.172,0.784,45
+spotify,Power Workout,Try Me (feat. Skepta),EDNA,09/10/20,DAY,0.942,0.751,0.332,0.1950,0.0000,0.14,0.888,46
+spotify,Power Workout,Déjà vu,Déjà vu,09/10/20,DAY,0.545,0.631,0.348,0.2020,0.0000,0.129,0.434,47
+spotify,Power Workout,PMW,PMW,15/10/20,DAY,0.683,0.591,0.431,0.3440,0.0000,0.0887,0.593,48
+spotify,Power Workout,Can't Let You Go,Can't Let You Go,15/10/20,DAY,0.799,0.646,0.0687,0.0230,0.0005,0.126,0.546,49
+spotify,Power Workout,That Guy (feat. JME and Devlin),The Familiar Stranger,16/10/20,DAY,0.527,0.931,0.391,0.0068,0.0000,0.286,0.664,50

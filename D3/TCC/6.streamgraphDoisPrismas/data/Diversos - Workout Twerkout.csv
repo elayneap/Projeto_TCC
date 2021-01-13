@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Workout Twerkout,Pop That,Excuse My French (Deluxe),01/01/13,DAY,0.734,0.892,0.125,0.0648,0.0000,0.58,0.605,1
+spotify,Workout Twerkout,Big Booty (feat. Megan Thee Stallion),Woptober II,18/10/19,DAY,0.826,0.767,0.215,0.0308,0.0000,0.113,0.436,2
+spotify,Workout Twerkout,Yikes,Yikes,07/02/20,DAY,0.911,0.637,0.447,0.0409,0.0000,0.238,0.66,3
+spotify,Workout Twerkout,I Like Him,Everything Sucks,26/02/20,DAY,0.893,0.579,0.113,0.0641,0.0001,0.215,0.611,4
+spotify,Workout Twerkout,Then Leave (feat. Queendome Come),Then Leave (feat. Queendome Come),27/03/20,DAY,0.912,0.568,0.476,0.0656,0.0001,0.0521,0.491,5
+spotify,Workout Twerkout,Savage Remix (feat. Beyoncé),Savage Remix (feat. Beyoncé),29/04/20,DAY,0.822,0.743,0.28,0.0160,0.0000,0.127,0.636,6
+spotify,Workout Twerkout,Go Crazy,Slime & B,08/05/20,DAY,0.755,0.578,0.145,0.3160,0.0000,0.25,0.581,7
+spotify,Workout Twerkout,Buss It,Buss It,15/05/20,DAY,0.918,0.434,0.173,0.5690,0.0000,0.123,0.75,8
+spotify,Workout Twerkout,Play Wit It,QuickTape,15/05/20,DAY,0.954,0.447,0.398,0.0429,0.0003,0.112,0.363,9
+spotify,Workout Twerkout,Bad Bitch Anthem,Red Flu,22/05/20,DAY,0.925,0.53,0.137,0.0331,0.0000,0.0675,0.395,10
+spotify,Workout Twerkout,Shimmy (with Doja Cat),Funeral (Deluxe),29/05/20,DAY,0.902,0.706,0.204,0.0459,0.0000,0.0682,0.955,11
+spotify,Workout Twerkout,Jobs,Jobs,19/06/20,DAY,0.884,0.592,0.3,0.0009,0.0001,0.0812,0.664,12
+spotify,Workout Twerkout,Like That Bitch,Like That Bitch,19/06/20,DAY,0.751,0.841,0.272,0.1060,0.0000,0.294,0.77,13
+spotify,Workout Twerkout,Pussy Talk,City On Lock,20/06/20,DAY,0.943,0.641,0.191,0.0016,0.0000,0.211,0.242,14
+spotify,Workout Twerkout,WHATS POPPIN (feat. DaBaby- Tory Lanez & Lil Wayne) - Remix,WHATS POPPIN (feat. DaBaby  Tory Lanez & Lil Wayne) [Remix],24/06/20,DAY,0.904,0.723,0.26,0.0631,0.0000,0.185,0.835,15
+spotify,Workout Twerkout,Girls in the Hood,Girls in the Hood,26/06/20,DAY,0.821,0.863,0.353,0.0082,0.0000,0.0377,0.874,16
+spotify,Workout Twerkout,Discounts,Discounts,26/06/20,DAY,0.791,0.81,0.352,0.0577,0.0000,0.116,0.867,17
+spotify,Workout Twerkout,Stuntin' On You (feat. DaBaby),Stuntin' On You (feat. DaBaby),17/07/20,DAY,0.796,0.683,0.277,0.0111,0.0000,0.126,0.737,18
+spotify,Workout Twerkout,Baby,Famous Cryp (Reloaded),24/07/20,DAY,0.949,0.55,0.277,0.1340,0.0000,0.0966,0.64,19
+spotify,Workout Twerkout,Back It Up (feat. LightSkinKeisha),Back It Up (feat. LightSkinKeisha),27/07/20,DAY,0.863,0.807,0.233,0.0137,0.0000,0.422,0.47,20
+spotify,Workout Twerkout,Muwop (feat. Gucci Mane),Muwop (feat. Gucci Mane),30/07/20,DAY,0.79,0.61,0.102,0.0613,0.0000,0.243,0.62,21
+spotify,Workout Twerkout,Move Ya Hips (feat. Nicki Minaj & MadeinTYO),Move Ya Hips (feat. Nicki Minaj & MadeinTYO),30/07/20,DAY,0.809,0.68,0.222,0.0535,0.0000,0.11,0.0653,22
+spotify,Workout Twerkout,Bussin 2.0 (with Saweetie),Bussin 2.0 (with Saweetie),31/07/20,DAY,0.859,0.714,0.267,0.1860,0.0000,0.0826,0.92,23
+spotify,Workout Twerkout,NO Hook,NO Hook,31/07/20,DAY,0.916,0.623,0.238,0.2090,0.0000,0.0582,0.91,24
+spotify,Workout Twerkout,BILLBOARD BABY,BLAME IT ON BABY (DELUXE),04/08/20,DAY,0.956,0.742,0.144,0.1900,0.0000,0.126,0.582,25
+spotify,Workout Twerkout,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),07/08/20,DAY,0.935,0.454,0.375,0.0194,0.0000,0.0824,0.357,26
+spotify,Workout Twerkout,Money Maker (feat. Lil Wayne),Money Maker (feat. Lil Wayne),07/08/20,DAY,0.804,0.862,0.182,0.1890,0.0000,0.174,0.721,27
+spotify,Workout Twerkout,Vibe (If I Back It Up),Vibe (If I Back It Up),13/08/20,DAY,0.668,0.684,0.0516,0.0082,0.1260,0.134,0.205,28
+spotify,Workout Twerkout,Shake Dat A$$,Shake Dat A$$,19/08/20,DAY,0.942,0.488,0.325,0.0073,0.0000,0.067,0.797,29
+spotify,Workout Twerkout,On God,Queen of Da Souf,21/08/20,DAY,0.905,0.528,0.0721,0.3510,0.0000,0.149,0.179,30
+spotify,Workout Twerkout,In n Out (feat. City Girls),Queen of Da Souf,21/08/20,DAY,0.898,0.748,0.275,0.5110,0.0000,0.171,0.661,31
+spotify,Workout Twerkout,Zoom,Zoom,24/08/20,DAY,0.874,0.392,0.153,0.2460,0.0000,0.359,0.543,32
+spotify,Workout Twerkout,Wake Up (feat. Mulatto),Wake Up (feat. Mulatto),26/08/20,DAY,0.887,0.662,0.124,0.0500,0.0000,0.293,0.725,33
+spotify,Workout Twerkout,Tap In (feat. Post Malone- DaBaby & Jack Harlow),Tap In (feat. Post Malone  DaBaby & Jack Harlow),28/08/20,DAY,0.948,0.63,0.219,0.0065,0.0000,0.0737,0.425,34
+spotify,Workout Twerkout,Make It Shake,4 da 304’s,28/08/20,DAY,0.91,0.388,0.395,0.0983,0.0000,0.568,0.622,35
+spotify,Workout Twerkout,Equinox (feat. Day Sulan),Equinox,28/08/20,DAY,0.907,0.852,0.158,0.0329,0.0003,0.299,0.232,36
+spotify,Workout Twerkout,B.R.A.T. (feat. Blac Youngsta),Clones,02/09/20,DAY,0.861,0.835,0.32,0.0171,0.0000,0.344,0.624,37
+spotify,Workout Twerkout,Down,Down,04/09/20,DAY,0.797,0.853,0.105,0.0007,0.0000,0.118,0.595,38
+spotify,Workout Twerkout,BFF,BFF,04/09/20,DAY,0.886,0.611,0.21,0.0036,0.0000,0.106,0.218,39
+spotify,Workout Twerkout,Money Mouf,Money Mouf,18/09/20,DAY,0.968,0.793,0.256,0.0014,0.0000,0.0814,0.793,40
+spotify,Workout Twerkout,Pogo (feat. K CAMP),Pogo (feat. K CAMP),18/09/20,DAY,0.875,0.565,0.108,0.0051,0.0000,0.312,0.398,41
+spotify,Workout Twerkout,Circus,Circus,02/10/20,DAY,0.836,0.673,0.343,0.0339,0.0000,0.0956,0.693,42
+spotify,Workout Twerkout,Don’t Stop (feat. Young Thug),Don’t Stop (feat. Young Thug),02/10/20,DAY,0.933,0.757,0.117,0.0018,0.0000,0.135,0.544,43
+spotify,Workout Twerkout,Gold Digger (feat. Dess Dior),Gold Digger (feat. Dess Dior),15/10/20,DAY,0.868,0.656,0.219,0.1970,0.0000,0.104,0.81,44
+spotify,Workout Twerkout,Buss It,Buss It,16/10/20,DAY,0.815,0.339,0.658,0.0014,0.0000,0.0904,0.447,45
+spotify,Workout Twerkout,Doin It Wrong - DJ iMarkkeyz Remix,Doin It Wrong (DJ iMarkkeyz Remix),16/10/20,DAY,0.889,0.791,0.216,0.0108,0.0010,0.303,0.35,46
+spotify,Workout Twerkout,Freak (feat. Quavo),Featuring Ty Dolla $ign,23/10/20,DAY,0.794,0.683,0.262,0.0265,0.0000,0.47,0.495,47
+spotify,Workout Twerkout,Hands On Ya Knees (feat. Kevin Gates),Hands On Ya Knees (feat. Kevin Gates),23/10/20,DAY,0.7,0.764,0.198,0.3280,0.0000,0.376,0.628,48
+spotify,Workout Twerkout,For Me,For Me,23/10/20,DAY,0.904,0.498,0.324,0.0092,0.0000,0.0791,0.145,49
+spotify,Workout Twerkout,THICK (feat. Megan Thee Stallion) - Remix,THICK (feat. Megan Thee Stallion) [Remix],30/10/20,DAY,0.877,0.747,0.365,0.0288,0.0000,0.273,0.679,50

@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Rock This: Best of 2017,Free Fallin',Full Moon Fever,01/01/89,DAY,0.623,0.449,0.0253,0.2120,0.0000,0.0613,0.572,1
+spotify,Rock This: Best of 2017,Heavydirtysoul,Blurryface,15/05/15,DAY,0.613,0.873,0.0449,0.0040,0.0011,0.367,0.392,2
+spotify,Rock This: Best of 2017,Oh No,That's The Spirit,11/09/15,DAY,0.505,0.827,0.0456,0.0063,0.0000,0.112,0.0974,3
+spotify,Rock This: Best of 2017,How Did You Love,Threat to Survival,18/09/15,DAY,0.331,0.75,0.0436,0.0001,0.0000,0.0945,0.26,4
+spotify,Rock This: Best of 2017,Cold Cold Cold,Tell Me I'm Pretty,18/12/15,DAY,0.549,0.789,0.0313,0.0178,0.0001,0.059,0.715,5
+spotify,Rock This: Best of 2017,Howl,Ellipsis (Deluxe),13/01/16,DAY,0.518,0.947,0.0396,0.0015,0.0000,0.336,0.629,6
+spotify,Rock This: Best of 2017,No Good,VINYL: Music From The HBO® Original Series   Vol. 1,12/02/16,DAY,0.363,0.889,0.172,0.0185,0.0007,0.391,0.589,7
+spotify,Rock This: Best of 2017,Hurricane,To Be Everywhere Is To Be Nowhere,27/05/16,DAY,0.281,0.814,0.0464,0.0002,0.0000,0.134,0.175,8
+spotify,Rock This: Best of 2017,7,The Ride,27/05/16,DAY,0.531,0.711,0.0398,0.0002,0.0029,0.108,0.279,9
+spotify,Rock This: Best of 2017,Hated,Aggressive,03/06/16,DAY,0.458,0.99,0.183,0.0003,0.0009,0.454,0.46,10
+spotify,Rock This: Best of 2017,Black Rose,Seal The Deal & Let's Boogie,03/06/16,DAY,0.488,0.884,0.0543,0.0091,0.0000,0.0839,0.495,11
+spotify,Rock This: Best of 2017,Goodbye Angels,The Getaway,17/06/16,DAY,0.365,0.804,0.105,0.1040,0.0001,0.15,0.577,12
+spotify,Rock This: Best of 2017,She's Out Of Her Mind,California,01/07/16,DAY,0.447,0.967,0.0793,0.0045,0.0000,0.487,0.606,13
+spotify,Rock This: Best of 2017,Go (Let Me Save You),State of Mind,12/08/16,DAY,0.468,0.915,0.0961,0.3040,0.0002,0.107,0.139,14
+spotify,Rock This: Best of 2017,Sweet Disaster,This Album Does Not Exist,26/08/16,DAY,0.515,0.821,0.0309,0.0079,0.0000,0.0787,0.425,15
+spotify,Rock This: Best of 2017,Square Hammer,Meliora (Deluxe Edition),16/09/16,DAY,0.53,0.903,0.0483,0.0000,0.1820,0.259,0.747,16
+spotify,Rock This: Best of 2017,Still Breathing,Revolution Radio,07/10/16,DAY,0.54,0.902,0.0442,0.0142,0.0000,0.0756,0.692,17
+spotify,Rock This: Best of 2017,Reverend,WALLS,14/10/16,DAY,0.448,0.815,0.0361,0.0867,0.6860,0.316,0.217,18
+spotify,Rock This: Best of 2017,Get Right,Integrity Blues,21/10/16,DAY,0.453,0.892,0.0381,0.0000,0.0013,0.35,0.586,19
+spotify,Rock This: Best of 2017,Alone,Lifelines,21/10/16,DAY,0.539,0.746,0.036,0.0032,0.0000,0.085,0.287,20
+spotify,Rock This: Best of 2017,Roman Sky,The Stage,28/10/16,DAY,0.457,0.425,0.0304,0.1310,0.0000,0.0917,0.128,21
+spotify,Rock This: Best of 2017,King,King,04/11/16,DAY,0.491,0.619,0.0285,0.0010,0.0000,0.115,0.458,22
+spotify,Rock This: Best of 2017,Adore,Adore,04/11/16,DAY,0.592,0.438,0.0391,0.1930,0.0000,0.0564,0.259,23
+spotify,Rock This: Best of 2017,Little One,The Boy Who Died Wolf,18/11/16,DAY,0.474,0.363,0.0295,0.0126,0.0000,0.109,0.11,24
+spotify,Rock This: Best of 2017,Jungle - Radio Edit,Jungle,19/12/16,DAY,0.536,0.722,0.0304,0.1790,0.0000,0.0947,0.532,25
+spotify,Rock This: Best of 2017,Make War,Make War,15/01/17,DAY,0.446,0.915,0.0416,0.0000,0.0000,0.481,0.28,26
+spotify,Rock This: Best of 2017,Lullaby,Modern Ruin,20/01/17,DAY,0.156,0.849,0.0664,0.0001,0.5540,0.0793,0.571,27
+spotify,Rock This: Best of 2017,Monster,Vessels,20/01/17,DAY,0.386,0.86,0.0543,0.0015,0.0000,0.0643,0.261,28
+spotify,Rock This: Best of 2017,Young Lady- You're Scaring Me,HEAVY META,03/02/17,DAY,0.371,0.921,0.0784,0.0113,0.0000,0.43,0.508,29
+spotify,Rock This: Best of 2017,Hellfire,The Dull Drums   EP,03/02/17,DAY,0.53,0.864,0.0498,0.2310,0.0000,0.258,0.704,30
+spotify,Rock This: Best of 2017,The Promise,The Promise,03/03/17,DAY,0.427,0.62,0.0332,0.2760,0.0000,0.125,0.328,31
+spotify,Rock This: Best of 2017,Suit And Jacket,Folk Hop N' Roll (Deluxe),10/03/17,DAY,0.452,0.58,0.0462,0.2220,0.0000,0.101,0.111,32
+spotify,Rock This: Best of 2017,Saviour,Wired,10/03/17,DAY,0.229,0.918,0.0729,0.0001,0.0000,0.214,0.269,33
+spotify,Rock This: Best of 2017,Cocoon,Blossom (Deluxe),17/03/17,DAY,0.743,0.659,0.0343,0.0998,0.0003,0.0622,0.804,34
+spotify,Rock This: Best of 2017,Bottom Of The Deep Blue Sea,Bottom Of The Deep Blue Sea,17/03/17,DAY,0.574,0.746,0.0302,0.0211,0.0001,0.108,0.261,35
+spotify,Rock This: Best of 2017,Show Yourself,Emperor of Sand,31/03/17,DAY,0.468,0.977,0.0645,0.0000,0.0213,0.0543,0.493,36
+spotify,Rock This: Best of 2017,Don't Take The Money,Don't Take The Money,31/03/17,DAY,0.633,0.884,0.0392,0.0004,0.0000,0.189,0.296,37
+spotify,Rock This: Best of 2017,Love Is Mystical,LA DIVINE,07/04/17,DAY,0.567,0.863,0.037,0.0046,0.0000,0.207,0.722,38
+spotify,Rock This: Best of 2017,High Enough,Every Where Is Some Where,07/04/17,DAY,0.368,0.619,0.0411,0.0304,0.0969,0.167,0.51,39
+spotify,Rock This: Best of 2017,Undefeated,8,21/04/17,DAY,0.36,0.846,0.0422,0.0000,0.0002,0.0883,0.303,40
+spotify,Rock This: Best of 2017,Thank God I'm Not You,Thank God I'm Not You,24/04/17,DAY,0.542,0.828,0.0536,0.0018,0.0136,0.06,0.785,41
+spotify,Rock This: Best of 2017,Down To The Bottom,Down To The Bottom,05/05/17,DAY,0.613,0.608,0.0263,0.0147,0.0000,0.245,0.523,42
+spotify,Rock This: Best of 2017,Oh No,Magic Valley,15/05/17,DAY,0.258,0.978,0.172,0.0005,0.0004,0.218,0.28,43
+spotify,Rock This: Best of 2017,One More Light,One More Light,19/05/17,DAY,0.593,0.2,0.0311,0.9040,0.0000,0.0897,0.17,44
+spotify,Rock This: Best of 2017,Born For Greatness,Crooked Teeth (Deluxe),19/05/17,DAY,0.525,0.85,0.0678,0.0571,0.0000,0.0555,0.275,45
+spotify,Rock This: Best of 2017,Battle Symphony,One More Light,19/05/17,DAY,0.653,0.839,0.0685,0.0369,0.0000,0.068,0.669,46
+spotify,Rock This: Best of 2017,Periscope (feat. Skylar Grey),Crooked Teeth (Deluxe),19/05/17,DAY,0.593,0.711,0.0301,0.2830,0.0000,0.208,0.25,47
+spotify,Rock This: Best of 2017,The Violence,Wolves,09/06/17,DAY,0.294,0.92,0.0635,0.0000,0.0002,0.0804,0.582,48
+spotify,Rock This: Best of 2017,J-Boy,Ti Amo,09/06/17,DAY,0.518,0.909,0.0475,0.0340,0.0094,0.141,0.634,49
+spotify,Rock This: Best of 2017,The Way You Used To Do,The Way You Used To Do,15/06/17,DAY,0.474,0.843,0.272,0.0102,0.1040,0.362,0.433,50
+spotify,Rock This: Best of 2017,Feel It Still,Woodstock,16/06/17,DAY,0.801,0.795,0.0504,0.0417,0.0001,0.0717,0.754,51
+spotify,Rock This: Best of 2017,Lights Out,How Did We Get So Dark?,16/06/17,DAY,0.501,0.824,0.0413,0.0001,0.0003,0.0922,0.57,52
+spotify,Rock This: Best of 2017,I Only Lie When I Love You,How Did We Get So Dark?,16/06/17,DAY,0.65,0.886,0.0483,0.0011,0.0001,0.334,0.88,53
+spotify,Rock This: Best of 2017,Believer,Evolve,23/06/17,DAY,0.776,0.78,0.128,0.0622,0.0000,0.081,0.666,54
+spotify,Rock This: Best of 2017,Song #3,Hydrograd,30/06/17,DAY,0.481,0.945,0.0813,0.0026,0.0000,0.135,0.427,55
+spotify,Rock This: Best of 2017,Sober Up (feat. Rivers Cuomo),The Click,30/06/17,DAY,0.647,0.616,0.0272,0.2770,0.0000,0.0816,0.79,56
+spotify,Rock This: Best of 2017,Sweat,Sweat,07/07/17,DAY,0.647,0.512,0.0714,0.0017,0.0001,0.0689,0.695,57
+spotify,Rock This: Best of 2017,She Said,Youth is Only Ever Fun in Retrospect,07/07/17,DAY,0.422,0.949,0.0694,0.0003,0.0000,0.073,0.635,58
+spotify,Rock This: Best of 2017,Lay It on Me,Lay It on Me,12/07/17,DAY,0.728,0.673,0.0318,0.0964,0.0000,0.0695,0.489,59
+spotify,Rock This: Best of 2017,One Night Only,One Night Only,14/07/17,DAY,0.204,0.897,0.0986,0.0128,0.0000,0.523,0.317,60
+spotify,Rock This: Best of 2017,Sit Next to Me,Sacred Hearts Club,21/07/17,DAY,0.638,0.738,0.0292,0.1170,0.0004,0.689,0.657,61
+spotify,Rock This: Best of 2017,Less Than,Add Violence,21/07/17,DAY,0.521,0.934,0.0793,0.0456,0.8860,0.204,0.238,62
+spotify,Rock This: Best of 2017,It's A Trip!,Content,28/07/17,DAY,0.673,0.716,0.0291,0.0880,0.0026,0.209,0.727,63
+spotify,Rock This: Best of 2017,Creature Comfort,Everything Now,28/07/17,DAY,0.423,0.949,0.0972,0.0181,0.0036,0.292,0.278,64
+spotify,Rock This: Best of 2017,Thunder,Plastic Soul,04/08/17,DAY,0.467,0.93,0.041,0.0002,0.0006,0.13,0.249,65
+spotify,Rock This: Best of 2017,In Bloom,The Peace And The Panic,18/08/17,DAY,0.593,0.958,0.048,0.0035,0.0000,0.101,0.378,66
+spotify,Rock This: Best of 2017,Legendary,Legendary   EP,25/08/17,DAY,0.532,0.652,0.0428,0.0534,0.0000,0.102,0.439,67
+spotify,Rock This: Best of 2017,What's Wrong,All We Know Of Heaven  All We Need Of Hell,25/08/17,DAY,0.502,0.945,0.103,0.0514,0.0058,0.0897,0.326,68
+spotify,Rock This: Best of 2017,Pain,A Deeper Understanding,25/08/17,DAY,0.523,0.833,0.0405,0.0039,0.0003,0.0841,0.482,69
+spotify,Rock This: Best of 2017,Freeze Me,Outrage! Is Now,08/09/17,DAY,0.511,0.724,0.0311,0.0008,0.0002,0.23,0.536,70
+spotify,Rock This: Best of 2017,Come Together,Come Together,08/09/17,DAY,0.447,0.788,0.0464,0.0026,0.0000,0.0744,0.505,71
+spotify,Rock This: Best of 2017,Sorry,Broken Machine (Deluxe),08/09/17,DAY,0.666,0.776,0.0281,0.0024,0.0000,0.134,0.518,72
+spotify,Rock This: Best of 2017,The Sky Is A Neighborhood,Concrete and Gold,15/09/17,DAY,0.358,0.549,0.0693,0.0008,0.0050,0.22,0.533,73
+spotify,Rock This: Best of 2017,Go To War,The Stories We Tell Ourselves,15/09/17,DAY,0.461,0.892,0.0901,0.0019,0.0000,0.0942,0.35,74
+spotify,Rock This: Best of 2017,Run,Concrete and Gold,15/09/17,DAY,0.359,0.893,0.0665,0.0000,0.0955,0.751,0.185,75
+spotify,Rock This: Best of 2017,Living On The 110,Prophets Of Rage,15/09/17,DAY,0.569,0.95,0.0438,0.0003,0.0418,0.0842,0.782,76
+spotify,Rock This: Best of 2017,The Man,Wonderful Wonderful,22/09/17,DAY,0.606,0.942,0.115,0.0737,0.0000,0.0709,0.519,77
+spotify,Rock This: Best of 2017,The Wanting,Destroyers of the Soft Life,29/09/17,DAY,0.55,0.931,0.0372,0.0525,0.0000,0.0531,0.427,78
+spotify,Rock This: Best of 2017,For What It's Worth,As You Were (Deluxe Edition),06/10/17,DAY,0.489,0.835,0.0332,0.0075,0.0000,0.146,0.444,79
+spotify,Rock This: Best of 2017,KILL4ME,Heaven Upside Down,06/10/17,DAY,0.635,0.688,0.0346,0.0023,0.0000,0.507,0.389,80
+spotify,Rock This: Best of 2017,One of Us,Lost in Translation,06/10/17,DAY,0.503,0.908,0.0598,0.2160,0.0000,0.366,0.857,81
+spotify,Rock This: Best of 2017,Vacation,SWIM TEAM,13/10/17,DAY,0.739,0.754,0.035,0.0431,0.0000,0.0999,0.793,82
+spotify,Rock This: Best of 2017,Up All Night,Colors,13/10/17,DAY,0.635,0.909,0.0553,0.0038,0.0852,0.239,0.639,83
+spotify,Rock This: Best of 2017,Judas,Judas,13/10/17,DAY,0.418,0.907,0.0584,0.0001,0.0004,0.346,0.473,84
+spotify,Rock This: Best of 2017,hometown,hometown,25/10/17,DAY,0.315,0.826,0.0636,0.0006,0.0007,0.0703,0.359,85
+spotify,Rock This: Best of 2017,Rx (Medicate),Wake Up Call,27/10/17,DAY,0.639,0.71,0.0275,0.0133,0.0000,0.118,0.378,86
+spotify,Rock This: Best of 2017,Feels Like Summer,Pacific Daydream,27/10/17,DAY,0.53,0.867,0.0504,0.0200,0.0002,0.737,0.74,87
+spotify,Rock This: Best of 2017,Over and Over Again,The Canyon,27/10/17,DAY,0.361,0.806,0.0679,0.0176,0.0023,0.0982,0.59,88
+spotify,Rock This: Best of 2017,So Tied Up - moreBishop,SO SO SO SO Tied Up,31/10/17,DAY,0.607,0.912,0.0461,0.0488,0.0009,0.154,0.819,89
+spotify,Rock This: Best of 2017,American Attraction,American Fall,03/11/17,DAY,0.597,0.907,0.0519,0.0001,0.0000,0.116,0.659,90
+spotify,Rock This: Best of 2017,Highway Tune,From The Fires,10/11/17,DAY,0.582,0.962,0.0542,0.0096,0.1280,0.283,0.506,91
+spotify,Rock This: Best of 2017,We Fight,We Fight,15/11/17,DAY,0.51,0.894,0.0559,0.0071,0.0001,0.092,0.539,92
+spotify,Rock This: Best of 2017,Holy Mountain,Who Built The Moon?,24/11/17,DAY,0.429,0.974,0.0419,0.0000,0.5630,0.577,0.724,93
+spotify,Rock This: Best of 2017,American Soul,Songs Of Experience (Deluxe Edition),01/12/17,DAY,0.58,0.801,0.0577,0.0367,0.0000,0.261,0.371,94
+spotify,Rock This: Best of 2017,Champion,MANIA,19/01/18,DAY,0.31,0.905,0.253,0.0009,0.0000,0.431,0.309,95
+spotify,Rock This: Best of 2017,Passion,Here Come the Runts,02/02/18,DAY,0.653,0.869,0.0571,0.0611,0.1190,0.187,0.796,96
+spotify,Rock This: Best of 2017,Walk On Water,AMERICA,06/04/18,DAY,0.495,0.787,0.0368,0.0001,0.0000,0.167,0.388,97
+spotify,Rock This: Best of 2017,The Doomed,Eat The Elephant,20/04/18,DAY,0.367,0.903,0.175,0.0477,0.0012,0.235,0.239,98
+spotify,Rock This: Best of 2017,Dream,Church Of Scars,20/04/18,DAY,0.592,0.674,0.0402,0.0914,0.0000,0.331,0.338,99
+spotify,Rock This: Best of 2017,Dig Down,Simulation Theory (Super Deluxe),09/11/18,DAY,0.428,0.429,0.049,0.0879,0.0004,0.168,0.182,100

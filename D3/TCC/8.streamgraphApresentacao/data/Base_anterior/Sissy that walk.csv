@@ -1,0 +1,43 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+12154977371,Sissy that walk,Like a Virgin,The Immaculate Collection,09/11/90,DAY,0.806,0.637,0.0385,0.2460,0.0010,0.0842,0.962,1
+12154977371,Sissy that walk,Papa Don't Preach,The Immaculate Collection,09/11/90,DAY,0.811,0.816,0.0344,0.4590,0.0000,0.0543,0.944,2
+12154977371,Sissy that walk,Like a Prayer,The Immaculate Collection,09/11/90,DAY,0.705,0.693,0.0455,0.0180,0.0000,0.441,0.444,3
+12154977371,Sissy that walk,Cherish,The Immaculate Collection,09/11/90,DAY,0.678,0.783,0.0478,0.3280,0.0001,0.047,0.802,4
+12154977371,Sissy that walk,Jumpin'- Jumpin',The Writing's On The Wall,27/07/99,DAY,0.771,0.685,0.0567,0.0054,0.0016,0.0537,0.683,5
+12154977371,Sissy that walk,Say My Name,The Writing's On The Wall,27/07/99,DAY,0.713,0.678,0.102,0.2730,0.0000,0.149,0.734,6
+12154977371,Sissy that walk,Bills- Bills- Bills,The Writing's On The Wall,27/07/99,DAY,0.845,0.576,0.153,0.1390,0.0000,0.0764,0.461,7
+12154977371,Sissy that walk,La Tortura (feat. Alejandro Sanz),Fijación Oral  Vol. 1,03/06/05,DAY,0.74,0.783,0.0427,0.0297,0.0003,0.123,0.812,8
+12154977371,Sissy that walk,Hips Don't Lie (feat. Wyclef Jean),Oral Fixation  Vol. 2 (Expanded Edition),28/11/05,DAY,0.778,0.824,0.0712,0.2840,0.0000,0.405,0.756,9
+12154977371,Sissy that walk,SOS,A Girl Like Me,10/04/06,DAY,0.677,0.671,0.0361,0.0040,0.0001,0.413,0.527,10
+12154977371,Sissy that walk,Upgrade U (feat. Jay-Z),B'Day Deluxe Edition,29/05/07,DAY,0.593,0.68,0.335,0.0018,0.0000,0.31,0.483,11
+12154977371,Sissy that walk,Just Dance,The Fame,01/01/08,DAY,0.822,0.739,0.0311,0.0264,0.0000,0.181,0.745,12
+12154977371,Sissy that walk,Poker Face,The Fame,01/01/08,DAY,0.851,0.806,0.0787,0.1180,0.0000,0.121,0.787,13
+12154977371,Sissy that walk,Paparazzi,The Fame,01/01/08,DAY,0.762,0.692,0.0438,0.1130,0.0000,0.094,0.397,14
+12154977371,Sissy that walk,Video Phone,I AM...SASHA FIERCE,14/11/08,DAY,0.479,0.763,0.178,0.0024,0.0353,0.383,0.608,15
+12154977371,Sissy that walk,Single Ladies (Put a Ring on It),I AM...SASHA FIERCE,14/11/08,DAY,0.426,0.584,0.296,0.0383,0.0000,0.188,0.272,16
+12154977371,Sissy that walk,Halo,I AM...SASHA FIERCE,17/11/08,DAY,0.508,0.72,0.0628,0.2720,0.0000,0.0563,0.472,17
+12154977371,Sissy that walk,Bad Romance,The Fame Monster (Deluxe Edition),05/11/09,DAY,0.696,0.921,0.0363,0.0031,0.0001,0.0842,0.714,18
+12154977371,Sissy that walk,LoveGame,The Fame Monster (Deluxe Edition),05/11/09,DAY,0.894,0.678,0.0523,0.0057,0.0000,0.317,0.844,19
+12154977371,Sissy that walk,Beautiful- Dirty- Rich,The Fame Monster (Deluxe Edition),05/11/09,DAY,0.782,0.906,0.152,0.0170,0.0503,0.293,0.697,20
+12154977371,Sissy that walk,Telephone,The Fame Monster (International Deluxe),18/11/09,DAY,0.825,0.832,0.0403,0.0059,0.0008,0.114,0.713,21
+12154977371,Sissy that walk,Alejandro,The Fame Monster (International Deluxe),18/11/09,DAY,0.626,0.799,0.046,0.0004,0.0016,0.36,0.369,22
+12154977371,Sissy that walk,Man Down,Loud,16/11/10,DAY,0.47,0.904,0.177,0.0436,0.0000,0.0491,0.557,23
+12154977371,Sissy that walk,Born This Way,Born This Way (International Special Edition Version),23/05/11,DAY,0.587,0.828,0.161,0.0033,0.0000,0.331,0.494,24
+12154977371,Sissy that walk,Stay,Unapologetic (Deluxe),11/12/12,DAY,0.621,0.31,0.0283,0.9450,0.0001,0.117,0.125,25
+12154977371,Sissy that walk,Dark Horse,PRISM (Deluxe),18/10/13,DAY,0.645,0.585,0.0513,0.0031,0.0000,0.165,0.353,26
+12154977371,Sissy that walk,Applause,ARTPOP,11/11/13,DAY,0.669,0.78,0.053,0.0265,0.0000,0.143,0.738,27
+12154977371,Sissy that walk,G.U.Y.,ARTPOP,11/11/13,DAY,0.616,0.919,0.0401,0.0141,0.0000,0.117,0.572,28
+12154977371,Sissy that walk,Sissy That Walk,Born Naked,24/02/14,DAY,0.826,0.614,0.0561,0.0191,0.0172,0.0865,0.591,29
+12154977371,Sissy that walk,Can't Remember to Forget You (feat. Rihanna),Shakira. (Expanded Edition),14/03/14,DAY,0.694,0.81,0.0661,0.1220,0.0000,0.141,0.824,30
+12154977371,Sissy that walk,07/nov,BEYONCÉ [Platinum Edition],24/11/14,DAY,0.747,0.705,0.126,0.0128,0.0000,0.126,0.56,31
+12154977371,Sissy that walk,Work,ANTI (Deluxe),28/01/16,DAY,0.725,0.534,0.0946,0.0752,0.0000,0.0919,0.558,32
+12154977371,Sissy that walk,Love On The Brain,ANTI (Deluxe),28/01/16,DAY,0.509,0.637,0.0471,0.0717,0.0000,0.0789,0.378,33
+12154977371,Sissy that walk,Into You,Dangerous Woman,20/05/16,DAY,0.623,0.734,0.107,0.0162,0.0000,0.145,0.37,34
+12154977371,Sissy that walk,Dangerous Woman,Dangerous Woman,20/05/16,DAY,0.664,0.602,0.0412,0.0529,0.0000,0.356,0.289,35
+12154977371,Sissy that walk,Side To Side,Dangerous Woman,20/05/16,DAY,0.65,0.736,0.229,0.0528,0.0000,0.235,0.613,36
+12154977371,Sissy that walk,Chantaje (feat. Maluma),El Dorado,26/05/17,DAY,0.852,0.773,0.0776,0.1870,0.0000,0.159,0.907,37
+12154977371,Sissy that walk,New Rules,Dua Lipa (Deluxe),02/06/17,DAY,0.762,0.7,0.0694,0.0026,0.0000,0.153,0.608,38
+12154977371,Sissy that walk,no tears left to cry,Sweetener,17/08/18,DAY,0.699,0.713,0.0594,0.0400,0.0000,0.294,0.354,39
+12154977371,Sissy that walk,7 rings,thank u  next,08/02/19,DAY,0.778,0.317,0.334,0.5920,0.0000,0.0881,0.327,40
+12154977371,Sissy that walk,thank u- next,thank u  next,08/02/19,DAY,0.717,0.653,0.0658,0.2290,0.0000,0.101,0.412,41
+12154977371,Sissy that walk,Don't Start Now,Future Nostalgia,27/03/20,DAY,0.793,0.793,0.083,0.0123,0.0000,0.0951,0.679,42

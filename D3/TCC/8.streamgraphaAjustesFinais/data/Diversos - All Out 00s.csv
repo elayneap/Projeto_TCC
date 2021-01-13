@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,All Out 00s,Be With You,Enrique,01/01/99,DAY,0.683,0.866,0.0329,0.0395,0.0016,0.0483,0.542,1
+spotify,All Out 00s,Amazed,Lonely Grill,01/07/99,YEAR,0.561,0.543,0.0324,0.2600,0.0000,0.124,0.243,2
+spotify,All Out 00s,Butterfly,The Gift Of Game,04/11/99,DAY,0.736,0.811,0.081,0.0013,0.0001,0.107,0.609,3
+spotify,All Out 00s,Rock DJ,Sing When You're Winning,01/01/00,DAY,0.708,0.772,0.0322,0.0267,0.0000,0.467,0.861,4
+spotify,All Out 00s,Breathless,In Blue,01/01/00,DAY,0.607,0.82,0.0597,0.0541,0.0001,0.269,0.768,5
+spotify,All Out 00s,Beautiful Day,All That You Can't Leave Behind,01/01/00,DAY,0.536,0.928,0.0589,0.0154,0.0013,0.2,0.389,6
+spotify,All Out 00s,911 (feat. Mary J. Blige),The Ecleftic  2 Sides II A Book,01/05/00,DAY,0.72,0.666,0.227,0.2430,0.0000,0.0872,0.707,7
+spotify,All Out 00s,Oops!...I Did It Again,Oops!... I Did It Again,16/05/00,DAY,0.751,0.834,0.0437,0.3000,0.0000,0.355,0.894,8
+spotify,All Out 00s,Yellow,Parachutes,10/07/00,DAY,0.429,0.661,0.0281,0.0024,0.0001,0.234,0.285,9
+spotify,All Out 00s,It Wasn't Me,Hot Shot,08/08/00,DAY,0.853,0.606,0.0713,0.0561,0.0000,0.313,0.654,10
+spotify,All Out 00s,Pure Shores,Saints & Sinners,16/08/00,DAY,0.631,0.664,0.0242,0.0498,0.0004,0.0696,0.407,11
+spotify,All Out 00s,Out Of Reach,Rise,01/01/01,DAY,0.51,0.48,0.0452,0.5030,0.0000,0.106,0.496,12
+spotify,All Out 00s,Let Me Blow Ya Mind,Scorpion,01/01/01,DAY,0.908,0.557,0.107,0.2420,0.0000,0.0709,0.897,13
+spotify,All Out 00s,Survivor,Survivor,01/05/01,DAY,0.514,0.911,0.41,0.0559,0.0000,0.775,0.619,14
+spotify,All Out 00s,Bootylicious,Survivor,01/05/01,DAY,0.84,0.835,0.275,0.0028,0.0000,0.152,0.637,15
+spotify,All Out 00s,Everywhere,The Spirit Room,31/07/01,DAY,0.523,0.828,0.0762,0.0136,0.0003,0.165,0.476,16
+spotify,All Out 00s,U Remind Me,8701,07/08/01,DAY,0.657,0.629,0.0782,0.1940,0.0000,0.254,0.726,17
+spotify,All Out 00s,Your Body Is a Wonderland,Room For Squares,16/08/01,DAY,0.647,0.729,0.0236,0.0206,0.0489,0.134,0.687,18
+spotify,All Out 00s,World of Our Own,World of Our Own,01/09/01,DAY,0.707,0.761,0.0341,0.0163,0.0000,0.0627,0.923,19
+spotify,All Out 00s,I'm a Slave 4 U,Britney (Digital Deluxe Version),31/10/01,DAY,0.847,0.843,0.106,0.4150,0.0001,0.107,0.963,20
+spotify,All Out 00s,Complicated,Let Go,04/06/02,DAY,0.585,0.776,0.0459,0.0572,0.0000,0.3,0.427,21
+spotify,All Out 00s,Dilemma,Nellyville,25/06/02,DAY,0.727,0.552,0.14,0.2270,0.0002,0.198,0.607,22
+spotify,All Out 00s,If You're Not The One,Gotta Get Thru This,01/07/02,YEAR,0.688,0.538,0.0292,0.5040,0.0000,0.111,0.27,23
+spotify,All Out 00s,She Will Be Loved - Radio Mix,Songs About Jane: 10th Anniversary Edition,01/07/02,YEAR,0.651,0.663,0.0281,0.2280,0.0000,0.0994,0.465,24
+spotify,All Out 00s,This Love,Songs About Jane: 10th Anniversary Edition,01/07/02,YEAR,0.712,0.862,0.0378,0.0525,0.0000,0.093,0.809,25
+spotify,All Out 00s,Beautiful,Stripped,19/07/02,DAY,0.456,0.573,0.0275,0.5780,0.0000,0.114,0.0992,26
+spotify,All Out 00s,Clocks,A Rush of Blood to the Head,08/08/02,DAY,0.577,0.749,0.0279,0.5990,0.0115,0.183,0.255,27
+spotify,All Out 00s,The Scientist,A Rush of Blood to the Head,08/08/02,DAY,0.557,0.442,0.0243,0.7310,0.0000,0.11,0.213,28
+spotify,All Out 00s,All My Life,One By One (Expanded Edition),22/10/02,DAY,0.58,0.604,0.047,0.0002,0.0006,0.477,0.645,29
+spotify,All Out 00s,Rock Your Body,Justified,04/11/02,DAY,0.891,0.714,0.14,0.2020,0.0002,0.0521,0.818,30
+spotify,All Out 00s,Here Without You,Away From The Sun,12/11/02,DAY,0.557,0.533,0.0252,0.0492,0.0000,0.205,0.233,31
+spotify,All Out 00s,Where Is The Love?,Elephunk,01/01/03,DAY,0.835,0.687,0.184,0.1010,0.0000,0.132,0.828,32
+spotify,All Out 00s,In Da Club,Get Rich Or Die Tryin',06/02/03,DAY,0.899,0.713,0.366,0.2550,0.0000,0.0708,0.777,33
+spotify,All Out 00s,Hit 'Em up Style (Oops!),Bittersweet,11/06/03,DAY,0.698,0.722,0.0799,0.1730,0.0000,0.289,0.67,34
+spotify,All Out 00s,Crazy in Love (feat. Jay-Z),Crazy In Love,30/06/03,DAY,0.646,0.72,0.206,0.0006,0.0000,0.0556,0.64,35
+spotify,All Out 00s,Hey Ya! - Radio Mix,Speakerboxxx/The Love Below,01/07/03,YEAR,0.727,0.974,0.0664,0.1030,0.0005,0.174,0.965,36
+spotify,All Out 00s,White Flag,Life For Rent,01/07/03,YEAR,0.509,0.537,0.0383,0.3440,0.0000,0.0805,0.315,37
+spotify,All Out 00s,Lose Yourself - From "8 Mile" Soundtrack,Just Lose It,01/01/04,DAY,0.686,0.735,0.264,0.0092,0.0007,0.342,0.0596,38
+spotify,All Out 00s,Drop It Like It's Hot,R&G (Rhythm & Gangsta): The Masterpiece,01/01/04,DAY,0.892,0.628,0.216,0.1690,0.0000,0.102,0.676,39
+spotify,All Out 00s,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),23/03/04,DAY,0.894,0.791,0.112,0.0183,0.0000,0.0388,0.583,40
+spotify,All Out 00s,Take Me Out,Franz Ferdinand,01/07/04,YEAR,0.278,0.676,0.0371,0.0004,0.0009,0.136,0.494,41
+spotify,All Out 00s,Unwritten,Unwritten,30/08/04,DAY,0.706,0.801,0.0399,0.0058,0.0000,0.0822,0.63,42
+spotify,All Out 00s,One- Two Step (feat. Missy Elliott),Goodies,27/09/04,DAY,0.944,0.511,0.161,0.0420,0.0011,0.0379,0.842,43
+spotify,All Out 00s,Hollaback Girl,Love Angel Music Baby,22/11/04,DAY,0.926,0.916,0.0929,0.3500,0.0000,0.0234,0.904,44
+spotify,All Out 00s,Push The Button,Taller In More Ways,01/01/05,DAY,0.962,0.657,0.0618,0.0476,0.0000,0.0739,0.791,45
+spotify,All Out 00s,Don't Cha,PCD,01/01/05,DAY,0.875,0.631,0.099,0.0054,0.0000,0.127,0.549,46
+spotify,All Out 00s,Since U Been Gone,Since U Been Gone,01/01/05,DAY,0.664,0.741,0.0343,0.0017,0.0502,0.113,0.409,47
+spotify,All Out 00s,Best of You,In Your Honor,14/06/05,DAY,0.366,0.94,0.0696,0.0008,0.0001,0.188,0.369,48
+spotify,All Out 00s,Goodbye My Lover,Back to Bedlam,08/08/05,DAY,0.432,0.261,0.0512,0.9530,0.0034,0.0903,0.273,49
+spotify,All Out 00s,You're Beautiful,Back to Bedlam,08/08/05,DAY,0.675,0.479,0.0278,0.6330,0.0000,0.088,0.454,50
+spotify,All Out 00s,Pon de Replay,Music Of The Sun,29/08/05,DAY,0.779,0.64,0.159,0.0002,0.0008,0.101,0.498,51
+spotify,All Out 00s,Gold Digger,Late Registration,30/08/05,DAY,0.629,0.696,0.348,0.0195,0.0000,0.0554,0.623,52
+spotify,All Out 00s,Bye Bye Bye,Greatest Hits,21/10/05,DAY,0.571,0.87,0.0641,0.0198,0.0000,0.0564,0.813,53
+spotify,All Out 00s,Hips Don't Lie (feat. Wyclef Jean),Oral Fixation  Vol. 2 (Expanded Edition),28/11/05,DAY,0.778,0.824,0.0712,0.2840,0.0000,0.405,0.756,54
+spotify,All Out 00s,Ordinary People,Get Lifted,06/12/05,DAY,0.469,0.132,0.0807,0.9290,0.0000,0.0873,0.36,55
+spotify,All Out 00s,You Give Me Something,Undiscovered (International Version),01/01/06,DAY,0.559,0.688,0.114,0.2160,0.0000,0.0855,0.578,56
+spotify,All Out 00s,Young Folks,Writer's Block,01/01/06,DAY,0.699,0.812,0.0377,0.0164,0.0008,0.105,0.662,57
+spotify,All Out 00s,One More Time - Radio Edit [Short Radio Edit],Musique  Vol. 1,31/03/06,DAY,0.648,0.671,0.104,0.0348,0.0000,0.376,0.533,58
+spotify,All Out 00s,Crazy,St. Elsewhere,24/04/06,DAY,0.855,0.587,0.0336,0.0505,0.0071,0.105,0.64,59
+spotify,All Out 00s,Starlight,Black Holes and Revelations,19/06/06,DAY,0.55,0.874,0.0321,0.0004,0.0000,0.206,0.318,60
+spotify,All Out 00s,Everytime We Touch,Platinum,01/07/06,YEAR,0.633,0.976,0.0519,0.0028,0.0000,0.382,0.493,61
+spotify,All Out 00s,Love Is A Losing Game,Back To Black (Deluxe Edition),01/07/06,YEAR,0.484,0.293,0.0311,0.3370,0.0063,0.146,0.562,62
+spotify,All Out 00s,SexyBack (feat. Timbaland),FutureSex/LoveSounds,12/09/06,DAY,0.967,0.583,0.0789,0.0584,0.0000,0.0519,0.964,63
+spotify,All Out 00s,Back To Black,Back To Black,27/10/06,DAY,0.49,0.725,0.0392,0.1230,0.0000,0.0983,0.335,64
+spotify,All Out 00s,Rehab,Back To Black,27/10/06,DAY,0.434,0.872,0.0702,0.0473,0.0000,0.396,0.732,65
+spotify,All Out 00s,About You Now,About You Now,01/01/07,DAY,0.547,0.707,0.0417,0.0001,0.0000,0.551,0.582,66
+spotify,All Out 00s,Potential Breakup Song,Insomniatic,01/01/07,DAY,0.572,0.89,0.039,0.0008,0.0094,0.564,0.765,67
+spotify,All Out 00s,Apologize,Shock Value,01/01/07,DAY,0.653,0.604,0.0278,0.0292,0.0000,0.097,0.101,68
+spotify,All Out 00s,Irreplaceable,B'Day Deluxe Edition,29/05/07,DAY,0.447,0.694,0.382,0.0293,0.0000,0.167,0.509,69
+spotify,All Out 00s,Love Song,Little Voice,03/07/07,DAY,0.583,0.786,0.0301,0.0208,0.0000,0.188,0.573,70
+spotify,All Out 00s,No Air (feat. Chris Brown),Jordin Sparks,20/11/07,DAY,0.466,0.759,0.199,0.0521,0.0000,0.0587,0.328,71
+spotify,All Out 00s,Kids,Oracular Spectacular,14/12/07,DAY,0.451,0.931,0.0719,0.0008,0.0049,0.361,0.172,72
+spotify,All Out 00s,Just Dance,The Fame,01/01/08,DAY,0.822,0.739,0.0311,0.0264,0.0000,0.181,0.745,73
+spotify,All Out 00s,Broken Strings,Songs For You  Truths For Me (International Exclusive Bundle),01/01/08,DAY,0.57,0.717,0.029,0.0097,0.0000,0.0833,0.321,74
+spotify,All Out 00s,Poker Face,The Fame,01/01/08,DAY,0.851,0.806,0.0787,0.1180,0.0000,0.121,0.787,75
+spotify,All Out 00s,Make You Feel My Love,19,28/01/08,DAY,0.552,0.18,0.0293,0.8940,0.0004,0.105,0.0896,76
+spotify,All Out 00s,Chasing Pavements,19,28/01/08,DAY,0.621,0.473,0.0251,0.3120,0.0000,0.11,0.325,77
+spotify,All Out 00s,I'm Yours,I'm Yours,12/02/08,DAY,0.689,0.432,0.0452,0.5640,0.0000,0.0928,0.747,78
+spotify,All Out 00s,Viva La Vida,Viva La Vida or Death and All His Friends,26/05/08,DAY,0.485,0.619,0.0289,0.0941,0.0000,0.109,0.416,79
+spotify,All Out 00s,Don't Stop The Music,Good Girl Gone Bad: Reloaded,02/06/08,DAY,0.835,0.669,0.0643,0.0336,0.0001,0.0535,0.542,80
+spotify,All Out 00s,Umbrella,Good Girl Gone Bad: Reloaded,02/06/08,DAY,0.583,0.829,0.134,0.0086,0.0000,0.0426,0.575,81
+spotify,All Out 00s,I Kissed A Girl,One Of The Boys,17/06/08,DAY,0.699,0.76,0.0677,0.0022,0.0000,0.132,0.696,82
+spotify,All Out 00s,Mercy,Rockferry,01/07/08,YEAR,0.793,0.859,0.0332,0.2660,0.0004,0.133,0.964,83
+spotify,All Out 00s,Warwick Avenue,Rockferry,01/07/08,YEAR,0.493,0.59,0.0392,0.3390,0.0000,0.121,0.502,84
+spotify,All Out 00s,Sex on Fire,Only By The Night,23/09/08,DAY,0.542,0.905,0.054,0.0017,0.0104,0.136,0.374,85
+spotify,All Out 00s,Love Story,Fearless (Big Machine Radio Release Special),11/11/08,DAY,0.617,0.741,0.0311,0.1310,0.0000,0.0772,0.306,86
+spotify,All Out 00s,Single Ladies (Put a Ring on It),I AM...SASHA FIERCE,17/11/08,DAY,0.426,0.584,0.296,0.0383,0.0000,0.188,0.272,87
+spotify,All Out 00s,Halo,I AM...SASHA FIERCE,17/11/08,DAY,0.508,0.72,0.0628,0.2720,0.0000,0.0563,0.472,88
+spotify,All Out 00s,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],01/01/09,DAY,0.743,0.766,0.0265,0.0873,0.0000,0.509,0.61,89
+spotify,All Out 00s,Party In The U.S.A.,The Time Of Our Lives (International Version),01/01/09,DAY,0.652,0.698,0.042,0.0011,0.0001,0.0886,0.47,90
+spotify,All Out 00s,Cosmic Love,Lungs (Deluxe Version),01/07/09,YEAR,0.518,0.809,0.0382,0.1370,0.0002,0.119,0.0957,91
+spotify,All Out 00s,Dog Days Are Over,Lungs (Deluxe Version),01/07/09,YEAR,0.501,0.809,0.0938,0.0338,0.0060,0.119,0.258,92
+spotify,All Out 00s,Replay,Replay,18/08/09,DAY,0.706,0.751,0.0708,0.1730,0.0000,0.168,0.195,93
+spotify,All Out 00s,4 Minutes (feat. Justin Timberlake & Timbaland),Celebration (double disc version),18/09/09,DAY,0.753,0.931,0.0652,0.0099,0.0070,0.234,0.767,94
+spotify,All Out 00s,Marry You,Doo Wops & Hooligans,05/10/10,DAY,0.62,0.832,0.036,0.3320,0.0000,0.104,0.481,95
+spotify,All Out 00s,L'Amour Toujours,Top 100 Greatest Dance Hits,14/01/11,DAY,0.617,0.728,0.0292,0.0328,0.0482,0.36,0.808,96
+spotify,All Out 00s,Because of You,Greatest Hits   Chapter One,16/11/12,DAY,0.583,0.58,0.0319,0.2430,0.0000,0.198,0.119,97
+spotify,All Out 00s,TiK ToK,Pure... 2000s Party,29/08/14,DAY,0.745,0.667,0.121,0.0608,0.0000,0.283,0.633,98
+spotify,All Out 00s,Maria Maria (feat. The Product G&B) - Radio Edit,Pure... 2000s Party,29/08/14,DAY,0.755,0.744,0.0996,0.0532,0.0000,0.0263,0.819,99
+spotify,All Out 00s,Toxic,Mother's Day Songs,02/03/18,DAY,0.774,0.838,0.114,0.0249,0.0250,0.242,0.924,100

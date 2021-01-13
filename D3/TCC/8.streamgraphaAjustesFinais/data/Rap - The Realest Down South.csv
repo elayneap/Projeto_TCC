@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,The Realest Down South,BLINDFOLD (feat. Lil Baby),WUNNA,22/05/20,DAY,0.889,0.507,0.162,0.0562,0.0000,0.116,0.219,1
+spotify,The Realest Down South,The Bigger Picture,The Bigger Picture,12/06/20,DAY,0.59,0.618,0.334,0.0127,0.0000,0.244,0.153,2
+spotify,The Realest Down South,Plenty Sense,Plenty Sense,22/07/20,DAY,0.762,0.453,0.247,0.3980,0.0000,0.148,0.39,3
+spotify,The Realest Down South,Throat Baby (Go Baby),Throat Baby (Go Baby),24/07/20,DAY,0.9,0.521,0.147,0.0135,0.0000,0.0951,0.213,4
+spotify,The Realest Down South,ONE WATCH (feat. Young Thug),WUNNA (Deluxe),24/07/20,DAY,0.857,0.511,0.0881,0.0006,0.0000,0.11,0.336,5
+spotify,The Realest Down South,NO DRIBBLE (with Stunna 4 Vegas),NO DRIBBLE (with Stunna 4 Vegas),27/07/20,DAY,0.785,0.504,0.475,0.0100,0.0000,0.356,0.799,6
+spotify,The Realest Down South,Narrow Road (feat. Lil Baby),Narrow Road (feat. Lil Baby),30/07/20,DAY,0.614,0.553,0.169,0.0306,0.0000,0.203,0.161,7
+spotify,The Realest Down South,Muwop (feat. Gucci Mane),Muwop (feat. Gucci Mane),30/07/20,DAY,0.79,0.61,0.102,0.0613,0.0000,0.243,0.62,8
+spotify,The Realest Down South,Freestyle,Freestyle,31/07/20,DAY,0.744,0.648,0.0623,0.0517,0.0000,0.174,0.523,9
+spotify,The Realest Down South,Rags2Riches 2 (feat. Lil Baby),Pray 4 Love (Deluxe),07/08/20,DAY,0.874,0.443,0.241,0.1470,0.0000,0.124,0.298,10
+spotify,The Realest Down South,Money Maker (feat. Lil Wayne),Money Maker (feat. Lil Wayne),07/08/20,DAY,0.804,0.862,0.182,0.1890,0.0000,0.174,0.721,11
+spotify,The Realest Down South,On My Own,On My Own,07/08/20,DAY,0.931,0.435,0.423,0.0601,0.0000,0.104,0.47,12
+spotify,The Realest Down South,Bolt,Bolt,07/08/20,DAY,0.965,0.308,0.383,0.3780,0.0000,0.0986,0.312,13
+spotify,The Realest Down South,Kick It (feat. Jace),Kick It (feat. Jace),13/08/20,DAY,0.839,0.611,0.103,0.0169,0.0000,0.111,0.532,14
+spotify,The Realest Down South,No Sense (feat. Key Glock),Rich Slave,14/08/20,DAY,0.945,0.662,0.24,0.0326,0.0000,0.124,0.782,15
+spotify,The Realest Down South,24 (feat. Lil Baby),24 (feat. Lil Baby),14/08/20,DAY,0.868,0.638,0.0736,0.1460,0.0565,0.0931,0.459,16
+spotify,The Realest Down South,Good Afternoon,Good Afternoon,14/08/20,DAY,0.816,0.746,0.657,0.0806,0.0000,0.269,0.901,17
+spotify,The Realest Down South,Amazon,Amazon,18/08/20,DAY,0.847,0.511,0.236,0.2870,0.0001,0.174,0.581,18
+spotify,The Realest Down South,Married To My Enemies,Married To My Enemies,18/08/20,DAY,0.855,0.499,0.378,0.0077,0.0000,0.263,0.372,19
+spotify,The Realest Down South,Yea Yea (feat. A Boogie Wit da Hoodie),Pain 3,21/08/20,DAY,0.759,0.594,0.0582,0.0334,0.0000,0.196,0.219,20
+spotify,The Realest Down South,EAT,EAT,23/08/20,DAY,0.566,0.657,0.396,0.0396,0.0000,0.76,0.397,21
+spotify,The Realest Down South,Shooters & Movers,Diary of a Lost Child,26/08/20,DAY,0.798,0.486,0.139,0.4900,0.0000,0.154,0.261,22
+spotify,The Realest Down South,Stay Ur Distance,Stay Ur Distance,28/08/20,DAY,0.832,0.611,0.193,0.0091,0.0000,0.216,0.682,23
+spotify,The Realest Down South,No Option (feat. Kevin Gates),B4 The Storm,29/08/20,DAY,0.561,0.627,0.267,0.0686,0.0000,0.112,0.354,24
+spotify,The Realest Down South,2k,2k,01/09/20,DAY,0.838,0.613,0.0451,0.3420,0.0000,0.374,0.782,25
+spotify,The Realest Down South,Mistake,Mistake,07/09/20,DAY,0.846,0.558,0.24,0.0547,0.0000,0.104,0.462,26
+spotify,The Realest Down South,Parlay,Parlay,09/09/20,DAY,0.917,0.785,0.226,0.0074,0.0000,0.0757,0.754,27
+spotify,The Realest Down South,Twerksum,Twerksum,10/09/20,DAY,0.823,0.443,0.329,0.0768,0.0000,0.156,0.389,28
+spotify,The Realest Down South,My Window (feat. Lil Wayne),Top,11/09/20,DAY,0.778,0.662,0.308,0.1870,0.0000,0.116,0.571,29
+spotify,The Realest Down South,Fuck Ya!,Top,11/09/20,DAY,0.617,0.785,0.413,0.1440,0.0000,0.231,0.613,30
+spotify,The Realest Down South,Kacey Talk,Top,11/09/20,DAY,0.877,0.607,0.15,0.5350,0.0000,0.138,0.773,31
+spotify,The Realest Down South,Callin (feat. Snoop Dogg),Top,11/09/20,DAY,0.848,0.617,0.294,0.0028,0.0000,0.0751,0.713,32
+spotify,The Realest Down South,Ring (feat. Young Thug),Ring (feat. Young Thug),11/09/20,DAY,0.807,0.668,0.116,0.0028,0.0000,0.167,0.121,33
+spotify,The Realest Down South,Connected (feat. 42 Dugg),Connected (feat. 42 Dugg),11/09/20,DAY,0.903,0.704,0.24,0.0128,0.0000,0.0897,0.582,34
+spotify,The Realest Down South,Sum Mo (feat. 42 Dugg),Sum Mo (feat. 42 Dugg),16/09/20,DAY,0.868,0.498,0.341,0.0752,0.0000,0.0572,0.813,35
+spotify,The Realest Down South,All White,All White,17/09/20,DAY,0.926,0.492,0.333,0.0561,0.0000,0.0874,0.311,36
+spotify,The Realest Down South,Said Sum (feat. City Girls & DaBaby) - Remix,Said Sum (feat. City Girls & DaBaby) [Remix],17/09/20,DAY,0.913,0.625,0.334,0.0168,0.0000,0.125,0.298,37
+spotify,The Realest Down South,MOLLY (Remix) [feat. DaBaby],MOLLY (Remix) [feat. DaBaby],18/09/20,DAY,0.901,0.614,0.263,0.0115,0.0000,0.108,0.266,38
+spotify,The Realest Down South,MAD,MAD,18/09/20,DAY,0.559,0.474,0.341,0.0704,0.0000,0.238,0.204,39
+spotify,The Realest Down South,Sinners Prayer,Poetic Pain,18/09/20,DAY,0.779,0.343,0.4,0.0715,0.0000,0.164,0.298,40
+spotify,The Realest Down South,No Relay,No Relay,25/09/20,DAY,0.832,0.598,0.39,0.0227,0.0000,0.284,0.773,41
+spotify,The Realest Down South,Hot Boy,Hot Boy,25/09/20,DAY,0.852,0.429,0.529,0.1450,0.0000,0.101,0.649,42
+spotify,The Realest Down South,Freak,In The Name Of Gee,25/09/20,DAY,0.907,0.449,0.397,0.0645,0.0003,0.103,0.338,43
+spotify,The Realest Down South,Shining (feat. 42 Dugg),Shining (feat. 42 Dugg),25/09/20,DAY,0.957,0.524,0.458,0.0153,0.0000,0.086,0.808,44
+spotify,The Realest Down South,Baptize (with JID & EARTHGANG feat. Ant Clemons),Spilligion,25/09/20,DAY,0.669,0.667,0.362,0.1870,0.0000,0.172,0.512,45
+spotify,The Realest Down South,To The Max,To The Max,25/09/20,DAY,0.763,0.761,0.337,0.2050,0.0000,0.0689,0.698,46
+spotify,The Realest Down South,Life Of Mr. Carter,Tha Carter V (Deluxe),25/09/20,DAY,0.593,0.828,0.292,0.0429,0.0000,0.366,0.704,47
+spotify,The Realest Down South,Cry When I'm Gone,Cry When I'm Gone,30/09/20,DAY,0.9,0.609,0.411,0.1180,0.0000,0.0832,0.253,48
+spotify,The Realest Down South,Gun Smoke,Gun Smoke,01/10/20,DAY,0.931,0.812,0.306,0.1620,0.0000,0.14,0.83,49
+spotify,The Realest Down South,Runnin,SAVAGE MODE II,02/10/20,DAY,0.819,0.626,0.202,0.0075,0.1010,0.167,0.415,50
+spotify,The Realest Down South,Rich Nigga Shit (feat. Young Thug),SAVAGE MODE II,02/10/20,DAY,0.825,0.733,0.0969,0.3490,0.0000,0.112,0.62,51
+spotify,The Realest Down South,It's Whatever (feat. Future),It's Whatever (feat. Future),02/10/20,DAY,0.728,0.622,0.238,0.0443,0.0000,0.1,0.224,52
+spotify,The Realest Down South,We Outside,3 To 5 Business Days,02/10/20,DAY,0.544,0.456,0.118,0.3350,0.0000,0.13,0.0558,53
+spotify,The Realest Down South,Man Down,Man Down,02/10/20,DAY,0.844,0.448,0.218,0.4290,0.0111,0.187,0.746,54
+spotify,The Realest Down South,Wild Child,Merciless,02/10/20,DAY,0.555,0.502,0.314,0.0396,0.0000,0.121,0.311,55
+spotify,The Realest Down South,NFL (feat. Gudda Gudda & HoodyBaby),NFL,05/10/20,DAY,0.784,0.596,0.311,0.0270,0.0000,0.465,0.361,56
+spotify,The Realest Down South,FRANCHISE (feat. Future- Young Thug & M.I.A.) - REMIX,FRANCHISE (feat. Future  Young Thug & M.I.A.) [REMIX],07/10/20,DAY,0.859,0.77,0.345,0.0056,0.0000,0.0731,0.348,57
+spotify,The Realest Down South,Hot,FatBoy,09/10/20,DAY,0.891,0.369,0.208,0.0017,0.0270,0.101,0.0525,58
+spotify,The Realest Down South,I.D.F.W (feat. Stunna 4 Vegas),I.D.F.W (feat. Stunna 4 Vegas),09/10/20,DAY,0.851,0.617,0.169,0.0387,0.0000,0.149,0.454,59
+spotify,The Realest Down South,Turn Me Up (feat. NLE Choppa),Turn Me Up (feat. NLE Choppa),09/10/20,DAY,0.852,0.824,0.353,0.0428,0.0000,0.115,0.707,60
+spotify,The Realest Down South,1017 Loaded (feat. Gucci Mane- Big Scarr- Enchanting- Foogiano- K Shiday- Pooh Shiesty),1017 Loaded (feat. Gucci Mane  Big Scarr  Enchanting  Foogiano  K Shiday  Pooh Shiesty),09/10/20,DAY,0.736,0.638,0.0958,0.0125,0.0000,0.186,0.446,61
+spotify,The Realest Down South,While I'm Here (feat. Polo G),A Demon In 6lue,09/10/20,DAY,0.682,0.879,0.073,0.0048,0.0000,0.299,0.562,62
+spotify,The Realest Down South,LOAD IT UP,LOAD IT UP,09/10/20,DAY,0.885,0.745,0.193,0.0240,0.0000,0.093,0.599,63
+spotify,The Realest Down South,ChopBloc Pt. 3 (feat. NLE Choppa) - Pt. 3,FatBoy,09/10/20,DAY,0.736,0.587,0.441,0.0020,0.0000,0.112,0.304,64
+spotify,The Realest Down South,All Time High,All Time High,09/10/20,DAY,0.79,0.548,0.325,0.4620,0.0000,0.171,0.521,65
+spotify,The Realest Down South,Breakin' U Off,Breakin' U Off,14/10/20,DAY,0.923,0.554,0.258,0.0048,0.0001,0.112,0.25,66
+spotify,The Realest Down South,Keep Your Distance,Keep Your Distance,15/10/20,DAY,0.811,0.526,0.26,0.0475,0.0000,0.101,0.433,67
+spotify,The Realest Down South,Pardon (feat. Lil Baby),The L.I.B.R.A.,16/10/20,DAY,0.955,0.587,0.32,0.1810,0.0000,0.585,0.901,68
+spotify,The Realest Down South,Solid (feat. 42 Dugg),Solid (feat. 42 Dugg),16/10/20,DAY,0.975,0.881,0.297,0.0259,0.0000,0.0518,0.762,69
+spotify,The Realest Down South,1017 Freestyle (feat. Pooh Shiesty- BIG30 & Foogiano),So Icy Gang  Vol. 1,16/10/20,DAY,0.914,0.569,0.387,0.0143,0.0000,0.09,0.739,70
+spotify,The Realest Down South,Show Me What You Got (feat. O.T. Genasis),Show Me What You Got (feat. O.T. Genasis),16/10/20,DAY,0.888,0.458,0.254,0.0317,0.0000,0.128,0.096,71
+spotify,The Realest Down South,Monique,Monique,16/10/20,DAY,0.964,0.441,0.199,0.0051,0.0001,0.0968,0.0699,72
+spotify,The Realest Down South,Big Dog,Big Dog,16/10/20,DAY,0.854,0.622,0.106,0.1990,0.0000,0.412,0.551,73
+spotify,The Realest Down South,Driveway,1000 BC,16/10/20,DAY,0.687,0.826,0.224,0.3100,0.0000,0.103,0.887,74
+spotify,The Realest Down South,Blow It (feat. Foogiano),So Icy Gang  Vol. 1,16/10/20,DAY,0.864,0.601,0.239,0.4260,0.0000,0.256,0.344,75
+spotify,The Realest Down South,Diamond Choker,Diamond Choker (feat. Lil Uzi Vert),16/10/20,DAY,0.922,0.434,0.387,0.0974,0.0000,0.0412,0.684,76
+spotify,The Realest Down South,Met In LA,Met In LA,21/10/20,DAY,0.607,0.469,0.265,0.0436,0.0000,0.0811,0.508,77
+spotify,The Realest Down South,Tellin Ya (feat. Lil PJ),Tellin Ya (feat. Lil PJ),21/10/20,DAY,0.765,0.422,0.485,0.1040,0.0000,0.107,0.267,78
+spotify,The Realest Down South,Big Glock (feat. Shy Glizzy),Big Trap,21/10/20,DAY,0.957,0.602,0.298,0.0389,0.0000,0.112,0.945,79
+spotify,The Realest Down South,Tyler Herro,Tyler Herro,22/10/20,DAY,0.794,0.756,0.136,0.1100,0.0000,0.247,0.775,80
+spotify,The Realest Down South,Back (feat. Yo Gotti),Back,23/10/20,DAY,0.806,0.718,0.0879,0.1330,0.0000,0.398,0.581,81
+spotify,The Realest Down South,For Me,For Me,23/10/20,DAY,0.904,0.498,0.324,0.0092,0.0000,0.0791,0.145,82
+spotify,The Realest Down South,Honey Pack,Honey Pack,23/10/20,DAY,0.746,0.596,0.347,0.3410,0.0000,0.272,0.465,83
+spotify,The Realest Down South,Broke My Heart (with Kevin Gates),803 Legend,23/10/20,DAY,0.698,0.812,0.302,0.2400,0.0000,0.106,0.372,84
+spotify,The Realest Down South,Hands On Ya Knees (feat. Kevin Gates),Hands On Ya Knees (feat. Kevin Gates),23/10/20,DAY,0.7,0.764,0.198,0.3280,0.0000,0.376,0.628,85
+spotify,The Realest Down South,Flute (with Rich The Kid),Flute (with Rich The Kid),23/10/20,DAY,0.925,0.497,0.342,0.1490,0.0000,0.0883,0.695,86
+spotify,The Realest Down South,Spanish,QUINCHO (Deluxe),28/10/20,DAY,0.81,0.679,0.373,0.2010,0.0000,0.33,0.848,87
+spotify,The Realest Down South,Weeks,Weeks,29/10/20,DAY,0.64,0.571,0.384,0.1710,0.0018,0.0646,0.568,88
+spotify,The Realest Down South,Vice City,Vice City,29/10/20,DAY,0.787,0.502,0.333,0.4630,0.0000,0.225,0.514,89
+spotify,The Realest Down South,Plaques (feat. Young Greatness),Plaques,29/10/20,DAY,0.753,0.599,0.0469,0.0542,0.0006,0.116,0.372,90
+spotify,The Realest Down South,I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo),I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo),30/10/20,DAY,0.71,0.574,0.141,0.0062,0.0000,0.0825,0.595,91
+spotify,The Realest Down South,Nasty (feat. Chris Brown),Trapped On Cleveland 3 (Deluxe),30/10/20,DAY,0.873,0.509,0.172,0.0414,0.0000,0.0843,0.459,92
+spotify,The Realest Down South,Freaky Girl (feat. Young Nudy),Never Forgotten,30/10/20,DAY,0.933,0.614,0.292,0.1210,0.0000,0.377,0.918,93
+spotify,The Realest Down South,Dim,Dim,30/10/20,DAY,0.781,0.6,0.308,0.0317,0.0002,0.252,0.595,94
+spotify,The Realest Down South,Ain't The Type,Ain't The Type,30/10/20,DAY,0.804,0.755,0.486,0.0045,0.0000,0.49,0.934,95
+spotify,The Realest Down South,Quicksand,Quicksand,30/10/20,DAY,0.901,0.673,0.314,0.0761,0.0000,0.143,0.561,96
+spotify,The Realest Down South,Yano,Yano,30/10/20,DAY,0.889,0.642,0.339,0.1140,0.0000,0.0686,0.646,97
+spotify,The Realest Down South,For Me (feat. Yo Gotti),For Me (feat. Yo Gotti),30/10/20,DAY,0.901,0.592,0.286,0.0264,0.0000,0.08,0.443,98
+spotify,The Realest Down South,Black Migo,Black Migo,30/10/20,DAY,0.848,0.539,0.145,0.1610,0.0000,0.32,0.407,99
+spotify,The Realest Down South,Workin,Workin,30/10/20,DAY,0.836,0.611,0.247,0.0041,0.0000,0.101,0.787,100

@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Today's Top Hits,Mariposa,Mariposa,28/08/19,DAY,0.676,0.525,0.028,0.6170,0.0000,0.356,0.421,1
+spotify,Today's Top Hits,Roses - Imanbek Remix,Roses (Imanbek Remix),09/10/19,DAY,0.77,0.724,0.0495,0.0167,0.0107,0.353,0.898,2
+spotify,Today's Top Hits,ily (i love you baby) (feat. Emilee),ily (i love you baby) (feat. Emilee),26/11/19,DAY,0.674,0.774,0.0892,0.0686,0.0019,0.393,0.33,3
+spotify,Today's Top Hits,Watermelon Sugar,Fine Line,13/12/19,DAY,0.548,0.816,0.0465,0.1220,0.0000,0.335,0.557,4
+spotify,Today's Top Hits,Breaking Me,Breaking Me,19/12/19,DAY,0.789,0.72,0.218,0.2230,0.0000,0.129,0.664,5
+spotify,Today's Top Hits,Some Say - Felix Jaehn Remix,Some Say (Felix Jaehn Remix),10/01/20,DAY,0.682,0.7,0.0397,0.4060,0.0000,0.174,0.637,6
+spotify,Today's Top Hits,Intentions,Intentions,07/02/20,DAY,0.811,0.553,0.0552,0.3170,0.0000,0.105,0.86,7
+spotify,Today's Top Hits,Kings & Queens,Kings & Queens,12/03/20,DAY,0.638,0.688,0.0407,0.0077,0.0000,0.126,0.434,8
+spotify,Today's Top Hits,Control,Control,13/03/20,DAY,0.599,0.465,0.0314,0.6430,0.0000,0.149,0.0678,9
+spotify,Today's Top Hits,Heather,Kid Krow,20/03/20,DAY,0.357,0.425,0.0333,0.5840,0.0000,0.322,0.27,10
+spotify,Today's Top Hits,Blinding Lights,After Hours,20/03/20,DAY,0.514,0.73,0.0598,0.0015,0.0001,0.0897,0.334,11
+spotify,Today's Top Hits,Break My Heart,Break My Heart,25/03/20,DAY,0.73,0.729,0.0886,0.1670,0.0000,0.349,0.467,12
+spotify,Today's Top Hits,MAMACITA,MAMACITA,10/04/20,DAY,0.894,0.635,0.0473,0.1930,0.0010,0.0823,0.428,13
+spotify,Today's Top Hits,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,17/04/20,DAY,0.746,0.69,0.164,0.2470,0.0000,0.101,0.497,14
+spotify,Today's Top Hits,you broke me first,you broke me first,17/04/20,DAY,0.642,0.374,0.0545,0.7860,0.0000,0.0906,0.0799,15
+spotify,Today's Top Hits,Party Girl,Party Girl,21/04/20,DAY,0.728,0.431,0.0622,0.7490,0.0000,0.0996,0.629,16
+spotify,Today's Top Hits,Secrets,Secrets,24/04/20,DAY,0.848,0.768,0.0373,0.0412,0.0008,0.195,0.777,17
+spotify,Today's Top Hits,Be Kind (with Halsey),Be Kind (with Halsey),01/05/20,DAY,0.63,0.633,0.0457,0.0078,0.0000,0.0541,0.452,18
+spotify,Today's Top Hits,Go Crazy,Slime & B,08/05/20,DAY,0.755,0.578,0.145,0.3160,0.0000,0.25,0.581,19
+spotify,Today's Top Hits,Stuck with U (with Justin Bieber),Stuck with U,08/05/20,DAY,0.597,0.45,0.0418,0.2230,0.0000,0.382,0.537,20
+spotify,Today's Top Hits,Lose Somebody,Lose Somebody,15/05/20,DAY,0.58,0.586,0.0357,0.3440,0.0000,0.0755,0.507,21
+spotify,Today's Top Hits,Stunnin' (feat. Harm Franklin),Stunnin' (feat. Harm Franklin),19/05/20,DAY,0.885,0.685,0.0627,0.3300,0.0000,0.148,0.937,22
+spotify,Today's Top Hits,Rain On Me (with Ariana Grande),Rain On Me (with Ariana Grande),22/05/20,DAY,0.672,0.855,0.0397,0.0210,0.0000,0.323,0.646,23
+spotify,Today's Top Hits,Savage Love (Laxed - Siren Beat),Savage Love (Laxed   Siren Beat),09/06/20,DAY,0.795,0.48,0.0688,0.2430,0.0000,0.271,0.723,24
+spotify,Today's Top Hits,Djadja (feat. Maluma) - Remix,Djadja (feat. Maluma) [Remix],12/06/20,DAY,0.791,0.682,0.158,0.1750,0.0000,0.0926,0.672,25
+spotify,Today's Top Hits,Tap In,Tap In,17/06/20,DAY,0.954,0.696,0.204,0.0058,0.0005,0.0754,0.432,26
+spotify,Today's Top Hits,WHATS POPPIN (feat. DaBaby- Tory Lanez & Lil Wayne) - Remix,WHATS POPPIN (feat. DaBaby  Tory Lanez & Lil Wayne) [Remix],24/06/20,DAY,0.904,0.723,0.26,0.0631,0.0000,0.185,0.835,27
+spotify,Today's Top Hits,Head & Heart (feat. MNEK),Head & Heart (feat. MNEK),03/07/20,DAY,0.734,0.874,0.0662,0.1680,0.0000,0.0489,0.905,28
+spotify,Today's Top Hits,Mood Swings (feat. Lil Tjay),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.48,0.602,0.368,0.4870,0.0000,0.0848,0.269,29
+spotify,Today's Top Hits,The Woo (feat. 50 Cent & Roddy Ricch),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.49,0.618,0.104,0.0221,0.0000,0.259,0.286,30
+spotify,Today's Top Hits,Smile (with The Weeknd),Legends Never Die,10/07/20,DAY,0.694,0.685,0.133,0.2240,0.0000,0.124,0.306,31
+spotify,Today's Top Hits,Wishing Well,Legends Never Die,10/07/20,DAY,0.65,0.613,0.128,0.0034,0.0000,0.267,0.0804,32
+spotify,Today's Top Hits,Be Like That - feat. Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),10/07/20,DAY,0.727,0.626,0.0726,0.0469,0.0000,0.126,0.322,33
+spotify,Today's Top Hits,Come & Go (with Marshmello),Legends Never Die,10/07/20,DAY,0.625,0.814,0.0657,0.0172,0.0000,0.158,0.535,34
+spotify,Today's Top Hits,Take You Dancing,Take You Dancing,22/07/20,DAY,0.789,0.711,0.041,0.0332,0.0000,0.0876,0.753,35
+spotify,Today's Top Hits,UN DIA (ONE DAY) (Feat. Tainy),UN DIA (ONE DAY) (Feat. Tainy),24/07/20,DAY,0.571,0.693,0.0545,0.0054,0.0000,0.173,0.393,36
+spotify,Today's Top Hits,Mood (feat. Iann Dior),Mood (feat. Iann Dior),24/07/20,DAY,0.7,0.722,0.0369,0.2210,0.0000,0.272,0.756,37
+spotify,Today's Top Hits,Nobody's Love,Nobody's Love,24/07/20,DAY,0.486,0.567,0.0379,0.3100,0.0000,0.0949,0.154,38
+spotify,Today's Top Hits,cardigan,folklore,24/07/20,DAY,0.613,0.581,0.0424,0.5370,0.0003,0.25,0.551,39
+spotify,Today's Top Hits,Hawái,Hawái,29/07/20,DAY,0.787,0.728,0.389,0.1890,0.0000,0.0629,0.545,40
+spotify,Today's Top Hits,my future,my future,30/07/20,DAY,0.444,0.309,0.062,0.7950,0.1320,0.352,0.0875,41
+spotify,Today's Top Hits,My Oasis (feat. Burna Boy),My Oasis (feat. Burna Boy),30/07/20,DAY,0.691,0.474,0.0583,0.5690,0.0006,0.099,0.381,42
+spotify,Today's Top Hits,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),07/08/20,DAY,0.935,0.454,0.375,0.0194,0.0000,0.0824,0.357,43
+spotify,Today's Top Hits,my ex's best friend (with blackbear),my ex's best friend (with blackbear),07/08/20,DAY,0.728,0.685,0.0433,0.0039,0.0000,0.152,0.33,44
+spotify,Today's Top Hits,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),14/08/20,DAY,0.761,0.518,0.134,0.2440,0.0000,0.107,0.522,45
+spotify,Today's Top Hits,Midnight Sky,Midnight Sky,14/08/20,DAY,0.705,0.814,0.0346,0.0012,0.0031,0.203,0.259,46
+spotify,Today's Top Hits,Lemonade,Lemonade (feat. Gunna  Don Toliver & NAV),14/08/20,DAY,0.799,0.66,0.079,0.2560,0.0000,0.111,0.471,47
+spotify,Today's Top Hits,7 Summers,7 Summers,14/08/20,DAY,0.625,0.775,0.0248,0.4310,0.0001,0.12,0.588,48
+spotify,Today's Top Hits,Dynamite,Dynamite,21/08/20,DAY,0.746,0.765,0.0993,0.0112,0.0000,0.0936,0.737,49
+spotify,Today's Top Hits,The Plan - From the Motion Picture TENET,The Plan (From the Motion Picture TENET),22/08/20,DAY,0.433,0.443,0.0361,0.0922,0.0003,0.117,0.0363,50

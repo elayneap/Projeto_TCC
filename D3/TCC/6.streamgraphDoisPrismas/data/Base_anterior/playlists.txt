@@ -1,0 +1,27 @@
+playlists anteriores:
+/*lists[1] = "Beat urbano";
+	lists[2] = "brisola";
+	lists[3] = "Chazin";
+	lists[4] = "Classical Guitar 50: Spotify Picks";
+	lists[5] = "come closer";
+	lists[6] = "Eletro";
+	lists[7] = "Favela's Window";
+	lists[8] = "Gospel";
+	lists[9] = "happyRockMusic";
+	lists[10] = "Hit Rewind";
+	lists[11] = "Luanas' Bday";
+	lists[12] = "Martin Garrix Live On Tomorrowland 2020";
+	lists[13] = "O Melhor do Samba e Pagode";
+	lists[14] = "pra_ouvir";
+	lists[15] = "Reggae Classics";
+	lists[16] = "Rock";
+	lists[17] = "Sexta";
+	lists[18] = "Sexta feira Zen";
+	lists[19] = "Sissy that walk";
+	lists[20] = "THE BEST OF RIHANNA by HUGO GLOSS";
+	lists[21] = "This is Beyoncé";
+	lists[22] = "This Is Dire Straits";
+	lists[23] = "This Is Gusttavo Lima";
+	lists[24] = "This is los hermanos";
+	lists[25] = "Today's top hits";
+	lists[26] = "TUTZ TUTZ";*/

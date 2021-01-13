@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,All Out 60s,Tell Laura I Love Her,Corrina  Corrina....It's Ray Peterson!,14/04/60,DAY,0.483,0.788,0.0386,0.7140,0.0000,0.155,0.216,1
+spotify,All Out 60s,You're Nobody 'Til Somebody Loves You - Remastered/1997,This Time I'm Swingin',01/07/60,YEAR,0.503,0.182,0.0323,0.7760,0.0000,0.178,0.652,2
+spotify,All Out 60s,Baby (You've Got What It Takes),The Two Of Us,05/07/60,DAY,0.67,0.596,0.0627,0.8520,0.0020,0.653,0.813,3
+spotify,All Out 60s,I'm Sorry,Brenda Lee,01/08/60,DAY,0.558,0.223,0.0299,0.8680,0.0010,0.13,0.303,4
+spotify,All Out 60s,Happy Birthday- Sweet Sixteen,Circulate (Expanded Edition),30/12/60,DAY,0.498,0.796,0.0453,0.6070,0.0000,0.3,0.906,5
+spotify,All Out 60s,Breaking Up Is Hard to Do,Circulate (Expanded Edition),30/12/60,DAY,0.743,0.799,0.0375,0.6990,0.0000,0.0635,0.965,6
+spotify,All Out 60s,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini,The Bashful Blond,01/01/61,DAY,0.813,0.427,0.0921,0.5540,0.0000,0.0248,0.964,7
+spotify,All Out 60s,Rubber Ball,Bobby Vee,01/01/61,DAY,0.423,0.43,0.0353,0.6860,0.0000,0.183,0.77,8
+spotify,All Out 60s,Travelin' Man - Remastered,Rick Is 21,01/01/61,DAY,0.723,0.44,0.0319,0.6670,0.0000,0.128,0.843,9
+spotify,All Out 60s,Runaway,Runaway with Del Shannon,01/01/61,DAY,0.594,0.533,0.0438,0.1530,0.0000,0.172,0.729,10
+spotify,All Out 60s,Hello Mary Lou- Goodbye Heart - Remastered,Rick Is 21,01/01/61,DAY,0.602,0.633,0.0314,0.5020,0.0000,0.0614,0.931,11
+spotify,All Out 60s,Let's Twist Again,It's Pony Time/Let's Twist Again,01/01/61,DAY,0.604,0.709,0.158,0.0987,0.0000,0.0551,0.907,12
+spotify,All Out 60s,Hey! Baby,Hey Baby!,10/02/61,DAY,0.657,0.639,0.0351,0.7720,0.0000,0.323,0.793,13
+spotify,All Out 60s,Only the Lonely,Sings Lonely and Blue,01/07/61,YEAR,0.57,0.529,0.028,0.3770,0.0051,0.203,0.934,14
+spotify,All Out 60s,Jump in the Line,Jump Up Calypso,21/07/61,DAY,0.594,0.889,0.246,0.7680,0.0000,0.124,0.8,15
+spotify,All Out 60s,Crazy - Single Version,Showcase,27/11/61,DAY,0.471,0.021,0.0366,0.9310,0.0000,0.103,0.356,16
+spotify,All Out 60s,Playboy,Playboy,01/01/62,DAY,0.863,0.691,0.0535,0.3710,0.0000,0.0597,0.916,17
+spotify,All Out 60s,Crying,Crying,01/01/62,DAY,0.35,0.293,0.0258,0.7580,0.0000,0.104,0.162,18
+spotify,All Out 60s,Take Good Care Of My Baby,Take Good Care Of My Baby,01/02/62,DAY,0.487,0.441,0.0722,0.7610,0.0000,0.15,0.604,19
+spotify,All Out 60s,Crying in the Rain,The Golden Hits Of The Everly Brothers,01/06/62,DAY,0.61,0.378,0.0279,0.6220,0.0000,0.144,0.48,20
+spotify,All Out 60s,Moon River (From "Breakfast at Tiffany's"),Moon River And Other Great Movie Themes,01/07/62,YEAR,0.281,0.212,0.031,0.8600,0.0001,0.119,0.195,21
+spotify,All Out 60s,She's Got You - Single Version,Sentimentally Yours,01/07/62,YEAR,0.388,0.143,0.0416,0.9470,0.0009,0.1,0.578,22
+spotify,All Out 60s,Speedy Gonzales,Pat Boone's Greatest Hits (Reissue),01/08/62,DAY,0.589,0.447,0.0748,0.8210,0.0000,0.0999,0.789,23
+spotify,All Out 60s,Big Girls Don't Cry,Sherry and 11 Other Hits,01/10/62,DAY,0.764,0.84,0.0672,0.3930,0.0000,0.0686,0.843,24
+spotify,All Out 60s,(Love Is Like A) Heat Wave,Heat Wave,01/07/63,YEAR,0.514,0.624,0.0842,0.5130,0.0052,0.307,0.755,25
+spotify,All Out 60s,Ring of Fire,Ring Of Fire: The Best Of Johnny Cash,06/08/63,DAY,0.659,0.585,0.0288,0.6230,0.0002,0.348,0.784,26
+spotify,All Out 60s,Under the Boardwalk,Under the Boardwalk,01/06/64,DAY,0.747,0.226,0.0415,0.9080,0.0002,0.107,0.778,27
+spotify,All Out 60s,I Walk the Line - Stereo Version,I Walk the Line (Stereo Version),13/06/64,DAY,0.596,0.194,0.0347,0.9700,0.1620,0.099,0.746,28
+spotify,All Out 60s,Sway (Quien Sera),Hey  Brother Pour The Wine,01/07/64,YEAR,0.601,0.239,0.0384,0.7270,0.0000,0.0748,0.569,29
+spotify,All Out 60s,You Really Got Me - Mono Mix,Kinks,02/10/64,DAY,0.573,0.939,0.0808,0.4930,0.0000,0.0994,0.963,30
+spotify,All Out 60s,The Sound of Silence - Acoustic Version,Wednesday Morning  3 A.M.,19/10/64,DAY,0.525,0.216,0.0301,0.8370,0.0000,0.107,0.328,31
+spotify,All Out 60s,Be My Baby,Presenting the Fabulous Ronettes Featuring Veronica,01/11/64,DAY,0.512,0.771,0.0402,0.1680,0.0000,0.0895,0.803,32
+spotify,All Out 60s,Baby I Need Your Loving,Four Tops,01/01/65,DAY,0.632,0.686,0.0395,0.4370,0.0000,0.193,0.65,33
+spotify,All Out 60s,Ferry Cross the Mersey - Stereo- 1997 Remaster,Ferry Cross The Mersey [Mono And Stereo Version],01/02/65,DAY,0.396,0.286,0.0283,0.5480,0.0000,0.122,0.605,34
+spotify,All Out 60s,Like a Rolling Stone,Highway 61 Revisited,30/08/65,DAY,0.483,0.721,0.032,0.7290,0.0000,0.189,0.562,35
+spotify,All Out 60s,Do You Believe in Magic?,Do you Believe In Magic,15/11/65,MONTH,0.552,0.742,0.0454,0.2180,0.0000,0.339,0.751,36
+spotify,All Out 60s,California Dreamin' - Single Version,If You Can Believe Your Eyes & Ears,15/03/66,MONTH,0.552,0.608,0.0345,0.3520,0.0000,0.0533,0.637,37
+spotify,All Out 60s,Strangers In The Night,Strangers In The Night (Expanded Edition),15/05/66,MONTH,0.259,0.473,0.0295,0.5920,0.0000,0.201,0.539,38
+spotify,All Out 60s,Get Ready,Gettin' Ready (Expanded Edition),01/07/66,YEAR,0.59,0.737,0.0384,0.4040,0.0000,0.108,0.877,39
+spotify,All Out 60s,Sunny Afternoon - Mono Mix,Face to Face (Deluxe Edition),28/10/66,DAY,0.595,0.465,0.026,0.1020,0.0000,0.0641,0.492,40
+spotify,All Out 60s,A Place In The Sun,Down To Earth,01/11/66,DAY,0.561,0.447,0.0544,0.2790,0.0000,0.319,0.729,41
+spotify,All Out 60s,For What It's Worth,Buffalo Springfield,05/12/66,DAY,0.653,0.519,0.0497,0.4060,0.0209,0.101,0.822,42
+spotify,All Out 60s,Respect,I Never Loved a Man the Way I Love You,10/03/67,DAY,0.805,0.558,0.041,0.1640,0.0000,0.0546,0.965,43
+spotify,All Out 60s,Sunday Morning,The Velvet Underground & Nico 45th Anniversary,12/03/67,DAY,0.506,0.442,0.0276,0.0869,0.0024,0.0846,0.532,44
+spotify,All Out 60s,Somebody to Love,Surrealistic Pillow,01/07/67,YEAR,0.504,0.578,0.031,0.4080,0.0000,0.321,0.654,45
+spotify,All Out 60s,White Rabbit,Surrealistic Pillow,01/07/67,YEAR,0.551,0.293,0.0272,0.4860,0.0003,0.0864,0.322,46
+spotify,All Out 60s,I Was Made To Love Her,I Was Made To Love Her,01/08/67,DAY,0.371,0.613,0.0452,0.0589,0.0000,0.0479,0.873,47
+spotify,All Out 60s,Somethin' Stupid,The World We Knew,15/08/67,MONTH,0.257,0.338,0.0357,0.7360,0.0000,0.252,0.544,48
+spotify,All Out 60s,Viva Las Vegas,Elvis' Gold Records  Vol. 4,22/01/68,DAY,0.608,0.567,0.0445,0.8190,0.0000,0.344,0.861,49
+spotify,All Out 60s,Chain of Fools,Lady Soul (With Bonus Selections),22/01/68,DAY,0.761,0.605,0.0498,0.2090,0.0000,0.135,0.941,50
+spotify,All Out 60s,Mrs. Robinson - From "The Graduate" Soundtrack,Bookends,03/04/68,DAY,0.606,0.457,0.0497,0.7130,0.0000,0.0747,0.813,51
+spotify,All Out 60s,Folsom Prison Blues - Live at Folsom State Prison- Folsom- CA - January 1968,At Folsom Prison,01/05/68,DAY,0.621,0.524,0.0803,0.0652,0.0020,0.893,0.889,52
+spotify,All Out 60s,Born To Be Wild,Steppenwolf,01/07/68,YEAR,0.438,0.71,0.0919,0.2620,0.5370,0.221,0.53,53
+spotify,All Out 60s,I Get The Sweetest Feeling,I Get The Sweetest Feeling,01/07/68,YEAR,0.684,0.482,0.0371,0.7780,0.0004,0.148,0.749,54
+spotify,All Out 60s,I Started A Joke,Idea (Deluxe Edition),11/08/68,DAY,0.31,0.464,0.0275,0.1560,0.0000,0.132,0.431,55
+spotify,All Out 60s,I Heard It Through The Grapevine,In The Groove,26/08/68,DAY,0.711,0.362,0.0381,0.2720,0.0000,0.127,0.616,56
+spotify,All Out 60s,For Once In My Life,For Once In My Life,01/12/68,DAY,0.524,0.519,0.043,0.1950,0.0000,0.523,0.847,57
+spotify,All Out 60s,(Ummmm- Oh Yeah) Dearest,Giant,01/01/69,DAY,0.548,0.493,0.0282,0.5770,0.0195,0.13,0.568,58
+spotify,All Out 60s,Good Times Bad Times - 1993 Remaster,Led Zeppelin,12/01/69,DAY,0.476,0.717,0.0949,0.0382,0.0001,0.0818,0.753,59
+spotify,All Out 60s,Ramblin' Gamblin' Man,Ramblin' Gamblin' Man,01/04/69,DAY,0.601,0.84,0.0509,0.0232,0.0000,0.0569,0.896,60
+spotify,All Out 60s,Bad Moon Rising,Green River,03/08/69,DAY,0.508,0.774,0.0321,0.0586,0.0000,0.063,0.942,61
+spotify,All Out 60s,Bad Moon Rising,Green River,03/08/69,DAY,0.508,0.774,0.0321,0.0586,0.0000,0.063,0.942,62
+spotify,All Out 60s,The Night They Drove Old Dixie Down,The Band,22/09/69,DAY,0.505,0.483,0.0334,0.5420,0.0000,0.222,0.484,63
+spotify,All Out 60s,Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),26/09/69,DAY,0.557,0.54,0.0347,0.0339,0.0025,0.179,0.394,64
+spotify,All Out 60s,Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),22/10/69,DAY,0.412,0.902,0.405,0.0484,0.1310,0.405,0.422,65
+spotify,All Out 60s,Down On The Corner,Willy And The Poor Boys,02/11/69,DAY,0.858,0.544,0.0751,0.5830,0.0011,0.0707,0.874,66
+spotify,All Out 60s,Sugar Sugar,Everything's Archie,14/11/69,DAY,0.757,0.727,0.0275,0.3990,0.0000,0.108,0.966,67
+spotify,All Out 60s,I Want You Back,Diana Ross Presents The Jackson 5,18/12/69,DAY,0.469,0.538,0.0571,0.3050,0.0001,0.37,0.886,68
+spotify,All Out 60s,Who's Lovin' You,Diana Ross Presents The Jackson 5,18/12/69,DAY,0.247,0.307,0.0371,0.6480,0.0000,0.281,0.403,69
+spotify,All Out 60s,Spanish Eyes,Premium Gold Collection,01/01/77,DAY,0.515,0.49,0.0284,0.3590,0.0000,0.0875,0.495,70
+spotify,All Out 60s,No Particular Place To Go - Stereo Remix,Rock 'N' Roll Rarities,01/01/86,DAY,0.574,0.542,0.0657,0.2120,0.0001,0.0645,0.977,71
+spotify,All Out 60s,Apache,Another String Of Hot Hits (And More!),05/10/87,DAY,0.595,0.451,0.0288,0.0106,0.9290,0.0962,0.779,72
+spotify,All Out 60s,House of the Rising Sun,The Singles Plus,19/10/87,DAY,0.316,0.484,0.0308,0.0003,0.0044,0.0912,0.299,73
+spotify,All Out 60s,Blue Moon,The Best Of The Marcels,11/06/90,DAY,0.624,0.432,0.0344,0.6560,0.0000,0.0785,0.935,74
+spotify,All Out 60s,Mr. Lonely,16 Most Requested Songs,03/09/91,DAY,0.37,0.185,0.028,0.8040,0.0000,0.288,0.31,75
+spotify,All Out 60s,Ain't That A Kick In The Head,The Capitol Years,30/05/96,DAY,0.661,0.311,0.0701,0.4580,0.0000,0.233,0.702,76
+spotify,All Out 60s,Silence Is Golden,Love Songs,20/05/97,DAY,0.436,0.565,0.0294,0.0557,0.0000,0.244,0.582,77
+spotify,All Out 60s,(What A) Wonderful World,The Man Who Invented Soul,26/09/00,DAY,0.691,0.507,0.0343,0.6270,0.0000,0.457,0.885,78
+spotify,All Out 60s,Puppy Love - Remix,Put Your Head On My Shoulder: The Very Best Of Paul Anka,03/10/00,DAY,0.29,0.408,0.0318,0.6620,0.0000,0.272,0.542,79
+spotify,All Out 60s,The Wanderer,The Best Of Dion,01/01/01,DAY,0.623,0.48,0.0392,0.1930,0.0000,0.11,0.842,80
+spotify,All Out 60s,Runaround Sue - Remastered 1991,The Best Of Dion,01/01/01,DAY,0.452,0.489,0.121,0.3030,0.0000,0.488,0.654,81
+spotify,All Out 60s,Raindrops Keep Fallin' On My Head - Rerecorded,B.J. Thomas: All Time Greatest Hits (Rerecorded Version),01/03/02,DAY,0.738,0.326,0.036,0.5560,0.0000,0.0685,0.794,82
+spotify,All Out 60s,Breaking Up Is Hard to Do,Collections,29/03/03,DAY,0.742,0.674,0.0354,0.7880,0.0000,0.0698,0.964,83
+spotify,All Out 60s,Don't Let Me Be Misunderstood,A's B's & EP's,05/05/03,DAY,0.546,0.568,0.0285,0.1460,0.0000,0.77,0.488,84
+spotify,All Out 60s,One Fine Day,The Chiffons Absolutely The Best!,02/10/04,DAY,0.251,0.868,0.128,0.4880,0.0000,0.814,0.599,85
+spotify,All Out 60s,He's So Fine - Remastered 2000,The Chiffons Absolutely The Best!,02/10/04,DAY,0.558,0.633,0.0329,0.4870,0.0000,0.129,0.871,86
+spotify,All Out 60s,Save the Last Dance for Me,Save the Last Dance for Me,08/02/05,DAY,0.54,0.53,0.0361,0.6140,0.0000,0.198,0.896,87
+spotify,All Out 60s,Runaway - Rerecorded,#1 Hits Of The 60's,30/09/09,DAY,0.712,0.819,0.094,0.0893,0.0000,0.11,0.739,88
+spotify,All Out 60s,Surf City,Surf City And Other Swingin' Cities,01/01/10,DAY,0.534,0.807,0.0349,0.4970,0.0000,0.232,0.964,89
+spotify,All Out 60s,Da Doo Ron Ron (When He Walked Me Home),Da Doo Ron Ron: The Very Best of The Crystals,22/02/11,DAY,0.535,0.797,0.0459,0.4800,0.0000,0.141,0.613,90
+spotify,All Out 60s,Then He Kissed Me,Da Doo Ron Ron: The Very Best of The Crystals,22/02/11,DAY,0.431,0.678,0.0365,0.7000,0.0000,0.199,0.633,91
+spotify,All Out 60s,Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered],The Essential Fifth Dimension,15/03/11,DAY,0.312,0.555,0.0377,0.4700,0.0000,0.084,0.491,92
+spotify,All Out 60s,Poetry In Motion,Teen Idol Best,01/07/11,DAY,0.488,0.712,0.0322,0.4040,0.0000,0.0989,0.895,93
+spotify,All Out 60s,Something's Got A Hold On Me,Heart & Soul: A Retrospective,18/10/11,DAY,0.471,0.585,0.0822,0.7860,0.0000,0.811,0.655,94
+spotify,All Out 60s,It's My Party,It's My Party / Judy's Turn to Cry,19/07/12,DAY,0.797,0.542,0.045,0.5810,0.0105,0.126,0.963,95
+spotify,All Out 60s,Do You Love Me,Do You Love Me,24/12/12,DAY,0.578,0.524,0.0454,0.7800,0.0087,0.141,0.861,96
+spotify,All Out 60s,Stand By Me,Stand By Me,25/11/16,DAY,0.653,0.334,0.0313,0.4110,0.0000,0.123,0.665,97
+spotify,All Out 60s,I Say a Little Prayer,Respect   The Very Best of,25/03/17,DAY,0.59,0.355,0.0352,0.4800,0.0000,0.0585,0.499,98
+spotify,All Out 60s,Sweet Soul Music,Oldies 60's,10/08/17,DAY,0.59,0.659,0.0697,0.1040,0.0000,0.356,0.965,99
+spotify,All Out 60s,A Whiter Shade of Pale - Original Single Version,Hits'n'Flips,03/05/19,DAY,0.249,0.66,0.0342,0.5040,0.0026,0.0891,0.435,100

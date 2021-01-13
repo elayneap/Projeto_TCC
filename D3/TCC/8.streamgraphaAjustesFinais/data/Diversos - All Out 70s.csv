@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,All Out 70s,Cecilia,Bridge Over Troubled Water,26/01/70,DAY,0.755,0.876,0.0362,0.3570,0.0000,0.22,0.954,1
+spotify,All Out 70s,The Boxer,Bridge Over Troubled Water,26/01/70,DAY,0.439,0.488,0.0615,0.7020,0.0003,0.16,0.629,2
+spotify,All Out 70s,Bridge Over Troubled Water,Bridge Over Troubled Water,26/01/70,DAY,0.149,0.206,0.0323,0.8220,0.0006,0.115,0.264,3
+spotify,All Out 70s,Moondance - 2013 Remaster,Moondance (Deluxe Edition),15/02/70,MONTH,0.606,0.282,0.0339,0.5010,0.0000,0.152,0.563,4
+spotify,All Out 70s,Into the Mystic - 2013 Remaster,Moondance,15/02/70,MONTH,0.608,0.524,0.0309,0.3670,0.0025,0.115,0.797,5
+spotify,All Out 70s,Let It Be - Remastered 2009,Let It Be (Remastered),08/05/70,DAY,0.443,0.403,0.0322,0.6310,0.0000,0.111,0.41,6
+spotify,All Out 70s,Signed- Sealed- Delivered (I'm Yours),Signed  Sealed And Delivered,07/08/70,DAY,0.675,0.597,0.0337,0.0534,0.0000,0.0986,0.828,7
+spotify,All Out 70s,He Ain't Heavy He's My Brother - 1998 Remaster,Confessions of the Mind (Expanded Edition),01/11/70,DAY,0.304,0.421,0.0293,0.4600,0.0000,0.163,0.216,8
+spotify,All Out 70s,Layla - 40th Anniversary Version / 2010 Remastered,Layla And Other Assorted Love Songs (40th Anniversary / 2010 Remastered),01/11/70,DAY,0.404,0.902,0.0665,0.5770,0.2970,0.287,0.497,9
+spotify,All Out 70s,My Sweet Lord - Remastered 2014,All Things Must Pass (Remastered 2014),27/11/70,DAY,0.537,0.701,0.0335,0.0972,0.0000,0.0832,0.583,10
+spotify,All Out 70s,Lola - Coca Cola Version,Lola Versus Powerman and the Moneygoround  Pt. One,27/11/70,DAY,0.474,0.917,0.0395,0.5820,0.2310,0.201,0.902,11
+spotify,All Out 70s,Have You Ever Seen The Rain,Pendulum (40th Anniversary Edition),07/12/70,DAY,0.741,0.697,0.0277,0.0664,0.0000,0.133,0.774,12
+spotify,All Out 70s,Gypsys- Tramps & Thieves,Gypsys  Tramps & Thieves,01/01/71,DAY,0.476,0.677,0.0365,0.2110,0.0000,0.0601,0.691,13
+spotify,All Out 70s,Me and Bobby McGee,Pearl (Legacy Edition),11/01/71,DAY,0.453,0.464,0.0431,0.3020,0.0001,0.152,0.658,14
+spotify,All Out 70s,Cry Baby,Pearl (Legacy Edition),11/01/71,DAY,0.474,0.418,0.03,0.5150,0.0003,0.0535,0.504,15
+spotify,All Out 70s,Riders on the Storm,L.A. Woman,19/04/71,DAY,0.549,0.722,0.0283,0.2500,0.0138,0.11,0.716,16
+spotify,All Out 70s,Ain't No Sunshine,Just As I Am,01/05/71,DAY,0.479,0.416,0.124,0.4570,0.0000,0.118,0.514,17
+spotify,All Out 70s,American Pie,American Pie,01/07/71,YEAR,0.531,0.481,0.06,0.6990,0.0000,0.0842,0.491,18
+spotify,All Out 70s,A Song for You,Donny Hathaway,01/07/71,YEAR,0.315,0.22,0.037,0.8220,0.0002,0.245,0.0723,19
+spotify,All Out 70s,Vincent,American Pie,01/07/71,YEAR,0.419,0.085,0.0362,0.9080,0.0000,0.34,0.458,20
+spotify,All Out 70s,Imagine - Remastered 2010,Imagine,09/09/71,DAY,0.547,0.257,0.0252,0.9070,0.1830,0.0935,0.169,21
+spotify,All Out 70s,Tiny Dancer,Madman Across The Water,05/11/71,DAY,0.414,0.428,0.0278,0.3820,0.0002,0.148,0.282,22
+spotify,All Out 70s,Heart of Gold - 2009 Remaster,Harvest (2009 Remaster),14/02/72,DAY,0.541,0.459,0.0297,0.1890,0.0274,0.099,0.803,23
+spotify,All Out 70s,Pink Moon,Pink Moon,25/02/72,DAY,0.638,0.256,0.0492,0.8190,0.0707,0.145,0.438,24
+spotify,All Out 70s,Lean on Me,Still Bill,01/05/72,DAY,0.619,0.22,0.0667,0.7820,0.0000,0.124,0.423,25
+spotify,All Out 70s,Rocket Man (I Think It's Going To Be A Long- Long Time),Honky Chateau,19/05/72,DAY,0.601,0.532,0.0286,0.4320,0.0000,0.0925,0.341,26
+spotify,All Out 70s,I'd Love You to Want Me,Of A Simple Man,01/07/72,YEAR,0.431,0.543,0.0394,0.1220,0.0001,0.0598,0.44,27
+spotify,All Out 70s,Listen to the Music,Toulouse Street,01/07/72,YEAR,0.645,0.598,0.0335,0.2210,0.0000,0.0721,0.913,28
+spotify,All Out 70s,Love Train,Back Stabbers,01/07/72,YEAR,0.744,0.568,0.0494,0.1860,0.0000,0.163,0.687,29
+spotify,All Out 70s,Take It Easy - 2013 Remaster,Eagles (2013 Remaster),01/07/72,YEAR,0.575,0.67,0.0318,0.3430,0.0000,0.129,0.74,30
+spotify,All Out 70s,Walk On the Wild Side,Transformer,01/12/72,DAY,0.575,0.318,0.109,0.6830,0.0002,0.0934,0.385,31
+spotify,All Out 70s,The Joker,The Joker,01/01/73,DAY,0.596,0.448,0.0396,0.3650,0.0000,0.206,0.796,32
+spotify,All Out 70s,Long Train Runnin',The Captain and Me,01/07/73,YEAR,0.575,0.912,0.0393,0.0916,0.0021,0.0562,0.843,33
+spotify,All Out 70s,Knockin' On Heaven's Door,Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),13/07/73,DAY,0.513,0.396,0.0299,0.2510,0.1770,0.11,0.229,34
+spotify,All Out 70s,La Grange - 2005 Remaster,Tres Hombres (Expanded 2006 Remaster),26/07/73,DAY,0.545,0.64,0.224,0.0025,0.0304,0.196,0.606,35
+spotify,All Out 70s,Piano Man,Piano Man (Legacy Edition),07/11/73,DAY,0.331,0.55,0.0272,0.6050,0.0000,0.192,0.429,36
+spotify,All Out 70s,The Air That I Breathe - 2008 Remaster,Hollies,01/03/74,DAY,0.279,0.473,0.0309,0.2420,0.0016,0.158,0.246,37
+spotify,All Out 70s,I Shot The Sheriff,461 Ocean Blvd. (Deluxe Edition),01/07/74,DAY,0.73,0.639,0.0524,0.0853,0.0022,0.102,0.658,38
+spotify,All Out 70s,I Don't Want to Talk About It - 2008 Remaster,Atlantic Crossing,01/07/75,YEAR,0.472,0.373,0.0262,0.8720,0.2060,0.147,0.459,39
+spotify,All Out 70s,Mamma Mia,Abba,01/07/75,YEAR,0.749,0.748,0.0323,0.2950,0.0004,0.469,0.827,40
+spotify,All Out 70s,One of These Nights - 2013 Remaster,One of These Nights (2013 Remaster),01/07/75,YEAR,0.655,0.606,0.0285,0.0603,0.0789,0.0757,0.765,41
+spotify,All Out 70s,You Sexy Thing,Hot Chocolate,01/07/75,YEAR,0.791,0.734,0.0629,0.5220,0.0016,0.167,0.962,42
+spotify,All Out 70s,Landslide,Fleetwood Mac,11/07/75,DAY,0.414,0.161,0.0318,0.8830,0.0002,0.117,0.423,43
+spotify,All Out 70s,Born to Run,Born To Run,25/08/75,DAY,0.27,0.944,0.0975,0.0050,0.0000,0.116,0.606,44
+spotify,All Out 70s,Fly Like An Eagle,Fly Like An Eagle,01/01/76,DAY,0.561,0.754,0.112,0.6100,0.0194,0.328,0.642,45
+spotify,All Out 70s,You Should Be Dancing - Edit / From "Saturday Night Fever" Soundtrack,Children Of The World,01/01/76,DAY,0.681,0.716,0.0333,0.0182,0.1700,0.337,0.963,46
+spotify,All Out 70s,Love Really Hurts Without You,Billy Ocean (Expanded Edition),05/01/76,DAY,0.518,0.907,0.0343,0.0022,0.0000,0.0838,0.961,47
+spotify,All Out 70s,If You Leave Me Now,Chicago X,14/06/76,DAY,0.429,0.564,0.0268,0.0193,0.0008,0.128,0.276,48
+spotify,All Out 70s,More Than a Feeling,Boston,01/07/76,YEAR,0.377,0.682,0.0299,0.0009,0.0022,0.0504,0.288,49
+spotify,All Out 70s,Hotel California - 2013 Remaster,Hotel California (2013 Remaster),08/12/76,DAY,0.579,0.508,0.027,0.0057,0.0005,0.0575,0.609,50
+spotify,All Out 70s,Easy,Commodores,01/01/77,DAY,0.589,0.384,0.0332,0.1120,0.0000,0.0596,0.354,51
+spotify,All Out 70s,Brick House,Commodores,01/01/77,DAY,0.831,0.782,0.0595,0.0731,0.0171,0.032,0.631,52
+spotify,All Out 70s,Give A Little Bit,Even In The Quietest Moments,01/01/77,DAY,0.531,0.818,0.0452,0.0694,0.0096,0.263,0.471,53
+spotify,All Out 70s,Go Your Own Way - 2004 Remaster,Rumours,04/02/77,DAY,0.583,0.947,0.0378,0.0185,0.0011,0.0679,0.803,54
+spotify,All Out 70s,Dreams - 2004 Remaster,Rumours (Super Deluxe),04/02/77,DAY,0.828,0.492,0.0276,0.0644,0.0043,0.128,0.789,55
+spotify,All Out 70s,The Chain - 2004 Remaster,Rumours (Super Deluxe),04/02/77,DAY,0.545,0.67,0.0496,0.0090,0.0008,0.0451,0.481,56
+spotify,All Out 70s,Best of My Love,Rejoice,10/06/77,DAY,0.784,0.713,0.0339,0.4470,0.1400,0.0904,0.97,57
+spotify,All Out 70s,Dust in the Wind,Point Of Know Return (Expanded Edition),01/07/77,YEAR,0.475,0.322,0.0283,0.3670,0.0006,0.11,0.387,58
+spotify,All Out 70s,Solsbury Hill,Peter Gabriel 1: Car (Remastered),01/07/77,YEAR,0.678,0.631,0.0301,0.3550,0.0003,0.376,0.463,59
+spotify,All Out 70s,Lovely Day,Menagerie,29/10/77,DAY,0.69,0.651,0.0324,0.2920,0.0024,0.105,0.706,60
+spotify,All Out 70s,Wonderful Tonight,Slowhand 35th Anniversary (Super Deluxe),01/11/77,DAY,0.572,0.214,0.0293,0.6490,0.1290,0.125,0.485,61
+spotify,All Out 70s,The Joker,Greatest Hits 1974 78,01/01/78,DAY,0.417,0.339,0.0819,0.4540,0.0000,0.135,0.719,62
+spotify,All Out 70s,You're The One That I Want - From “Grease”,Grease (The Original Motion Picture Soundtrack),04/04/78,DAY,0.758,0.612,0.0598,0.2810,0.0029,0.0954,0.822,63
+spotify,All Out 70s,Summer Nights - From “Grease”,Grease (The Original Motion Picture Soundtrack),04/04/78,DAY,0.747,0.663,0.0545,0.6200,0.0001,0.0861,0.606,64
+spotify,All Out 70s,Hopelessly Devoted To You - From “Grease”,Grease (The Original Motion Picture Soundtrack),04/04/78,DAY,0.59,0.338,0.03,0.2920,0.0131,0.121,0.322,65
+spotify,All Out 70s,Surrender,Heaven Tonight,15/04/78,MONTH,0.524,0.955,0.0411,0.0072,0.0000,0.659,0.869,66
+spotify,All Out 70s,Baker Street,City to City,01/07/78,YEAR,0.497,0.349,0.0297,0.0929,0.0280,0.259,0.421,67
+spotify,All Out 70s,Because the Night,Easter,01/07/78,YEAR,0.466,0.763,0.0391,0.0542,0.0000,0.119,0.473,68
+spotify,All Out 70s,Grease - 2007 Remaster,Frankie Valli...Is The Word,01/07/78,YEAR,0.82,0.464,0.0481,0.1560,0.0000,0.101,0.872,69
+spotify,All Out 70s,Jet Airliner,Greatest Hits 1974 78,01/07/78,DAY,0.574,0.664,0.0346,0.0737,0.0000,0.22,0.936,70
+spotify,All Out 70s,When You're In Love With A Beautiful Woman,Pleasure & Pain,01/07/78,YEAR,0.679,0.728,0.0378,0.4050,0.0026,0.0506,0.852,71
+spotify,All Out 70s,Stumblin' In - 2017 Remaster,If You Knew Suzi… (2017 Remaster),12/08/78,DAY,0.761,0.723,0.0313,0.1260,0.0003,0.345,0.923,72
+spotify,All Out 70s,Sultans Of Swing,Dire Straits,07/10/78,DAY,0.733,0.794,0.0307,0.0614,0.0367,0.33,0.931,73
+spotify,All Out 70s,Da Ya Think I'm Sexy?,Blondes Have More Fun,24/11/78,DAY,0.715,0.689,0.029,0.0143,0.0002,0.111,0.852,74
+spotify,All Out 70s,Do That To Me One More Time,Make Your Move,01/01/79,DAY,0.728,0.524,0.0255,0.5630,0.0001,0.0913,0.51,75
+spotify,All Out 70s,Stayin' Alive - From "Saturday Night Fever" Soundtrack,Greatest,01/01/79,DAY,0.703,0.826,0.0341,0.0322,0.0063,0.179,0.945,76
+spotify,All Out 70s,Escape (The Pina Colada Song),Partners In Crime,01/01/79,DAY,0.836,0.509,0.0548,0.4670,0.0000,0.0436,0.949,77
+spotify,All Out 70s,How Deep Is Your Love,Greatest,01/01/79,DAY,0.633,0.357,0.0264,0.1050,0.0000,0.133,0.674,78
+spotify,All Out 70s,More Than A Woman - From "Saturday Night Fever" Soundtrack,Greatest,01/01/79,DAY,0.632,0.683,0.0383,0.1630,0.0001,0.847,0.701,79
+spotify,All Out 70s,Heart Of Glass - Single Version / Remastered,Heart Of Glass,03/01/79,DAY,0.728,0.68,0.0338,0.0011,0.0599,0.0725,0.441,80
+spotify,All Out 70s,Bright Eyes,Fate For Breakfast,15/03/79,DAY,0.38,0.21,0.0319,0.7450,0.4500,0.0829,0.207,81
+spotify,All Out 70s,I Was Made For Lovin' You,Dynasty,23/03/79,DAY,0.768,0.852,0.038,0.2140,0.0001,0.0723,0.867,82
+spotify,All Out 70s,Breakfast In America - Remastered,Breakfast In America (Deluxe Edition),29/03/79,DAY,0.532,0.663,0.0292,0.4250,0.0000,0.0734,0.756,83
+spotify,All Out 70s,The Logical Song - Remastered 2010,Breakfast In America (Deluxe Edition),29/03/79,DAY,0.625,0.758,0.0463,0.5120,0.0002,0.153,0.695,84
+spotify,All Out 70s,Don't Bring Me Down,Discovery,31/05/79,DAY,0.638,0.867,0.0331,0.1440,0.0007,0.0846,0.805,85
+spotify,All Out 70s,We Don't Talk Anymore - 2001 Remaster,Rock 'n' Roll Juvenile,01/07/79,YEAR,0.746,0.703,0.0291,0.0014,0.0041,0.066,0.733,86
+spotify,All Out 70s,Rock with You - Single Version,Off the Wall,10/08/79,DAY,0.808,0.535,0.0353,0.1790,0.0001,0.158,0.848,87
+spotify,All Out 70s,She's Out of My Life - Single Version,Off the Wall,10/08/79,DAY,0.293,0.0348,0.0414,0.9620,0.0002,0.105,0.101,88
+spotify,All Out 70s,Yes Sir- I Can Boogie,The Collection & Tracklisting,14/06/93,DAY,0.454,0.769,0.0815,0.1270,0.0000,0.175,0.49,89
+spotify,All Out 70s,You're The First- The Last- My Everything,All Time Greatest Hits,10/08/94,DAY,0.631,0.59,0.0297,0.0037,0.0030,0.0537,0.927,90
+spotify,All Out 70s,I Can See Clearly Now,The Best Of,04/05/96,DAY,0.658,0.468,0.0493,0.5180,0.0001,0.066,0.684,91
+spotify,All Out 70s,I Love to Love,I Love To Love   The Best Of,06/06/97,DAY,0.677,0.703,0.0344,0.1430,0.0001,0.514,0.962,92
+spotify,All Out 70s,All Right Now,Songs Of Yesterday,01/01/00,DAY,0.75,0.506,0.304,0.0087,0.0000,0.123,0.78,93
+spotify,All Out 70s,Disco Inferno - Single Edit,Rhino Hi Five: The Trammps,20/09/05,DAY,0.766,0.844,0.0361,0.0261,0.6050,0.18,0.835,94
+spotify,All Out 70s,Sailing - 2008 Remaster,Some Guys Have All the Luck,16/11/08,DAY,0.434,0.315,0.0298,0.3250,0.1340,0.131,0.198,95
+spotify,All Out 70s,Maggie May - Remastered Version,Some Guys Have All the Luck,16/11/08,DAY,0.62,0.559,0.0369,0.7170,0.4330,0.133,0.527,96
+spotify,All Out 70s,Carry on Wayward Son,The Essential Kansas,01/07/10,YEAR,0.452,0.788,0.0326,0.0028,0.0001,0.441,0.793,97
+spotify,All Out 70s,Dancing in the Moonlight - Remastered 40th Anniversary Edition,Dancing in the Moonlight (Remastered 40th Anniversary Edition),10/09/13,DAY,0.653,0.719,0.0363,0.6840,0.0000,0.408,0.682,98
+spotify,All Out 70s,September,The Essential Earth  Wind & Fire,25/03/14,DAY,0.694,0.831,0.0301,0.1650,0.0009,0.25,0.98,99
+spotify,All Out 70s,Hold the Line,The Essential Toto,23/06/14,DAY,0.482,0.835,0.0539,0.0191,0.0143,0.162,0.776,100

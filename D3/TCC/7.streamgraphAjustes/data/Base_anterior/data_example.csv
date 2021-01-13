@@ -1,0 +1,27 @@
+user_id,playlist,track,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence
+Teste,Pink Floyd,1,Wish You Were Here,Teste,Teste,Teste,0.481,0.262,0.0414,0.735,0.0114,0.832,0.375
+Teste,Pink Floyd,2,Another Brick in the Wall - Pt. 2,Teste,Teste,Teste,0.694,0.394,0.0428,0.0781,0.0150,0.247,0.719
+Teste,Pink Floyd,3,Comfortably Numb,Teste,Teste,Teste,0.472,0.366,0.0286,0.15,0.308,0.0837,0.171
+Teste,Pink Floyd,4,Time,Teste,Teste,Teste,0.358,0.48,0.0849,0.521,0.00428,0.178,0.356
+Teste,Pink Floyd,5,Breathe (In the Air),Teste,Teste,Teste,0.431,0.375,0.0347,0.391,0.721,0.143,0.258
+Teste,Pink Floyd,6,Hey You,Teste,Teste,Teste,0.588,0.301,0.0294,0.221,0.00236,0.128,0.19
+Teste,Pink Floyd,7,The Great Gig in the Sky,Teste,Teste,Teste,0.275,0.216,0.0345,0.768,0.897,0.0832,0.181
+Teste,Pink Floyd,8,Us and Them,Teste,Teste,Teste,0.356,0.302,0.0346,0.863,0.546,0.634,0.126
+Teste,Pink Floyd,9,Brain Damage,Teste,Teste,Teste,0.322,0.265,0.0302,0.0726,0.34,0.366,0.207
+Teste,Pink Floyd,10,What Do You Want from Me - Live,Teste,Teste,Teste,0.478,0.661,0.0411,0.0185,0.0150,0.766,0.405
+Teste,Pink Floyd,11,Coming Back to Life - Live,Teste,Teste,Teste,0.295,0.49,0.0325,0.434,0.0150,0.952,0.139
+Teste,Pink Floyd,12,High Hopes - Live,Teste,Teste,Teste,0.454,0.374,0.0257,0.518,0.0104,0.944,0.157
+Teste,Pink Floyd,13,Breathe (In the Air) - Live,Teste,Teste,Teste,0.34,0.34,0.0398,0.141,0.0150,0.789,0.299
+Teste,Pink Floyd,14,Wearing the Inside Out,Teste,Teste,Teste,0.602,0.426,0.0404,0.307,0.0468,0.104,0.363
+Teste,Pink Floyd,15,Lost for Words,Teste,Teste,Teste,0.599,0.399,0.0248,0.128,0.00342,0.712,0.222
+Teste,Pink Floyd,16,The Dogs of War - Live,Teste,Teste,Teste,0.274,0.555,0.106,0.157,0.00599,0.953,0.106
+Teste,Pink Floyd,17,Paranoid Eyes,Teste,Teste,Teste,0.378,0.0776,0.0347,0.766,0.0109,0.082,0.112
+Teste,Pink Floyd,18,The Thin Ice,Teste,Teste,Teste,0.359,0.128,0.0372,0.354,0.00181,0.656,0.178
+Teste,Pink Floyd,19,Goodbye Blue Sky,Teste,Teste,Teste,0.638,0.0811,0.0335,0.879,0.00315,0.314,0.0502
+Teste,Pink Floyd,20,Is There Anybody Out There?,Teste,Teste,Teste,0.307,0.0742,0.0359,0.723,0.308,0.11,0.0394
+Teste,Pink Floyd,21,Nobody Home,Teste,Teste,Teste,0.251,0.148,0.0431,0.71,0.432,0.106,0.0569
+Teste,Pink Floyd,22,Have a Cigar,Teste,Teste,Teste,0.454,0.65,0.0437,0.407,0.0498,0.589,0.72
+Teste,Pink Floyd,23,Mother,Teste,Teste,Teste,0.578,0.15,0.0334,0.243,0.00707,0.0825,0.121
+Teste,Pink Floyd,24,Brain Damage,Teste,Teste,Teste,0.322,0.265,0.0302,0.0726,0.34,0.366,0.207
+Teste,Pink Floyd,25,A Great Day for Freedom,Teste,Teste,Teste,0.384,0.348,0.0293,0.626,0.00124,0.236,0.264
+Teste,Pink Floyd,26,Coming Back to Life,Teste,Teste,Teste,0.286,0.499,0.044,0.464,0.0150,0.102,0.145

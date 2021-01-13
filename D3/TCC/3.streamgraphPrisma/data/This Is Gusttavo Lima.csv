@@ -1,0 +1,57 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+vanessagalrao,This Is Gusttavo Lima,Cor de Ouro,Gusttavo Lima,01/01/09,DAY,0.68,0.779,0.0352,0.3060,0.0000,0.971,0.617,1
+vanessagalrao,This Is Gusttavo Lima,Rosas- Versos e Vinhos,Gusttavo Lima,01/01/09,DAY,0.542,0.666,0.0279,0.2510,0.0000,0.633,0.321,2
+vanessagalrao,This Is Gusttavo Lima,Na Hora H / Passou da Conta / Me Apaixonei (A Primeira Vez que Te Vi) / Da Boca pra Fora - Ao Vivo,Inventor dos Amores (Ao Vivo),25/09/10,DAY,0.406,0.759,0.0507,0.7920,0.0000,0.902,0.38,3
+vanessagalrao,This Is Gusttavo Lima,Refém - Ao Vivo,Inventor dos Amores (Ao Vivo),25/09/10,DAY,0.581,0.829,0.0402,0.4030,0.0000,0.664,0.461,4
+vanessagalrao,This Is Gusttavo Lima,Amor de Primavera - Ao Vivo,Inventor dos Amores (Ao Vivo),25/09/10,DAY,0.634,0.852,0.0268,0.3810,0.0011,0.707,0.566,5
+vanessagalrao,This Is Gusttavo Lima,Se Não Quer Me Amar - Ao Vivo,Inventor dos Amores (Ao Vivo),25/09/10,DAY,0.632,0.884,0.0362,0.1980,0.0000,0.937,0.655,6
+vanessagalrao,This Is Gusttavo Lima,Calafrio - Ao Vivo,Inventor dos Amores (Ao Vivo),25/09/10,DAY,0.593,0.919,0.0494,0.2350,0.0000,0.865,0.379,7
+vanessagalrao,This Is Gusttavo Lima,Balada - Ao Vivo,Gusttavo Lima e Você (Ao Vivo),20/09/11,DAY,0.675,0.958,0.0611,0.1700,0.0000,0.965,0.813,8
+vanessagalrao,This Is Gusttavo Lima,Inventor dos Amores - Ao Vivo,Gusttavo Lima e Você (Ao Vivo),20/09/11,DAY,0.57,0.89,0.0303,0.3800,0.0000,0.845,0.42,9
+vanessagalrao,This Is Gusttavo Lima,60 Segundos - Ao Vivo,Gusttavo Lima e Você (Ao Vivo),20/09/11,DAY,0.659,0.741,0.0258,0.6430,0.0000,0.687,0.35,10
+vanessagalrao,This Is Gusttavo Lima,Eu Vou tentando Te Agarrar - Ao Vivo,Gusttavo Lima e Você (Ao Vivo),20/09/11,DAY,0.653,0.926,0.0367,0.4250,0.0000,0.961,0.625,11
+vanessagalrao,This Is Gusttavo Lima,Eu Te Achei - Ao Vivo,Gusttavo Lima e Você (Ao Vivo),20/09/11,DAY,0.374,0.562,0.0408,0.7360,0.0000,0.912,0.467,12
+vanessagalrao,This Is Gusttavo Lima,Gatinha Assanhada - Ao Vivo,Ao Vivo em São Paulo,20/11/12,DAY,0.662,0.981,0.0417,0.0237,0.0000,0.288,0.891,13
+vanessagalrao,This Is Gusttavo Lima,Doidaça - Ao Vivo,Ao Vivo em São Paulo,20/11/12,DAY,0.654,0.974,0.0572,0.1680,0.0000,0.749,0.887,14
+vanessagalrao,This Is Gusttavo Lima,Fora do Comum - Ao Vivo,Ao Vivo em São Paulo,20/11/12,DAY,0.598,0.782,0.0282,0.5410,0.0000,0.794,0.339,15
+vanessagalrao,This Is Gusttavo Lima,As Mina Pira na Balada - Ao Vivo,Ao Vivo em São Paulo,20/11/12,DAY,0.552,0.993,0.0647,0.1850,0.0000,0.299,0.813,16
+vanessagalrao,This Is Gusttavo Lima,Fazer Beber (feat. Neymar Jr.) - Ao Vivo,Ao Vivo em São Paulo,20/11/12,DAY,0.561,0.99,0.0501,0.2570,0.0000,0.349,0.941,17
+vanessagalrao,This Is Gusttavo Lima,Diz pra Mim (Just Give Me a Reason),Do Outro Lado da Moeda,24/02/14,DAY,0.673,0.736,0.0276,0.6940,0.0000,0.124,0.479,18
+vanessagalrao,This Is Gusttavo Lima,Só Tem Eu,Do Outro Lado da Moeda,24/02/14,DAY,0.661,0.966,0.263,0.6580,0.0000,0.192,0.935,19
+vanessagalrao,This Is Gusttavo Lima,Tô Solto na Night,Do Outro Lado da Moeda,24/02/14,DAY,0.772,0.941,0.0518,0.0500,0.0000,0.121,0.619,20
+vanessagalrao,This Is Gusttavo Lima,Talismã / Temporal de Amor / Solidão (feat. Gusttavo Lima) - Ao Vivo,Leonardo 30 Anos (Ao Vivo),30/03/14,DAY,0.359,0.757,0.0311,0.1230,0.0000,0.901,0.319,21
+vanessagalrao,This Is Gusttavo Lima,Tá Faltando Eu,Buteco do Gusttavo Lima (Deluxe),17/07/15,DAY,0.701,0.734,0.0342,0.6820,0.0000,0.919,0.703,22
+vanessagalrao,This Is Gusttavo Lima,Olha Amor,Buteco do Gusttavo Lima (Deluxe),17/07/15,DAY,0.633,0.72,0.0327,0.4800,0.0000,0.309,0.683,23
+vanessagalrao,This Is Gusttavo Lima,É Fato - Ao Vivo,Efeitos Tour 2011 (Ao Vivo),28/11/16,DAY,0.578,0.736,0.0918,0.0874,0.0000,0.826,0.827,24
+vanessagalrao,This Is Gusttavo Lima,Apelido Carinhoso,Buteco do Gusttavo Lima  Vol. 2,01/12/17,DAY,0.708,0.82,0.0839,0.1200,0.0000,0.131,0.654,25
+vanessagalrao,This Is Gusttavo Lima,Cem Mil - Ao Vivo,O Embaixador (ao Vivo),26/10/18,DAY,0.901,0.819,0.051,0.3090,0.0000,0.701,0.924,26
+vanessagalrao,This Is Gusttavo Lima,Eu Não Iria - Ao Vivo,O Embaixador (ao Vivo),26/10/18,DAY,0.823,0.836,0.0629,0.2790,0.0000,0.776,0.682,27
+vanessagalrao,This Is Gusttavo Lima,Na Hora de Amar - Ao Vivo,O Embaixador (ao Vivo),26/10/18,DAY,0.675,0.75,0.0471,0.1490,0.0000,0.916,0.385,28
+vanessagalrao,This Is Gusttavo Lima,Sujeito - Ao Vivo,O Embaixador (ao Vivo),26/10/18,DAY,0.705,0.496,0.0636,0.4860,0.0000,0.168,0.487,29
+vanessagalrao,This Is Gusttavo Lima,Zé da Recaída - Ao Vivo,O Embaixador (ao Vivo),26/10/18,DAY,0.837,0.881,0.0369,0.0675,0.0000,0.728,0.756,30
+vanessagalrao,This Is Gusttavo Lima,Respeita o Nosso Fim - Ao Vivo,O Embaixador (ao Vivo),26/10/18,DAY,0.79,0.917,0.0679,0.1510,0.0000,0.197,0.754,31
+vanessagalrao,This Is Gusttavo Lima,Mágica - Ao Vivo,Tem Moda Pra Tudo (Ao Vivo),22/03/19,DAY,0.568,0.698,0.0727,0.6290,0.0000,0.0999,0.534,32
+vanessagalrao,This Is Gusttavo Lima,Dá preferência pra mim (Participação especial de Gusttavo Lima),Dá preferência pra mim (Participação especial de Gusttavo Lima),26/04/19,DAY,0.899,0.719,0.0948,0.2480,0.0000,0.0841,0.838,33
+vanessagalrao,This Is Gusttavo Lima,Algo Mais (Amante) - Ao Vivo,Errejota (ao Vivo),03/05/19,DAY,0.697,0.844,0.0575,0.2850,0.0000,0.753,0.665,34
+vanessagalrao,This Is Gusttavo Lima,Tiro Certo - Ao Vivo,Zé Felipe  Vol. 1 (ao Vivo),12/06/19,DAY,0.71,0.905,0.0716,0.5570,0.0000,0.709,0.688,35
+vanessagalrao,This Is Gusttavo Lima,Quem Traiu Levou - Ao Vivo,Quem Traiu Levou (Ao Vivo),12/09/19,DAY,0.583,0.958,0.0849,0.3250,0.0000,0.322,0.826,36
+vanessagalrao,This Is Gusttavo Lima,Perrengue - Ao Vivo,O Embaixador in Cariri   Vol. 1 (Ao Vivo),04/10/19,DAY,0.826,0.866,0.0355,0.3320,0.0000,0.665,0.909,37
+vanessagalrao,This Is Gusttavo Lima,Lo Que Tú y Yo Vivimos (feat. Gente de Zona) - Ao Vivo,O Embaixador in Cariri   Vol. 1 (Ao Vivo),04/10/19,DAY,0.673,0.915,0.102,0.2240,0.0000,0.933,0.41,38
+vanessagalrao,This Is Gusttavo Lima,Eu Vou pra Igreja - Ao Vivo,O Embaixador in Cariri   Vol. 1 (Ao Vivo),04/10/19,DAY,0.83,0.822,0.0396,0.3450,0.0000,0.881,0.747,39
+vanessagalrao,This Is Gusttavo Lima,Caquinho - Ao Vivo,O Embaixador in Cariri   Vol. 1 (Ao Vivo),04/10/19,DAY,0.684,0.484,0.0556,0.7940,0.0000,0.963,0.569,40
+vanessagalrao,This Is Gusttavo Lima,Carreira Solo - Ao Vivo,O Embaixador in Cariri   Vol. 2 (Ao Vivo),31/10/19,DAY,0.806,0.933,0.0376,0.4090,0.0000,0.871,0.916,41
+vanessagalrao,This Is Gusttavo Lima,Online - Ao Vivo,O Embaixador in Cariri   Vol. 2 (Ao Vivo),31/10/19,DAY,0.532,0.927,0.0787,0.2380,0.0000,0.366,0.794,42
+vanessagalrao,This Is Gusttavo Lima,Chora Até Perder a Fala - Ao Vivo,O Embaixador in Cariri   Vol. 2 (Ao Vivo),31/10/19,DAY,0.809,0.877,0.0437,0.2640,0.0000,0.3,0.818,43
+vanessagalrao,This Is Gusttavo Lima,Até a Garrafa Chora - Ao Vivo,O Embaixador in Cariri   Vol. 2 (Ao Vivo),31/10/19,DAY,0.871,0.832,0.0523,0.4950,0.0000,0.243,0.917,44
+vanessagalrao,This Is Gusttavo Lima,A Gente Fez Amor - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.794,0.937,0.0336,0.3660,0.0000,0.962,0.826,45
+vanessagalrao,This Is Gusttavo Lima,Contador de Reencontros - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.735,0.91,0.04,0.0856,0.0001,0.763,0.851,46
+vanessagalrao,This Is Gusttavo Lima,Entrevista Com Seu Ex - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.848,0.92,0.0473,0.2790,0.0000,0.739,0.688,47
+vanessagalrao,This Is Gusttavo Lima,Milu - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.757,0.938,0.0906,0.3490,0.0000,0.515,0.629,48
+vanessagalrao,This Is Gusttavo Lima,Vai Viver Sua Vida - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.619,0.933,0.147,0.1190,0.0000,0.277,0.696,49
+vanessagalrao,This Is Gusttavo Lima,Última Letra (Mi Última Letra) - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.832,0.837,0.0346,0.3750,0.0001,0.925,0.852,50
+vanessagalrao,This Is Gusttavo Lima,Romance no Deserto (Romance in Durango) (feat. Fagner) - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.803,0.805,0.0474,0.4900,0.0000,0.651,0.832,51
+vanessagalrao,This Is Gusttavo Lima,Se Tem Briga- Tem Amor - Ao Vivo,O Embaixador in Cariri (Ao Vivo),05/12/19,DAY,0.591,0.969,0.24,0.0879,0.0000,0.556,0.74,52
+vanessagalrao,This Is Gusttavo Lima,A Gente Fez Amor - Blener & Netto Remix,A Gente Fez Amor (Blener & Netto Remix),13/05/20,DAY,0.619,0.793,0.0392,0.0043,0.8160,0.0702,0.577,53
+vanessagalrao,This Is Gusttavo Lima,Saudade Sua,Saudade Sua,14/05/20,DAY,0.616,0.839,0.106,0.2920,0.0000,0.268,0.348,54
+vanessagalrao,This Is Gusttavo Lima,A Gente Fez Amor (Dennis Remix),A Gente Fez Amor (Dennis Remix),14/05/20,DAY,0.87,0.836,0.191,0.2810,0.0000,0.192,0.736,55
+vanessagalrao,This Is Gusttavo Lima,Que Pasen los Días,Mesa Para Dos,28/05/20,DAY,0.719,0.306,0.0676,0.8430,0.0000,0.0757,0.566,56

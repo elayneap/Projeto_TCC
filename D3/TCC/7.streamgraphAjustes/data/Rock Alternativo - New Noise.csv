@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,New Noise,The Rift,The Rift,21/08/20,DAY,0.294,0.675,0.0435,0.0000,0.0007,0.321,0.37,1
+spotify,New Noise,Walk Away,Walk Away,28/08/20,DAY,0.581,0.874,0.0459,0.0173,0.0000,0.0547,0.541,2
+spotify,New Noise,Impossible,Impossible,14/09/20,DAY,0.51,0.52,0.03,0.0435,0.0001,0.0971,0.132,3
+spotify,New Noise,Chaos,Chaos,14/09/20,DAY,0.521,0.737,0.0306,0.0046,0.0000,0.141,0.23,4
+spotify,New Noise,James Crow,James Crow,16/09/20,DAY,0.645,0.908,0.068,0.2670,0.0000,0.237,0.961,5
+spotify,New Noise,Neverlost,Neverlost,16/09/20,DAY,0.427,0.935,0.13,0.0088,0.0000,0.0717,0.688,6
+spotify,New Noise,Young & Faded,Young & Faded,17/09/20,DAY,0.614,0.824,0.0519,0.1170,0.0072,0.338,0.172,7
+spotify,New Noise,How Can Some Experience What Pride Is Without Liberation for All?,How Can Some Experience What Pride Is Without Liberation for All?,18/09/20,DAY,0.477,0.941,0.0623,0.0029,0.0011,0.123,0.466,8
+spotify,New Noise,pretend,pretend,18/09/20,DAY,0.518,0.838,0.0999,0.0247,0.0000,0.349,0.688,9
+spotify,New Noise,Freefall (feat. Oliver Tree),Freefall (feat. Oliver Tree),18/09/20,DAY,0.559,0.674,0.0552,0.0068,0.0000,0.546,0.808,10
+spotify,New Noise,Santiago Peak,No Good Left To Give,18/09/20,DAY,0.589,0.955,0.0327,0.0022,0.1230,0.347,0.577,11
+spotify,New Noise,Distance,Distance,18/09/20,DAY,0.45,0.857,0.0601,0.0334,0.0000,0.178,0.258,12
+spotify,New Noise,Kiss Kiss,Kiss Kiss,21/09/20,DAY,0.481,0.717,0.0351,0.0183,0.0000,0.0978,0.346,13
+spotify,New Noise,Beautiful Way,Beautiful Way,21/09/20,DAY,0.384,0.921,0.0489,0.0125,0.1080,0.152,0.446,14
+spotify,New Noise,Dirty,Dirty,23/09/20,DAY,0.536,0.845,0.0615,0.0033,0.0000,0.0465,0.6,15
+spotify,New Noise,Radio-Active,Radio Active,23/09/20,DAY,0.561,0.921,0.161,0.0200,0.0000,0.138,0.669,16
+spotify,New Noise,Trouble’s Coming,Trouble’s Coming,24/09/20,DAY,0.767,0.694,0.0384,0.0629,0.0000,0.32,0.78,17
+spotify,New Noise,.intoodeep.,.intoodeep.,24/09/20,DAY,0.592,0.674,0.0417,0.0004,0.0000,0.354,0.499,18
+spotify,New Noise,Lowkey As Hell,Lowkey As Hell,25/09/20,DAY,0.638,0.82,0.0664,0.0399,0.0000,0.163,0.431,19
+spotify,New Noise,One Step Away,One Step Away,25/09/20,DAY,0.661,0.868,0.0631,0.0101,0.0000,0.107,0.394,20
+spotify,New Noise,Runaway,Runaway,25/09/20,DAY,0.286,0.749,0.05,0.0054,0.0000,0.312,0.425,21
+spotify,New Noise,Just Wanna,flowers  the album,25/09/20,DAY,0.654,0.78,0.114,0.0032,0.0000,0.243,0.378,22
+spotify,New Noise,Fantastic,Fantastic,25/09/20,DAY,0.441,0.887,0.0607,0.0286,0.0256,0.949,0.347,23
+spotify,New Noise,American Gothic,Cult Following,25/09/20,DAY,0.439,0.991,0.144,0.0255,0.0395,0.123,0.195,24
+spotify,New Noise,Let You,Let You,25/09/20,DAY,0.534,0.704,0.0361,0.0120,0.0012,0.247,0.685,25
+spotify,New Noise,wallflower (none of this means anything),A N T I H E R O E S,25/09/20,DAY,0.429,0.961,0.224,0.0012,0.7260,0.045,0.281,26
+spotify,New Noise,Kingdom,Kingdom,25/09/20,DAY,0.487,0.938,0.0743,0.0001,0.0000,0.301,0.597,27
+spotify,New Noise,Queen of the Desert,Queen of the Desert,25/09/20,DAY,0.529,0.892,0.0529,0.0005,0.0023,0.177,0.597,28
+spotify,New Noise,Pillz (The Sky Is Falling),Pillz (The Sky Is Falling),25/09/20,DAY,0.42,0.856,0.24,0.0012,0.0070,0.124,0.344,29
+spotify,New Noise,Morningside,Morningside,25/09/20,DAY,0.625,0.76,0.0567,0.0019,0.0000,0.207,0.467,30
+spotify,New Noise,Any Way You Wanna Love,Any Way You Wanna Love,30/09/20,DAY,0.703,0.828,0.0366,0.1230,0.0000,0.23,0.185,31
+spotify,New Noise,stfu,stfu,30/09/20,DAY,0.598,0.657,0.087,0.3490,0.0000,0.137,0.323,32
+spotify,New Noise,Slack,Slack / Somewhere Nowhere / Bottle It Up,30/09/20,DAY,0.47,0.893,0.0468,0.0281,0.0000,0.177,0.341,33
+spotify,New Noise,Buckhead,Buckhead,02/10/20,DAY,0.419,0.855,0.0447,0.0000,0.3020,0.0911,0.605,34
+spotify,New Noise,4AM,4AM,02/10/20,DAY,0.648,0.437,0.0316,0.0631,0.0000,0.15,0.365,35
+spotify,New Noise,Adrenaline,Adrenaline,02/10/20,DAY,0.51,0.726,0.0359,0.0017,0.0000,0.0647,0.228,36
+spotify,New Noise,Gravity,Gravity,02/10/20,DAY,0.376,0.991,0.0887,0.0000,0.0000,0.106,0.123,37
+spotify,New Noise,I Feel the Transition,I Feel the Transition,02/10/20,DAY,0.412,0.889,0.0329,0.0001,0.0000,0.425,0.506,38
+spotify,New Noise,Must Stop (feat. Sarah Barthel- Phantogram),Must Stop (feat. Sarah Barthel  Phantogram),02/10/20,DAY,0.602,0.676,0.0334,0.0038,0.0001,0.0723,0.446,39
+spotify,New Noise,Think I'm Crazy,Think I'm Crazy,02/10/20,DAY,0.761,0.797,0.0645,0.1230,0.0000,0.196,0.782,40
+spotify,New Noise,BABYDOLL,Three Cheers for the American Beauty,02/10/20,DAY,0.543,0.741,0.0427,0.0013,0.0007,0.0756,0.71,41
+spotify,New Noise,New Invention,New Invention,02/10/20,DAY,0.489,0.854,0.079,0.0084,0.0000,0.091,0.763,42
+spotify,New Noise,Same Old You,Same Old You,02/10/20,DAY,0.529,0.955,0.0357,0.0000,0.0083,0.108,0.747,43
+spotify,New Noise,Never Back Down,Never Back Down,02/10/20,DAY,0.357,0.926,0.155,0.0001,0.0000,0.378,0.306,44
+spotify,New Noise,Sick Boy,Sick Boy,02/10/20,DAY,0.52,0.674,0.106,0.0089,0.0000,0.278,0.376,45
+spotify,New Noise,shift & go,shift & go,02/10/20,DAY,0.583,0.618,0.0333,0.0728,0.0000,0.11,0.196,46
+spotify,New Noise,Losers,Losers,02/10/20,DAY,0.544,0.707,0.0309,0.0004,0.0003,0.246,0.337,47
+spotify,New Noise,Between Heaven & Hell,Between Heaven & Hell,09/10/20,DAY,0.425,0.751,0.0386,0.1380,0.0005,0.298,0.424,48
+spotify,New Noise,cotton candy,cotton candy,09/10/20,DAY,0.633,0.93,0.0748,0.0104,0.0000,0.0866,0.701,49
+spotify,New Noise,My Way- Soon,My Way  Soon,09/10/20,DAY,0.409,0.943,0.0598,0.0001,0.1050,0.0938,0.438,50
+spotify,New Noise,Love Spells,Love Spells,09/10/20,DAY,0.459,0.886,0.0334,0.0155,0.0000,0.355,0.533,51
+spotify,New Noise,Archives,Archives,09/10/20,DAY,0.413,0.853,0.0456,0.0000,0.8740,0.102,0.343,52
+spotify,New Noise,Back From The Dead,Back from the Dead,09/10/20,DAY,0.544,0.991,0.0682,0.0002,0.0000,0.182,0.322,53
+spotify,New Noise,Haunting Me,Haunting Me,09/10/20,DAY,0.466,0.901,0.0896,0.0002,0.0001,0.194,0.483,54
+spotify,New Noise,Selfish Love,Selfish Love,09/10/20,DAY,0.651,0.715,0.0651,0.1970,0.0000,0.0966,0.472,55
+spotify,New Noise,Sleepwalk,Sleepwalk,09/10/20,DAY,0.266,0.883,0.0522,0.0002,0.0044,0.106,0.22,56
+spotify,New Noise,Tally-Ho,Tally Ho,14/10/20,DAY,0.343,0.911,0.109,0.0004,0.0896,0.455,0.461,57
+spotify,New Noise,Call Me Crazy,Call Me Crazy,14/10/20,DAY,0.655,0.45,0.0332,0.3380,0.0001,0.103,0.55,58
+spotify,New Noise,When It Breaks,When It Breaks,15/10/20,DAY,0.429,0.964,0.0901,0.0005,0.0027,0.191,0.206,59
+spotify,New Noise,Save Us,Save Us,15/10/20,DAY,0.409,0.816,0.0743,0.0038,0.0000,0.0932,0.385,60
+spotify,New Noise,Cut It Loose,Cut It Loose,15/10/20,DAY,0.574,0.819,0.0336,0.0001,0.4510,0.0552,0.718,61
+spotify,New Noise,I Wish I Was A...,I Wish I Was A...,16/10/20,DAY,0.607,0.946,0.15,0.0055,0.0004,0.278,0.653,62
+spotify,New Noise,Monsters,Good Morning Stranger,16/10/20,DAY,0.552,0.673,0.0298,0.0055,0.0000,0.114,0.174,63
+spotify,New Noise,Just Be Friends,Yelling in a Quiet Neighborhood,16/10/20,DAY,0.54,0.679,0.0352,0.0781,0.0000,0.0827,0.331,64
+spotify,New Noise,H B I C,H B I C,16/10/20,DAY,0.528,0.929,0.051,0.0102,0.0017,0.334,0.653,65
+spotify,New Noise,Wild Child (with Tom Morello),Strange Days,16/10/20,DAY,0.229,0.888,0.097,0.0026,0.0000,0.365,0.268,66
+spotify,New Noise,Leaves,Leaves,16/10/20,DAY,0.505,0.899,0.0554,0.0064,0.0196,0.13,0.625,67
+spotify,New Noise,Invincible (feat. Lindsey Stirling),Invincible (feat. Lindsey Stirling),16/10/20,DAY,0.506,0.9,0.0414,0.0007,0.0001,0.467,0.348,68
+spotify,New Noise,Shades,Shades,16/10/20,DAY,0.438,0.871,0.053,0.0045,0.0000,0.131,0.395,69
+spotify,New Noise,Heart Of A Champion (feat. Papa Roach & Ice Nine Kills),Heart Of A Champion (feat. Papa Roach & Ice Nine Kills),16/10/20,DAY,0.475,0.931,0.0848,0.0019,0.0000,0.351,0.763,70
+spotify,New Noise,Self Saboteur,Self Saboteur,16/10/20,DAY,0.288,0.927,0.0546,0.0023,0.0000,0.119,0.709,71
+spotify,New Noise,Undertaker,Undertaker,16/10/20,DAY,0.227,0.661,0.0409,0.0022,0.0000,0.304,0.435,72
+spotify,New Noise,Wildfire,Wildfire,16/10/20,DAY,0.486,0.84,0.0779,0.0013,0.0004,0.683,0.195,73
+spotify,New Noise,First Train,Out Of Here,16/10/20,DAY,0.538,0.934,0.064,0.0002,0.0000,0.18,0.292,74
+spotify,New Noise,Glass Spiders,Glass Spiders,16/10/20,DAY,0.48,0.893,0.109,0.0046,0.0000,0.127,0.365,75
+spotify,New Noise,Smile,Smile,16/10/20,DAY,0.66,0.857,0.15,0.0740,0.0000,0.0651,0.646,76
+spotify,New Noise,I Don't Know Where We Went Wrong,I Don't Know Where We Went Wrong,21/10/20,DAY,0.508,0.797,0.0339,0.0164,0.0013,0.124,0.52,77
+spotify,New Noise,bad blood,bad blood,22/10/20,DAY,0.723,0.57,0.039,0.0817,0.0000,0.156,0.834,78
+spotify,New Noise,In for Blood,In for Blood,23/10/20,DAY,0.498,0.715,0.0373,0.0001,0.0044,0.288,0.46,79
+spotify,New Noise,Nothing Personal,Nothing Personal,23/10/20,DAY,0.441,0.829,0.0505,0.0192,0.0000,0.131,0.272,80
+spotify,New Noise,Bullets in the Dark (feat. MOD SUN),Bullets in the Dark (feat. MOD SUN),23/10/20,DAY,0.673,0.923,0.0521,0.0107,0.0000,0.12,0.946,81
+spotify,New Noise,Holy Water,Holy Water,23/10/20,DAY,0.626,0.735,0.0728,0.0215,0.0000,0.157,0.694,82
+spotify,New Noise,Jessica,girlfriends,23/10/20,DAY,0.506,0.858,0.0891,0.0050,0.0000,0.178,0.31,83
+spotify,New Noise,Sundance Kid,Sundance Kid,23/10/20,DAY,0.586,0.944,0.0464,0.0015,0.0001,0.219,0.748,84
+spotify,New Noise,Cool Song,Waiting For A Sign,23/10/20,DAY,0.43,0.895,0.101,0.0000,0.4790,0.0767,0.604,85
+spotify,New Noise,Give Me Up,Give Me Up,23/10/20,DAY,0.417,0.705,0.0334,0.0014,0.0000,0.143,0.0796,86
+spotify,New Noise,Stuck With Yourself,Stuck With Yourself,23/10/20,DAY,0.67,0.703,0.0283,0.0163,0.0000,0.621,0.772,87
+spotify,New Noise,Vagabond (feat. Czarface),Can You Feel The Sun,23/10/20,DAY,0.608,0.811,0.155,0.0488,0.0000,0.346,0.688,88
+spotify,New Noise,All I Need,All I Need,26/10/20,DAY,0.5,0.732,0.0418,0.0004,0.0554,0.0759,0.637,89
+spotify,New Noise,blood (feat. KennyHoopla & JUDGE),blood (feat. KennyHoopla & JUDGE),27/10/20,DAY,0.608,0.817,0.151,0.0359,0.0000,0.143,0.845,90
+spotify,New Noise,LITTLE GODZ,LITTLE GODZ,27/10/20,DAY,0.503,0.906,0.13,0.0079,0.0016,0.417,0.346,91
+spotify,New Noise,Earth Is A Black Hole,Earth Is A Black Hole,28/10/20,DAY,0.553,0.902,0.0588,0.0029,0.0000,0.2,0.572,92
+spotify,New Noise,that won't save us,that won't save us,28/10/20,DAY,0.472,0.843,0.0431,0.0000,0.0000,0.0814,0.37,93
+spotify,New Noise,Barred Out [Feat. TWIN XL],Barred Out [Feat. TWIN XL],28/10/20,DAY,0.543,0.859,0.0509,0.0006,0.0000,0.117,0.741,94
+spotify,New Noise,Close to the Sun,Close to the Sun,28/10/20,DAY,0.731,0.557,0.0418,0.7420,0.0000,0.281,0.35,95
+spotify,New Noise,Karma,Karma,30/10/20,DAY,0.461,0.825,0.115,0.0246,0.0000,0.224,0.412,96
+spotify,New Noise,Young Life Crisis,Young Life Crisis,30/10/20,DAY,0.598,0.79,0.0711,0.1330,0.0000,0.119,0.716,97
+spotify,New Noise,Liquor & High,Liquor & High,30/10/20,DAY,0.456,0.907,0.0625,0.0002,0.0002,0.0458,0.819,98
+spotify,New Noise,Operator,Operator,30/10/20,DAY,0.467,0.817,0.0365,0.0000,0.0004,0.351,0.509,99
+spotify,New Noise,Everybody But Myself,Everybody But Myself,30/10/20,DAY,0.698,0.677,0.0255,0.0092,0.0003,0.174,0.456,100

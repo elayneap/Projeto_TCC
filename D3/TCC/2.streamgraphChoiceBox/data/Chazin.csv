@@ -1,0 +1,47 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+11135746947,Chazin,Is This Love,Kaya   Deluxe Edition,23/03/78,DAY,0.766,0.525,0.099,0.0084,0.0000,0.055,0.864,1
+11135746947,Chazin,She's Gone,Kaya   Deluxe Edition,23/03/78,DAY,0.573,0.423,0.157,0.0316,0.0000,0.0523,0.588,2
+11135746947,Chazin,Kaya,Kaya   Deluxe Edition,23/03/78,DAY,0.813,0.522,0.0619,0.0064,0.0000,0.0634,0.868,3
+11135746947,Chazin,Satisfy My Soul,Kaya   Deluxe Edition,23/03/78,DAY,0.757,0.382,0.184,0.0008,0.0000,0.129,0.427,4
+11135746947,Chazin,Sun Is Shining,Kaya   Deluxe Edition,23/03/78,DAY,0.779,0.544,0.0635,0.0005,0.0000,0.0586,0.597,5
+11135746947,Chazin,O Sagaz Homem Fumaça,A Invasão do Sagaz Homem Fumaça,22/03/00,DAY,0.722,0.723,0.286,0.0387,0.0001,0.125,0.693,6
+11135746947,Chazin,Redemption Song,Uprising,01/01/02/06/05,YEAR,0.671,0.256,0.0387,0.6080,0.0000,0.0737,0.694,7
+11135746947,Chazin,True To Myself,Dragonfly,31/03/03,DAY,0.88,0.564,0.0498,0.0796,0.0000,0.0565,0.83,8
+11135746947,Chazin,True To Myself,Dragonfly,31/03/03,DAY,0.88,0.564,0.0498,0.0796,0.0000,0.0565,0.83,9
+11135746947,Chazin,Aquele Lugar,Esse É O Remédio,01/01/06,DAY,0.776,0.594,0.0613,0.1740,0.0000,0.126,0.781,10
+11135746947,Chazin,Positive Vibration - Live At The Stanley Theatre- 9/23/1980,Live Forever: The Stanley Theatre  Pittsburgh  PA  9/23/1980,01/02/11,DAY,0.522,0.717,0.0758,0.0724,0.0000,0.988,0.554,11
+11135746947,Chazin,A Novidade - Live,Especial Ivete  Gil E Caetano,01/01/12,DAY,0.721,0.548,0.064,0.4380,0.0000,0.621,0.609,12
+11135746947,Chazin,Legalize,What's My Name?!,24/02/12,DAY,0.563,0.779,0.335,0.0336,0.0000,0.342,0.746,13
+11135746947,Chazin,Iluminar,Box Natiruts,14/08/12,DAY,0.781,0.512,0.0509,0.0429,0.2710,0.0867,0.572,14
+11135746947,Chazin,No Ritmo- no Tempo,Sem Crise,05/12/12,DAY,0.757,0.8,0.296,0.4160,0.0000,0.0536,0.696,15
+11135746947,Chazin,Like a Lion,Seco e Ainda Vivo,01/02/13,DAY,0.859,0.567,0.0599,0.0026,0.0007,0.0399,0.411,16
+11135746947,Chazin,Farinha Pouca,Seco e Ainda Vivo,01/02/13,DAY,0.813,0.7,0.0523,0.0459,0.0000,0.0584,0.659,17
+11135746947,Chazin,Pedras Pesadas,Seco e Ainda Vivo,01/02/13,DAY,0.914,0.462,0.0656,0.0159,0.0000,0.153,0.627,18
+11135746947,Chazin,Muita Descrença,Seco e Ainda Vivo,01/02/13,DAY,0.898,0.469,0.118,0.0098,0.0000,0.0502,0.703,19
+11135746947,Chazin,Brilho de Sol,Seco e Ainda Vivo,01/02/13,DAY,0.831,0.576,0.0493,0.0044,0.0000,0.137,0.954,20
+11135746947,Chazin,Ela Me Faz,Ainda Bem Que Eu Segui as Batidas do Meu Coração,05/03/13,DAY,0.767,0.803,0.0882,0.0735,0.0000,0.212,0.648,21
+11135746947,Chazin,Abram-se os Caminhos,Contra Nós Ninguém Será,04/06/13,DAY,0.708,0.833,0.227,0.0262,0.0001,0.12,0.701,22
+11135746947,Chazin,Aonde Vai Chegar (Coisa Feia),Reggae a Vida Com Amor,10/12/13,DAY,0.793,0.629,0.148,0.0831,0.0000,0.0919,0.839,23
+11135746947,Chazin,Novo Dia,Dia Após Dia Lutando (Deluxe Version),10/12/13,DAY,0.874,0.444,0.0484,0.1050,0.0089,0.128,0.754,24
+11135746947,Chazin,Envolvidão,Diversoficando,15/11/14,DAY,0.693,0.773,0.0985,0.7000,0.0000,0.0827,0.937,25
+11135746947,Chazin,Put The Gun Down,Vários Sangue Bons,25/06/15,DAY,0.732,0.817,0.207,0.4400,0.0000,0.162,0.778,26
+11135746947,Chazin,Baiana,Sobre Crianças  Quadris  Pesadelos e Lições de Casa...,07/08/15,DAY,0.786,0.516,0.043,0.4540,0.0053,0.102,0.761,27
+11135746947,Chazin,Baby- I Love Your Way,The Best Of Big Mountain,01/01/16/06/05,YEAR,0.651,0.747,0.0699,0.0528,0.0000,0.207,0.776,28
+11135746947,Chazin,Uma vida só - Versão Completa,Uma Vida Só,18/03/16,DAY,0.629,0.787,0.0481,0.0141,0.0204,0.0851,0.713,29
+11135746947,Chazin,Dome o Medo,Essa É a Nossa Música,25/03/16,DAY,0.78,0.604,0.153,0.1710,0.0000,0.175,0.752,30
+11135746947,Chazin,Agradece,Agradece,03/06/16,DAY,0.809,0.461,0.0489,0.0716,0.0001,0.177,0.782,31
+11135746947,Chazin,Fé na Luta,Fé na Luta,15/07/16,DAY,0.652,0.613,0.213,0.3490,0.0000,0.117,0.111,32
+11135746947,Chazin,Seja Para Mim - Ao Vivo Em São Paulo,Ao Vivo Em São Paulo,24/03/17,DAY,0.784,0.429,0.0309,0.4610,0.0000,0.706,0.577,33
+11135746947,Chazin,Always Be Around,Lily of da Valley,06/10/17,DAY,0.733,0.714,0.0457,0.0484,0.0000,0.344,0.738,34
+11135746947,Chazin,Pretinha Minha,Pretinha Minha,01/12/17,DAY,0.721,0.6,0.0621,0.1260,0.0000,0.177,0.581,35
+11135746947,Chazin,DE LÁ,O MENINO QUE QUERIA SER DEUS,16/03/18,DAY,0.546,0.416,0.399,0.8060,0.0002,0.112,0.504,36
+11135746947,Chazin,Tô Pra Ver - Acústico,Rael Convida: Criolo (Acústico),25/05/18,DAY,0.796,0.325,0.108,0.7570,0.0000,0.401,0.767,37
+11135746947,Chazin,Vem Comigo (90% Of Me Is You) [feat. Shniece McMenamin],Prince Fatty Presents: Monkey Jhayam,03/08/18,DAY,0.801,0.641,0.0731,0.2530,0.0032,0.112,0.835,38
+11135746947,Chazin,Papo Reto - Acústico,Rael Convida: Black Alien (Acústico),14/08/18,DAY,0.729,0.635,0.106,0.5940,0.0000,0.113,0.878,39
+11135746947,Chazin,Batida do Amor,Francisca La Braza,07/12/18,DAY,0.719,0.707,0.103,0.2850,0.0000,0.0899,0.848,40
+11135746947,Chazin,Diz aí (Participação especial de Cedric Myton),Diz aí (Participação especial de Cedric Myton),21/12/18,DAY,0.648,0.725,0.0265,0.0106,0.0002,0.107,0.806,41
+11135746947,Chazin,Minha Plantinha,Pílula Livre,12/04/19,DAY,0.624,0.887,0.132,0.0598,0.0000,0.141,0.388,42
+11135746947,Chazin,Te Conecta,Matriz,26/04/19,DAY,0.669,0.84,0.0341,0.0228,0.0003,0.154,0.868,43
+11135746947,Chazin,Flor de Aruanda - Citação: Feminina,Capim Cidreira,12/09/19,DAY,0.772,0.624,0.111,0.3160,0.0000,0.107,0.891,44
+11135746947,Chazin,Navegantes da Ilusão,Demo,01/01/26/06/05,YEAR,0.798,0.504,0.0873,0.2610,0.0000,0.122,0.675,45
+11135746947,Chazin,Get Up- Stand Up,Equal Rights (Legacy Edition),01/01/30/05/05,YEAR,0.899,0.574,0.0788,0.0012,0.0003,0.0567,0.913,46

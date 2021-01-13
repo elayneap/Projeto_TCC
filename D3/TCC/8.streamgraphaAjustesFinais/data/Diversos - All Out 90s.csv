@@ -1,0 +1,100 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,All Out 90s,Father Figure - Remastered,Faith,30/10/87,DAY,0.689,0.333,0.0262,0.1630,0.0000,0.0853,0.284,1
+spotify,All Out 90s,Hold On,Wilson Phillips,01/01/90,DAY,0.679,0.657,0.0255,0.4000,0.0000,0.0497,0.546,2
+spotify,All Out 90s,U Can't Touch This,Please Hammer Don't Hurt 'Em,20/02/90,DAY,0.867,0.517,0.0875,0.0046,0.0003,0.0864,0.866,3
+spotify,All Out 90s,It Must Have Been Love - From the Film "Pretty Woman",It Must Have Been Love,20/05/90,DAY,0.52,0.652,0.0274,0.3400,0.0001,0.256,0.722,4
+spotify,All Out 90s,I Promised Myself,Move Until We Fly,01/07/90,YEAR,0.581,0.801,0.0306,0.0042,0.0017,0.0326,0.692,5
+spotify,All Out 90s,Nothing Compares 2 U,I Do Not Want What I Haven't Got,01/07/90,DAY,0.511,0.574,0.0273,0.0425,0.0000,0.105,0.161,6
+spotify,All Out 90s,Fading Like A Flower (Every Time You Leave),Joyride (Extended Version),02/04/91,DAY,0.609,0.668,0.026,0.1950,0.0000,0.219,0.319,7
+spotify,All Out 90s,Joyride,Joyride (Extended Version),02/04/91,DAY,0.631,0.77,0.0267,0.0457,0.0000,0.481,0.734,8
+spotify,All Out 90s,When a Man Loves a Woman,Time  Love & Tenderness,23/04/91,DAY,0.476,0.363,0.0296,0.2000,0.0000,0.055,0.243,9
+spotify,All Out 90s,End Of The Road,Cooleyhighharmony (Bonus Tracks Version),30/04/91,DAY,0.64,0.427,0.0241,0.0664,0.0000,0.0579,0.529,10
+spotify,All Out 90s,Crazy,Seal,11/06/91,DAY,0.633,0.846,0.0426,0.4080,0.0034,0.11,0.899,11
+spotify,All Out 90s,Stars,Stars (Collector's Edition),01/07/91,YEAR,0.716,0.818,0.0256,0.1540,0.0008,0.236,0.817,12
+spotify,All Out 90s,Nothing Else Matters,Metallica,12/08/91,DAY,0.553,0.362,0.0263,0.0458,0.0000,0.075,0.158,13
+spotify,All Out 90s,Two Princes,Pocket Full Of Kryptonite,27/08/91,DAY,0.543,0.912,0.0601,0.0016,0.0000,0.0565,0.836,14
+spotify,All Out 90s,November Rain,Use Your Illusion I,17/09/91,DAY,0.294,0.641,0.0291,0.0163,0.2200,0.112,0.226,15
+spotify,All Out 90s,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),24/09/91,DAY,0.559,0.345,0.0459,0.0576,0.0001,0.141,0.458,16
+spotify,All Out 90s,(Everything I Do) I Do It For You,Waking Up The Neighbours,24/09/91,DAY,0.533,0.36,0.0282,0.0805,0.0000,0.0631,0.299,17
+spotify,All Out 90s,I Can't Dance - Remastered 2007,We Can't Dance,11/11/91,DAY,0.916,0.523,0.0521,0.4320,0.0000,0.0488,0.88,18
+spotify,All Out 90s,Heal the World,Dangerous,13/11/91,DAY,0.545,0.485,0.0485,0.5370,0.0000,0.104,0.101,19
+spotify,All Out 90s,Endless Love,Back To Front,01/01/92,DAY,0.483,0.268,0.0257,0.8660,0.0163,0.145,0.182,20
+spotify,All Out 90s,Easy,Angel Dust,08/06/92,DAY,0.506,0.554,0.0339,0.3390,0.0004,0.112,0.375,21
+spotify,All Out 90s,Layla - Acoustic- Live at MTV Unplugged- Bray Film Studios- Windsor- England- UK- 1/16/1992- 2013 Remaster,Unplugged (Deluxe Edition),25/08/92,DAY,0.558,0.524,0.0459,0.3210,0.0010,0.94,0.636,22
+spotify,All Out 90s,Everybody Hurts,Automatic For The People,05/10/92,DAY,0.467,0.324,0.0255,0.6150,0.0248,0.118,0.166,23
+spotify,All Out 90s,The King of Wishful Thinking,Indian Summer,14/11/92,DAY,0.669,0.868,0.0527,0.0330,0.0000,0.0991,0.913,24
+spotify,All Out 90s,I'm Every Woman,The Bodyguard   Original Soundtrack Album,17/11/92,DAY,0.666,0.848,0.0529,0.0176,0.0030,0.126,0.402,25
+spotify,All Out 90s,Cryin',Get A Grip,01/01/93,DAY,0.445,0.856,0.0327,0.0002,0.0101,0.367,0.486,26
+spotify,All Out 90s,Amazing,Get A Grip,01/01/93,DAY,0.308,0.747,0.037,0.0645,0.0001,0.431,0.278,27
+spotify,All Out 90s,Ordinary World,Duran Duran,15/02/93,DAY,0.472,0.652,0.0305,0.0131,0.0000,0.14,0.401,28
+spotify,All Out 90s,Cose della vita,Tutte storie,19/04/93,DAY,0.502,0.603,0.0311,0.0634,0.0005,0.224,0.474,29
+spotify,All Out 90s,Show Me Love,Show Me Love,15/06/93,DAY,0.811,0.833,0.153,0.0140,0.0000,0.0769,0.567,30
+spotify,All Out 90s,The Power of Love,The Colour Of My Love,09/11/93,DAY,0.546,0.519,0.0291,0.3600,0.0005,0.24,0.247,31
+spotify,All Out 90s,Stay Another Day,Steam,01/01/94,DAY,0.524,0.489,0.0274,0.5780,0.0006,0.186,0.443,32
+spotify,All Out 90s,I'll Make Love To You,II,30/08/94,DAY,0.559,0.49,0.0247,0.1030,0.0000,0.099,0.202,33
+spotify,All Out 90s,Waterfalls,Crazysexycool,15/11/94,DAY,0.77,0.505,0.0828,0.3110,0.0001,0.0777,0.757,34
+spotify,All Out 90s,Creep,Crazysexycool,15/11/94,DAY,0.811,0.458,0.0402,0.0193,0.0000,0.0526,0.797,35
+spotify,All Out 90s,Breakfast At Tiffany's,Home,01/01/95,DAY,0.622,0.829,0.029,0.1100,0.0000,0.0954,0.539,36
+spotify,All Out 90s,Stay,Tails,01/01/95,DAY,0.676,0.592,0.0452,0.4540,0.0000,0.107,0.337,37
+spotify,All Out 90s,Streets of Philadelphia - Single Edit,Greatest Hits,27/02/95,DAY,0.741,0.29,0.0302,0.2940,0.1180,0.0924,0.443,38
+spotify,All Out 90s,You Were Meant For Me,Pieces Of You,28/02/95,DAY,0.582,0.33,0.0347,0.7910,0.0000,0.105,0.407,39
+spotify,All Out 90s,Shy Guy,Tougher Than Love,14/04/95,DAY,0.714,0.825,0.0751,0.0128,0.0006,0.049,0.751,40
+spotify,All Out 90s,One Sweet Day,Daydream,26/09/95,DAY,0.569,0.495,0.03,0.3530,0.0000,0.0839,0.302,41
+spotify,All Out 90s,Wonderwall - Remastered,(What's The Story) Morning Glory? [Remastered],02/10/95,DAY,0.378,0.896,0.0407,0.0005,0.0000,0.194,0.469,42
+spotify,All Out 90s,Just A Girl,Tragic Kingdom,10/10/95,DAY,0.641,0.914,0.05,0.0799,0.0001,0.132,0.723,43
+spotify,All Out 90s,Wannabe,Spice,01/01/96,DAY,0.768,0.864,0.0324,0.1010,0.0000,0.162,0.891,44
+spotify,All Out 90s,2 Become 1,Spice,01/01/96,DAY,0.646,0.665,0.0268,0.3260,0.0000,0.238,0.7,45
+spotify,All Out 90s,Un-Break My Heart,Secrets,24/04/96,DAY,0.625,0.426,0.0271,0.4130,0.0000,0.116,0.112,46
+spotify,All Out 90s,Più bella cosa,Dove c'è musica,30/04/96,DAY,0.691,0.76,0.0262,0.0524,0.0000,0.217,0.639,47
+spotify,All Out 90s,Fastlove- Pt. 1,Older,13/05/96,DAY,0.735,0.64,0.072,0.0520,0.0010,0.345,0.551,48
+spotify,All Out 90s,Coco Jamboo,We See The Same Sun,17/05/96,DAY,0.832,0.838,0.0421,0.0791,0.0000,0.152,0.965,49
+spotify,All Out 90s,No Diggity,Another Level,09/09/96,DAY,0.867,0.646,0.288,0.3030,0.0000,0.279,0.67,50
+spotify,All Out 90s,Virtual Insanity - Remastered,Travelling Without Moving (Remastered),09/09/96,DAY,0.618,0.893,0.109,0.1710,0.0000,0.285,0.515,51
+spotify,All Out 90s,Every Time I Close My Eyes (with Kenny G),The Day,29/10/96,DAY,0.654,0.417,0.025,0.0624,0.0000,0.0963,0.279,52
+spotify,All Out 90s,All for Love,If We Fall in Love Tonight,12/11/96,DAY,0.51,0.44,0.0293,0.1250,0.0000,0.0994,0.135,53
+spotify,All Out 90s,All My Life,Love Always,01/01/97,DAY,0.629,0.511,0.0326,0.1140,0.0000,0.0588,0.181,54
+spotify,All Out 90s,High,Postcards From Heaven,01/01/97,DAY,0.662,0.628,0.0251,0.1080,0.0776,0.128,0.588,55
+spotify,All Out 90s,Picture Of You,A Different Beat,01/01/97,DAY,0.768,0.919,0.0416,0.1090,0.0000,0.366,0.862,56
+spotify,All Out 90s,Bitch,Blurring The Edges,01/01/97,DAY,0.617,0.886,0.055,0.0112,0.0001,0.0523,0.629,57
+spotify,All Out 90s,Let Me Entertain You,Life Thru A Lens,01/01/97,DAY,0.478,0.965,0.0642,0.0002,0.0025,0.0854,0.347,58
+spotify,All Out 90s,Stop,Spiceworld,01/01/97,DAY,0.722,0.845,0.0308,0.2870,0.0000,0.0561,0.965,59
+spotify,All Out 90s,MMMBop,Middle Of Nowhere,01/01/97,DAY,0.683,0.937,0.0449,0.0048,0.0046,0.07,0.619,60
+spotify,All Out 90s,Truly Madly Deeply,Savage Garden,04/03/97,DAY,0.555,0.698,0.0287,0.4030,0.0000,0.0851,0.816,61
+spotify,All Out 90s,Don't Let Go (Love),EV3,17/06/97,DAY,0.618,0.688,0.0477,0.4090,0.0000,0.3,0.561,62
+spotify,All Out 90s,Never Ever,All Saints,01/07/97,YEAR,0.738,0.541,0.0311,0.5590,0.0000,0.0492,0.309,63
+spotify,All Out 90s,Men In Black - From "Men In Black" Soundtrack,Big Willie Style,03/10/97,DAY,0.801,0.581,0.0681,0.0968,0.0003,0.0971,0.656,64
+spotify,All Out 90s,Gettin' Jiggy Wit It,Big Willie Style,03/10/97,DAY,0.881,0.874,0.139,0.0175,0.0000,0.154,0.858,65
+spotify,All Out 90s,Miami,Big Willie Style,03/10/97,DAY,0.877,0.534,0.15,0.0339,0.0000,0.0441,0.89,66
+spotify,All Out 90s,My Heart Will Go On - Love Theme from "Titanic",Let's Talk About Love,24/10/97,DAY,0.428,0.276,0.0312,0.7320,0.0000,0.117,0.0382,67
+spotify,All Out 90s,You're Still The One,Come On Over,04/11/97,DAY,0.585,0.494,0.0353,0.3630,0.0000,0.0886,0.634,68
+spotify,All Out 90s,Save Tonight,Desireless,01/01/98,DAY,0.547,0.707,0.0338,0.0001,0.0001,0.285,0.654,69
+spotify,All Out 90s,My Favourite Game,Gran Turismo (Remastered),01/01/98,DAY,0.586,0.777,0.0303,0.0000,0.0015,0.0729,0.424,70
+spotify,All Out 90s,When You're Gone,On A Day Like Today,01/01/98,DAY,0.546,0.931,0.0341,0.0003,0.0000,0.11,0.643,71
+spotify,All Out 90s,C'est La Vie,C'est la Vie: The Collection,25/03/98,DAY,0.705,0.936,0.0306,0.0978,0.0001,0.0506,0.939,72
+spotify,All Out 90s,The Boy Is Mine,Never Say Never,29/05/98,DAY,0.704,0.707,0.0391,0.5390,0.0011,0.318,0.761,73
+spotify,All Out 90s,Believe,Believe,01/07/98,YEAR,0.652,0.917,0.0548,0.0082,0.0000,0.0509,0.459,74
+spotify,All Out 90s,She's The One,I've Been Expecting You,01/07/98,YEAR,0.243,0.609,0.0323,0.6630,0.0000,0.221,0.333,75
+spotify,All Out 90s,Strong Enough,Believe,01/07/98,YEAR,0.593,0.923,0.101,0.0495,0.0000,0.29,0.587,76
+spotify,All Out 90s,Doo Wop (That Thing),The Miseducation of Lauryn Hill,25/08/98,DAY,0.535,0.505,0.245,0.0393,0.0000,0.0923,0.495,77
+spotify,All Out 90s,Iris,Dizzy up the Girl,11/09/98,DAY,0.315,0.715,0.0362,0.0012,0.0000,0.0942,0.497,78
+spotify,All Out 90s,Don't Let the Sun Go Down on Me,Ladies And Gentlemen... The Best Of George Michael,09/11/98,DAY,0.432,0.551,0.0289,0.5010,0.0000,0.472,0.253,79
+spotify,All Out 90s,It's Not Right But It's Okay,My Love Is Your Love,17/11/98,DAY,0.806,0.802,0.102,0.1620,0.0009,0.0698,0.529,80
+spotify,All Out 90s,When You Believe (with Mariah Carey) - from The Prince of Egypt,My Love Is Your Love,17/11/98,DAY,0.436,0.39,0.0326,0.5570,0.0000,0.12,0.119,81
+spotify,All Out 90s,Bring It All Back,S Club,01/01/99,DAY,0.679,0.903,0.0463,0.3330,0.0000,0.372,0.872,82
+spotify,All Out 90s,Rhythm Divine,Enrique,01/01/99,DAY,0.628,0.971,0.16,0.1300,0.0000,0.0937,0.443,83
+spotify,All Out 90s,Could I Have This Kiss Forever,Enrique,01/01/99,DAY,0.457,0.892,0.0986,0.0034,0.0000,0.141,0.508,84
+spotify,All Out 90s,No Scrubs,Fanmail,23/02/99,DAY,0.743,0.675,0.0953,0.0251,0.0007,0.0685,0.59,85
+spotify,All Out 90s,You'll Be In My Heart,Tarzan (Original Motion Picture Soundtrack),18/05/99,DAY,0.568,0.748,0.0299,0.0626,0.0000,0.0947,0.623,86
+spotify,All Out 90s,All Star,Astro Lounge,08/06/99,DAY,0.731,0.867,0.032,0.0395,0.0000,0.0861,0.776,87
+spotify,All Out 90s,Livin' la Vida Loca,Ricky Martin,01/07/99,YEAR,0.425,0.954,0.0476,0.0041,0.0000,0.0555,0.933,88
+spotify,All Out 90s,Smooth (feat. Rob Thomas),Supernatural (Legacy Edition),01/07/99,YEAR,0.609,0.923,0.0338,0.1600,0.0000,0.295,0.961,89
+spotify,All Out 90s,Thank You,No Angel,01/07/99,YEAR,0.725,0.583,0.0424,0.3000,0.0002,0.0665,0.765,90
+spotify,All Out 90s,Say My Name,The Writing's On The Wall,07/09/99,DAY,0.522,0.676,0.16,0.2740,0.0000,0.134,0.746,91
+spotify,All Out 90s,Man! I Feel Like A Woman!,Come On Over (International Version),09/11/99,DAY,0.664,0.889,0.0468,0.6410,0.0000,0.298,0.729,92
+spotify,All Out 90s,Here Comes the Hotstepper,Hits Of The 90's,22/11/99,DAY,0.889,0.446,0.23,0.0302,0.0003,0.187,0.425,93
+spotify,All Out 90s,I Want It That Way,The Hits  Chapter One,23/10/01,DAY,0.689,0.702,0.0261,0.2160,0.0000,0.159,0.484,94
+spotify,All Out 90s,Sexbomb,Reload,01/01/03,DAY,0.801,0.876,0.0446,0.1440,0.0000,0.104,0.932,95
+spotify,All Out 90s,How Deep Is Your Love,Never Forget: The Ultimate Collection,14/11/05,DAY,0.785,0.451,0.0257,0.6960,0.0005,0.176,0.413,96
+spotify,All Out 90s,Torn,Glorious: The Singles 97 07,05/09/07,DAY,0.559,0.928,0.0355,0.0746,0.0001,0.696,0.599,97
+spotify,All Out 90s,Vogue,Celebration (double disc version),18/09/09,DAY,0.737,0.88,0.0433,0.0038,0.0035,0.417,0.329,98
+spotify,All Out 90s,Freedom! '90 - Remastered,Listen Without Prejudice / MTV Unplugged (Deluxe),20/10/17,DAY,0.677,0.852,0.045,0.2250,0.0000,0.0595,0.93,99

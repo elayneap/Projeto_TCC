@@ -1,0 +1,36 @@
+<!-- 
+    Adapted from bl.ocks.org
+    http://bl.ocks.org/WillTurman/4631136
+ -->
+ 
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <title>Streamgraph</title>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<meta charset="utf-8">
+
+<body>
+	<script src="https://d3js.org/d3.v4.js"></script>
+	<div id='vis-container'></div>
+	<div id='tabela'></div>
+	<div id='titulo'></div>
+	<div id='primeiroSVG'></div>
+	<div id='linha' class='chart'></div>
+	
+	<script src="js/main.js"></script>
+	
+	<div id='botao'>
+		<input type="button" value="Adicione mais um gráfico" onclick="secondVis();this.disabled = true;">
+		<div id='vis-container2' class="hidden"></div>
+		<div id='tabela2' class="hidden"></div>
+		<div id='titulo2' class="hidden"></div>
+		<div id='segundoSVG' class="hidden"></div>
+		<div id='linha2' class='chart'></div>
+		
+		<script src="js/visualization2.js"></script>
+	</div>
+</body>

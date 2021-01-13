@@ -1,0 +1,22 @@
+user_id,playlist,description,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Black History Salute,Saluting the poets that have filled us with pride,I Have Known Rivers,Anthology of Negro Poetry,01/01/54,DAY,0.651,0.0809,0.808,0.7630,0.0000,0.157,0.42,1
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Beverly Hills- Chicago,Anthology of Negro Poetry,01/01/54,DAY,0.587,0.0595,0.73,0.8570,0.0000,0.128,0.376,2
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Ma Rainey,Anthology of Negro Poetry,01/01/54,DAY,0.703,0.0244,0.162,0.8150,0.0000,0.157,0.514,3
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Heritage,Anthology of Negro Poetry,01/01/54,DAY,0.565,0.248,0.862,0.9770,0.5840,0.306,0.61,4
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Kitchenette,Anthology of Negro Poetry,01/01/54,DAY,0.673,0.0518,0.444,0.8310,0.0000,0.0798,0.396,5
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Old Laughter,Anthology of Negro Poetry,01/01/54,DAY,0.721,0.0417,0.243,0.7440,0.0000,0.0839,0.394,6
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Phillis Wheatley (1753-1784),The Negro Woman,01/01/66,DAY,0.692,0.0832,0.872,0.8170,0.0000,0.219,0.385,7
+spotify,Black History Salute,Saluting the poets that have filled us with pride,The Revolution Will Not Be Televised,Pieces of a Man,01/01/71,DAY,0.558,0.677,0.207,0.5350,0.0000,0.101,0.96,8
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Blk/ Wooomen/ chant,A Sun Lady for All Seasons Reads Her Poetry,01/01/71,DAY,0.688,0.127,0.891,0.9360,0.0000,0.0943,0.377,9
+spotify,Black History Salute,Saluting the poets that have filled us with pride,The Ballad of the Free,The Poetry of Margaret Walker,01/01/75,DAY,0.718,0.111,0.851,0.6340,0.0000,0.118,0.298,10
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Ballad for Phyllis Wheatley,The Poetry of Margaret Walker,01/01/75,DAY,0.697,0.0545,0.678,0.5960,0.0000,0.548,0.312,11
+spotify,Black History Salute,Saluting the poets that have filled us with pride,We Have Been Believers,The Poetry of Margaret Walker,01/01/75,DAY,0.619,0.0948,0.723,0.6530,0.0000,0.374,0.306,12
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Dope,Poets Read Their Contemporary Poetry: Before Columbus Foundation,01/01/80,DAY,0.55,0.813,0.938,0.9760,0.0000,0.761,0.638,13
+spotify,Black History Salute,Saluting the poets that have filled us with pride,St Louis Woman,Poets Read Their Contemporary Poetry: Before Columbus Foundation,01/01/80,DAY,0.581,0.466,0.96,0.9930,0.0000,0.699,0.537,14
+spotify,Black History Salute,Saluting the poets that have filled us with pride,I Too,Langston Hughes Recordings,06/09/11,DAY,0.706,0.0441,0.806,0.8800,0.0000,0.339,0.582,15
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Dreams,Langston Hughes Recordings,06/09/11,DAY,0.745,0.102,0.937,0.9820,0.0000,0.124,0.371,16
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Parsley,100 Great Poems   Classic Poets & Beatnik Freaks,01/01/12,DAY,0.732,0.15,0.92,0.4450,0.0000,0.371,0.256,17
+spotify,Black History Salute,Saluting the poets that have filled us with pride,I've Decided to Make Jesus My Choice (Alabama Poem),The Truth Is On The Way,10/07/12,DAY,0.422,0.397,0.0969,0.8520,0.0039,0.135,0.425,18
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Maya Angelou Interview with Ebony Moments - Live Interview,Maya Angelou Interview with Ebony Moments (Live Interview),27/02/13,DAY,0.714,0.393,0.935,0.9140,0.0000,0.167,0.469,19
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Africa,Caged Bird Songs,04/11/14,DAY,0.829,0.528,0.194,0.0723,0.2900,0.0323,0.375,20
+spotify,Black History Salute,Saluting the poets that have filled us with pride,Part II - The Glory: If We Must Die,The Glory of Negro History,01/04/15,DAY,0.71,0.0563,0.84,0.9490,0.0000,0.202,0.516,21

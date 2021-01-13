@@ -1,0 +1,52 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+12165492447,Hit Rewind,I Want It That Way,Millennium,18/05/99,DAY,0.689,0.694,0.027,0.2570,0.0000,0.148,0.482,1
+12165492447,Hit Rewind,Poker Face,The Fame,01/01/08,DAY,0.851,0.806,0.0787,0.1180,0.0000,0.121,0.787,2
+12165492447,Hit Rewind,Just Dance,The Fame,01/01/08,DAY,0.822,0.739,0.0311,0.0264,0.0000,0.181,0.745,3
+12165492447,Hit Rewind,Telephone,The Fame Monster (Deluxe Edition),05/11/09,DAY,0.824,0.836,0.0404,0.0052,0.0008,0.112,0.716,4
+12165492447,Hit Rewind,Criminal,Femme Fatale (Deluxe Version),28/03/11,DAY,0.696,0.734,0.0298,0.0485,0.0000,0.183,0.711,5
+12165492447,Hit Rewind,Born This Way,Born This Way (International Special Edition Version),23/05/11,DAY,0.587,0.828,0.161,0.0033,0.0000,0.331,0.494,6
+12165492447,Hit Rewind,Last Friday Night (T.G.I.F.),Katy Perry   Teenage Dream: The Complete Confection,12/03/12,DAY,0.649,0.815,0.0415,0.0012,0.0000,0.671,0.765,7
+12165492447,Hit Rewind,Stolen Dance,Sadnecessary,31/05/13,DAY,0.885,0.581,0.0378,0.4270,0.0002,0.0759,0.728,8
+12165492447,Hit Rewind,Latch,Settle (Special Edition),01/01/14,DAY,0.503,0.727,0.167,0.0159,0.0001,0.0895,0.521,9
+12165492447,Hit Rewind,A Sky Full of Stars,Ghost Stories,19/05/14,DAY,0.551,0.636,0.0281,0.0071,0.0020,0.217,0.153,10
+12165492447,Hit Rewind,Sugar,V,02/09/14,DAY,0.748,0.788,0.0334,0.0591,0.0000,0.0863,0.884,11
+12165492447,Hit Rewind,Wait a Minute!,ARDIPITHECUS,11/01/15,DAY,0.764,0.705,0.0278,0.0371,0.0000,0.0943,0.672,12
+12165492447,Hit Rewind,She's Kinda Hot,Sounds Good Feels Good (Deluxe),23/10/15,DAY,0.664,0.908,0.0317,0.0018,0.0000,0.109,0.889,13
+12165492447,Hit Rewind,Faded,Faded,04/12/15,DAY,0.589,0.651,0.0306,0.0291,0.0000,0.111,0.166,14
+12165492447,Hit Rewind,Somebody Else,I like it when you sleep  for you are so beautiful yet so unaware of it,26/02/16,DAY,0.618,0.793,0.0601,0.2040,0.0154,0.126,0.459,15
+12165492447,Hit Rewind,Scars To Your Beautiful,Know It All (Deluxe),11/03/16,DAY,0.319,0.739,0.272,0.0285,0.0000,0.111,0.449,16
+12165492447,Hit Rewind,PILLOWTALK,Mind Of Mine (Deluxe Edition),25/03/16,DAY,0.584,0.7,0.0456,0.1170,0.0000,0.0939,0.438,17
+12165492447,Hit Rewind,Send My Love (To Your New Lover),25,24/06/16,DAY,0.69,0.524,0.103,0.0415,0.0000,0.17,0.562,18
+12165492447,Hit Rewind,Say You Won't Let Go,Back from the Edge,28/10/16,DAY,0.358,0.557,0.059,0.6950,0.0000,0.0902,0.494,19
+12165492447,Hit Rewind,That's What I Like,24K Magic,17/11/16,DAY,0.853,0.56,0.0406,0.0130,0.0000,0.0944,0.86,20
+12165492447,Hit Rewind,Redbone,Awaken  My Love!,02/12/16,DAY,0.743,0.347,0.121,0.1670,0.0095,0.103,0.572,21
+12165492447,Hit Rewind,I Fall Apart,Stoney (Deluxe),09/12/16,DAY,0.556,0.538,0.0382,0.0689,0.0000,0.196,0.291,22
+12165492447,Hit Rewind,Congratulations,Stoney (Deluxe),09/12/16,DAY,0.63,0.804,0.0363,0.2150,0.0000,0.253,0.492,23
+12165492447,Hit Rewind,It Ain't Me (with Selena Gomez),It Ain't Me (with Selena Gomez),16/02/17,DAY,0.64,0.533,0.0706,0.1190,0.0000,0.0864,0.515,24
+12165492447,Hit Rewind,Stay,Stay,23/02/17,DAY,0.69,0.622,0.0622,0.2530,0.0000,0.116,0.544,25
+12165492447,Hit Rewind,Pretty Girl - Cheat Codes X CADE Remix,Pretty Girl (Cheat Codes X CADE Remix),02/03/17,DAY,0.703,0.868,0.0291,0.1500,0.1320,0.104,0.733,26
+12165492447,Hit Rewind,Feel Good (feat. Daya),Feel Good (feat. Daya),03/03/17,DAY,0.625,0.707,0.0337,0.2200,0.0000,0.213,0.479,27
+12165492447,Hit Rewind,No Promises (feat. Demi Lovato),No Promises (feat. Demi Lovato),31/03/17,DAY,0.741,0.667,0.134,0.0575,0.0000,0.106,0.595,28
+12165492447,Hit Rewind,Hard Times,Hard Times,19/04/17,DAY,0.695,0.818,0.0334,0.0065,0.0000,0.0219,0.916,29
+12165492447,Hit Rewind,Location,American Teen,27/04/17,DAY,0.736,0.449,0.425,0.3300,0.0002,0.0898,0.326,30
+12165492447,Hit Rewind,Sign of the Times,Harry Styles,12/05/17,DAY,0.516,0.595,0.0313,0.0275,0.0000,0.109,0.222,31
+12165492447,Hit Rewind,Me Too,Thank You (Deluxe Version),12/05/17,DAY,0.934,0.694,0.101,0.0962,0.0000,0.478,0.835,32
+12165492447,Hit Rewind,IDGAF,Dua Lipa (Deluxe),02/06/17,DAY,0.836,0.544,0.0943,0.0403,0.0000,0.0824,0.51,33
+12165492447,Hit Rewind,New Rules,Dua Lipa (Deluxe),02/06/17,DAY,0.762,0.7,0.0694,0.0026,0.0000,0.153,0.608,34
+12165492447,Hit Rewind,Now Or Never,hopeless fountain kingdom (Deluxe),02/06/17,DAY,0.67,0.585,0.0354,0.1070,0.0000,0.131,0.447,35
+12165492447,Hit Rewind,Bad At Love,hopeless fountain kingdom (Deluxe),02/06/17,DAY,0.675,0.751,0.0296,0.0604,0.0000,0.0893,0.612,36
+12165492447,Hit Rewind,Love Galore (feat. Travis Scott),Ctrl,09/06/17,DAY,0.795,0.594,0.0747,0.1110,0.0000,0.162,0.409,37
+12165492447,Hit Rewind,Feel It Still,Woodstock,16/06/17,DAY,0.801,0.795,0.0504,0.0417,0.0001,0.0717,0.754,38
+12165492447,Hit Rewind,Feels (feat. Pharrell Williams- Katy Perry & Big Sean),Funk Wav Bounces Vol.1,30/06/17,DAY,0.893,0.745,0.0571,0.0642,0.0000,0.0943,0.872,39
+12165492447,Hit Rewind,Issues,Nervous System,28/07/17,DAY,0.67,0.415,0.0786,0.3900,0.0000,0.0617,0.445,40
+12165492447,Hit Rewind,Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,11/08/17,DAY,0.643,0.783,0.0856,0.0470,0.0000,0.083,0.579,41
+12165492447,Hit Rewind,Dusk Till Dawn - Radio Edit,Dusk Till Dawn (Radio Edit),07/09/17,DAY,0.258,0.437,0.039,0.1010,0.0000,0.106,0.0967,42
+12165492447,Hit Rewind,Good Old Days (feat. Kesha),GEMINI,22/09/17,DAY,0.712,0.51,0.0633,0.4460,0.0000,0.112,0.268,43
+12165492447,Hit Rewind,Malibu,Younger Now,29/09/17,DAY,0.573,0.781,0.0555,0.0767,0.0000,0.0813,0.343,44
+12165492447,Hit Rewind,September Song,Raised Under Grey Skies (Deluxe),06/10/17,DAY,0.614,0.615,0.0444,0.0540,0.0000,0.0921,0.374,45
+12165492447,Hit Rewind,Slow Hands,Flicker (Deluxe),20/10/17,DAY,0.735,0.425,0.0464,0.0110,0.0000,0.055,0.848,46
+12165492447,Hit Rewind,ocean eyes,dont smile at me,22/12/17,DAY,0.511,0.363,0.041,0.8160,0.0317,0.084,0.169,47
+12165492447,Hit Rewind,Never Be the Same,Camila,12/01/18,DAY,0.637,0.713,0.0747,0.1810,0.0006,0.137,0.243,48
+12165492447,Hit Rewind,Havana (feat. Young Thug),Camila,12/01/18,DAY,0.765,0.523,0.03,0.1840,0.0000,0.132,0.394,49
+12165492447,Hit Rewind,The Middle,The Middle,23/01/18,DAY,0.753,0.657,0.0449,0.1710,0.0000,0.112,0.437,50
+12165492447,Hit Rewind,FRIENDS,FRIENDS,09/02/18,DAY,0.626,0.88,0.0504,0.2050,0.0000,0.128,0.534,51

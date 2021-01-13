@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Get Turnt,Show Stop,Show Stop,21/01/20,DAY,0.743,0.68,0.0393,0.0550,0.0030,0.203,0.458,1
+spotify,Get Turnt,Papi Chulo,Papi Chulo,13/03/20,DAY,0.866,0.563,0.108,0.1850,0.0000,0.0889,0.307,2
+spotify,Get Turnt,ROCKSTAR (feat. Roddy Ricch),BLAME IT ON BABY,17/04/20,DAY,0.746,0.69,0.164,0.2470,0.0000,0.101,0.497,3
+spotify,Get Turnt,We Paid (feat. 42 Dugg),My Turn (Deluxe),01/05/20,DAY,0.926,0.542,0.293,0.1350,0.0000,0.0877,0.564,4
+spotify,Get Turnt,Go Crazy,Slime & B,08/05/20,DAY,0.755,0.578,0.145,0.3160,0.0000,0.25,0.581,5
+spotify,Get Turnt,No Suburban- Pt. 2,One and Only,15/05/20,DAY,0.85,0.458,0.339,0.4760,0.0000,0.26,0.616,6
+spotify,Get Turnt,Buss It,Buss It,15/05/20,DAY,0.918,0.434,0.173,0.5690,0.0000,0.123,0.75,7
+spotify,Get Turnt,DOLLAZ ON MY HEAD (feat. Young Thug),WUNNA,22/05/20,DAY,0.825,0.458,0.0577,0.1140,0.0000,0.102,0.161,8
+spotify,Get Turnt,Need It,Need It,22/05/20,DAY,0.852,0.745,0.171,0.0313,0.0000,0.0824,0.897,9
+spotify,Get Turnt,Move Like a Boss (feat. Young M.A),Move Like a Boss (feat. Young M.A),19/06/20,DAY,0.798,0.793,0.32,0.0665,0.0000,0.297,0.494,10
+spotify,Get Turnt,Pussy Talk,City On Lock,20/06/20,DAY,0.943,0.641,0.191,0.0016,0.0000,0.211,0.242,11
+spotify,Get Turnt,WHATS POPPIN (feat. DaBaby- Tory Lanez & Lil Wayne) - Remix,WHATS POPPIN (feat. DaBaby  Tory Lanez & Lil Wayne) [Remix],24/06/20,DAY,0.904,0.723,0.26,0.0631,0.0000,0.185,0.835,12
+spotify,Get Turnt,Flood My Wrist (feat. Lil Uzi Vert),Flood My Wrist (feat. Lil Uzi Vert),01/07/20,DAY,0.904,0.672,0.197,0.0038,0.0000,0.138,0.398,13
+spotify,Get Turnt,The Woo (feat. 50 Cent & Roddy Ricch),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.49,0.618,0.104,0.0221,0.0000,0.259,0.286,14
+spotify,Get Turnt,Dior - Bonus,Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.676,0.746,0.344,0.0893,0.0016,0.412,0.675,15
+spotify,Get Turnt,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.823,0.586,0.2,0.1140,0.0000,0.193,0.347,16
+spotify,Get Turnt,Don't Be Mad At Me - Remix,Don't Be Mad At Me (Remix),14/07/20,DAY,0.868,0.496,0.217,0.1800,0.0000,0.143,0.212,17
+spotify,Get Turnt,POPSTAR (feat. Drake),POPSTAR (feat. Drake),17/07/20,DAY,0.8,0.56,0.261,0.0570,0.0000,0.134,0.45,18
+spotify,Get Turnt,Stuntin' On You (feat. DaBaby),Stuntin' On You (feat. DaBaby),17/07/20,DAY,0.796,0.683,0.277,0.0111,0.0000,0.126,0.737,19
+spotify,Get Turnt,Love In The Club,Welcome to GStarr Vol. 1 EP,17/07/20,DAY,0.506,0.416,0.165,0.7730,0.0018,0.108,0.415,20
+spotify,Get Turnt,Hello (feat. A Boogie Wit da Hoodie),Shoot For The Stars Aim For The Moon (Deluxe),20/07/20,DAY,0.905,0.647,0.107,0.0187,0.0000,0.282,0.367,21
+spotify,Get Turnt,Throat Baby (Go Baby),Throat Baby (Go Baby),24/07/20,DAY,0.9,0.521,0.147,0.0135,0.0000,0.0951,0.213,22
+spotify,Get Turnt,ONE WATCH (feat. Young Thug),WUNNA (Deluxe),24/07/20,DAY,0.857,0.511,0.0881,0.0006,0.0000,0.11,0.336,23
+spotify,Get Turnt,In The Party,Ho  why is you here ?,24/07/20,DAY,0.919,0.609,0.262,0.0096,0.0000,0.124,0.418,24
+spotify,Get Turnt,Patek,Patek,30/07/20,DAY,0.801,0.596,0.0534,0.0030,0.0000,0.162,0.134,25
+spotify,Get Turnt,Move Ya Hips (feat. Nicki Minaj & MadeinTYO),Move Ya Hips (feat. Nicki Minaj & MadeinTYO),30/07/20,DAY,0.809,0.68,0.222,0.0535,0.0000,0.11,0.0653,26
+spotify,Get Turnt,GAH DAMN HIGH,GAH DAMN HIGH,31/07/20,DAY,0.709,0.617,0.335,0.0080,0.0002,0.126,0.547,27
+spotify,Get Turnt,PRACTICE,BLAME IT ON BABY (DELUXE),04/08/20,DAY,0.849,0.536,0.349,0.0239,0.0000,0.126,0.308,28
+spotify,Get Turnt,GO,BLAME IT ON BABY (DELUXE),04/08/20,DAY,0.795,0.823,0.252,0.0824,0.0000,0.13,0.912,29
+spotify,Get Turnt,Rags2Riches 2 (feat. Lil Baby),Pray 4 Love (Deluxe),07/08/20,DAY,0.874,0.443,0.241,0.1470,0.0000,0.124,0.298,30
+spotify,Get Turnt,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),07/08/20,DAY,0.935,0.454,0.375,0.0194,0.0000,0.0824,0.357,31
+spotify,Get Turnt,Hood Baby – Remix feat. Lil Gotit,Hood Baby – Remix feat. Lil Gotit,07/08/20,DAY,0.964,0.57,0.395,0.2390,0.0000,0.122,0.683,32
+spotify,Get Turnt,Make Em Say (feat. Mulatto),Top Shotta,10/08/20,DAY,0.658,0.823,0.16,0.0103,0.0000,0.0801,0.232,33
+spotify,Get Turnt,Tip Toe,Tip Toe,12/08/20,DAY,0.849,0.622,0.325,0.5790,0.0000,0.193,0.802,34
+spotify,Get Turnt,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),14/08/20,DAY,0.761,0.518,0.134,0.2440,0.0000,0.107,0.522,35
+spotify,Get Turnt,Benz,Rich Slave,14/08/20,DAY,0.895,0.516,0.163,0.0419,0.0000,0.133,0.117,36
+spotify,Get Turnt,Whoopty,Whoopty,20/08/20,DAY,0.714,0.609,0.17,0.1940,0.0000,0.126,0.778,37
+spotify,Get Turnt,In n Out (feat. City Girls),Queen of Da Souf,21/08/20,DAY,0.898,0.748,0.275,0.5110,0.0000,0.171,0.661,38
+spotify,Get Turnt,Aw Aw,Aw Aw,21/08/20,DAY,0.852,0.48,0.169,0.0307,0.0482,0.11,0.503,39
+spotify,Get Turnt,Royal Rumble,Royal Rumble,26/08/20,DAY,0.427,0.679,0.344,0.0010,0.0000,0.159,0.311,40
+spotify,Get Turnt,Lemonade (feat. Gunna- Don Toliver & NAV),B4 The Storm,28/08/20,DAY,0.8,0.658,0.079,0.2500,0.0000,0.111,0.462,41
+spotify,Get Turnt,Expensive (feat. Nicki Minaj),Expensive (feat. Nicki Minaj),28/08/20,DAY,0.866,0.531,0.0703,0.0379,0.0000,0.0937,0.266,42
+spotify,Get Turnt,Tap In (feat. Post Malone- DaBaby & Jack Harlow),Tap In (feat. Post Malone  DaBaby & Jack Harlow),28/08/20,DAY,0.948,0.63,0.219,0.0065,0.0000,0.0737,0.425,43
+spotify,Get Turnt,Stay Ur Distance,Stay Ur Distance,28/08/20,DAY,0.832,0.611,0.193,0.0091,0.0000,0.216,0.682,44
+spotify,Get Turnt,Tommy Lee (feat. SAINt JHN & Post Malone) - Remix,Tommy Lee (feat. SAINt JHN & Post Malone) [Remix],28/08/20,DAY,0.504,0.597,0.1,0.2060,0.0000,0.0949,0.557,45
+spotify,Get Turnt,Lost Me (feat. Lil Mosey- iann dior & Lil Skies),B4 The Storm,29/08/20,DAY,0.694,0.697,0.0379,0.1620,0.0000,0.0821,0.379,46
+spotify,Get Turnt,Baggin',Baggin',02/09/20,DAY,0.78,0.528,0.451,0.2440,0.0000,0.111,0.383,47
+spotify,Get Turnt,ZTFO,Detroit 2,04/09/20,DAY,0.72,0.542,0.0482,0.0514,0.0000,0.136,0.374,48
+spotify,Get Turnt,Too Blessed,Too Blessed,04/09/20,DAY,0.906,0.351,0.239,0.0059,0.0000,0.109,0.315,49
+spotify,Get Turnt,Our Time,Our Time,11/09/20,DAY,0.896,0.441,0.317,0.1990,0.0000,0.0679,0.628,50
+spotify,Get Turnt,Ring (feat. Young Thug),Ring (feat. Young Thug),11/09/20,DAY,0.807,0.668,0.116,0.0028,0.0000,0.167,0.121,51
+spotify,Get Turnt,Said Sum,Code Red,18/09/20,DAY,0.929,0.667,0.353,0.0185,0.0000,0.1,0.274,52
+spotify,Get Turnt,YUUUU,YUUUU,18/09/20,DAY,0.698,0.755,0.404,0.0162,0.0000,0.33,0.759,53
+spotify,Get Turnt,Feel The Vibe (feat. Meek Mill),Young Jefe 3,18/09/20,DAY,0.77,0.624,0.289,0.1580,0.0000,0.264,0.558,54
+spotify,Get Turnt,Right Or Wrong (feat. Lil Uzi Vert),Young Jefe 3,18/09/20,DAY,0.769,0.785,0.272,0.0479,0.0000,0.0883,0.647,55
+spotify,Get Turnt,Money Mouf,Money Mouf,18/09/20,DAY,0.968,0.793,0.256,0.0014,0.0000,0.0814,0.793,56
+spotify,Get Turnt,Dennis Rodman (feat. Tyga),Floor Seats II,25/09/20,DAY,0.741,0.537,0.143,0.0358,0.0000,0.146,0.233,57
+spotify,Get Turnt,SAME HANDS (feat. Lil Durk),SAME HANDS (feat. Lil Durk),25/09/20,DAY,0.88,0.609,0.253,0.0682,0.0000,0.112,0.323,58
+spotify,Get Turnt,Rambo (Last Blood) (feat. The Weeknd),T R A P S O U L (Deluxe),25/09/20,DAY,0.508,0.686,0.136,0.2280,0.0000,0.102,0.4,59
+spotify,Get Turnt,Freak,In The Name Of Gee,25/09/20,DAY,0.907,0.449,0.397,0.0645,0.0003,0.103,0.338,60
+spotify,Get Turnt,Runnin,SAVAGE MODE II,02/10/20,DAY,0.819,0.626,0.202,0.0075,0.1010,0.167,0.415,61
+spotify,Get Turnt,Onna Come Up,Onna Come Up,02/10/20,DAY,0.796,0.426,0.285,0.3560,0.0000,0.0941,0.649,62
+spotify,Get Turnt,Don’t Stop (feat. Young Thug),Don’t Stop (feat. Young Thug),02/10/20,DAY,0.933,0.757,0.117,0.0018,0.0000,0.135,0.544,63
+spotify,Get Turnt,Bop It (feat. Polo G),Bop It (feat. Polo G),02/10/20,DAY,0.841,0.605,0.345,0.0029,0.0000,0.309,0.262,64
+spotify,Get Turnt,Rodeo,My Life 4Hunnid,02/10/20,DAY,0.752,0.646,0.0593,0.0043,0.0000,0.179,0.395,65
+spotify,Get Turnt,FRANCHISE (feat. Future- Young Thug & M.I.A.) - REMIX,FRANCHISE (feat. Future  Young Thug & M.I.A.) [REMIX],07/10/20,DAY,0.859,0.77,0.345,0.0056,0.0000,0.0731,0.348,66
+spotify,Get Turnt,Turn Me Up (feat. NLE Choppa),Turn Me Up (feat. NLE Choppa),09/10/20,DAY,0.852,0.824,0.353,0.0428,0.0000,0.115,0.707,67
+spotify,Get Turnt,Hear No Evil (feat. Future),EDNA,09/10/20,DAY,0.846,0.625,0.275,0.1810,0.0000,0.183,0.471,68
+spotify,Get Turnt,ChopBloc Pt. 3 (feat. NLE Choppa) - Pt. 3,FatBoy,09/10/20,DAY,0.736,0.587,0.441,0.0020,0.0000,0.112,0.304,69
+spotify,Get Turnt,Gorgeous,Gorgeous,09/10/20,DAY,0.86,0.7,0.0485,0.0462,0.0000,0.212,0.281,70
+spotify,Get Turnt,Ain’t Tuff,Diana,09/10/20,DAY,0.889,0.565,0.392,0.1080,0.0000,0.131,0.644,71
+spotify,Get Turnt,LOAD IT UP,LOAD IT UP,09/10/20,DAY,0.885,0.745,0.193,0.0240,0.0000,0.093,0.599,72
+spotify,Get Turnt,Get In feat. Stunna 4 Vegas,Get In feat. Stunna 4 Vegas,09/10/20,DAY,0.873,0.516,0.343,0.0650,0.0000,0.125,0.463,73
+spotify,Get Turnt,I Am What I Am (feat. Fivio Foreign),I Am What I Am (feat. Fivio Foreign),09/10/20,DAY,0.8,0.676,0.287,0.0762,0.0000,0.119,0.421,74
+spotify,Get Turnt,Lil Bro,A Demon In 6lue,09/10/20,DAY,0.925,0.763,0.373,0.3840,0.0000,0.11,0.759,75
+spotify,Get Turnt,Breakin' U Off,Breakin' U Off,14/10/20,DAY,0.923,0.554,0.258,0.0048,0.0001,0.112,0.25,76
+spotify,Get Turnt,Iced Out Audemars (feat. Lil Wayne) - Remix,Iced Out Audemars (Remix),15/10/20,DAY,0.782,0.796,0.0819,0.0298,0.0000,0.728,0.909,77
+spotify,Get Turnt,Hypno (feat. Rahky),The L.I.B.R.A.,16/10/20,DAY,0.811,0.661,0.275,0.0395,0.0000,0.11,0.382,78
+spotify,Get Turnt,Whole Lotta Choppas (Remix) [feat. Nicki Minaj],Whole Lotta Choppas (Remix) [feat. Nicki Minaj],16/10/20,DAY,0.956,0.72,0.173,0.0019,0.0000,0.117,0.282,79
+spotify,Get Turnt,Negativity (feat. 1TakeJay),Still Kony 2,16/10/20,DAY,0.505,0.765,0.534,0.1800,0.0000,0.0665,0.561,80
+spotify,Get Turnt,Monique,Monique,16/10/20,DAY,0.964,0.441,0.199,0.0051,0.0001,0.0968,0.0699,81
+spotify,Get Turnt,King Alfred,King Alfred,16/10/20,DAY,0.836,0.573,0.231,0.0202,0.0000,0.0849,0.399,82
+spotify,Get Turnt,Spicy (feat. Post Malone),Spicy (feat. Post Malone),21/10/20,DAY,0.784,0.496,0.0435,0.1400,0.0000,0.113,0.132,83
+spotify,Get Turnt,Lets Link (feat. Tyga & Lil Mosey),Lets Link (feat. Tyga & Lil Mosey),21/10/20,DAY,0.866,0.701,0.124,0.0227,0.0000,0.0947,0.591,84
+spotify,Get Turnt,Big Glock (feat. Shy Glizzy),Big Trap,21/10/20,DAY,0.957,0.602,0.298,0.0389,0.0000,0.112,0.945,85
+spotify,Get Turnt,For Me,For Me,23/10/20,DAY,0.904,0.498,0.324,0.0092,0.0000,0.0791,0.145,86
+spotify,Get Turnt,Freak (feat. Quavo),Featuring Ty Dolla $ign,23/10/20,DAY,0.794,0.683,0.262,0.0265,0.0000,0.47,0.495,87
+spotify,Get Turnt,Zim Zimma,Evolution,23/10/20,DAY,0.883,0.621,0.212,0.0871,0.0000,0.499,0.676,88
+spotify,Get Turnt,Back (feat. Yo Gotti),Back,23/10/20,DAY,0.806,0.718,0.0879,0.1330,0.0000,0.398,0.581,89
+spotify,Get Turnt,No No No (feat. A Boogie Wit Da Hoodie),No No No (feat. A Boogie Wit Da Hoodie),23/10/20,DAY,0.524,0.511,0.417,0.1310,0.0000,0.082,0.524,90
+spotify,Get Turnt,Gotta Go Get It (ft Mulatto),Dope On A Spoon,23/10/20,DAY,0.793,0.619,0.315,0.0113,0.0000,0.136,0.224,91
+spotify,Get Turnt,Aggy,Aggy,23/10/20,DAY,0.897,0.556,0.246,0.1730,0.0000,0.116,0.562,92
+spotify,Get Turnt,Back to the Streets (feat. Jhené Aiko),Back to the Streets (feat. Jhené Aiko),23/10/20,DAY,0.865,0.792,0.0677,0.1680,0.0000,0.107,0.562,93
+spotify,Get Turnt,I Got,I Got,28/10/20,DAY,0.719,0.734,0.261,0.0286,0.0000,0.161,0.496,94
+spotify,Get Turnt,Moonwalking in Calabasas (feat. Blueface) - Remix,Moonwalking in Calabasas (feat. Blueface) [Remix],30/10/20,DAY,0.928,0.341,0.103,0.0614,0.0000,0.162,0.745,95
+spotify,Get Turnt,THICK (feat. Megan Thee Stallion) - Remix,THICK (feat. Megan Thee Stallion) [Remix],30/10/20,DAY,0.877,0.747,0.365,0.0288,0.0000,0.273,0.679,96
+spotify,Get Turnt,4 Thangs (feat. Big Sean & Hit-Boy),4 Thangs (feat. Big Sean & Hit Boy),30/10/20,DAY,0.816,0.55,0.264,0.0871,0.0000,0.331,0.818,97
+spotify,Get Turnt,Tweakin (feat. Future),Tweakin (feat. Future),30/10/20,DAY,0.839,0.497,0.311,0.0966,0.0000,0.094,0.427,98
+spotify,Get Turnt,I Stand On That,I Stand On That,30/10/20,DAY,0.748,0.645,0.292,0.3020,0.0000,0.108,0.141,99
+spotify,Get Turnt,I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo),I Met Tay Keith First (feat. Lil Baby & Moneybagg Yo),30/10/20,DAY,0.71,0.574,0.141,0.0062,0.0000,0.0825,0.595,100

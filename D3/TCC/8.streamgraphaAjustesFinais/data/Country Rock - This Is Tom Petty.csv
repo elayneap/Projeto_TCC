@@ -1,0 +1,77 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,This Is Tom Petty,American Girl,Tom Petty & The Heartbreakers,09/11/76,DAY,0.55,0.824,0.0334,0.4480,0.0001,0.366,0.777,1
+spotify,This Is Tom Petty,Breakdown,Tom Petty & The Heartbreakers,09/11/76,DAY,0.625,0.35,0.0436,0.3980,0.0001,0.123,0.69,2
+spotify,This Is Tom Petty,Anything That's Rock 'n' Roll,Tom Petty & The Heartbreakers,09/11/76,DAY,0.679,0.709,0.0322,0.2110,0.0000,0.339,0.95,3
+spotify,This Is Tom Petty,I Need to Know,You're Gonna Get it,02/05/78,DAY,0.518,0.919,0.0285,0.0110,0.1810,0.196,0.752,4
+spotify,This Is Tom Petty,Listen to Her Heart,You're Gonna Get it,02/05/78,DAY,0.481,0.906,0.0349,0.3340,0.6030,0.043,0.364,5
+spotify,This Is Tom Petty,Refugee,Damn The Torpedoes (Deluxe Edition),19/10/79,DAY,0.579,0.705,0.0339,0.0273,0.0000,0.0704,0.761,6
+spotify,This Is Tom Petty,Don't Do Me Like That,Damn The Torpedoes (Deluxe Edition),19/10/79,DAY,0.758,0.805,0.0279,0.2110,0.0000,0.0982,0.961,7
+spotify,This Is Tom Petty,Here Comes My Girl,Damn The Torpedoes (Deluxe Edition),19/10/79,DAY,0.578,0.734,0.0304,0.0517,0.2330,0.165,0.373,8
+spotify,This Is Tom Petty,Louisiana Rain,Damn The Torpedoes (Deluxe Edition),19/10/79,DAY,0.429,0.551,0.0372,0.2180,0.0000,0.312,0.365,9
+spotify,This Is Tom Petty,The Waiting,Hard Promises,05/05/81,DAY,0.565,0.923,0.0316,0.0357,0.0000,0.354,0.722,10
+spotify,This Is Tom Petty,A Woman In Love (It's Not Me),Hard Promises,05/05/81,DAY,0.564,0.583,0.0369,0.0193,0.0000,0.816,0.557,11
+spotify,This Is Tom Petty,You Got Lucky,Long After Dark,02/11/82,DAY,0.687,0.649,0.0273,0.0381,0.0000,0.043,0.641,12
+spotify,This Is Tom Petty,Straight Into Darkness,Long After Dark,02/11/82,DAY,0.522,0.917,0.0535,0.0099,0.0000,0.334,0.467,13
+spotify,This Is Tom Petty,Don't Come Around Here No More,Southern Accents,26/03/85,DAY,0.502,0.54,0.0318,0.0010,0.0085,0.243,0.922,14
+spotify,This Is Tom Petty,Rebels,Southern Accents,26/03/85,DAY,0.57,0.556,0.0302,0.1050,0.0000,0.0574,0.608,15
+spotify,This Is Tom Petty,The Best Of Everything,Southern Accents,26/03/85,DAY,0.467,0.261,0.0303,0.3980,0.0000,0.161,0.339,16
+spotify,This Is Tom Petty,So You Want To Be A Rock & Roll Star - Live At The Wiltern/1985,Pack Up The Plantation: Live!,26/11/85,DAY,0.341,0.888,0.0541,0.0042,0.0003,0.957,0.561,17
+spotify,This Is Tom Petty,Jammin' Me,Let Me Up (I've Had Enough),21/04/87,DAY,0.689,0.732,0.0294,0.0325,0.0000,0.303,0.938,18
+spotify,This Is Tom Petty,Free Fallin',Full Moon Fever,01/01/89,DAY,0.623,0.449,0.0253,0.2120,0.0000,0.0613,0.572,19
+spotify,This Is Tom Petty,I Won't Back Down,Full Moon Fever,01/01/89,DAY,0.765,0.476,0.0329,0.0504,0.0000,0.165,0.965,20
+spotify,This Is Tom Petty,Love Is A Long Road,Full Moon Fever,01/01/89,DAY,0.639,0.621,0.0316,0.0300,0.0001,0.0863,0.496,21
+spotify,This Is Tom Petty,Learning To Fly,Into The Great Wide Open,01/01/91,DAY,0.651,0.766,0.0299,0.2060,0.0010,0.362,0.949,22
+spotify,This Is Tom Petty,Into The Great Wide Open,Into The Great Wide Open,01/01/91,DAY,0.608,0.583,0.0235,0.1880,0.0000,0.129,0.714,23
+spotify,This Is Tom Petty,Walls (No. 3),She's the One (Songs and Music from the Motion Picture),06/08/96,DAY,0.654,0.622,0.0267,0.0078,0.0000,0.195,0.616,24
+spotify,This Is Tom Petty,Angel Dream (No. 4),She's the One (Songs and Music from the Motion Picture),06/08/96,DAY,0.622,0.783,0.0372,0.0486,0.0010,0.615,0.663,25
+spotify,This Is Tom Petty,Room at the Top,Echo,13/04/99,DAY,0.5,0.313,0.0253,0.1620,0.0001,0.117,0.171,26
+spotify,This Is Tom Petty,Free Girl Now,Echo,13/04/99,DAY,0.603,0.869,0.0373,0.1300,0.0000,0.168,0.841,27
+spotify,This Is Tom Petty,Swingin',Echo,13/04/99,DAY,0.405,0.6,0.0254,0.0047,0.0000,0.29,0.399,28
+spotify,This Is Tom Petty,Echo,Echo,13/04/99,DAY,0.547,0.56,0.0241,0.0387,0.0000,0.0632,0.472,29
+spotify,This Is Tom Petty,Surrender,Anthology: Through The Years,01/01/00,DAY,0.463,0.839,0.0339,0.0011,0.0000,0.256,0.545,30
+spotify,This Is Tom Petty,The Last DJ,The Last DJ,08/10/02,DAY,0.597,0.76,0.0291,0.0134,0.0000,0.41,0.498,31
+spotify,This Is Tom Petty,Have Love- Will Travel,The Last DJ,08/10/02,DAY,0.48,0.701,0.0264,0.0008,0.0000,0.125,0.355,32
+spotify,This Is Tom Petty,Saving Grace,Highway Companion,21/07/06,DAY,0.33,0.798,0.0381,0.1370,0.0003,0.13,0.791,33
+spotify,This Is Tom Petty,Square One,Highway Companion,21/07/06,DAY,0.769,0.305,0.0311,0.7940,0.0000,0.133,0.284,34
+spotify,This Is Tom Petty,Mary Jane's Last Dance,Greatest Hits,20/05/08,DAY,0.464,0.655,0.0608,0.0272,0.0000,0.328,0.531,35
+spotify,This Is Tom Petty,Even The Losers,Greatest Hits,20/05/08,DAY,0.47,0.703,0.0298,0.0107,0.0017,0.375,0.714,36
+spotify,This Is Tom Petty,I Should Have Known It,Mojo,15/06/10,DAY,0.262,0.816,0.0352,0.0357,0.0001,0.347,0.64,37
+spotify,This Is Tom Petty,Something Good Coming,Mojo,15/06/10,DAY,0.336,0.28,0.0322,0.8880,0.0023,0.111,0.162,38
+spotify,This Is Tom Petty,American Dream Plan B,Hypnotic Eye,29/07/14,DAY,0.687,0.612,0.0446,0.1740,0.0000,0.125,0.801,39
+spotify,This Is Tom Petty,U Get Me High,Hypnotic Eye,29/07/14,DAY,0.612,0.559,0.0264,0.0012,0.0084,0.13,0.775,40
+spotify,This Is Tom Petty,Red River,Hypnotic Eye,29/07/14,DAY,0.596,0.728,0.0278,0.0811,0.0000,0.452,0.551,41
+spotify,This Is Tom Petty,Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster,Bella Donna (Deluxe Edition),04/11/16,DAY,0.631,0.597,0.026,0.3790,0.0027,0.146,0.665,42
+spotify,This Is Tom Petty,Keep a Little Soul - Outtake- 1982,Keep a Little Soul (Outtake  1982),11/07/18,DAY,0.659,0.755,0.0314,0.0969,0.0000,0.367,0.542,43
+spotify,This Is Tom Petty,You and Me - Clubhouse Version- 2007,You and Me (Clubhouse Version  2007),23/08/18,DAY,0.569,0.48,0.0259,0.7090,0.0002,0.375,0.623,44
+spotify,This Is Tom Petty,Gainesville - Outtake- 1998,Gainesville (Outtake  1998),20/09/18,DAY,0.662,0.702,0.0281,0.0009,0.0042,0.559,0.782,45
+spotify,This Is Tom Petty,Runnin' Down A Dream,The Best Of Everything   The Definitive Career Spanning Hits Collection 1976 2016,01/03/19,DAY,0.471,0.956,0.0403,0.0006,0.6200,0.624,0.715,46
+spotify,This Is Tom Petty,For Real,The Best Of Everything   The Definitive Career Spanning Hits Collection 1976 2016,01/03/19,DAY,0.721,0.304,0.0257,0.2920,0.0059,0.111,0.504,47
+spotify,This Is Tom Petty,The Best Of Everything - Alternate Version / Extra Verse,The Best Of Everything   The Definitive Career Spanning Hits Collection 1976 2016,01/03/19,DAY,0.515,0.49,0.0248,0.2320,0.0000,0.188,0.41,48
+spotify,This Is Tom Petty,You Don't Know How it Feels - Home Recording,You Don't Know How It Feels (Home Recording),26/06/20,DAY,0.568,0.36,0.028,0.5190,0.0001,0.245,0.61,49
+spotify,This Is Tom Petty,There Goes Angela (Dream Away) - Home Recording,There Goes Angela (Dream Away) [Home Recording],19/08/20,DAY,0.623,0.273,0.026,0.2600,0.0000,0.423,0.363,50
+spotify,This Is Tom Petty,Wildflowers - Home Recording,Wildflowers (Home Recording),20/08/20,DAY,0.522,0.343,0.0318,0.8310,0.1140,0.134,0.669,51
+spotify,This Is Tom Petty,Wildflowers - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.547,0.336,0.0259,0.6040,0.0000,0.199,0.62,52
+spotify,This Is Tom Petty,You Don't Know How It Feels - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.761,0.507,0.0331,0.0996,0.0007,0.135,0.869,53
+spotify,This Is Tom Petty,Time to Move On - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.627,0.695,0.027,0.0624,0.0001,0.113,0.6,54
+spotify,This Is Tom Petty,You Wreck Me - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.477,0.88,0.0356,0.0004,0.0004,0.103,0.812,55
+spotify,This Is Tom Petty,It's Good to Be King - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.491,0.649,0.025,0.0046,0.0108,0.351,0.422,56
+spotify,This Is Tom Petty,Only a Broken Heart - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.71,0.401,0.026,0.0436,0.0013,0.156,0.387,57
+spotify,This Is Tom Petty,Honey Bee - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.531,0.675,0.0278,0.0014,0.0150,0.13,0.671,58
+spotify,This Is Tom Petty,Don't Fade on Me - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.547,0.2,0.0291,0.8150,0.0002,0.106,0.404,59
+spotify,This Is Tom Petty,Hard on Me - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.68,0.381,0.0269,0.0280,0.0001,0.106,0.452,60
+spotify,This Is Tom Petty,Cabin Down Below - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.543,0.903,0.0353,0.0009,0.0425,0.162,0.829,61
+spotify,This Is Tom Petty,To Find a Friend - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.544,0.666,0.0284,0.0073,0.0008,0.297,0.585,62
+spotify,This Is Tom Petty,A Higher Place - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.583,0.797,0.0261,0.0050,0.0006,0.169,0.781,63
+spotify,This Is Tom Petty,House in the Woods - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.416,0.736,0.0311,0.0185,0.0083,0.177,0.229,64
+spotify,This Is Tom Petty,Crawling Back to You - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.613,0.501,0.0286,0.0316,0.0012,0.115,0.256,65
+spotify,This Is Tom Petty,Wake Up Time - 2014 Remaster,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.575,0.335,0.0267,0.4990,0.0002,0.129,0.2,66
+spotify,This Is Tom Petty,Something Could Happen,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.638,0.433,0.0269,0.2180,0.0000,0.0918,0.357,67
+spotify,This Is Tom Petty,Leave Virginia Alone,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.62,0.63,0.0276,0.1160,0.0011,0.117,0.692,68
+spotify,This Is Tom Petty,Climb That Hill Blues,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.512,0.151,0.0373,0.8120,0.0388,0.111,0.296,69
+spotify,This Is Tom Petty,Confusion Wheel,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.628,0.362,0.0273,0.3970,0.0000,0.106,0.208,70
+spotify,This Is Tom Petty,California,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.686,0.644,0.0266,0.1220,0.0001,0.335,0.737,71
+spotify,This Is Tom Petty,Harry Green,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.557,0.198,0.0298,0.8710,0.0019,0.222,0.247,72
+spotify,This Is Tom Petty,Hope You Never,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.753,0.423,0.0321,0.0478,0.0002,0.139,0.638,73
+spotify,This Is Tom Petty,Somewhere Under Heaven,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.161,0.722,0.0349,0.0044,0.0177,0.781,0.392,74
+spotify,This Is Tom Petty,Climb That Hill,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.471,0.78,0.0254,0.0065,0.0000,0.0721,0.384,75
+spotify,This Is Tom Petty,Hung Up and Overdue,Wildflowers & All The Rest (Deluxe Edition),16/10/20,DAY,0.59,0.473,0.0263,0.1660,0.0020,0.101,0.239,76

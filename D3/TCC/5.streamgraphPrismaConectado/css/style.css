@@ -1,0 +1,43 @@
+svg {
+	position: absolute;
+	top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+    display: block;
+	
+	background-color: #000000;
+	
+	background-image: url("prisma.png");
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+	
+	float: left;
+}
+
+#tabela {
+	overflow: auto;
+	
+	position: absolute;
+	top: 25px;
+	left: 0px;
+	color: white;
+	background-color: #000000;
+	
+	margin-left: 1451px;
+	margin-bottom: 30px;
+	width: 400px;
+	height: 495px;
+}
+
+#titulo {
+	position: absolute;
+	top: 35px;
+	color: white;
+	background-color: #000000;
+	z-index: 1;
+	
+	margin-left: 500px;
+	width: 750px;
+	height: 33px;
+}

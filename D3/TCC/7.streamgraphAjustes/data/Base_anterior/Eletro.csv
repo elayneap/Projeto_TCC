@@ -1,0 +1,47 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+ygormutti,Eletro,The Rockafeller Skank - Short Edit,You've Come a Long Way Baby (10th Anniversary Edition),19/10/98,DAY,0.666,0.992,0.25,0.0111,0.0044,0.22,0.0806,1
+ygormutti,Eletro,Harder- Better- Faster- Stronger,Discovery,07/03/01,DAY,0.817,0.716,0.144,0.0427,0.0026,0.358,0.692,2
+ygormutti,Eletro,Bonfire,Rage Valley,01/01/04/07/05,YEAR,0.536,0.944,0.0867,0.0001,0.0034,0.353,0.589,3
+ygormutti,Eletro,Holdin' On - Skrillex & Nero Remix,I See Monstas,01/01/04/07/05,YEAR,0.474,0.951,0.0701,0.0003,0.5700,0.672,0.0775,4
+ygormutti,Eletro,Get Loose,Get Loose,01/01/05/07/05,YEAR,0.413,0.953,0.132,0.0002,0.6670,0.217,0.166,5
+ygormutti,Eletro,Kill EVERYBODY,Scary Monsters and Nice Sprites (Deluxe Tour Edition),21/12/10,DAY,0.788,0.874,0.0805,0.0022,0.0023,0.0998,0.629,6
+ygormutti,Eletro,Rock 'n' Roll (Will Take You to the Mountain),Scary Monsters and Nice Sprites (Deluxe Tour Edition),21/12/10,DAY,0.713,0.971,0.381,0.0023,0.0000,0.242,0.676,7
+ygormutti,Eletro,Levels - Original Version,Levels,01/01/11,DAY,0.602,0.834,0.0358,0.0297,0.8870,0.34,0.353,8
+ygormutti,Eletro,First of the Year (Equinox),More Monsters and Sprites EP,07/06/11,DAY,0.429,0.948,0.227,0.0071,0.0148,0.0812,0.55,9
+ygormutti,Eletro,Cinema - Skrillex Remix,Electroman,07/06/11,DAY,0.637,0.985,0.184,0.0099,0.0086,0.0649,0.374,10
+ygormutti,Eletro,Sunshine,Nothing but the Beat   The Electronic Album,26/08/11,DAY,0.584,0.802,0.0436,0.0006,0.9340,0.0415,0.273,11
+ygormutti,Eletro,Spaceman - Carnage Festival Trap Remix,Spaceman (Carnage Festival Trap Remix),29/12/12,DAY,0.712,0.497,0.0777,0.0235,0.7680,0.101,0.238,12
+ygormutti,Eletro,Animals,Animals,01/07/13,DAY,0.675,0.868,0.0392,0.0011,0.7150,0.374,0.0376,13
+ygormutti,Eletro,Shine On,Slice & Dice EP,23/07/13,DAY,0.681,0.735,0.297,0.0003,0.0414,0.285,0.755,14
+ygormutti,Eletro,Man With The Red Face - Hardwell Remix,Man With The Red Face (The Anniversary Remixes),16/09/13,DAY,0.774,0.966,0.0914,0.0133,0.7740,0.0704,0.0869,15
+ygormutti,Eletro,Yee - Original Mix,Yee,07/10/13,DAY,0.732,0.989,0.0483,0.1020,0.7480,0.0551,0.684,16
+ygormutti,Eletro,Turn Down for What,Turn Down for What,18/12/13,DAY,0.818,0.799,0.156,0.0011,0.1280,0.057,0.0815,17
+ygormutti,Eletro,I Am - Deorro Remix,I Am,01/01/14,DAY,0.713,0.992,0.34,0.0333,0.1380,0.294,0.377,18
+ygormutti,Eletro,New Game,New Game,10/02/14,DAY,0.627,0.991,0.0804,0.0006,0.6750,0.396,0.516,19
+ygormutti,Eletro,G.I.P.S.Y. - Radio Edit,G.I.P.S.Y.,03/03/14,DAY,0.617,0.941,0.0575,0.0734,0.8960,0.223,0.48,20
+ygormutti,Eletro,Ragga Bomb,Recess,14/03/14,DAY,0.595,0.961,0.31,0.0282,0.0000,0.271,0.61,21
+ygormutti,Eletro,Bad (feat. Vassy) - Radio Edit,Bad (feat. Vassy) [Radio Edit],06/04/14,DAY,0.614,0.972,0.088,0.0012,0.0186,0.328,0.411,22
+ygormutti,Eletro,Flashing Lights - Original Mix,Flashing Lights,21/04/14,DAY,0.721,0.961,0.0494,0.0080,0.8340,0.412,0.312,23
+ygormutti,Eletro,Sleepless - Radio Edit,Sleepless,06/05/14,DAY,0.723,0.602,0.0451,0.1430,0.0006,0.299,0.561,24
+ygormutti,Eletro,Freak (feat. Steve Bays),Random White Dude Be Everywhere,29/07/14,DAY,0.661,0.957,0.0898,0.0054,0.1320,0.0622,0.263,25
+ygormutti,Eletro,Back to Earth (feat. Fall Out Boy),Neon Future I,29/09/14,DAY,0.585,0.906,0.228,0.0268,0.0000,0.0482,0.209,26
+ygormutti,Eletro,Hideaway,Sound Of A Woman,21/10/14,DAY,0.838,0.72,0.0483,0.0862,0.0070,0.0772,0.203,27
+ygormutti,Eletro,Boss Mode,Abandon Ship,27/10/14,DAY,0.542,0.978,0.121,0.0017,0.6510,0.0255,0.313,28
+ygormutti,Eletro,404,Abandon Ship,27/10/14,DAY,0.671,0.97,0.119,0.0002,0.8700,0.284,0.0397,29
+ygormutti,Eletro,Outside (feat. Ellie Goulding),Motion,31/10/14,DAY,0.646,0.823,0.0394,0.2130,0.0000,0.322,0.418,30
+ygormutti,Eletro,No Money No Love (feat. Elliphant & Ms. Dynamite),Listen,21/11/14,DAY,0.667,0.886,0.0583,0.0029,0.0001,0.167,0.457,31
+ygormutti,Eletro,Shot Me Down (feat. Skylar Grey) - Radio Edit,Listen,21/11/14,DAY,0.347,0.772,0.0549,0.0597,0.0333,0.115,0.035,32
+ygormutti,Eletro,Lovers on the Sun (feat. Sam Martin),Listen,21/11/14,DAY,0.645,0.891,0.0387,0.0932,0.0000,0.379,0.568,33
+ygormutti,Eletro,Hey Mama (feat. Nicki Minaj- Bebe Rexha & Afrojack),Listen,21/11/14,DAY,0.596,0.73,0.151,0.2400,0.0000,0.325,0.525,34
+ygormutti,Eletro,Boa Noite,Boa Noite (Remixes),21/11/14,DAY,0.606,0.862,0.0609,0.0056,0.8210,0.171,0.253,35
+ygormutti,Eletro,Perdoname (feat. DyCy & Adrian Delgado),Perdoname (feat. DyCy & Adrian Delgado),02/12/14,DAY,0.855,0.856,0.105,0.0009,0.0027,0.959,0.516,36
+ygormutti,Eletro,Hand Clapping Song,Tropkillaz 100K,23/01/15,DAY,0.65,0.975,0.0686,0.0004,0.8200,0.105,0.309,37
+ygormutti,Eletro,Five More Hours - Deorro x Chris Brown,Five More Hours (Deorro x Chris Brown),03/03/15,DAY,0.699,0.883,0.219,0.0288,0.0000,0.817,0.499,38
+ygormutti,Eletro,No Place Like Home - Radio Edit,No Place Like Home (Radio Edit),10/03/15,DAY,0.658,0.793,0.0485,0.0638,0.0177,0.18,0.344,39
+ygormutti,Eletro,Runaway (U & I),Pharmacy,05/06/15,DAY,0.506,0.805,0.0469,0.0071,0.0019,0.0856,0.383,40
+ygormutti,Eletro,Peanut Butter Jelly,Pharmacy,05/06/15,DAY,0.708,0.945,0.234,0.0010,0.0803,0.227,0.545,41
+ygormutti,Eletro,Off The Hook,Off The Hook,14/09/15,DAY,0.705,0.951,0.0743,0.0113,0.5030,0.346,0.153,42
+ygormutti,Eletro,Younger - Kygo Remix,Pretend,23/10/15,DAY,0.69,0.489,0.0788,0.1300,0.0002,0.0815,0.645,43
+ygormutti,Eletro,Lean On (feat. MØ & DJ Snake),Peace Is The Mission : Extended,27/11/15,DAY,0.723,0.809,0.0625,0.0035,0.0012,0.565,0.274,44
+ygormutti,Eletro,Be Together (feat. Wild Belle),Peace Is The Mission : Extended,27/11/15,DAY,0.497,0.627,0.0319,0.0014,0.0000,0.619,0.193,45
+ygormutti,Eletro,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),This One's for You (feat. Zara Larsson) [Official Song UEFA EURO 2016],13/05/16,DAY,0.367,0.915,0.0488,0.0022,0.0001,0.0905,0.365,46

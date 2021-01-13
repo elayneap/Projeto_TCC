@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,RapCaviar,Martin & Gina,THE GOAT,15/05/20,DAY,0.832,0.534,0.253,0.3450,0.0000,0.165,0.116,1
+spotify,RapCaviar,Pussy Talk,City On Lock,20/06/20,DAY,0.943,0.641,0.191,0.0016,0.0000,0.211,0.242,2
+spotify,RapCaviar,For The Night (feat. Lil Baby & DaBaby),Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.823,0.586,0.2,0.1140,0.0000,0.193,0.347,3
+spotify,RapCaviar,Got It On Me,Shoot For The Stars Aim For The Moon,03/07/20,DAY,0.688,0.647,0.19,0.0082,0.0000,0.095,0.195,4
+spotify,RapCaviar,POPSTAR (feat. Drake),POPSTAR (feat. Drake),17/07/20,DAY,0.8,0.56,0.261,0.0570,0.0000,0.134,0.45,5
+spotify,RapCaviar,Aim For The Moon (feat. Quavo),Shoot For The Stars Aim For The Moon (Deluxe),20/07/20,DAY,0.713,0.605,0.107,0.4970,0.0000,0.115,0.432,6
+spotify,RapCaviar,Throat Baby (Go Baby),Throat Baby (Go Baby),24/07/20,DAY,0.9,0.521,0.147,0.0135,0.0000,0.0951,0.213,7
+spotify,RapCaviar,Patek,Patek,30/07/20,DAY,0.801,0.596,0.0534,0.0030,0.0000,0.162,0.134,8
+spotify,RapCaviar,Muwop (feat. Gucci Mane),Muwop (feat. Gucci Mane),30/07/20,DAY,0.79,0.61,0.102,0.0613,0.0000,0.243,0.62,9
+spotify,RapCaviar,PRACTICE,BLAME IT ON BABY (DELUXE),04/08/20,DAY,0.849,0.536,0.349,0.0239,0.0000,0.126,0.308,10
+spotify,RapCaviar,BLIND (feat. Young Thug),BLAME IT ON BABY (DELUXE),04/08/20,DAY,0.709,0.679,0.346,0.0115,0.0000,0.0971,0.754,11
+spotify,RapCaviar,Rags2Riches 2 (feat. Lil Baby),Pray 4 Love (Deluxe),07/08/20,DAY,0.874,0.443,0.241,0.1470,0.0000,0.124,0.298,12
+spotify,RapCaviar,WAP (feat. Megan Thee Stallion),WAP (feat. Megan Thee Stallion),07/08/20,DAY,0.935,0.454,0.375,0.0194,0.0000,0.0824,0.357,13
+spotify,RapCaviar,24 (feat. Lil Baby),24 (feat. Lil Baby),14/08/20,DAY,0.868,0.638,0.0736,0.1460,0.0565,0.0931,0.459,14
+spotify,RapCaviar,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),14/08/20,DAY,0.761,0.518,0.134,0.2440,0.0000,0.107,0.522,15
+spotify,RapCaviar,Whoopty,Whoopty,20/08/20,DAY,0.714,0.609,0.17,0.1940,0.0000,0.126,0.778,16
+spotify,RapCaviar,Gifted (feat. Roddy Ricch),Gifted (feat. Roddy Ricch),27/08/20,DAY,0.653,0.603,0.171,0.1750,0.0000,0.18,0.551,17
+spotify,RapCaviar,Lemonade (feat. Gunna- Don Toliver & NAV),B4 The Storm,28/08/20,DAY,0.8,0.658,0.079,0.2500,0.0000,0.111,0.462,18
+spotify,RapCaviar,Tap In (feat. Post Malone- DaBaby & Jack Harlow),Tap In (feat. Post Malone  DaBaby & Jack Harlow),28/08/20,DAY,0.948,0.63,0.219,0.0065,0.0000,0.0737,0.425,19
+spotify,RapCaviar,Blastoff (feat. Juice Wrld & Trippie Redd),B4 The Storm,29/08/20,DAY,0.761,0.517,0.0927,0.1140,0.0000,0.157,0.46,20
+spotify,RapCaviar,Wolves (feat. Post Malone),Detroit 2,04/09/20,DAY,0.724,0.675,0.0867,0.0978,0.0000,0.351,0.325,21
+spotify,RapCaviar,Kacey Talk,Top,11/09/20,DAY,0.877,0.607,0.15,0.5350,0.0000,0.138,0.773,22
+spotify,RapCaviar,My Window (feat. Lil Wayne),Top,11/09/20,DAY,0.778,0.662,0.308,0.1870,0.0000,0.116,0.571,23
+spotify,RapCaviar,BookBag 2.0 (feat. Polo G),Bad Intentions,16/09/20,DAY,0.909,0.541,0.497,0.3220,0.0000,0.0942,0.823,24
+spotify,RapCaviar,When You Down (with Polo G feat. Lil Durk),Virgo World,18/09/20,DAY,0.514,0.634,0.383,0.2350,0.0000,0.13,0.308,25
+spotify,RapCaviar,FRANCHISE (feat. Young Thug & M.I.A.),FRANCHISE (feat. Young Thug & M.I.A.),25/09/20,DAY,0.835,0.699,0.277,0.0067,0.0000,0.195,0.547,26
+spotify,RapCaviar,Epidemic,Epidemic,25/09/20,DAY,0.616,0.617,0.52,0.1280,0.0000,0.177,0.476,27
+spotify,RapCaviar,Mr. Right Now (feat. Drake),SAVAGE MODE II,02/10/20,DAY,0.647,0.667,0.304,0.2310,0.0000,0.133,0.704,28
+spotify,RapCaviar,Onna Come Up,Onna Come Up,02/10/20,DAY,0.796,0.426,0.285,0.3560,0.0000,0.0941,0.649,29
+spotify,RapCaviar,Runnin,SAVAGE MODE II,02/10/20,DAY,0.819,0.626,0.202,0.0075,0.1010,0.167,0.415,30
+spotify,RapCaviar,Glock In My Lap,SAVAGE MODE II,02/10/20,DAY,0.847,0.733,0.16,0.0057,0.0000,0.151,0.202,31
+spotify,RapCaviar,Don’t Stop (feat. Young Thug),Don’t Stop (feat. Young Thug),02/10/20,DAY,0.933,0.757,0.117,0.0018,0.0000,0.135,0.544,32
+spotify,RapCaviar,Sleepy Hollow,Sleepy Hollow,07/10/20,DAY,0.735,0.662,0.05,0.0104,0.0000,0.153,0.124,33
+spotify,RapCaviar,You’re Mines Still (feat. Drake),You’re Mines Still (feat. Drake),15/10/20,DAY,0.575,0.609,0.121,0.3170,0.0000,0.105,0.339,34
+spotify,RapCaviar,Pardon (feat. Lil Baby),The L.I.B.R.A.,16/10/20,DAY,0.955,0.587,0.32,0.1810,0.0000,0.585,0.901,35
+spotify,RapCaviar,Whole Lotta Choppas (Remix) [feat. Nicki Minaj],Whole Lotta Choppas (Remix) [feat. Nicki Minaj],16/10/20,DAY,0.956,0.72,0.173,0.0019,0.0000,0.117,0.282,36
+spotify,RapCaviar,Spicy (feat. Post Malone),Spicy (feat. Post Malone),21/10/20,DAY,0.784,0.496,0.0435,0.1400,0.0000,0.113,0.132,37
+spotify,RapCaviar,Lets Link (feat. Tyga & Lil Mosey),Lets Link (feat. Tyga & Lil Mosey),21/10/20,DAY,0.866,0.701,0.124,0.0227,0.0000,0.0947,0.591,38
+spotify,RapCaviar,Tyler Herro,Tyler Herro,22/10/20,DAY,0.794,0.756,0.136,0.1100,0.0000,0.247,0.775,39
+spotify,RapCaviar,Back (feat. Yo Gotti),Back,23/10/20,DAY,0.806,0.718,0.0879,0.1330,0.0000,0.398,0.581,40
+spotify,RapCaviar,Back to the Streets (feat. Jhené Aiko),Back to the Streets (feat. Jhené Aiko),23/10/20,DAY,0.865,0.792,0.0677,0.1680,0.0000,0.107,0.562,41
+spotify,RapCaviar,Powder Blue (feat. Gunna),Featuring Ty Dolla $ign,23/10/20,DAY,0.813,0.553,0.1,0.1520,0.0000,0.234,0.838,42
+spotify,RapCaviar,Look Over Your Shoulder (feat. Kendrick Lamar),Look Over Your Shoulder (feat. Kendrick Lamar),29/10/20,DAY,0.6,0.887,0.311,0.0438,0.0000,0.68,0.681,43
+spotify,RapCaviar,Moonwalking in Calabasas (feat. Blueface) - Remix,Moonwalking in Calabasas (feat. Blueface) [Remix],30/10/20,DAY,0.928,0.341,0.103,0.0614,0.0000,0.162,0.745,44
+spotify,RapCaviar,Kid That Kidd (feat. Future and Doe Boy),Pegasus,30/10/20,DAY,0.618,0.4,0.0734,0.0002,0.0000,0.738,0.133,45
+spotify,RapCaviar,Losses,Losses,30/10/20,DAY,0.848,0.457,0.293,0.1530,0.0000,0.115,0.227,46
+spotify,RapCaviar,Never Change (feat. Future),Pegasus,30/10/20,DAY,0.345,0.749,0.163,0.1210,0.0000,0.187,0.613,47
+spotify,RapCaviar,Stay Down (with 6LACK & Young Thug),Stay Down (with 6LACK & Young Thug),30/10/20,DAY,0.813,0.57,0.265,0.0909,0.0000,0.0982,0.676,48
+spotify,RapCaviar,Double G (feat. Pop Smoke),Double G (feat. Pop Smoke),30/10/20,DAY,0.757,0.633,0.339,0.1160,0.0000,0.204,0.396,49
+spotify,RapCaviar,4 Thangs (feat. Big Sean & Hit-Boy),4 Thangs (feat. Big Sean & Hit Boy),30/10/20,DAY,0.816,0.55,0.264,0.0871,0.0000,0.331,0.818,50

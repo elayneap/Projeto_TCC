@@ -1,0 +1,46 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+douradopedro,This Is Dire Straits,Eastbound Train - Live Version,Sultans Of Swing / Eastbound Train,19/05/78,DAY,0.705,0.379,0.0395,0.3170,0.0221,0.824,0.94,1
+douradopedro,This Is Dire Straits,Sultans Of Swing,Dire Straits,07/10/78,DAY,0.733,0.794,0.0307,0.0614,0.0367,0.33,0.931,2
+douradopedro,This Is Dire Straits,Down To The Waterline,Dire Straits,07/10/78,DAY,0.61,0.683,0.0458,0.1480,0.2800,0.157,0.61,3
+douradopedro,This Is Dire Straits,Water Of Love,Dire Straits,07/10/78,DAY,0.817,0.552,0.0336,0.4810,0.0144,0.187,0.939,4
+douradopedro,This Is Dire Straits,Wild West End,Dire Straits,07/10/78,DAY,0.792,0.395,0.0379,0.4510,0.0015,0.1,0.54,5
+douradopedro,This Is Dire Straits,Lions,Dire Straits,07/10/78,DAY,0.884,0.47,0.0407,0.4420,0.4610,0.197,0.801,6
+douradopedro,This Is Dire Straits,Six Blade Knife,Dire Straits,07/10/78,DAY,0.898,0.412,0.0395,0.1370,0.3380,0.0825,0.857,7
+douradopedro,This Is Dire Straits,Lady Writer,Communique,15/06/79,DAY,0.633,0.809,0.0282,0.1030,0.6110,0.0726,0.964,8
+douradopedro,This Is Dire Straits,Once Upon A Time In The West,Communique,15/06/79,DAY,0.679,0.655,0.0456,0.2200,0.0198,0.109,0.898,9
+douradopedro,This Is Dire Straits,Where Do You Think You're Going,Communique,15/06/79,DAY,0.455,0.493,0.0414,0.4490,0.0158,0.116,0.484,10
+douradopedro,This Is Dire Straits,News,Communique,15/06/79,DAY,0.634,0.444,0.0645,0.2440,0.0635,0.114,0.267,11
+douradopedro,This Is Dire Straits,Single Handed Sailor,Communique,15/06/79,DAY,0.604,0.634,0.0259,0.2500,0.7010,0.221,0.869,12
+douradopedro,This Is Dire Straits,Communiqué,Communique,15/06/79,DAY,0.792,0.688,0.036,0.0391,0.4160,0.0703,0.962,13
+douradopedro,This Is Dire Straits,Romeo And Juliet,Making Movies,17/10/80,DAY,0.613,0.441,0.0309,0.5460,0.0132,0.0869,0.525,14
+douradopedro,This Is Dire Straits,Tunnel Of Love,Making Movies,17/10/80,DAY,0.488,0.792,0.0373,0.2420,0.0147,0.217,0.617,15
+douradopedro,This Is Dire Straits,Expresso Love,Making Movies,17/10/80,DAY,0.599,0.868,0.0303,0.4670,0.0310,0.0684,0.858,16
+douradopedro,This Is Dire Straits,Skateaway,Making Movies,17/10/80,DAY,0.513,0.809,0.033,0.2720,0.0046,0.172,0.605,17
+douradopedro,This Is Dire Straits,Hand In Hand,Making Movies,17/10/80,DAY,0.664,0.48,0.0315,0.4040,0.0004,0.106,0.438,18
+douradopedro,This Is Dire Straits,Solid Rock,Making Movies,17/10/80,DAY,0.567,0.924,0.0368,0.2450,0.0077,0.615,0.888,19
+douradopedro,This Is Dire Straits,Badges- Posters- Stickers- T-Shirts,Private Investigations / Badges  Posters  Stickers  T Shirts,23/08/82,DAY,0.601,0.736,0.0638,0.0133,0.0013,0.317,0.411,20
+douradopedro,This Is Dire Straits,Telegraph Road,Love Over Gold,20/09/82,DAY,0.381,0.59,0.0321,0.0152,0.4640,0.169,0.282,21
+douradopedro,This Is Dire Straits,Private Investigations,Love Over Gold,20/09/82,DAY,0.356,0.0967,0.0315,0.6960,0.6910,0.0801,0.067,22
+douradopedro,This Is Dire Straits,Love Over Gold,Love Over Gold,20/09/82,DAY,0.591,0.345,0.0309,0.3370,0.0612,0.0862,0.0845,23
+douradopedro,This Is Dire Straits,Industrial Disease,Love Over Gold,20/09/82,DAY,0.607,0.84,0.0461,0.0029,0.0009,0.101,0.766,24
+douradopedro,This Is Dire Straits,It Never Rains,Love Over Gold,20/09/82,DAY,0.658,0.75,0.0405,0.0260,0.0110,0.0578,0.583,25
+douradopedro,This Is Dire Straits,Two Young Lovers,ExtendeDancEPlay,10/01/83,DAY,0.513,0.821,0.038,0.0995,0.0004,0.0855,0.973,26
+douradopedro,This Is Dire Straits,If I Had You,ExtendeDancEPlay,10/01/83,DAY,0.529,0.695,0.0297,0.2380,0.0158,0.0891,0.886,27
+douradopedro,This Is Dire Straits,Going Home - Live At Hammersmith Odeon- London/1983,Alchemy: Dire Straits Live,14/03/84,DAY,0.314,0.328,0.0443,0.2570,0.0565,0.645,0.116,28
+douradopedro,This Is Dire Straits,Walk Of Life,Brothers In Arms,13/05/85,DAY,0.462,0.918,0.0959,0.4050,0.0003,0.126,0.802,29
+douradopedro,This Is Dire Straits,Money For Nothing,Brothers In Arms,13/05/85,DAY,0.666,0.667,0.0371,0.0430,0.0005,0.074,0.679,30
+douradopedro,This Is Dire Straits,Brothers In Arms,Brothers In Arms,13/05/85,DAY,0.413,0.296,0.0277,0.5310,0.8010,0.183,0.144,31
+douradopedro,This Is Dire Straits,Your Latest Trick,Brothers In Arms,13/05/85,DAY,0.703,0.409,0.0339,0.7190,0.0996,0.0697,0.252,32
+douradopedro,This Is Dire Straits,So Far Away - Full Version,Brothers In Arms,13/05/85,DAY,0.698,0.473,0.0283,0.2440,0.2110,0.063,0.694,33
+douradopedro,This Is Dire Straits,Why Worry?,Brothers In Arms,13/05/85,DAY,0.591,0.132,0.0296,0.9340,0.5530,0.271,0.106,34
+douradopedro,This Is Dire Straits,Millionaire Blues,Calling Elvis,19/08/91,DAY,0.767,0.567,0.028,0.1930,0.4370,0.0696,0.93,35
+douradopedro,This Is Dire Straits,On Every Street,On Every Street,10/09/91,DAY,0.316,0.273,0.0369,0.5770,0.2200,0.171,0.152,36
+douradopedro,This Is Dire Straits,Calling Elvis,On Every Street,10/09/91,DAY,0.611,0.571,0.0314,0.0939,0.7870,0.164,0.386,37
+douradopedro,This Is Dire Straits,Heavy Fuel,On Every Street,10/09/91,DAY,0.616,0.813,0.0275,0.0164,0.0498,0.235,0.778,38
+douradopedro,This Is Dire Straits,Ticket To Heaven,On Every Street,10/09/91,DAY,0.548,0.46,0.0293,0.1790,0.6390,0.289,0.664,39
+douradopedro,This Is Dire Straits,When It Comes To You,On Every Street,10/09/91,DAY,0.629,0.623,0.0247,0.2010,0.5260,0.0687,0.781,40
+douradopedro,This Is Dire Straits,You And Your Friend,On Every Street,10/09/91,DAY,0.56,0.286,0.0262,0.4970,0.8030,0.21,0.219,41
+douradopedro,This Is Dire Straits,Kingdom Come,Heavy Fuel,21/10/91,DAY,0.461,0.776,0.035,0.2360,0.4410,0.07,0.803,42
+douradopedro,This Is Dire Straits,What's The Matter Baby? - Live At The BBC,Live At The BBC,26/06/95,DAY,0.476,0.977,0.145,0.0008,0.0110,0.855,0.595,43
+douradopedro,This Is Dire Straits,Local Hero / Wild Theme - Live Version,Sultans Of Swing   The Very Best Of Dire Straits,01/01/98,DAY,0.212,0.39,0.0301,0.8700,0.8860,0.977,0.0682,44
+douradopedro,This Is Dire Straits,Twisting By The Pool,Sultans Of Swing   The Very Best Of Dire Straits,01/01/98,DAY,0.512,0.915,0.042,0.3610,0.0000,0.269,0.958,45

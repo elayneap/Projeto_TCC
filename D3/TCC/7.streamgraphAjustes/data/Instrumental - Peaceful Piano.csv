@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Peaceful Piano,Vals De Rodrigues,Vals De Rodrigues,05/09/19,DAY,0.418,0.0368,0.0499,0.9930,0.9440,0.0848,0.119,1
+spotify,Peaceful Piano,Alene uden dig,Alene uden dig,22/11/19,DAY,0.488,0.0959,0.0641,0.9950,0.9580,0.0858,0.302,2
+spotify,Peaceful Piano,And I Always Will,And I Always Will,21/02/20,DAY,0.349,0.00997,0.0368,0.9910,0.9220,0.09,0.12,3
+spotify,Peaceful Piano,Mère bien-aimée,Mère bien aimée,06/03/20,DAY,0.489,0.0496,0.0644,0.9950,0.9570,0.101,0.149,4
+spotify,Peaceful Piano,Sagittabondo,Sagittabondo,27/03/20,DAY,0.294,0.0709,0.038,0.9940,0.9170,0.0991,0.22,5
+spotify,Peaceful Piano,Continuo,Continuo,06/04/20,DAY,0.428,0.112,0.0467,0.9800,0.8970,0.112,0.215,6
+spotify,Peaceful Piano,Onthou,Traces,17/04/20,DAY,0.307,0.05,0.0345,0.9960,0.9400,0.105,0.41,7
+spotify,Peaceful Piano,Samarcande,Samarcande,20/04/20,DAY,0.369,0.0166,0.0352,0.9910,0.9400,0.0986,0.0837,8
+spotify,Peaceful Piano,Duende,Duende,24/04/20,DAY,0.485,0.0303,0.0434,0.9940,0.9350,0.111,0.0848,9
+spotify,Peaceful Piano,Choices,Choices,01/05/20,DAY,0.195,0.111,0.0502,0.9830,0.9520,0.11,0.286,10
+spotify,Peaceful Piano,Whitby,Whitby,01/05/20,DAY,0.215,0.0223,0.0432,0.9910,0.9220,0.105,0.253,11
+spotify,Peaceful Piano,Watching Over You,delta/alpha,01/05/20,DAY,0.313,0.0229,0.0288,0.9850,0.9380,0.107,0.065,12
+spotify,Peaceful Piano,Just Us,Lifeline,08/05/20,DAY,0.33,0.0186,0.0512,0.9950,0.8970,0.102,0.279,13
+spotify,Peaceful Piano,Sea Change,Sea Change,15/05/20,DAY,0.458,0.00701,0.0438,0.9930,0.9480,0.102,0.0939,14
+spotify,Peaceful Piano,Des ponts plutôt que des murs,Des ponts plutôt que des murs,15/05/20,DAY,0.619,0.0746,0.0485,0.9960,0.9510,0.101,0.544,15
+spotify,Peaceful Piano,Shy Paws,Shy Paws,28/05/20,DAY,0.372,0.00312,0.0654,0.9950,0.9650,0.094,0.402,16
+spotify,Peaceful Piano,Sand Between Our Fingers,Sand Between Our Fingers,29/05/20,DAY,0.22,0.038,0.0322,0.9850,0.9350,0.0946,0.0975,17
+spotify,Peaceful Piano,Fairytale,Fairytale,04/06/20,DAY,0.358,0.0341,0.0566,0.9920,0.9510,0.102,0.145,18
+spotify,Peaceful Piano,As We Fall In Love Again,As We Fall In Love Again,05/06/20,DAY,0.357,0.00196,0.0472,0.9860,0.9640,0.104,0.253,19
+spotify,Peaceful Piano,La Storia,La Storia,12/06/20,DAY,0.309,0.0397,0.0492,0.9910,0.9130,0.106,0.12,20
+spotify,Peaceful Piano,Vogeltrek,Vogeltrek,12/06/20,DAY,0.32,0.00912,0.0397,0.9940,0.9040,0.141,0.323,21
+spotify,Peaceful Piano,Love Will Set Us Free,Love Will Set Us Free,12/06/20,DAY,0.375,0.0229,0.108,0.9960,0.9510,0.0893,0.226,22
+spotify,Peaceful Piano,Timeless,Timeless,12/06/20,DAY,0.545,0.00411,0.0335,0.9950,0.9550,0.0872,0.137,23
+spotify,Peaceful Piano,Rise,Rise,18/06/20,DAY,0.435,0.034,0.0465,0.9920,0.9340,0.0932,0.142,24
+spotify,Peaceful Piano,Départ,Départ,19/06/20,DAY,0.278,0.0876,0.0398,0.9700,0.8920,0.118,0.0885,25
+spotify,Peaceful Piano,A Secret Within,A Secret Within,19/06/20,DAY,0.303,0.00561,0.0381,0.9940,0.8890,0.101,0.0591,26
+spotify,Peaceful Piano,Time,MFWT Vol.1,22/06/20,DAY,0.687,0.0712,0.0449,0.9950,0.9440,0.0954,0.242,27
+spotify,Peaceful Piano,When She Flows,When She Flows,22/06/20,DAY,0.365,0.116,0.0302,0.9840,0.9150,0.0917,0.193,28
+spotify,Peaceful Piano,Time is the Longest Distance,Time is the Longest Distance,26/06/20,DAY,0.427,0.00442,0.0424,0.9940,0.8970,0.107,0.278,29
+spotify,Peaceful Piano,Green Meadow,Green Meadow,26/06/20,DAY,0.513,0.0551,0.0395,0.9950,0.9420,0.095,0.366,30
+spotify,Peaceful Piano,Alla fine insieme (Together at Last),Alla fine insieme (Together at Last),26/06/20,DAY,0.385,0.0145,0.0415,0.9930,0.9450,0.105,0.139,31
+spotify,Peaceful Piano,Vancouver,Vancouver,29/06/20,DAY,0.421,0.0282,0.0507,0.9950,0.9610,0.0878,0.166,32
+spotify,Peaceful Piano,Prozatím,Prozatím,03/07/20,DAY,0.374,0.0653,0.0424,0.9950,0.9030,0.144,0.318,33
+spotify,Peaceful Piano,A Certainty,A Certainty,03/07/20,DAY,0.448,0.023,0.0438,0.9950,0.9150,0.072,0.3,34
+spotify,Peaceful Piano,What The Rain Whispered Softly,She Came From The Sea,03/07/20,DAY,0.386,0.0998,0.028,0.9920,0.9460,0.0997,0.312,35
+spotify,Peaceful Piano,Lacrimosa,Lacrimosa,03/07/20,DAY,0.494,0.0132,0.0482,0.9930,0.9520,0.113,0.249,36
+spotify,Peaceful Piano,Stirling,Stirling,03/07/20,DAY,0.29,0.0818,0.0617,0.9950,0.9500,0.0918,0.281,37
+spotify,Peaceful Piano,All that Glitters,All that Glitters,10/07/20,DAY,0.401,0.00743,0.0522,0.9950,0.9390,0.113,0.123,38
+spotify,Peaceful Piano,Closer,Closer,10/07/20,DAY,0.414,0.016,0.0459,0.9870,0.9380,0.112,0.136,39
+spotify,Peaceful Piano,Der Vogel auf dem Felsen,Auf dem Felde,17/07/20,DAY,0.292,0.00456,0.038,0.9920,0.8930,0.106,0.239,40
+spotify,Peaceful Piano,æfre,æfre,17/07/20,DAY,0.377,0.0156,0.0397,0.9940,0.8810,0.0991,0.0804,41
+spotify,Peaceful Piano,Enouement,Enouement,17/07/20,DAY,0.332,0.0331,0.0349,0.9810,0.9170,0.111,0.189,42
+spotify,Peaceful Piano,Forgiveness,Forgiveness,17/07/20,DAY,0.191,0.0151,0.0497,0.9950,0.8710,0.0962,0.115,43
+spotify,Peaceful Piano,Maiden´s Blush,Maxine,17/07/20,DAY,0.513,0.0167,0.0704,0.9950,0.9510,0.0919,0.233,44
+spotify,Peaceful Piano,Sun Burst,Sun Burst,23/07/20,DAY,0.38,0.0466,0.0441,0.9820,0.9430,0.111,0.175,45
+spotify,Peaceful Piano,Wheels in Motion,Spritual,24/07/20,DAY,0.313,0.111,0.0484,0.9940,0.9160,0.101,0.0823,46
+spotify,Peaceful Piano,Freddie's Theme,Freddie's Theme,24/07/20,DAY,0.429,0.00955,0.0352,0.9940,0.9550,0.108,0.359,47
+spotify,Peaceful Piano,Crossing Paths,Crossing Paths,24/07/20,DAY,0.266,0.0283,0.0522,0.9930,0.9130,0.0918,0.468,48
+spotify,Peaceful Piano,Spiritual,Spritual,24/07/20,DAY,0.176,0.031,0.0457,0.9900,0.9190,0.109,0.253,49
+spotify,Peaceful Piano,Aldebaran,Aldebaran,31/07/20,DAY,0.366,0.014,0.0386,0.9860,0.9180,0.121,0.128,50
+spotify,Peaceful Piano,Open Heart,Open Heart,31/07/20,DAY,0.508,0.0209,0.0458,0.9950,0.9440,0.108,0.172,51
+spotify,Peaceful Piano,Sweet Redolence,Sweet Redolence,07/08/20,DAY,0.395,0.0307,0.0482,0.9910,0.8960,0.109,0.386,52
+spotify,Peaceful Piano,Coziness,Coziness,14/08/20,DAY,0.487,0.0383,0.0467,0.9870,0.9330,0.0942,0.24,53
+spotify,Peaceful Piano,Synchronicity,Synchronicity,14/08/20,DAY,0.347,0.0383,0.0357,0.9940,0.9440,0.0788,0.198,54
+spotify,Peaceful Piano,Augustines,Augustines,14/08/20,DAY,0.519,0.0619,0.0336,0.9880,0.9440,0.103,0.394,55
+spotify,Peaceful Piano,Beneath Your Smile,Beneath Your Smile,21/08/20,DAY,0.367,0.0163,0.0438,0.9940,0.9410,0.108,0.224,56
+spotify,Peaceful Piano,Where The Clouds Go,Where The Clouds Go,21/08/20,DAY,0.402,0.0396,0.0318,0.9920,0.9360,0.084,0.0934,57
+spotify,Peaceful Piano,United,United,21/08/20,DAY,0.258,0.132,0.0692,0.9960,0.9570,0.102,0.299,58
+spotify,Peaceful Piano,Le Castellet,Le Castellet,24/08/20,DAY,0.506,0.0387,0.0674,0.9940,0.9470,0.105,0.288,59
+spotify,Peaceful Piano,We Contain Multitudes (from home),We Contain Multitudes (from home),26/08/20,DAY,0.281,0.0333,0.0348,0.9940,0.9590,0.0995,0.169,60
+spotify,Peaceful Piano,Melts Into Air,Melts Into Air,28/08/20,DAY,0.414,0.00739,0.0467,0.9910,0.9540,0.12,0.228,61
+spotify,Peaceful Piano,Softly Spoken,Softly Spoken,28/08/20,DAY,0.527,0.00635,0.0659,0.9960,0.9590,0.12,0.736,62
+spotify,Peaceful Piano,Lonely Children,Lonely Children,28/08/20,DAY,0.463,0.0623,0.0351,0.9930,0.9300,0.111,0.225,63
+spotify,Peaceful Piano,Lumière,Tales Of Solace,28/08/20,DAY,0.271,0.0101,0.0548,0.9940,0.8950,0.0923,0.0743,64
+spotify,Peaceful Piano,Silhouette,Oddities,28/08/20,DAY,0.409,0.00617,0.042,0.9950,0.9150,0.111,0.327,65
+spotify,Peaceful Piano,Cloud Postcards,Cloud Postcards,28/08/20,DAY,0.407,0.00649,0.0454,0.9940,0.8760,0.0773,0.186,66
+spotify,Peaceful Piano,Belle Chose,Belle Chose,04/09/20,DAY,0.325,0.0549,0.0456,0.9890,0.8990,0.122,0.206,67
+spotify,Peaceful Piano,Steady The Ship,Steady The Ship,04/09/20,DAY,0.366,0.0215,0.0433,0.9920,0.9540,0.0952,0.265,68
+spotify,Peaceful Piano,Sioux,MFWT Vol.2,08/09/20,DAY,0.699,0.0418,0.0528,0.9950,0.9300,0.0791,0.115,69
+spotify,Peaceful Piano,I Wrote You A Song,You Finally Knew,11/09/20,DAY,0.347,0.0183,0.0428,0.9620,0.9330,0.104,0.0731,70
+spotify,Peaceful Piano,Sweet Cherie,Sweet Cherie,11/09/20,DAY,0.512,0.0371,0.0387,0.9880,0.9260,0.11,0.225,71
+spotify,Peaceful Piano,Moment of Silence,Moment of Silence,14/09/20,DAY,0.402,0.004,0.0413,0.9960,0.9560,0.0884,0.505,72
+spotify,Peaceful Piano,the time has come,Freedom,17/09/20,DAY,0.383,0.00952,0.063,0.9940,0.9260,0.111,0.0865,73
+spotify,Peaceful Piano,Der Wandervogel,Der Wandervogel,17/09/20,DAY,0.407,0.00803,0.0649,0.9910,0.9480,0.0993,0.154,74
+spotify,Peaceful Piano,For a While,For a While,18/09/20,DAY,0.358,0.0292,0.0343,0.9870,0.8970,0.115,0.0386,75
+spotify,Peaceful Piano,Watching You In The Morning,Watching You In The Morning,18/09/20,DAY,0.227,0.0823,0.0313,0.9730,0.9200,0.102,0.144,76
+spotify,Peaceful Piano,Maru,Maru,18/09/20,DAY,0.499,0.0546,0.0353,0.9900,0.9510,0.109,0.34,77
+spotify,Peaceful Piano,Dream Until the First Rays of Dawn,Dream Until the First Rays of Dawn,21/09/20,DAY,0.396,0.00929,0.0532,0.9940,0.9490,0.0795,0.338,78
+spotify,Peaceful Piano,Heart Questions,Heart Questions,25/09/20,DAY,0.345,0.0089,0.0522,0.9940,0.8880,0.107,0.587,79
+spotify,Peaceful Piano,verträumt,schlaflos,25/09/20,DAY,0.389,0.00546,0.0418,0.9910,0.9570,0.0985,0.271,80
+spotify,Peaceful Piano,Stretch of Clouds,Stretch of Clouds,25/09/20,DAY,0.524,0.0168,0.0776,0.9940,0.9190,0.0888,0.192,81
+spotify,Peaceful Piano,Reveries,Reveries,28/09/20,DAY,0.379,0.059,0.0338,0.9880,0.9370,0.12,0.258,82
+spotify,Peaceful Piano,Waiting,Waiting,28/09/20,DAY,0.451,0.11,0.0344,0.9830,0.9280,0.106,0.246,83
+spotify,Peaceful Piano,Agile,Agile,28/09/20,DAY,0.355,0.0117,0.0412,0.9950,0.8910,0.0999,0.161,84
+spotify,Peaceful Piano,Softly,Softly,02/10/20,DAY,0.252,0.0117,0.0621,0.9950,0.9590,0.103,0.252,85
+spotify,Peaceful Piano,Ripples,Ripples,05/10/20,DAY,0.482,0.103,0.0315,0.9870,0.9090,0.0979,0.308,86
+spotify,Peaceful Piano,Prologue Marlene,Prologue Marlene,05/10/20,DAY,0.296,0.102,0.0374,0.9950,0.9030,0.111,0.239,87
+spotify,Peaceful Piano,Quiet Cove,Quiet Cove,09/10/20,DAY,0.244,0.0408,0.0489,0.9940,0.9240,0.106,0.371,88
+spotify,Peaceful Piano,Blue River,Madrigal,09/10/20,DAY,0.198,0.0185,0.0473,0.9950,0.8990,0.0961,0.28,89
+spotify,Peaceful Piano,Scenery,Scenery,09/10/20,DAY,0.476,0.0215,0.043,0.9950,0.9410,0.107,0.279,90
+spotify,Peaceful Piano,A Quiet Triumph,A Quiet Triumph,09/10/20,DAY,0.631,0.00579,0.0628,0.9920,0.9390,0.107,0.332,91
+spotify,Peaceful Piano,Memory Lane,Memory Lane,09/10/20,DAY,0.466,0.00741,0.0554,0.9940,0.9380,0.0996,0.376,92
+spotify,Peaceful Piano,Sunset Aglow,Quiet Cove,09/10/20,DAY,0.396,0.0181,0.0439,0.9950,0.9310,0.0989,0.393,93
+spotify,Peaceful Piano,Connemara,Connemara,09/10/20,DAY,0.422,0.0134,0.0481,0.9920,0.9500,0.0842,0.21,94
+spotify,Peaceful Piano,Vestrahorn,coming back home,10/10/20,DAY,0.349,0.0221,0.0431,0.9940,0.9360,0.103,0.236,95
+spotify,Peaceful Piano,Sinkadus,Sinkadus,12/10/20,DAY,0.401,0.0419,0.0364,0.9890,0.8390,0.11,0.372,96
+spotify,Peaceful Piano,The Dreams We Left Behind,The Dreams We Left Behind,16/10/20,DAY,0.561,0.0236,0.0639,0.9950,0.9280,0.108,0.181,97
+spotify,Peaceful Piano,Remembering,Remembering,16/10/20,DAY,0.295,0.0693,0.0357,0.9900,0.9090,0.105,0.262,98
+spotify,Peaceful Piano,Simple Suggestions,Simple Suggestions,16/10/20,DAY,0.211,0.02,0.039,0.9920,0.9410,0.101,0.3,99
+spotify,Peaceful Piano,Satin Night,Light Textures,16/10/20,DAY,0.41,0.0105,0.0473,0.9920,0.9590,0.104,0.12,100

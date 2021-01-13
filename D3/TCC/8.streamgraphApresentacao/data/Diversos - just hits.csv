@@ -1,0 +1,76 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,just hits,Don't Call Me Up,Ivy To Roses (Mixtape),18/01/19,DAY,0.674,0.881,0.147,0.2960,0.0000,0.0793,0.234,1
+spotify,just hits,bad guy,WHEN WE ALL FALL ASLEEP  WHERE DO WE GO?,29/03/19,DAY,0.701,0.425,0.375,0.3280,0.1300,0.1,0.562,2
+spotify,just hits,Something About You (with Rudimental),Something About You (with Rudimental),09/08/19,DAY,0.767,0.605,0.188,0.5590,0.0004,0.193,0.657,3
+spotify,just hits,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,17/10/19,DAY,0.824,0.588,0.0924,0.6920,0.0001,0.149,0.513,4
+spotify,just hits,Before You Go,Divinely Uninspired To A Hellish Extent (Extended Edition),22/11/19,DAY,0.459,0.575,0.0573,0.6040,0.0000,0.0885,0.183,5
+spotify,just hits,Breaking Me,Breaking Me,19/12/19,DAY,0.789,0.72,0.218,0.2230,0.0000,0.129,0.664,6
+spotify,just hits,Jerusalema (feat. Nomcebo Zikode),Jerusalema,24/01/20,DAY,0.88,0.483,0.0504,0.0185,0.0000,0.0607,0.827,7
+spotify,just hits,Bang!,Bang!,12/02/20,DAY,0.74,0.516,0.0507,0.0183,0.0000,0.0558,0.698,8
+spotify,just hits,Blinding Lights,After Hours,20/03/20,DAY,0.514,0.73,0.0598,0.0015,0.0001,0.0897,0.334,9
+spotify,just hits,Hypnotized,Hypnotized,08/04/20,DAY,0.689,0.813,0.0998,0.0969,0.0002,0.11,0.704,10
+spotify,just hits,Alien,Alien,12/06/20,DAY,0.71,0.768,0.0457,0.0081,0.0000,0.0791,0.419,11
+spotify,just hits,Giants,Giants,24/06/20,DAY,0.579,0.839,0.0703,0.0145,0.0000,0.201,0.589,12
+spotify,just hits,Natalie Don't,Natalie Don’t,10/07/20,DAY,0.807,0.533,0.0443,0.1760,0.0000,0.284,0.853,13
+spotify,just hits,Don't Leave Me Now,Cup Of Beats,31/07/20,DAY,0.671,0.752,0.0304,0.0258,0.0000,0.112,0.717,14
+spotify,just hits,Midnight Sky,Midnight Sky,14/08/20,DAY,0.705,0.814,0.0346,0.0012,0.0031,0.203,0.259,15
+spotify,just hits,Tick Tock (feat. 24kGoldn),Tick Tock (feat. 24kGoldn),21/08/20,DAY,0.779,0.705,0.0344,0.3690,0.0000,0.124,0.946,16
+spotify,just hits,Supernova (tigers blud),Supernova (tigers blud),21/08/20,DAY,0.571,0.71,0.0711,0.0605,0.0000,0.111,0.294,17
+spotify,just hits,Why Do You Lie To Me (feat. Lil Baby),Why Do You Lie To Me (feat. Lil Baby),28/08/20,DAY,0.65,0.738,0.158,0.0539,0.0000,0.206,0.336,18
+spotify,just hits,Corridors,Corridors,28/08/20,DAY,0.643,0.73,0.0335,0.0045,0.0000,0.53,0.683,19
+spotify,just hits,Lasting Lover,Lasting Lover,04/09/20,DAY,0.676,0.786,0.0478,0.1970,0.0000,0.0943,0.483,20
+spotify,just hits,OK Not To Be OK,OK Not To Be OK,10/09/20,DAY,0.743,0.837,0.0649,0.0172,0.0000,0.0743,0.263,21
+spotify,just hits,Love Looks Better,Love Looks Better,10/09/20,DAY,0.562,0.683,0.0328,0.0211,0.0000,0.176,0.464,22
+spotify,just hits,Let's Love,Let's Love,11/09/20,DAY,0.662,0.868,0.0341,0.0088,0.0024,0.584,0.353,23
+spotify,just hits,Wait for You (feat. Zoe Wees),Wait for You (feat. Zoe Wees),11/09/20,DAY,0.502,0.65,0.0531,0.3660,0.0000,0.0956,0.392,24
+spotify,just hits,Diamonds,Diamonds,17/09/20,DAY,0.653,0.667,0.0423,0.1540,0.0000,0.107,0.556,25
+spotify,just hits,Is It Just Me?,Is It Just Me?,18/09/20,DAY,0.66,0.514,0.0339,0.7550,0.0068,0.259,0.171,26
+spotify,just hits,Me Gusta (with Cardi B & Myke Towers),Me Gusta (with Cardi B & Myke Towers),18/09/20,DAY,0.91,0.604,0.082,0.4480,0.0000,0.0863,0.807,27
+spotify,just hits,Kings & Queens,Heaven & Hell,18/09/20,DAY,0.637,0.69,0.0405,0.0079,0.0000,0.124,0.457,28
+spotify,just hits,Courage to Change,Courage to Change,24/09/20,DAY,0.307,0.606,0.0347,0.0927,0.0000,0.357,0.11,29
+spotify,just hits,Your Man,Nectar,24/09/20,DAY,0.785,0.818,0.099,0.6240,0.1490,0.149,0.0503,30
+spotify,just hits,Heavy,Heavy,24/09/20,DAY,0.734,0.7,0.0393,0.1560,0.0000,0.0546,0.691,31
+spotify,just hits,Pa Ti - Spanglish Version,Pa Ti + Lonely,24/09/20,DAY,0.856,0.767,0.0415,0.2440,0.0004,0.0648,0.787,32
+spotify,just hits,Afterparty (feat. Rich The Kid),Afterparty (feat. Rich The Kid),25/09/20,DAY,0.757,0.742,0.0494,0.0360,0.0000,0.198,0.641,33
+spotify,just hits,Hate You (The Same),Hate You (The Same),25/09/20,DAY,0.771,0.758,0.0829,0.0424,0.0000,0.0727,0.718,34
+spotify,just hits,Fallin’ (Adrenaline),Fallin’ (Adrenaline),29/09/20,DAY,0.606,0.9,0.119,0.0101,0.0000,0.075,0.233,35
+spotify,just hits,Lie Like This,Lie Like This,01/10/20,DAY,0.735,0.694,0.0538,0.1360,0.0000,0.0675,0.849,36
+spotify,just hits,heart won't let me,mama's boy,02/10/20,DAY,0.607,0.655,0.0341,0.2610,0.0000,0.114,0.255,37
+spotify,just hits,Wonder,Wonder,02/10/20,DAY,0.333,0.637,0.0581,0.1310,0.0000,0.149,0.132,38
+spotify,just hits,Bet You Wanna (feat. Cardi B),THE ALBUM,02/10/20,DAY,0.665,0.674,0.161,0.0039,0.0000,0.0734,0.702,39
+spotify,just hits,Baby- I'm Jealous (feat. Doja Cat),Baby  I'm Jealous (feat. Doja Cat),09/10/20,DAY,0.737,0.867,0.0458,0.0398,0.0000,0.32,0.506,40
+spotify,just hits,Right With You,State of the Heart,09/10/20,DAY,0.606,0.833,0.0562,0.0303,0.0044,0.0611,0.367,41
+spotify,just hits,Not a Pop Song,Not a Pop Song,09/10/20,DAY,0.624,0.651,0.0372,0.2790,0.0000,0.0782,0.355,42
+spotify,just hits,i miss u (with Au/Ra),i miss u (with Au/Ra),09/10/20,DAY,0.668,0.726,0.0468,0.0387,0.0000,0.134,0.453,43
+spotify,just hits,Use Your Love (feat. Goldford),Use Your Love (feat. Goldford),09/10/20,DAY,0.712,0.776,0.0802,0.4010,0.0000,0.296,0.659,44
+spotify,just hits,So Sick (feat. blackbear),lil kiiwi,09/10/20,DAY,0.751,0.544,0.0581,0.1490,0.0000,0.513,0.392,45
+spotify,just hits,First Time,First Time,09/10/20,DAY,0.552,0.628,0.292,0.7010,0.0000,0.399,0.672,46
+spotify,just hits,No Ordinary,No Ordinary,09/10/20,DAY,0.286,0.553,0.0492,0.3230,0.0001,0.272,0.22,47
+spotify,just hits,Wired (with Ella Eyre),Wired (with Ella Eyre),09/10/20,DAY,0.7,0.764,0.0314,0.0247,0.0000,0.162,0.424,48
+spotify,just hits,Whose Arms (feat. Sofia Reyes),Whose Arms (feat. Sofia Reyes),09/10/20,DAY,0.626,0.693,0.0433,0.6280,0.0000,0.0905,0.39,49
+spotify,just hits,Fake,Fake,13/10/20,DAY,0.703,0.657,0.0783,0.1390,0.0000,0.093,0.455,50
+spotify,just hits,Commander In Chief,Commander In Chief,14/10/20,DAY,0.496,0.502,0.052,0.2510,0.0000,0.0935,0.144,51
+spotify,just hits,Self Care (with COIN),Self Care (with COIN),15/10/20,DAY,0.767,0.858,0.0636,0.0014,0.0000,0.188,0.634,52
+spotify,just hits,The High,The Flip,16/10/20,DAY,0.658,0.616,0.13,0.0380,0.0021,0.0731,0.368,53
+spotify,just hits,All We Got (feat. KIDDO),All We Got (feat. KIDDO),16/10/20,DAY,0.504,0.76,0.0426,0.2860,0.0000,0.151,0.64,54
+spotify,just hits,Lonely (with benny blanco),Lonely (with benny blanco),16/10/20,DAY,0.631,0.239,0.0398,0.8640,0.0000,0.116,0.0927,55
+spotify,just hits,Airpods,Leave It Beautiful,16/10/20,DAY,0.872,0.462,0.185,0.3440,0.0008,0.352,0.589,56
+spotify,just hits,No Other Way,No Other Way,16/10/20,DAY,0.735,0.686,0.0366,0.0477,0.0052,0.298,0.965,57
+spotify,just hits,Spicy (feat. Post Malone),Spicy (feat. Post Malone),21/10/20,DAY,0.784,0.496,0.0435,0.1400,0.0000,0.113,0.132,58
+spotify,just hits,Too Much (feat. Usher),Too Much (feat. Usher),23/10/20,DAY,0.712,0.891,0.0401,0.0041,0.0000,0.258,0.735,59
+spotify,just hits,Inside Out (feat. Griff),Inside Out (feat. Griff),23/10/20,DAY,0.64,0.683,0.0434,0.1690,0.0000,0.109,0.4,60
+spotify,just hits,Sweet Melody,Sweet Melody,23/10/20,DAY,0.448,0.824,0.057,0.0739,0.0000,0.113,0.419,61
+spotify,just hits,Hell and High Water,Music is the Weapon,23/10/20,DAY,0.474,0.771,0.262,0.3680,0.0000,0.183,0.42,62
+spotify,just hits,positions,positions,23/10/20,DAY,0.736,0.802,0.0864,0.4680,0.0000,0.094,0.675,63
+spotify,just hits,BICHOTA,BICHOTA,23/10/20,DAY,0.863,0.666,0.152,0.2120,0.0005,0.103,0.838,64
+spotify,just hits,WOW (with Emma Steinbakken),WOW (with Emma Steinbakken),23/10/20,DAY,0.784,0.826,0.0929,0.0205,0.0000,0.125,0.269,65
+spotify,just hits,Fever,Fever,29/10/20,DAY,0.868,0.693,0.181,0.0597,0.0040,0.106,0.396,66
+spotify,just hits,No Drama,No Drama,29/10/20,DAY,0.708,0.815,0.0692,0.1660,0.0000,0.523,0.855,67
+spotify,just hits,Paradise (feat. Dermot Kennedy),Paradise,30/10/20,DAY,0.632,0.595,0.0401,0.0689,0.0000,0.209,0.435,68
+spotify,just hits,34+35,Positions,30/10/20,DAY,0.83,0.585,0.094,0.2370,0.0000,0.248,0.485,69
+spotify,just hits,Kids Again,Love Goes,30/10/20,DAY,0.666,0.726,0.0262,0.4860,0.0000,0.0892,0.468,70
+spotify,just hits,THE END,THE END,30/10/20,DAY,0.639,0.711,0.0315,0.0242,0.0000,0.142,0.605,71
+spotify,just hits,Pretty Thoughts,Pretty Thoughts,30/10/20,DAY,0.51,0.644,0.0973,0.3390,0.0000,0.195,0.356,72
+spotify,just hits,Dakiti,Dakiti,30/10/20,DAY,0.731,0.573,0.0544,0.4010,0.0001,0.113,0.145,73
+spotify,just hits,Crazy/Stupid,Apart,30/10/20,DAY,0.67,0.636,0.0468,0.0752,0.0000,0.123,0.463,74
+spotify,just hits,Like Gold,Like Gold,30/10/20,DAY,0.759,0.845,0.0421,0.0699,0.0001,0.215,0.694,75

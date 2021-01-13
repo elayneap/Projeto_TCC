@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,State of Mind,Flood My Wrist (feat. Lil Uzi Vert),Flood My Wrist (feat. Lil Uzi Vert),01/07/20,DAY,0.904,0.672,0.197,0.0038,0.0000,0.138,0.398,1
+spotify,State of Mind,Hello (feat. A Boogie Wit da Hoodie),Shoot For The Stars Aim For The Moon (Deluxe),20/07/20,DAY,0.905,0.647,0.107,0.0187,0.0000,0.282,0.367,2
+spotify,State of Mind,Different,The Black House,31/07/20,DAY,0.84,0.515,0.363,0.6280,0.0000,0.0732,0.818,3
+spotify,State of Mind,Legends (feat. Benny The Butcher),Legends (feat. Benny The Butcher),05/08/20,DAY,0.637,0.865,0.393,0.2970,0.0000,0.17,0.656,4
+spotify,State of Mind,Racin' (feat. Lil Tjay),Racin' (feat. Lil Tjay),06/08/20,DAY,0.789,0.733,0.3,0.1070,0.0000,0.193,0.64,5
+spotify,State of Mind,Tip Toe,Tip Toe,12/08/20,DAY,0.849,0.622,0.325,0.5790,0.0000,0.193,0.802,6
+spotify,State of Mind,Whoopty,Whoopty,20/08/20,DAY,0.714,0.609,0.17,0.1940,0.0000,0.126,0.778,7
+spotify,State of Mind,Spicy (feat. Fivio Foreign & A$AP Ferg),King's Disease,21/08/20,DAY,0.724,0.603,0.406,0.0187,0.0000,0.169,0.152,8
+spotify,State of Mind,Royal Rumble,Royal Rumble,26/08/20,DAY,0.427,0.679,0.344,0.0010,0.0000,0.159,0.311,9
+spotify,State of Mind,No Ceilings (feat. Lil Wayne & Jay Gwuapo),No Ceilings (feat. Lil Wayne & Jay Gwuapo),27/08/20,DAY,0.77,0.705,0.393,0.1370,0.0000,0.0992,0.405,10
+spotify,State of Mind,Top 5,GMTO Vol. 1 (Get Money Take Over),04/09/20,DAY,0.826,0.788,0.418,0.3810,0.0000,0.622,0.774,11
+spotify,State of Mind,Anza (feat. Armani Caesar),From King To A GOD,11/09/20,DAY,0.864,0.632,0.0589,0.2010,0.0040,0.0966,0.379,12
+spotify,State of Mind,Feel The Vibe (feat. Meek Mill),Young Jefe 3,18/09/20,DAY,0.77,0.624,0.289,0.1580,0.0000,0.264,0.558,13
+spotify,State of Mind,Movie,Movie,18/09/20,DAY,0.643,0.773,0.336,0.2950,0.0000,0.0833,0.474,14
+spotify,State of Mind,Wait A Minute,Wait A Minute,18/09/20,DAY,0.893,0.537,0.242,0.1010,0.0000,0.102,0.422,15
+spotify,State of Mind,For Real (feat. Kemba),For Real (feat. Kemba),23/09/20,DAY,0.732,0.679,0.202,0.1500,0.0000,0.0383,0.622,16
+spotify,State of Mind,SAME HANDS (feat. Lil Durk),SAME HANDS (feat. Lil Durk),25/09/20,DAY,0.88,0.609,0.253,0.0682,0.0000,0.112,0.323,17
+spotify,State of Mind,MICHAEL,MICHAEL,25/09/20,DAY,0.93,0.609,0.38,0.1780,0.0000,0.11,0.552,18
+spotify,State of Mind,Cliff Hanger,Only For Dolphins,25/09/20,DAY,0.751,0.684,0.267,0.1570,0.0000,0.334,0.693,19
+spotify,State of Mind,Bop It (feat. Polo G),Bop It (feat. Polo G),02/10/20,DAY,0.841,0.605,0.345,0.0029,0.0000,0.309,0.262,20
+spotify,State of Mind,50 Bars- Pt. 4,50 Bars  Pt. 4,02/10/20,DAY,0.773,0.858,0.342,0.4130,0.0000,0.0805,0.671,21
+spotify,State of Mind,Boatloads feat. Jack Harlow,Homegrown,02/10/20,DAY,0.599,0.713,0.287,0.0150,0.0000,0.491,0.304,22
+spotify,State of Mind,Gorgeous,Gorgeous,09/10/20,DAY,0.86,0.7,0.0485,0.0462,0.0000,0.212,0.281,23
+spotify,State of Mind,Letter 2 U,Letter 2 U,09/10/20,DAY,0.583,0.465,0.272,0.6660,0.0000,0.107,0.222,24
+spotify,State of Mind,Timeless (feat. Lil Wayne & Big Sean),Timeless (feat. Lil Wayne & Big Sean),09/10/20,DAY,0.57,0.962,0.421,0.0711,0.0000,0.0748,0.754,25
+spotify,State of Mind,Iced Out Audemars (feat. Lil Wayne) - Remix,Iced Out Audemars (Remix),15/10/20,DAY,0.782,0.796,0.0819,0.0298,0.0000,0.728,0.909,26
+spotify,State of Mind,Don't Like Me (feat. Gucci Mane & Don Toliver),Don't Like Me (feat. Gucci Mane & Don Toliver),15/10/20,DAY,0.904,0.843,0.0985,0.0871,0.0000,0.0766,0.937,27
+spotify,State of Mind,Bankroll,Bankroll,16/10/20,DAY,0.869,0.683,0.207,0.2190,0.0000,0.0763,0.83,28
+spotify,State of Mind,Feeling It,It Shouldn't Be Like This,16/10/20,DAY,0.786,0.6,0.309,0.0865,0.0000,0.112,0.506,29
+spotify,State of Mind,Where Would I Go (feat. Rick Ross),Burden of Proof,16/10/20,DAY,0.582,0.831,0.394,0.1040,0.0000,0.727,0.782,30
+spotify,State of Mind,Way Too Soft,Way Too Soft,16/10/20,DAY,0.789,0.643,0.264,0.0230,0.0002,0.0979,0.376,31
+spotify,State of Mind,Keep It Moving,Keep It Moving,16/10/20,DAY,0.431,0.839,0.345,0.1340,0.0000,0.326,0.484,32
+spotify,State of Mind,King Alfred,King Alfred,16/10/20,DAY,0.836,0.573,0.231,0.0202,0.0000,0.0849,0.399,33
+spotify,State of Mind,Rockstar From The Trenches (feat. Bizzy Banks),Rockstar From The Trenches (feat. Bizzy Banks),20/10/20,DAY,0.605,0.814,0.503,0.4230,0.0000,0.102,0.62,34
+spotify,State of Mind,Hoodie Weather,Hoodie Weather,22/10/20,DAY,0.796,0.748,0.37,0.4200,0.0000,0.317,0.474,35
+spotify,State of Mind,Str8 Like Dat,Evolution,23/10/20,DAY,0.783,0.768,0.39,0.1530,0.0000,0.115,0.482,36
+spotify,State of Mind,Handsome (Remix) feat. Jeezy,Karma 3 (Deluxe),23/10/20,DAY,0.779,0.696,0.339,0.0636,0.0000,0.145,0.495,37
+spotify,State of Mind,No No No (feat. A Boogie Wit Da Hoodie),No No No (feat. A Boogie Wit Da Hoodie),23/10/20,DAY,0.524,0.511,0.417,0.1310,0.0000,0.082,0.524,38
+spotify,State of Mind,Demons,Demons,23/10/20,DAY,0.865,0.56,0.0748,0.1070,0.0000,0.102,0.726,39
+spotify,State of Mind,Back In The Day,Back In The Day,23/10/20,DAY,0.855,0.681,0.166,0.0272,0.0000,0.192,0.373,40
+spotify,State of Mind,I Got,I Got,28/10/20,DAY,0.719,0.734,0.261,0.0286,0.0000,0.161,0.496,41
+spotify,State of Mind,Look Over Your Shoulder (feat. Kendrick Lamar),Look Over Your Shoulder (feat. Kendrick Lamar),29/10/20,DAY,0.6,0.887,0.311,0.0438,0.0000,0.68,0.681,42
+spotify,State of Mind,Cartis,Cartis,29/10/20,DAY,0.663,0.47,0.0337,0.0088,0.0000,0.157,0.105,43
+spotify,State of Mind,Losses,Losses,30/10/20,DAY,0.848,0.457,0.293,0.1530,0.0000,0.115,0.227,44
+spotify,State of Mind,Double G (feat. Pop Smoke),Double G (feat. Pop Smoke),30/10/20,DAY,0.757,0.633,0.339,0.1160,0.0000,0.204,0.396,45
+spotify,State of Mind,Pissy Staircase,Noon Yung,30/10/20,DAY,0.513,0.735,0.395,0.0399,0.0000,0.279,0.555,46
+spotify,State of Mind,Black Mask (feat. Pop Smoke),Black Mask (feat. Pop Smoke),30/10/20,DAY,0.824,0.666,0.228,0.0361,0.0000,0.388,0.263,47
+spotify,State of Mind,Netflix,Netflix,30/10/20,DAY,0.637,0.76,0.318,0.1570,0.0000,0.174,0.843,48
+spotify,State of Mind,How You Live It (feat. Joey Bada$$),How You Live It (feat. Joey Bada$$),30/10/20,DAY,0.471,0.835,0.387,0.3520,0.0000,0.161,0.64,49
+spotify,State of Mind,CHROME,CHROME,30/10/20,DAY,0.872,0.365,0.218,0.2520,0.0000,0.0467,0.694,50

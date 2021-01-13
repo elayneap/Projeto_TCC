@@ -1,0 +1,81 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Rock Solid,Nothing Else Matters,Metallica,12/08/91,DAY,0.553,0.362,0.0263,0.0458,0.0000,0.075,0.158,1
+spotify,Rock Solid,Alive,Ten,27/08/91,DAY,0.284,0.875,0.0422,0.0075,0.0005,0.402,0.595,2
+spotify,Rock Solid,Under the Bridge,Blood Sugar Sex Magik (Deluxe Edition),24/09/91,DAY,0.559,0.345,0.0459,0.0576,0.0001,0.141,0.458,3
+spotify,Rock Solid,Killing In The Name,Rage Against The Machine   XX (20th Anniversary Special Edition),01/07/92,YEAR,0.466,0.833,0.304,0.0266,0.0000,0.0327,0.661,4
+spotify,Rock Solid,Are You Gonna Go My Way,Are You Gonna Go My Way,09/03/93,DAY,0.619,0.67,0.0353,0.0016,0.0109,0.331,0.777,5
+spotify,Rock Solid,Sober,Undertow,06/04/93,DAY,0.385,0.673,0.0329,0.0002,0.1500,0.0699,0.187,6
+spotify,Rock Solid,Cannonball,Last Splash,30/08/93,DAY,0.502,0.758,0.0407,0.0092,0.7830,0.284,0.729,7
+spotify,Rock Solid,Heart-Shaped Box,In Utero   20th Anniversary   Deluxe Edition,21/09/93,DAY,0.256,0.641,0.0552,0.1990,0.0329,0.0853,0.382,8
+spotify,Rock Solid,Longview,Dookie,01/02/94,DAY,0.381,0.732,0.0536,0.0083,0.0101,0.0854,0.814,9
+spotify,Rock Solid,Black Hole Sun,Superunknown (Deluxe Edition),09/03/94,DAY,0.35,0.828,0.041,0.0002,0.0002,0.0774,0.147,10
+spotify,Rock Solid,Interstate Love Song - 2019 Remaster,Purple (2019 Remaster),07/06/94,DAY,0.215,0.927,0.0452,0.0003,0.0066,0.126,0.49,11
+spotify,Rock Solid,Zombie,No Need To Argue,03/10/94,DAY,0.307,0.635,0.0339,0.0154,0.0048,0.366,0.304,12
+spotify,Rock Solid,Glycerine - Remastered,Sixteen Stone (Remastered),06/12/94,DAY,0.421,0.335,0.0324,0.0342,0.0024,0.0944,0.0889,13
+spotify,Rock Solid,Sweet Dreams (Are Made Of This),Smells Like Children,01/01/95,DAY,0.39,0.642,0.0326,0.0050,0.5650,0.296,0.132,14
+spotify,Rock Solid,1979 - Remastered 2012,Mellon Collie And The Infinite Sadness (Deluxe Edition),01/07/95,YEAR,0.767,0.787,0.0331,0.0163,0.5830,0.0513,0.964,15
+spotify,Rock Solid,Wonderwall - Remastered,(What's The Story) Morning Glory? [Remastered],02/10/95,DAY,0.378,0.896,0.0407,0.0005,0.0000,0.194,0.469,16
+spotify,Rock Solid,Song 2 - 2012 Remaster,Blur [Special Edition],10/02/97,DAY,0.674,0.789,0.0676,0.0018,0.0071,0.0754,0.918,17
+spotify,Rock Solid,Everlong,The Colour And The Shape,20/05/97,DAY,0.412,0.882,0.0369,0.0001,0.0003,0.0805,0.356,18
+spotify,Rock Solid,Bitter Sweet Symphony,Urban Hymns (Remastered 2016),29/09/97,DAY,0.356,0.917,0.0479,0.0335,0.0000,0.406,0.518,19
+spotify,Rock Solid,Father Of Mine,So Much For The Afterglow,07/10/97,DAY,0.568,0.94,0.0411,0.0004,0.0000,0.0779,0.738,20
+spotify,Rock Solid,Freak On a Leash,Follow The Leader,18/08/98,DAY,0.353,0.898,0.052,0.0000,0.1050,0.39,0.525,21
+spotify,Rock Solid,All The Small Things,Enema Of The State,01/06/99,DAY,0.434,0.897,0.0488,0.0103,0.0000,0.612,0.684,22
+spotify,Rock Solid,Scar Tissue,Californication (Deluxe Edition),08/06/99,DAY,0.595,0.717,0.0295,0.0779,0.0027,0.108,0.547,23
+spotify,Rock Solid,Drive,Make Yourself,26/10/99,DAY,0.645,0.792,0.036,0.0562,0.0121,0.119,0.666,24
+spotify,Rock Solid,The Chemicals Between Us - Remastered,The Science Of Things (Remastered),26/10/99,DAY,0.51,0.957,0.149,0.0027,0.0697,0.267,0.389,25
+spotify,Rock Solid,Judith,Mer De Noms,01/01/00,DAY,0.366,0.894,0.0568,0.0000,0.1700,0.267,0.304,26
+spotify,Rock Solid,Beautiful Day,All That You Can't Leave Behind,01/01/00,DAY,0.536,0.928,0.0589,0.0154,0.0013,0.2,0.389,27
+spotify,Rock Solid,Change (In the House of Flies),White Pony,16/05/00,DAY,0.269,0.853,0.0854,0.0002,0.0002,0.118,0.179,28
+spotify,Rock Solid,Kryptonite,The Better Life,01/07/00,YEAR,0.545,0.865,0.0286,0.0066,0.0000,0.168,0.543,29
+spotify,Rock Solid,Hate To Say I Told You So,Veni Vidi Vicious,12/09/00,DAY,0.459,0.931,0.0612,0.0013,0.0088,0.412,0.419,30
+spotify,Rock Solid,Hemorrhage (In My Hands),Something Like Human,19/09/00,DAY,0.301,0.823,0.0433,0.0001,0.0003,0.0833,0.372,31
+spotify,Rock Solid,Take A Look Around,Chocolate Starfish And The Hot Dog Flavored Water,17/10/00,DAY,0.425,0.852,0.046,0.0175,0.3060,0.0935,0.512,32
+spotify,Rock Solid,In the End,Hybrid Theory (Bonus Edition),24/10/00,DAY,0.556,0.864,0.0584,0.0096,0.0000,0.209,0.4,33
+spotify,Rock Solid,Smooth Criminal,Anthology,01/01/01,DAY,0.653,0.964,0.0582,0.0032,0.0051,0.144,0.87,34
+spotify,Rock Solid,Last Resort,Infest,25/04/01,DAY,0.589,0.89,0.0603,0.0005,0.0008,0.201,0.692,35
+spotify,Rock Solid,It's Been Awhile,Break the Cycle,22/05/01,DAY,0.509,0.774,0.0338,0.0019,0.0005,0.143,0.0824,36
+spotify,Rock Solid,The Middle,Bleed American,17/07/01,DAY,0.643,0.849,0.0526,0.0371,0.0000,0.058,0.903,37
+spotify,Rock Solid,Last Nite,Is This It,30/07/01,DAY,0.624,0.91,0.0297,0.0285,0.0002,0.0789,0.767,38
+spotify,Rock Solid,Blurry,Come Clean,28/08/01,DAY,0.432,0.936,0.0562,0.0069,0.0000,0.14,0.499,39
+spotify,Rock Solid,Chop Suey!,Toxicity,04/09/01,DAY,0.419,0.934,0.12,0.0003,0.0015,0.132,0.286,40
+spotify,Rock Solid,Aerials,Toxicity,04/09/01,DAY,0.364,0.922,0.0566,0.0009,0.0350,0.0696,0.227,41
+spotify,Rock Solid,Youth of the Nation,Satellite (U.S. Version; WEA Distribution),11/09/01,DAY,0.563,0.86,0.0621,0.0083,0.0106,0.39,0.517,42
+spotify,Rock Solid,No One Knows,Songs For The Deaf,01/01/02,DAY,0.509,0.584,0.057,0.0368,0.0001,0.384,0.685,43
+spotify,Rock Solid,Send the Pain Below,Wonder What's Next (Expanded Edition),01/07/02,YEAR,0.468,0.851,0.0398,0.0003,0.0048,0.0644,0.293,44
+spotify,Rock Solid,Show Me How to Live,Audioslave,17/11/02,DAY,0.433,0.854,0.0483,0.0003,0.0002,0.162,0.368,45
+spotify,Rock Solid,Like a Stone,Audioslave,17/11/02,DAY,0.614,0.568,0.0276,0.0080,0.0000,0.0997,0.516,46
+spotify,Rock Solid,Bring Me To Life,Fallen,04/03/03,DAY,0.331,0.943,0.0698,0.0072,0.0000,0.242,0.296,47
+spotify,Rock Solid,Numb,Meteora,24/03/03,DAY,0.496,0.863,0.0381,0.0046,0.0000,0.639,0.243,48
+spotify,Rock Solid,Seven Nation Army,Elephant,01/04/03,DAY,0.726,0.463,0.0799,0.0082,0.4470,0.255,0.321,49
+spotify,Rock Solid,Are You Gonna Be My Girl,Get Born,15/09/03,DAY,0.613,0.953,0.0855,0.0015,0.0006,0.152,0.537,50
+spotify,Rock Solid,Hysteria,Absolution,23/03/04,DAY,0.412,0.92,0.0575,0.0005,0.0026,0.11,0.455,51
+spotify,Rock Solid,Float On,Good News For People Who Love Bad News,05/04/04,DAY,0.649,0.888,0.0293,0.0130,0.0000,0.0888,0.553,52
+spotify,Rock Solid,Mr. Brightside,Hot Fuss,01/07/04,YEAR,0.352,0.911,0.0747,0.0012,0.0000,0.0995,0.236,53
+spotify,Rock Solid,Slither,Contraband,01/07/04,YEAR,0.478,0.974,0.102,0.0003,0.0984,0.0738,0.268,54
+spotify,Rock Solid,Take Me Out,Franz Ferdinand,01/07/04,YEAR,0.278,0.676,0.0371,0.0004,0.0009,0.136,0.494,55
+spotify,Rock Solid,Woman,Wolfmother,01/01/05,DAY,0.191,0.948,0.217,0.0000,0.0864,0.0945,0.215,56
+spotify,Rock Solid,The Hand That Feeds,With Teeth (Bonus Tracks),03/05/05,DAY,0.587,0.99,0.0783,0.0172,0.0007,0.104,0.486,57
+spotify,Rock Solid,Sugar- We're Goin Down,From Under The Cork Tree,03/05/05,DAY,0.494,0.842,0.0843,0.0058,0.0000,0.122,0.574,58
+spotify,Rock Solid,Feel Good Inc.,Demon Days,23/05/05,DAY,0.818,0.705,0.177,0.0084,0.0023,0.613,0.772,59
+spotify,Rock Solid,Self Esteem,Greatest Hits,21/06/05,DAY,0.458,0.912,0.0618,0.0175,0.0000,0.363,0.611,60
+spotify,Rock Solid,The Kill (Bury Me),A Beautiful Lie,01/07/05,YEAR,0.179,0.912,0.0791,0.0014,0.0003,0.582,0.289,61
+spotify,Rock Solid,I Write Sins Not Tragedies,A Fever You Can't Sweat Out,27/09/05,DAY,0.566,0.815,0.14,0.0737,0.0000,0.12,0.672,62
+spotify,Rock Solid,The Diary of Jane - Single Version,Phobia (Clean Version),01/01/06,DAY,0.392,0.964,0.0644,0.0001,0.0387,0.106,0.269,63
+spotify,Rock Solid,Steady- As She Goes,Broken Boy Soldiers,01/07/06,YEAR,0.524,0.578,0.12,0.0132,0.0092,0.108,0.537,64
+spotify,Rock Solid,Through Glass,Come What(ever) May [10th Anniversary Edition],01/07/06,YEAR,0.545,0.753,0.036,0.0417,0.0000,0.389,0.434,65
+spotify,Rock Solid,Misery Business,Riot!,11/06/07,DAY,0.517,0.906,0.0735,0.0027,0.0000,0.113,0.731,66
+spotify,Rock Solid,I Hate Everything About You,Three Days Grace (Deluxe Version),25/12/07,DAY,0.498,0.83,0.0421,0.0046,0.0000,0.139,0.453,67
+spotify,Rock Solid,Ain't No Rest For The Wicked - Original Version,Cage The Elephant,01/01/08,DAY,0.635,0.914,0.111,0.0597,0.0000,0.601,0.922,68
+spotify,Rock Solid,Savior,Appeal To Reason,01/01/08,DAY,0.554,0.932,0.0485,0.0015,0.0001,0.425,0.478,69
+spotify,Rock Solid,Sex on Fire,Only By The Night,23/09/08,DAY,0.542,0.905,0.054,0.0017,0.0104,0.136,0.374,70
+spotify,Rock Solid,Heads Will Roll,It's Blitz!,01/01/09,DAY,0.562,0.903,0.0296,0.0002,0.0939,0.298,0.791,71
+spotify,Rock Solid,Uprising,The Resistance,10/09/09,DAY,0.602,0.905,0.0775,0.0002,0.0640,0.117,0.411,72
+spotify,Rock Solid,Stupify,The Sickness (10th Anniversary Edition),12/03/10,DAY,0.597,0.939,0.0446,0.0011,0.0001,0.201,0.422,73
+spotify,Rock Solid,Howlin' for You,Brothers (Deluxe Edition),18/10/10,DAY,0.708,0.736,0.0952,0.0289,0.0828,0.102,0.473,74
+spotify,Rock Solid,Sail,Megalithic Symphony Deluxe,01/07/11,YEAR,0.825,0.435,0.0568,0.4520,0.6090,0.0953,0.243,75
+spotify,Rock Solid,Sixteen Saltines,Blunderbuss,20/04/12,DAY,0.603,0.868,0.0887,0.0136,0.0000,0.0767,0.679,76
+spotify,Rock Solid,Hail to the King,Hail to the King,23/08/13,DAY,0.58,0.916,0.0387,0.0003,0.0259,0.126,0.683,77
+spotify,Rock Solid,Do I Wanna Know?,AM,09/09/13,DAY,0.548,0.532,0.0323,0.1860,0.0003,0.217,0.405,78
+spotify,Rock Solid,Highway Tune,From The Fires,10/11/17,DAY,0.582,0.962,0.0542,0.0096,0.1280,0.283,0.506,79
+spotify,Rock Solid,Boulevard of Broken Dreams,Greatest Hits: God's Favorite Band,17/11/17,DAY,0.496,0.682,0.0294,0.0055,0.0000,0.0589,0.474,80

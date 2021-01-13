@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,The New Alt,Freakin' Out On the Interstate,Carnival,16/11/18,DAY,0.452,0.79,0.0534,0.3910,0.0000,0.303,0.362,1
+spotify,The New Alt,Skin and Bones,Social Cues,19/04/19,DAY,0.539,0.788,0.0397,0.0089,0.0000,0.29,0.357,2
+spotify,The New Alt,The Kid I Used to Know,Sobville (Episode I),01/11/19,DAY,0.639,0.776,0.0829,0.0731,0.0000,0.18,0.267,3
+spotify,The New Alt,Big Shot,Big Shot,06/03/20,DAY,0.502,0.942,0.0574,0.0072,0.0000,0.101,0.601,4
+spotify,The New Alt,Monsters (feat. blackbear),Wake Up  Sunshine,03/04/20,DAY,0.369,0.845,0.0611,0.0493,0.0000,0.416,0.782,5
+spotify,The New Alt,August,August,03/04/20,DAY,0.835,0.559,0.0323,0.3140,0.0992,0.352,0.509,6
+spotify,The New Alt,Someone Else,Someone Else,08/04/20,DAY,0.644,0.349,0.0364,0.2060,0.0000,0.125,0.246,7
+spotify,The New Alt,Upside Down,Upside Down,10/04/20,DAY,0.444,0.964,0.136,0.0109,0.0000,0.137,0.61,8
+spotify,The New Alt,CITY OF ANGELS (feat. YUNGBLUD) - YUNGBLUD Remix,CITY OF ANGELS (feat. YUNGBLUD) [YUNGBLUD Remix],21/04/20,DAY,0.658,0.667,0.0475,0.0367,0.0000,0.0752,0.717,9
+spotify,The New Alt,Alaska,Alaska,01/05/20,DAY,0.796,0.582,0.146,0.1320,0.0000,0.093,0.915,10
+spotify,The New Alt,The Ceiling,The Ceiling / Border (CH. III),20/05/20,DAY,0.529,0.868,0.0378,0.0424,0.0000,0.504,0.575,11
+spotify,The New Alt,Lonely,The Bastards,29/05/20,DAY,0.622,0.619,0.0561,0.0624,0.0000,0.081,0.483,12
+spotify,The New Alt,Overwhelmed,Overwhelmed,26/06/20,DAY,0.804,0.323,0.305,0.3080,0.0000,0.15,0.456,13
+spotify,The New Alt,Heat Waves,Heat Waves,29/06/20,DAY,0.761,0.525,0.0944,0.4400,0.0000,0.0921,0.531,14
+spotify,The New Alt,Love is Gone,LOCAL NOMAD,10/07/20,DAY,0.635,0.867,0.0356,0.0147,0.0000,0.591,0.902,15
+spotify,The New Alt,The Machine,The Machine,15/07/20,DAY,0.73,0.853,0.0524,0.0124,0.0001,0.0706,0.484,16
+spotify,The New Alt,Let Me Down (feat. blink-182),Let Me Down (feat. blink 182),16/07/20,DAY,0.519,0.862,0.0424,0.0156,0.0000,0.164,0.396,17
+spotify,The New Alt,People I Don't Like,People I Don't Like,17/07/20,DAY,0.747,0.573,0.295,0.2680,0.0000,0.302,0.551,18
+spotify,The New Alt,30,30,17/07/20,DAY,0.548,0.971,0.16,0.0032,0.0004,0.065,0.373,19
+spotify,The New Alt,Problematic,Problematic,24/07/20,DAY,0.745,0.795,0.0289,0.2080,0.0002,0.511,0.954,20
+spotify,The New Alt,Don't Look At Me,The Breakfast Club (Deluxe Edition),24/07/20,DAY,0.539,0.832,0.256,0.0101,0.0044,0.638,0.287,21
+spotify,The New Alt,WHAT YOU GONNA DO???,WHAT YOU GONNA DO???,30/07/20,DAY,0.529,0.853,0.0382,0.0072,0.0000,0.339,0.646,22
+spotify,The New Alt,Codeine,Codeine,31/07/20,DAY,0.451,0.811,0.0526,0.0234,0.0596,0.234,0.4,23
+spotify,The New Alt,Hate Me,Forget Myself,31/07/20,DAY,0.56,0.857,0.0462,0.1060,0.0000,0.104,0.392,24
+spotify,The New Alt,HI DEF,II,31/07/20,DAY,0.736,0.792,0.0542,0.2120,0.0002,0.333,0.587,25
+spotify,The New Alt,Leave Me Alone,Leave Me Alone,05/08/20,DAY,0.544,0.886,0.0381,0.0019,0.0000,0.324,0.567,26
+spotify,The New Alt,Tiny Indoor Fireworks,A Celebration Of Endings,14/08/20,DAY,0.519,0.879,0.0597,0.0005,0.0000,0.384,0.774,27
+spotify,The New Alt,Look Me in the Eyes,Look Me in the Eyes,14/08/20,DAY,0.567,0.815,0.0456,0.0003,0.0000,0.0959,0.66,28
+spotify,The New Alt,Isolation,Isolation,18/08/20,DAY,0.302,0.453,0.0561,0.4960,0.0000,0.113,0.163,29
+spotify,The New Alt,P S Y C H O,P S Y C H O,26/08/20,DAY,0.538,0.728,0.0259,0.1130,0.0002,0.372,0.407,30
+spotify,The New Alt,Carry On,Carry On,28/08/20,DAY,0.549,0.74,0.0324,0.0215,0.0006,0.191,0.397,31
+spotify,The New Alt,lost cause// (with grandson),lost cause// (with grandson),28/08/20,DAY,0.698,0.675,0.0412,0.0003,0.2510,0.0916,0.484,32
+spotify,The New Alt,Cyr,Cyr,28/08/20,DAY,0.671,0.876,0.0277,0.0000,0.0241,0.0857,0.504,33
+spotify,The New Alt,Leave Me Alone,Leave Me Alone,28/08/20,DAY,0.518,0.622,0.0313,0.0012,0.0054,0.383,0.518,34
+spotify,The New Alt,Knife Under My Pillow,Knife Under My Pillow,28/08/20,DAY,0.562,0.876,0.0463,0.0015,0.0007,0.217,0.525,35
+spotify,The New Alt,Hold Me Down,What Could Be Better,28/08/20,DAY,0.499,0.948,0.0652,0.0163,0.0000,0.0933,0.832,36
+spotify,The New Alt,Use Me (feat. 070 Shake),Use Me,28/08/20,DAY,0.315,0.618,0.053,0.0353,0.0118,0.113,0.226,37
+spotify,The New Alt,Bummerland,Bummerland,31/08/20,DAY,0.629,0.833,0.0855,0.1240,0.0000,0.159,0.653,38
+spotify,The New Alt,Rapture,Zeros,04/09/20,DAY,0.567,0.944,0.0733,0.0035,0.0000,0.791,0.656,39
+spotify,The New Alt,Counting Down,Counting Down,04/09/20,DAY,0.566,0.718,0.031,0.0908,0.0000,0.0683,0.258,40
+spotify,The New Alt,Live A Little,Live A Little,07/09/20,DAY,0.593,0.873,0.0478,0.1270,0.0004,0.132,0.886,41
+spotify,The New Alt,Let Down,Let Down,10/09/20,DAY,0.472,0.906,0.0567,0.0565,0.0000,0.0901,0.177,42
+spotify,The New Alt,Better In College (feat. Ashe),Better In College (feat. Ashe),11/09/20,DAY,0.507,0.668,0.142,0.2460,0.0000,0.19,0.68,43
+spotify,The New Alt,Perfectly Untrue,Perfectly Untrue,11/09/20,DAY,0.634,0.863,0.0315,0.1010,0.0000,0.316,0.869,44
+spotify,The New Alt,Impossible,Impossible,14/09/20,DAY,0.51,0.52,0.03,0.0435,0.0001,0.0971,0.132,45
+spotify,The New Alt,Sucker Punch,Sucker Punch,15/09/20,DAY,0.509,0.717,0.0446,0.0148,0.0000,0.0746,0.61,46
+spotify,The New Alt,James Crow,James Crow,16/09/20,DAY,0.645,0.908,0.068,0.2670,0.0000,0.237,0.961,47
+spotify,The New Alt,Make It Through the Night,Make It Through the Night,16/09/20,DAY,0.448,0.799,0.0503,0.0205,0.0000,0.115,0.258,48
+spotify,The New Alt,Young & Faded,Young & Faded,17/09/20,DAY,0.614,0.824,0.0519,0.1170,0.0072,0.338,0.172,49
+spotify,The New Alt,Freefall (feat. Oliver Tree),Freefall (feat. Oliver Tree),18/09/20,DAY,0.559,0.674,0.0552,0.0068,0.0000,0.546,0.808,50
+spotify,The New Alt,Congratulations,Congratulations,18/09/20,DAY,0.648,0.881,0.0368,0.0239,0.0000,0.341,0.761,51
+spotify,The New Alt,cycle,cycle,18/09/20,DAY,0.524,0.771,0.0454,0.0006,0.0000,0.116,0.687,52
+spotify,The New Alt,Bluebird,Orca,18/09/20,DAY,0.714,0.808,0.037,0.0003,0.1930,0.269,0.771,53
+spotify,The New Alt,Dirty,Dirty,23/09/20,DAY,0.536,0.845,0.0615,0.0033,0.0000,0.0465,0.6,54
+spotify,The New Alt,Hallucinogenics (feat. Lana Del Rey),Hallucinogenics (feat. Lana Del Rey),25/09/20,DAY,0.59,0.597,0.0527,0.4990,0.0000,0.175,0.313,55
+spotify,The New Alt,Lowkey As Hell,Lowkey As Hell,25/09/20,DAY,0.638,0.82,0.0664,0.0399,0.0000,0.163,0.431,56
+spotify,The New Alt,Runaway,Runaway,25/09/20,DAY,0.286,0.749,0.05,0.0054,0.0000,0.312,0.425,57
+spotify,The New Alt,One Step Away,One Step Away,25/09/20,DAY,0.661,0.868,0.0631,0.0101,0.0000,0.107,0.394,58
+spotify,The New Alt,forget me too (feat. Halsey),Tickets To My Downfall (SOLD OUT Deluxe),29/09/20,DAY,0.654,0.875,0.0744,0.0004,0.0086,0.194,0.522,59
+spotify,The New Alt,stfu,stfu,30/09/20,DAY,0.598,0.657,0.087,0.3490,0.0000,0.137,0.323,60
+spotify,The New Alt,Dance With Me,Dance With Me,30/09/20,DAY,0.55,0.877,0.0691,0.1210,0.0422,0.109,0.6,61
+spotify,The New Alt,4AM,4AM,02/10/20,DAY,0.648,0.437,0.0316,0.0631,0.0000,0.15,0.365,62
+spotify,The New Alt,Think I'm Crazy,Think I'm Crazy,02/10/20,DAY,0.761,0.797,0.0645,0.1230,0.0000,0.196,0.782,63
+spotify,The New Alt,Must Stop (feat. Sarah Barthel- Phantogram),Must Stop (feat. Sarah Barthel  Phantogram),02/10/20,DAY,0.602,0.676,0.0334,0.0038,0.0001,0.0723,0.446,64
+spotify,The New Alt,The Standard for Kids in the USA,The Standard for Kids in the USA,02/10/20,DAY,0.305,0.842,0.0668,0.0280,0.0000,0.358,0.536,65
+spotify,The New Alt,The Fucked up Things About Us,Future Accountants of America  Unite.,09/10/20,DAY,0.63,0.639,0.0456,0.0137,0.0000,0.191,0.452,66
+spotify,The New Alt,cotton candy,cotton candy,09/10/20,DAY,0.633,0.93,0.0748,0.0104,0.0000,0.0866,0.701,67
+spotify,The New Alt,PUMP THE BREAK,PUMP THE BREAK,09/10/20,DAY,0.797,0.542,0.0345,0.0390,0.0000,0.314,0.394,68
+spotify,The New Alt,Call Me Crazy,Call Me Crazy,14/10/20,DAY,0.655,0.45,0.0332,0.3380,0.0001,0.103,0.55,69
+spotify,The New Alt,When It Breaks,When It Breaks,15/10/20,DAY,0.429,0.964,0.0901,0.0005,0.0027,0.191,0.206,70
+spotify,The New Alt,Monsters,Good Morning Stranger,16/10/20,DAY,0.552,0.673,0.0298,0.0055,0.0000,0.114,0.174,71
+spotify,The New Alt,July,Feels Like We’ve Been Here Before,16/10/20,DAY,0.607,0.658,0.0262,0.0103,0.0224,0.0537,0.567,72
+spotify,The New Alt,Leaves,Leaves,16/10/20,DAY,0.505,0.899,0.0554,0.0064,0.0196,0.13,0.625,73
+spotify,The New Alt,I Wish I Was A...,I Wish I Was A...,16/10/20,DAY,0.607,0.946,0.15,0.0055,0.0004,0.278,0.653,74
+spotify,The New Alt,Just Be Friends,Yelling in a Quiet Neighborhood,16/10/20,DAY,0.54,0.679,0.0352,0.0781,0.0000,0.0827,0.331,75
+spotify,The New Alt,Smile,Smile,16/10/20,DAY,0.66,0.857,0.15,0.0740,0.0000,0.0651,0.646,76
+spotify,The New Alt,I Don't Know Where We Went Wrong,I Don't Know Where We Went Wrong,21/10/20,DAY,0.508,0.797,0.0339,0.0164,0.0013,0.124,0.52,77
+spotify,The New Alt,Tonight (feat. iann dior),Tonight (feat. iann dior),21/10/20,DAY,0.501,0.633,0.0466,0.0036,0.0000,0.351,0.463,78
+spotify,The New Alt,Head Up High,Head Up High,22/10/20,DAY,0.609,0.877,0.0345,0.0211,0.0001,0.492,0.419,79
+spotify,The New Alt,bad blood,bad blood,22/10/20,DAY,0.723,0.57,0.039,0.0817,0.0000,0.156,0.834,80
+spotify,The New Alt,Paper Thin,Paper Thin,23/10/20,DAY,0.555,0.778,0.0944,0.0038,0.0000,0.155,0.745,81
+spotify,The New Alt,Nothing Personal,Nothing Personal,23/10/20,DAY,0.441,0.829,0.0505,0.0192,0.0000,0.131,0.272,82
+spotify,The New Alt,The Storm,The Storm,23/10/20,DAY,0.66,0.761,0.125,0.0207,0.0001,0.0755,0.697,83
+spotify,The New Alt,Bullets in the Dark (feat. MOD SUN),Bullets in the Dark (feat. MOD SUN),23/10/20,DAY,0.673,0.923,0.0521,0.0107,0.0000,0.12,0.946,84
+spotify,The New Alt,Radical (feat. Grouplove),Radical (feat. Grouplove),23/10/20,DAY,0.437,0.887,0.0444,0.0191,0.4850,0.324,0.559,85
+spotify,The New Alt,i hope you cry,i hope you cry,23/10/20,DAY,0.307,0.324,0.0324,0.6380,0.0000,0.122,0.0564,86
+spotify,The New Alt,Cool Song,Waiting For A Sign,23/10/20,DAY,0.43,0.895,0.101,0.0000,0.4790,0.0767,0.604,87
+spotify,The New Alt,Jessica,girlfriends,23/10/20,DAY,0.506,0.858,0.0891,0.0050,0.0000,0.178,0.31,88
+spotify,The New Alt,Vagabond (feat. Czarface),Can You Feel The Sun,23/10/20,DAY,0.608,0.811,0.155,0.0488,0.0000,0.346,0.688,89
+spotify,The New Alt,All I Need,All I Need,26/10/20,DAY,0.5,0.732,0.0418,0.0004,0.0554,0.0759,0.637,90
+spotify,The New Alt,blood (feat. KennyHoopla & JUDGE),blood (feat. KennyHoopla & JUDGE),27/10/20,DAY,0.608,0.817,0.151,0.0359,0.0000,0.143,0.845,91
+spotify,The New Alt,LITTLE GODZ,LITTLE GODZ,27/10/20,DAY,0.503,0.906,0.13,0.0079,0.0016,0.417,0.346,92
+spotify,The New Alt,Close to the Sun,Close to the Sun,28/10/20,DAY,0.731,0.557,0.0418,0.7420,0.0000,0.281,0.35,93
+spotify,The New Alt,Barred Out [Feat. TWIN XL],Barred Out [Feat. TWIN XL],28/10/20,DAY,0.543,0.859,0.0509,0.0006,0.0000,0.117,0.741,94
+spotify,The New Alt,Karma,Karma,30/10/20,DAY,0.461,0.825,0.115,0.0246,0.0000,0.224,0.412,95
+spotify,The New Alt,heartbreak of america,heartbreak of america,30/10/20,DAY,0.62,0.881,0.138,0.0033,0.0000,0.353,0.684,96
+spotify,The New Alt,WALK YOU HOME,WALK YOU HOME,30/10/20,DAY,0.517,0.926,0.367,0.0467,0.0000,0.223,0.554,97
+spotify,The New Alt,Young Life Crisis,Young Life Crisis,30/10/20,DAY,0.598,0.79,0.0711,0.1330,0.0000,0.119,0.716,98
+spotify,The New Alt,Operator,Operator,30/10/20,DAY,0.467,0.817,0.0365,0.0000,0.0004,0.351,0.509,99
+spotify,The New Alt,Falling,Falling,30/10/20,DAY,0.583,0.724,0.0531,0.0007,0.0000,0.0728,0.302,100

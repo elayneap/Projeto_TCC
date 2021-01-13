@@ -1,0 +1,101 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Signed XOXO,Another Day Gone (feat. Khalid),Artist 2.0,14/02/20,DAY,0.643,0.608,0.152,0.0984,0.0001,0.247,0.564,1
+spotify,Signed XOXO,Martin & Gina,THE GOAT,15/05/20,DAY,0.832,0.534,0.253,0.3450,0.0000,0.165,0.116,2
+spotify,Signed XOXO,ROCKSTAR (feat. Roddy Ricch) - BLM REMIX,ROCKSTAR (feat. Roddy Ricch) [BLM REMIX],12/06/20,DAY,0.747,0.689,0.242,0.1970,0.0000,0.0884,0.75,3
+spotify,Signed XOXO,GO (feat. Juice WRLD),GO (feat. Juice WRLD),12/06/20,DAY,0.544,0.744,0.0889,0.1850,0.0000,0.336,0.572,4
+spotify,Signed XOXO,Know My Rights (feat. Lil Baby),6pc Hot EP,26/06/20,DAY,0.789,0.419,0.157,0.2490,0.0257,0.123,0.542,5
+spotify,Signed XOXO,Flood My Wrist (feat. Lil Uzi Vert),Flood My Wrist (feat. Lil Uzi Vert),01/07/20,DAY,0.904,0.672,0.197,0.0038,0.0000,0.138,0.398,6
+spotify,Signed XOXO,Compensating (feat. Young Thug),Compensating,06/07/20,DAY,0.867,0.616,0.169,0.2920,0.0000,0.253,0.495,7
+spotify,Signed XOXO,Life's A Mess (feat. Halsey),Legends Never Die,10/07/20,DAY,0.63,0.446,0.0351,0.3370,0.0000,0.166,0.177,8
+spotify,Signed XOXO,Smile (with The Weeknd),Legends Never Die,10/07/20,DAY,0.694,0.685,0.133,0.2240,0.0000,0.124,0.306,9
+spotify,Signed XOXO,Staccato,The VVS Capsule,10/07/20,DAY,0.579,0.662,0.182,0.0097,0.0000,0.13,0.234,10
+spotify,Signed XOXO,Party Girl (Remix),Party Girl (Remix),10/07/20,DAY,0.752,0.375,0.204,0.5330,0.0000,0.175,0.591,11
+spotify,Signed XOXO,Don't Be Mad At Me - Remix,Don't Be Mad At Me (Remix),14/07/20,DAY,0.868,0.496,0.217,0.1800,0.0000,0.143,0.212,12
+spotify,Signed XOXO,GREECE (feat. Drake),GREECE (feat. Drake),16/07/20,DAY,0.695,0.343,0.0432,0.0743,0.0000,0.107,0.229,13
+spotify,Signed XOXO,Stuntin' On You (feat. DaBaby),Stuntin' On You (feat. DaBaby),17/07/20,DAY,0.796,0.683,0.277,0.0111,0.0000,0.126,0.737,14
+spotify,Signed XOXO,Diana (feat. King Combs & Calboy) - Remix,Shoot For The Stars Aim For The Moon (Deluxe),20/07/20,DAY,0.796,0.792,0.184,0.2460,0.0000,0.101,0.56,15
+spotify,Signed XOXO,WRONG (feat. Lil Mosey),F*CK LOVE,24/07/20,DAY,0.389,0.768,0.256,0.0380,0.0000,0.119,0.334,16
+spotify,Signed XOXO,Throat Baby (Go Baby),Throat Baby (Go Baby),24/07/20,DAY,0.9,0.521,0.147,0.0135,0.0000,0.0951,0.213,17
+spotify,Signed XOXO,DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G),DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G),31/07/20,DAY,0.689,0.393,0.0876,0.2090,0.0000,0.122,0.513,18
+spotify,Signed XOXO,Upset,Upset,31/07/20,DAY,0.578,0.586,0.172,0.0291,0.0000,0.135,0.364,19
+spotify,Signed XOXO,BLIND (feat. Young Thug),BLAME IT ON BABY (DELUXE),04/08/20,DAY,0.709,0.679,0.346,0.0115,0.0000,0.0971,0.754,20
+spotify,Signed XOXO,Top Gone (with Lunay),Top Gone (with Lunay),05/08/20,DAY,0.83,0.467,0.0872,0.0512,0.0000,0.0648,0.529,21
+spotify,Signed XOXO,Rags2Riches 2 (feat. Lil Baby),Pray 4 Love (Deluxe),07/08/20,DAY,0.874,0.443,0.241,0.1470,0.0000,0.124,0.298,22
+spotify,Signed XOXO,Can’t Decide,Limbo,07/08/20,DAY,0.746,0.658,0.0408,0.0559,0.0021,0.108,0.191,23
+spotify,Signed XOXO,Money Maker (feat. Lil Wayne),Money Maker (feat. Lil Wayne),07/08/20,DAY,0.804,0.862,0.182,0.1890,0.0000,0.174,0.721,24
+spotify,Signed XOXO,Make Em Say (feat. Mulatto),Top Shotta,10/08/20,DAY,0.658,0.823,0.16,0.0103,0.0000,0.0801,0.232,25
+spotify,Signed XOXO,Laugh Now Cry Later (feat. Lil Durk),Laugh Now Cry Later (feat. Lil Durk),14/08/20,DAY,0.761,0.518,0.134,0.2440,0.0000,0.107,0.522,26
+spotify,Signed XOXO,Bands Out Tha Roof,Certified Hitmaker (AVA Leak),14/08/20,DAY,0.743,0.604,0.0674,0.4150,0.0000,0.27,0.602,27
+spotify,Signed XOXO,CUT EM IN (feat. Rick Ross),CUT EM IN (feat. Rick Ross),14/08/20,DAY,0.744,0.777,0.353,0.4610,0.0000,0.767,0.813,28
+spotify,Signed XOXO,Replace Me (feat. Big Sean & Don Toliver),King's Disease,21/08/20,DAY,0.674,0.782,0.101,0.1720,0.0000,0.86,0.694,29
+spotify,Signed XOXO,My Body,Queen of Da Souf,21/08/20,DAY,0.75,0.711,0.254,0.1060,0.0000,0.34,0.495,30
+spotify,Signed XOXO,Gifted (feat. Roddy Ricch),Gifted (feat. Roddy Ricch),27/08/20,DAY,0.653,0.603,0.171,0.1750,0.0000,0.18,0.551,31
+spotify,Signed XOXO,Expensive (feat. Nicki Minaj),Expensive (feat. Nicki Minaj),28/08/20,DAY,0.866,0.531,0.0703,0.0379,0.0000,0.0937,0.266,32
+spotify,Signed XOXO,Hold On,Hold On,28/08/20,DAY,0.586,0.418,0.299,0.0897,0.0000,0.0519,0.649,33
+spotify,Signed XOXO,Love Cycle (with Summer Walker),Love Cycle (with Summer Walker),28/08/20,DAY,0.789,0.424,0.277,0.0526,0.0000,0.0795,0.436,34
+spotify,Signed XOXO,Tommy Lee (feat. SAINt JHN & Post Malone) - Remix,Tommy Lee (feat. SAINt JHN & Post Malone) [Remix],28/08/20,DAY,0.504,0.597,0.1,0.2060,0.0000,0.0949,0.557,35
+spotify,Signed XOXO,Do To Me feat. Jeremih,Living Off Xperience,28/08/20,DAY,0.58,0.86,0.256,0.3590,0.0000,0.154,0.8,36
+spotify,Signed XOXO,Gotta Leave,No Rest...For The Blessed II,28/08/20,DAY,0.817,0.625,0.134,0.0840,0.0000,0.0813,0.929,37
+spotify,Signed XOXO,Tap In (feat. Post Malone- DaBaby & Jack Harlow),Tap In (feat. Post Malone  DaBaby & Jack Harlow),28/08/20,DAY,0.948,0.63,0.219,0.0065,0.0000,0.0737,0.425,38
+spotify,Signed XOXO,Giddy Up (feat. Wiz Khalifa & 24KGoldn),B4 The Storm,29/08/20,DAY,0.759,0.56,0.151,0.0739,0.0000,0.111,0.676,39
+spotify,Signed XOXO,Blastoff (feat. Juice Wrld & Trippie Redd),B4 The Storm,29/08/20,DAY,0.761,0.517,0.0927,0.1140,0.0000,0.157,0.46,40
+spotify,Signed XOXO,Fall Slowly,Fall Slowly,02/09/20,DAY,0.576,0.534,0.294,0.0750,0.0000,0.199,0.041,41
+spotify,Signed XOXO,Vroom Vroom,Vroom Vroom,03/09/20,DAY,0.687,0.575,0.454,0.0473,0.0000,0.0981,0.394,42
+spotify,Signed XOXO,Wolves (feat. Post Malone),Detroit 2,04/09/20,DAY,0.724,0.675,0.0867,0.0978,0.0000,0.351,0.325,43
+spotify,Signed XOXO,No Love Lost,No Love Lost,04/09/20,DAY,0.663,0.561,0.483,0.6460,0.0006,0.183,0.37,44
+spotify,Signed XOXO,Body Language (feat. Ty Dolla $ign- and Jhené Aiko),Detroit 2,04/09/20,DAY,0.711,0.838,0.122,0.0061,0.0000,0.0898,0.53,45
+spotify,Signed XOXO,HELL BENT (with The Kid LAROI),HELL BENT (with The Kid LAROI),10/09/20,DAY,0.538,0.821,0.0309,0.0586,0.0000,0.299,0.544,46
+spotify,Signed XOXO,Streets Ain't Safe,Streets Ain't Safe,10/09/20,DAY,0.799,0.678,0.197,0.1290,0.0000,0.284,0.56,47
+spotify,Signed XOXO,Our Time,Our Time,11/09/20,DAY,0.896,0.441,0.317,0.1990,0.0000,0.0679,0.628,48
+spotify,Signed XOXO,I Got You (ft. Busta Rhymes),I Got You (ft. Busta Rhymes),11/09/20,DAY,0.557,0.614,0.25,0.7100,0.0000,0.173,0.854,49
+spotify,Signed XOXO,Callin (feat. Snoop Dogg),Top,11/09/20,DAY,0.848,0.617,0.294,0.0028,0.0000,0.0751,0.713,50
+spotify,Signed XOXO,Found You,Found You,11/09/20,DAY,0.793,0.585,0.324,0.1120,0.0000,0.127,0.363,51
+spotify,Signed XOXO,Like That (feat. Jeremih & Ty Dolla $ign),Young Jefe 3,18/09/20,DAY,0.859,0.664,0.0294,0.2740,0.0000,0.0944,0.794,52
+spotify,Signed XOXO,Mood Swings (feat. Lil Tjay & Summer Walker) - Remix,Mood Swings (Remix),18/09/20,DAY,0.495,0.63,0.375,0.3270,0.0000,0.0951,0.362,53
+spotify,Signed XOXO,Selection (with Skrillex- DJ Scheme),Virgo World,18/09/20,DAY,0.659,0.683,0.105,0.0548,0.0000,0.14,0.887,54
+spotify,Signed XOXO,Wet (feat. Mulatto) - Remix,Wet (feat. Mulatto) [Remix],18/09/20,DAY,0.71,0.631,0.095,0.0653,0.0000,0.202,0.312,55
+spotify,Signed XOXO,Mismatch (The Remix) feat. Young Thug,Mismatch (The Remix),18/09/20,DAY,0.684,0.76,0.24,0.3020,0.0000,0.125,0.288,56
+spotify,Signed XOXO,Santos Party House,Santos Party House,18/09/20,DAY,0.835,0.629,0.202,0.0289,0.0000,0.088,0.863,57
+spotify,Signed XOXO,RETAIL,RETAIL,18/09/20,DAY,0.602,0.657,0.157,0.2520,0.0000,0.119,0.484,58
+spotify,Signed XOXO,Beaujolais,Beaujolais,24/09/20,DAY,0.567,0.505,0.223,0.3720,0.0000,0.111,0.359,59
+spotify,Signed XOXO,Lovers Anonymous,Rap n Roll (Deluxe Album),25/09/20,DAY,0.555,0.583,0.41,0.5030,0.0000,0.269,0.401,60
+spotify,Signed XOXO,Dance Like No One’s Watching,Dance Like No One's Watching,25/09/20,DAY,0.775,0.492,0.109,0.3520,0.0002,0.115,0.65,61
+spotify,Signed XOXO,Lemonade (Feat. Roddy Ricch & Don Toliver) [Remix],Lemonade (Feat. Roddy Ricch & Don Toliver) [Remix],30/09/20,DAY,0.832,0.549,0.0602,0.1680,0.0000,0.11,0.384,62
+spotify,Signed XOXO,Money Keep Coming,Money Keep Coming,30/09/20,DAY,0.88,0.6,0.146,0.1700,0.0000,0.126,0.295,63
+spotify,Signed XOXO,Outta Time (feat. Drake),A N N I V E R S A R Y,02/10/20,DAY,0.714,0.582,0.0808,0.0129,0.0000,0.0774,0.338,64
+spotify,Signed XOXO,Mr. Right Now (feat. Drake),SAVAGE MODE II,02/10/20,DAY,0.647,0.667,0.304,0.2310,0.0000,0.133,0.704,65
+spotify,Signed XOXO,Hate On Me,My Life 4Hunnid,02/10/20,DAY,0.808,0.607,0.311,0.2240,0.0000,0.0657,0.358,66
+spotify,Signed XOXO,Hot Now (Aubrey) [feat. Rowlan],Idols,02/10/20,DAY,0.816,0.459,0.274,0.2980,0.0000,0.101,0.279,67
+spotify,Signed XOXO,Rich Nigga Shit (feat. Young Thug),SAVAGE MODE II,02/10/20,DAY,0.825,0.733,0.0969,0.3490,0.0000,0.112,0.62,68
+spotify,Signed XOXO,FRANCHISE (feat. Future- Young Thug & M.I.A.) - REMIX,FRANCHISE (feat. Future  Young Thug & M.I.A.) [REMIX],07/10/20,DAY,0.859,0.77,0.345,0.0056,0.0000,0.0731,0.348,69
+spotify,Signed XOXO,Losing Focus (with Wale),Losing Focus (with Wale),07/10/20,DAY,0.719,0.873,0.0663,0.2610,0.0000,0.077,0.727,70
+spotify,Signed XOXO,Back To You (feat. Chris Brown & Charlie Wilson),Back To You (feat. Chris Brown & Charlie Wilson),09/10/20,DAY,0.645,0.764,0.148,0.0378,0.0000,0.132,0.699,71
+spotify,Signed XOXO,Window Shopping (feat. Lil Baby),Window Shopping (feat. Lil Baby),09/10/20,DAY,0.806,0.665,0.132,0.2880,0.0000,0.0748,0.502,72
+spotify,Signed XOXO,Paid Off,Paid Off,09/10/20,DAY,0.91,0.324,0.102,0.1800,0.0001,0.0941,0.568,73
+spotify,Signed XOXO,Letter 2 U,Letter 2 U,09/10/20,DAY,0.583,0.465,0.272,0.6660,0.0000,0.107,0.222,74
+spotify,Signed XOXO,Gorgeous,Gorgeous,09/10/20,DAY,0.86,0.7,0.0485,0.0462,0.0000,0.212,0.281,75
+spotify,Signed XOXO,I Can Make It,New Beginnings,09/10/20,DAY,0.759,0.482,0.407,0.2530,0.0000,0.0372,0.849,76
+spotify,Signed XOXO,You’re Mines Still (feat. Drake),You’re Mines Still (feat. Drake),15/10/20,DAY,0.575,0.609,0.121,0.3170,0.0000,0.105,0.339,77
+spotify,Signed XOXO,Don't Like Me (feat. Gucci Mane & Don Toliver),Don't Like Me (feat. Gucci Mane & Don Toliver),15/10/20,DAY,0.904,0.843,0.0985,0.0871,0.0000,0.0766,0.937,78
+spotify,Signed XOXO,Can't Let You Go,Can't Let You Go,15/10/20,DAY,0.799,0.646,0.0687,0.0230,0.0005,0.126,0.546,79
+spotify,Signed XOXO,By Yourself (feat. Jhené Aiko & Mustard),By Yourself (feat. Jhené Aiko & Mustard),16/10/20,DAY,0.757,0.536,0.0466,0.0836,0.0000,0.645,0.205,80
+spotify,Signed XOXO,Meeting (feat. Foogiano & Mulatto),So Icy Gang  Vol. 1,16/10/20,DAY,0.925,0.619,0.288,0.1400,0.0000,0.0585,0.635,81
+spotify,Signed XOXO,Bankroll,Bankroll,16/10/20,DAY,0.869,0.683,0.207,0.2190,0.0000,0.0763,0.83,82
+spotify,Signed XOXO,Hypno (feat. Rahky),The L.I.B.R.A.,16/10/20,DAY,0.811,0.661,0.275,0.0395,0.0000,0.11,0.382,83
+spotify,Signed XOXO,Spicy (feat. Post Malone),Spicy (feat. Post Malone),21/10/20,DAY,0.784,0.496,0.0435,0.1400,0.0000,0.113,0.132,84
+spotify,Signed XOXO,Met In LA,Met In LA,21/10/20,DAY,0.607,0.469,0.265,0.0436,0.0000,0.0811,0.508,85
+spotify,Signed XOXO,Text Me (feat. Ro James),Text Me (feat. Ro James),21/10/20,DAY,0.529,0.62,0.26,0.1230,0.0000,0.0616,0.856,86
+spotify,Signed XOXO,No Ceiling (feat. Gunna),No Ceiling (feat. Gunna),21/10/20,DAY,0.769,0.68,0.328,0.0336,0.0000,0.144,0.379,87
+spotify,Signed XOXO,Back to the Streets (feat. Jhené Aiko),Back to the Streets (feat. Jhené Aiko),23/10/20,DAY,0.865,0.792,0.0677,0.1680,0.0000,0.107,0.562,88
+spotify,Signed XOXO,No No No (feat. A Boogie Wit Da Hoodie),No No No (feat. A Boogie Wit Da Hoodie),23/10/20,DAY,0.524,0.511,0.417,0.1310,0.0000,0.082,0.524,89
+spotify,Signed XOXO,Kiss The Sky,Kiss The Sky,23/10/20,DAY,0.692,0.494,0.0407,0.3780,0.0000,0.112,0.637,90
+spotify,Signed XOXO,Sexual (feat. Chris Brown),Karma 3 (Deluxe),23/10/20,DAY,0.768,0.625,0.265,0.2250,0.0000,0.134,0.406,91
+spotify,Signed XOXO,What It Is (feat. Chris Brown),What It Is (feat. Chris Brown),30/10/20,DAY,0.741,0.396,0.0497,0.0504,0.0000,0.128,0.83,92
+spotify,Signed XOXO,4 Thangs (feat. Big Sean & Hit-Boy),4 Thangs (feat. Big Sean & Hit Boy),30/10/20,DAY,0.816,0.55,0.264,0.0871,0.0000,0.331,0.818,93
+spotify,Signed XOXO,Losses,Losses,30/10/20,DAY,0.848,0.457,0.293,0.1530,0.0000,0.115,0.227,94
+spotify,Signed XOXO,Stay Down (with 6LACK & Young Thug),Stay Down (with 6LACK & Young Thug),30/10/20,DAY,0.813,0.57,0.265,0.0909,0.0000,0.0982,0.676,95
+spotify,Signed XOXO,THICK (feat. Megan Thee Stallion) - Remix,THICK (feat. Megan Thee Stallion) [Remix],30/10/20,DAY,0.877,0.747,0.365,0.0288,0.0000,0.273,0.679,96
+spotify,Signed XOXO,All I Need (feat. J Balvin),Never Forgotten,30/10/20,DAY,0.892,0.632,0.0633,0.0228,0.0000,0.27,0.296,97
+spotify,Signed XOXO,Where I Belong (feat. Mariah Carey),Extinction Level Event 2: The Wrath of God,30/10/20,DAY,0.495,0.577,0.206,0.0288,0.0000,0.111,0.184,98
+spotify,Signed XOXO,Dora,Dora,30/10/20,DAY,0.956,0.301,0.072,0.1500,0.0009,0.113,0.0759,99
+spotify,Signed XOXO,BENZ | I Know REMIX,BENZ | I Know REMIX,30/10/20,DAY,0.633,0.628,0.0358,0.0165,0.0000,0.154,0.144,100

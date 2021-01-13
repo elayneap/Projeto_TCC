@@ -1,0 +1,51 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Rock Party,Sympathy For The Devil - 50th Anniversary Edition,Beggars Banquet (50th Anniversary Edition),06/12/68,DAY,0.702,0.668,0.214,0.5180,0.0000,0.0588,0.561,1
+spotify,Rock Party,Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),22/10/69,DAY,0.412,0.902,0.405,0.0484,0.1310,0.405,0.422,2
+spotify,Rock Party,Immigrant Song - Remaster,Led Zeppelin III (Remaster),01/07/70,YEAR,0.564,0.932,0.0554,0.0130,0.1690,0.349,0.619,3
+spotify,Rock Party,Roxanne,Outlandos D'Amour (Remastered 2003),02/11/78,DAY,0.618,0.748,0.358,0.0384,0.0000,0.0473,0.663,4
+spotify,Rock Party,Should I Stay or Should I Go - Remastered,Combat Rock (Remastered),01/07/82,YEAR,0.742,0.833,0.115,0.0790,0.0000,0.384,0.816,5
+spotify,Rock Party,Let's Dance - 2018 Remaster,Let's Dance (2018 Remaster),14/04/83,DAY,0.654,0.743,0.0605,0.0125,0.0272,0.153,0.632,6
+spotify,Rock Party,Walk This Way (feat. Aerosmith),Raising Hell,15/05/86,DAY,0.759,0.578,0.0468,0.0080,0.0001,0.0605,0.944,7
+spotify,Rock Party,You Shook Me All Night Long,Who Made Who,24/05/86,DAY,0.529,0.768,0.0566,0.0022,0.0008,0.297,0.769,8
+spotify,Rock Party,You Give Love A Bad Name,Slippery When Wet,16/08/86,DAY,0.541,0.96,0.0505,0.0663,0.0000,0.344,0.812,9
+spotify,Rock Party,Need You Tonight,Kick (Remastered),01/07/87,YEAR,0.795,0.63,0.0841,0.0419,0.5750,0.0894,0.785,10
+spotify,Rock Party,Sweet Child O' Mine,Appetite For Destruction,21/07/87,DAY,0.454,0.91,0.0448,0.0866,0.0996,0.116,0.629,11
+spotify,Rock Party,Welcome To The Jungle,Appetite For Destruction,21/07/87,DAY,0.447,0.954,0.0751,0.0235,0.4030,0.298,0.331,12
+spotify,Rock Party,Pour Some Sugar On Me - Remastered 2017,Hysteria (Super Deluxe),03/08/87,DAY,0.267,0.953,0.096,0.0021,0.0000,0.283,0.568,13
+spotify,Rock Party,Black Betty,The Very Best Of Ram Jam,27/02/90,DAY,0.465,0.865,0.098,0.0180,0.0014,0.0769,0.677,14
+spotify,Rock Party,Give It Away,Blood Sugar Sex Magik (Deluxe Edition),24/09/91,DAY,0.666,0.936,0.0476,0.0024,0.0860,0.153,0.776,15
+spotify,Rock Party,Smells Like Teen Spirit,Nevermind (Deluxe Edition),26/09/91,DAY,0.502,0.912,0.0564,0.0000,0.0002,0.106,0.72,16
+spotify,Rock Party,Killing In The Name,Rage Against The Machine   XX (20th Anniversary Special Edition),01/07/92,YEAR,0.466,0.833,0.304,0.0266,0.0000,0.0327,0.661,17
+spotify,Rock Party,Are You Gonna Go My Way,Are You Gonna Go My Way,09/03/93,DAY,0.619,0.67,0.0353,0.0016,0.0109,0.331,0.777,18
+spotify,Rock Party,Self Esteem,Smash,08/04/94,DAY,0.488,0.862,0.0476,0.0204,0.0000,0.359,0.706,19
+spotify,Rock Party,Just A Girl,Tragic Kingdom,10/10/95,DAY,0.641,0.914,0.05,0.0799,0.0001,0.132,0.723,20
+spotify,Rock Party,Cum on Feel the Noize,Quiet Riot   Greatest Hits,01/07/96,YEAR,0.441,0.908,0.115,0.0002,0.0033,0.0612,0.632,21
+spotify,Rock Party,Song 2 - 2012 Remaster,Blur [Special Edition],10/02/97,DAY,0.674,0.789,0.0676,0.0018,0.0071,0.0754,0.918,22
+spotify,Rock Party,Butterfly,The Gift Of Game,04/11/99,DAY,0.736,0.811,0.081,0.0013,0.0001,0.107,0.609,23
+spotify,Rock Party,The Middle,Bleed American,17/07/01,DAY,0.643,0.849,0.0526,0.0371,0.0000,0.058,0.903,24
+spotify,Rock Party,Last Nite,Is This It,30/07/01,DAY,0.624,0.91,0.0297,0.0285,0.0002,0.0789,0.767,25
+spotify,Rock Party,Chop Suey!,Toxicity,04/09/01,DAY,0.419,0.934,0.12,0.0003,0.0015,0.132,0.286,26
+spotify,Rock Party,Seven Nation Army,Elephant,01/04/03,DAY,0.726,0.463,0.0799,0.0082,0.4470,0.255,0.321,27
+spotify,Rock Party,Are You Gonna Be My Girl,Get Born,15/09/03,DAY,0.613,0.953,0.0855,0.0015,0.0006,0.152,0.537,28
+spotify,Rock Party,Take Me Out,Franz Ferdinand,01/07/04,YEAR,0.278,0.676,0.0371,0.0004,0.0009,0.136,0.494,29
+spotify,Rock Party,Mr. Brightside,Hot Fuss,01/07/04,YEAR,0.352,0.911,0.0747,0.0012,0.0000,0.0995,0.236,30
+spotify,Rock Party,American Idiot,American Idiot,21/09/04,DAY,0.38,0.988,0.0639,0.0000,0.0001,0.368,0.769,31
+spotify,Rock Party,Joker And The Thief,Wolfmother,01/01/05,DAY,0.264,0.8,0.0537,0.0195,0.0074,0.406,0.465,32
+spotify,Rock Party,Beverly Hills,Make Believe,10/05/05,DAY,0.693,0.823,0.0726,0.0932,0.0000,0.328,0.741,33
+spotify,Rock Party,Feel Good Inc.,Demon Days,23/05/05,DAY,0.818,0.705,0.177,0.0084,0.0023,0.613,0.772,34
+spotify,Rock Party,Best of You,In Your Honor,14/06/05,DAY,0.366,0.94,0.0696,0.0008,0.0001,0.188,0.369,35
+spotify,Rock Party,Supermassive Black Hole,Black Holes and Revelations,19/06/06,DAY,0.668,0.921,0.0439,0.0492,0.0052,0.0877,0.782,36
+spotify,Rock Party,Ain't No Rest For The Wicked - Original Version,Cage The Elephant,01/01/08,DAY,0.635,0.914,0.111,0.0597,0.0000,0.601,0.922,37
+spotify,Rock Party,A-Punk,Vampire Weekend,27/01/08,DAY,0.551,0.821,0.0539,0.0102,0.0438,0.153,0.842,38
+spotify,Rock Party,Sex on Fire,Only By The Night,23/09/08,DAY,0.542,0.905,0.054,0.0017,0.0104,0.136,0.374,39
+spotify,Rock Party,Howlin' for You,Brothers (Deluxe Edition),18/10/10,DAY,0.708,0.736,0.0952,0.0289,0.0828,0.102,0.473,40
+spotify,Rock Party,The Party’s Over,The Party's Over,19/08/16,DAY,0.663,0.962,0.0621,0.0055,0.0177,0.0743,0.566,41
+spotify,Rock Party,Believer,Evolve,23/06/17,DAY,0.776,0.78,0.128,0.0622,0.0000,0.081,0.666,42
+spotify,Rock Party,Jumpsuit,Trench,05/10/18,DAY,0.62,0.61,0.0373,0.0085,0.1620,0.205,0.235,43
+spotify,Rock Party,Lo/Hi,"Let's Rock",28/06/19,DAY,0.606,0.679,0.0321,0.0151,0.0004,0.0962,0.707,44
+spotify,Rock Party,BLOW (with Chris Stapleton & Bruno Mars),No.6 Collaborations Project,12/07/19,DAY,0.631,0.796,0.0401,0.0002,0.0108,0.38,0.596,45
+spotify,Rock Party,Oh Yeah!,Oh Yeah!,16/01/20,DAY,0.623,0.792,0.0664,0.0001,0.0047,0.159,0.584,46
+spotify,Rock Party,The Best (feat. Alice Merton),The Best (feat. Alice Merton),27/03/20,DAY,0.645,0.86,0.031,0.1280,0.0052,0.0929,0.04,47
+spotify,Rock Party,Monsters (feat. blackbear),Wake Up  Sunshine,03/04/20,DAY,0.369,0.845,0.0611,0.0493,0.0000,0.416,0.782,48
+spotify,Rock Party,Brooklyn Bridge To Chorus,The New Abnormal,10/04/20,DAY,0.628,0.571,0.0631,0.0060,0.0001,0.0833,0.465,49
+spotify,Rock Party,bloody valentine,Tickets To My Downfall,25/09/20,DAY,0.533,0.858,0.0766,0.0002,0.0000,0.148,0.506,50

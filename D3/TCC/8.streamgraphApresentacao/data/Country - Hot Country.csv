@@ -1,0 +1,53 @@
+user_id,playlist,name,album_name,album_date,album_date_precision,danceability,energy,speechiness,acousticness,instrumentalness,liveness,valence,track
+spotify,Hot Country,Wildfire,Wildfire,07/06/19,DAY,0.511,0.674,0.026,0.0371,0.0000,0.18,0.363,1
+spotify,Hot Country,Big- Big Plans,Big  Big Plans,28/06/19,DAY,0.574,0.58,0.0278,0.0760,0.0000,0.12,0.4,2
+spotify,Hot Country,Pretty Heart,Pretty Heart,30/08/19,DAY,0.562,0.683,0.0296,0.0053,0.0000,0.107,0.385,3
+spotify,Hot Country,One Beer (HARDY feat. Lauren Alaina- Devin Dawson),HIXTAPE: Vol. 1,13/09/19,DAY,0.516,0.745,0.0774,0.5630,0.0000,0.275,0.825,4
+spotify,Hot Country,Things A Man Oughta Know,Redneck Hollywood,13/09/19,DAY,0.661,0.67,0.0307,0.5180,0.0000,0.13,0.357,5
+spotify,Hot Country,Ain't Always The Cowboy,Heartache Medication,27/09/19,DAY,0.539,0.837,0.0385,0.0094,0.0000,0.262,0.551,6
+spotify,Hot Country,Everywhere But On,Everywhere But On,25/10/19,DAY,0.563,0.722,0.0279,0.0345,0.0000,0.0795,0.309,7
+spotify,Hot Country,Better Together,What You See Is What You Get,08/11/19,DAY,0.552,0.225,0.0477,0.8270,0.0000,0.111,0.67,8
+spotify,Hot Country,Got What I Got,9,22/11/19,DAY,0.512,0.58,0.029,0.6210,0.0000,0.513,0.303,9
+spotify,Hot Country,Love You Like I Used To,Love You Like I Used To,11/02/20,DAY,0.501,0.788,0.0415,0.1200,0.0000,0.137,0.61,10
+spotify,Hot Country,One Of Them Girls,One Of Them Girls,10/04/20,DAY,0.643,0.79,0.0462,0.2940,0.0000,0.107,0.8,11
+spotify,Hot Country,Song About You,Song About You,17/04/20,DAY,0.57,0.767,0.0331,0.0009,0.0000,0.097,0.713,12
+spotify,Hot Country,More Than My Hometown,More Than My Hometown,17/04/20,DAY,0.621,0.882,0.0459,0.6010,0.0000,0.132,0.574,13
+spotify,Hot Country,Every Other Memory,Every Other Memory,20/04/20,DAY,0.633,0.732,0.0351,0.0005,0.0000,0.108,0.515,14
+spotify,Hot Country,Something You Ain't Ever Had,Something You Ain't Ever Had,24/04/20,DAY,0.488,0.781,0.0446,0.0173,0.0000,0.208,0.582,15
+spotify,Hot Country,Happy Does,Here And Now,01/05/20,DAY,0.715,0.665,0.0381,0.3010,0.0000,0.123,0.593,16
+spotify,Hot Country,Almost Maybes,Almost Maybes,08/05/20,DAY,0.582,0.868,0.0522,0.1460,0.0000,0.103,0.555,17
+spotify,Hot Country,Single Saturday Night,Single Saturday Night,22/05/20,DAY,0.623,0.79,0.0473,0.1180,0.0000,0.226,0.694,18
+spotify,Hot Country,Grew Up On That,Grew Up On That (Quarantine Edition),29/05/20,DAY,0.651,0.762,0.0284,0.1210,0.0000,0.167,0.292,19
+spotify,Hot Country,Burn 'Em All,Burn 'Em All,26/06/20,DAY,0.632,0.886,0.054,0.1150,0.0000,0.136,0.637,20
+spotify,Hot Country,Broken Up,Broken Up,03/07/20,DAY,0.578,0.869,0.0355,0.0149,0.0000,0.346,0.699,21
+spotify,Hot Country,Seaside,Seaside,03/07/20,DAY,0.599,0.832,0.0348,0.0070,0.0000,0.0514,0.509,22
+spotify,Hot Country,Me About Me,Me About Me,03/07/20,DAY,0.465,0.61,0.0317,0.6250,0.0001,0.128,0.235,23
+spotify,Hot Country,Be Like That - feat. Swae Lee & Khalid,Be Like That (feat. Swae Lee & Khalid),10/07/20,DAY,0.727,0.626,0.0726,0.0469,0.0000,0.126,0.322,24
+spotify,Hot Country,Drunk & I Miss You,Bettie James,10/07/20,DAY,0.583,0.661,0.027,0.4360,0.0000,0.0923,0.541,25
+spotify,Hot Country,A Song to Remember,A Song to Remember,17/07/20,DAY,0.548,0.836,0.0389,0.0003,0.0000,0.126,0.522,26
+spotify,Hot Country,GIVE HEAVEN SOME HELL,GIVE HEAVEN SOME HELL,24/07/20,DAY,0.639,0.843,0.0362,0.0525,0.0000,0.0854,0.528,27
+spotify,Hot Country,Happy Anywhere (feat. Gwen Stefani),Happy Anywhere (feat. Gwen Stefani),24/07/20,DAY,0.538,0.745,0.0387,0.1000,0.0000,0.063,0.669,28
+spotify,Hot Country,Good Taste,Good Taste,24/07/20,DAY,0.658,0.692,0.0356,0.0033,0.0000,0.108,0.735,29
+spotify,Hot Country,I Should Probably Go To Bed,I Should Probably Go To Bed,31/07/20,DAY,0.721,0.277,0.0365,0.6340,0.0000,0.112,0.309,30
+spotify,Hot Country,Thought This Through,Thought This Through,07/08/20,DAY,0.787,0.688,0.0449,0.5570,0.0000,0.103,0.712,31
+spotify,Hot Country,We Wouldn't Know,We Wouldn't Know,07/08/20,DAY,0.517,0.807,0.0578,0.0704,0.0000,0.182,0.73,32
+spotify,Hot Country,wAnt me back,heart theory,14/08/20,DAY,0.54,0.695,0.0656,0.1670,0.0001,0.11,0.667,33
+spotify,Hot Country,7 Summers,7 Summers,14/08/20,DAY,0.457,0.774,0.0336,0.4280,0.0000,0.119,0.59,34
+spotify,Hot Country,BOYFRIEND,BOYFRIEND,21/08/20,DAY,0.553,0.705,0.0335,0.3320,0.0000,0.126,0.727,35
+spotify,Hot Country,Starting Over,Starting Over,27/08/20,DAY,0.638,0.538,0.0315,0.4520,0.0004,0.0695,0.318,36
+spotify,Hot Country,Mercury Rising,Mercury Rising,28/08/20,DAY,0.639,0.84,0.0467,0.2900,0.0000,0.154,0.548,37
+spotify,Hot Country,Hate You Like I Love You,Country Things,28/08/20,DAY,0.658,0.672,0.0265,0.0429,0.0000,0.126,0.805,38
+spotify,Hot Country,We Go Together Like,We Go Together Like,28/08/20,DAY,0.62,0.817,0.0254,0.1720,0.0000,0.144,0.614,39
+spotify,Hot Country,Next Girl,Next Girl,04/09/20,DAY,0.583,0.867,0.0637,0.1430,0.0000,0.0863,0.962,40
+spotify,Hot Country,Long Live,Long Live,10/09/20,DAY,0.612,0.842,0.0372,0.1850,0.0000,0.151,0.596,41
+spotify,Hot Country,Things I Can't Say (feat. Julia Cole),East,11/09/20,DAY,0.616,0.798,0.0481,0.0125,0.0000,0.114,0.936,42
+spotify,Hot Country,hole in the bottle - ballerini album version,ballerini,11/09/20,DAY,0.672,0.552,0.0316,0.5040,0.0000,0.0636,0.594,43
+spotify,Hot Country,Gone Too Soon,Gone Too Soon,15/09/20,DAY,0.529,0.723,0.035,0.0175,0.0000,0.364,0.459,44
+spotify,Hot Country,One Too Many,One Too Many,16/09/20,DAY,0.697,0.535,0.068,0.2470,0.0000,0.569,0.594,45
+spotify,Hot Country,Without You,Without You,18/09/20,DAY,0.522,0.659,0.0304,0.3070,0.0000,0.102,0.355,46
+spotify,Hot Country,Nothing's Better,State I'm In,25/09/20,DAY,0.8,0.515,0.0351,0.0724,0.0000,0.355,0.949,47
+spotify,Hot Country,Palm Reader,Palm Reader,25/09/20,DAY,0.398,0.417,0.0368,0.7470,0.0000,0.118,0.202,48
+spotify,Hot Country,Hell Of A View,Hell Of A View,02/10/20,DAY,0.689,0.582,0.0236,0.1190,0.0046,0.101,0.883,49
+spotify,Hot Country,Better Than We Found It,Better Than We Found It,02/10/20,DAY,0.379,0.569,0.029,0.1120,0.0000,0.166,0.23,50
+spotify,Hot Country,Just About Over You - Radio Edit,Just About Over You (Radio Edit),09/10/20,DAY,0.546,0.788,0.0324,0.1890,0.0000,0.159,0.585,51
+spotify,Hot Country,Forever After All,What You See Ain't Always What You Get (Deluxe Edition),23/10/20,DAY,0.487,0.65,0.0253,0.1910,0.0000,0.0933,0.456,52
